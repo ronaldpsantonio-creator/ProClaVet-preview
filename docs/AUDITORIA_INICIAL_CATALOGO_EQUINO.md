@@ -58,3 +58,41 @@ No rellenar campos con texto genérico para aparentar que están completos. Cuan
 ## 6. Protección del proyecto
 
 Este informe se incorpora a la rama principal del repositorio de prueba `ProClaVet-preview`. No modifica el repositorio principal `ProClaVet`.
+
+
+## 7. Segunda pasada: integridad del inventario
+
+Comprobaciones automáticas adicionales sobre los 3.553 registros:
+
+- IDs duplicados: **0**.
+- Campos vacíos entre ID, nombre español, nombre latino, sistema y capa: **0**.
+- IDs que incumplen el patrón estructural esperado: **0**.
+- Coincidencias repetidas de nombre español dentro de un sistema: **88 grupos**.
+- Coincidencias repetidas de nombre latino dentro de un sistema: **1.403 grupos**.
+- Metadatos de sexo: 162 entradas `m`, 139 entradas `f`; 3.252 entradas sin ese metadato.
+
+Las coincidencias de nombres latinos no se consideran automáticamente errores: pueden corresponder a estructuras bilaterales o a estructuras homónimas en regiones distintas. Deben revisarse junto con el ID, la lateralidad, la región y la jerarquía antes de proponer cambios.
+
+### Distribución sistema/capa observada
+
+| Sistema/capa | Registros |
+|---|---:|
+| car/org | 594 |
+| ske/oss | 215 |
+| ske/art | 129 |
+| mus/msu | 133 |
+| mus/mpr | 393 |
+| mus/fas | 5 |
+| dig/org | 131 |
+| res/org | 157 |
+| res/art | 6 |
+| ner/org | 1.305 |
+| uri/org | 68 |
+| rep/org | 238 |
+| teg/org | 179 |
+
+**Observación de clasificación:** las seis entradas respiratorias ubicadas en la capa `art` y las cinco fascias clasificadas bajo el sistema muscular merecen revisión semántica. No se reclasifican automáticamente sin validar su naturaleza anatómica.
+
+## 8. Límites de esta pasada
+
+Esta auditoría automática no certifica que los nombres latinos sean correctos, que cada estructura exista como entidad independiente en el caballo, ni que la lateralidad y topografía sean adecuadas. Esos puntos requieren revisión anatómica documentada por sistema y región.
