@@ -35,14 +35,42 @@
       "es": "Basisfenoides",
       "la": "Os basisphenoidale",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Base central del cráneo, caudal al presfenoides y rostral a la porción basilar del occipital. Es el componente caudal del esfenoides. El cuerpo ocupa la línea media; las alas se proyectan lateralmente y los procesos pterigoideos se dirigen rostroventralmente.",
+        "descripcion": "Hueso impar y mediano formado por un cuerpo (Corpus basisphenoidale) y dos alas (Alae). Presenta procesos pterigoideos (Processus pterygoidei) asociados a la región ventral de la base craneal. En relación con el seno esfenoidal; su extensión y configuración muestran variación individual y relacionada con la edad. No se asigna una forma tridimensional única a todos los caballos.",
+        "relaciones": "Caudalmente se relaciona con la porción basilar del occipital (basioccipital); rostralmente con el presfenoides; lateralmente con regiones del temporal y la base lateral del cráneo. La región dorsal se relaciona con la cavidad craneal y la silla turca. Los límites de forámenes de la base craneal son compartidos con huesos vecinos y no deben atribuirse exclusivamente al basisfenoides.",
+        "accidentes": "Cuerpo, alas pares y procesos pterigoideos. La silla turca y sus detalles deben describirse con apoyo de una fuente osteológica equina específica antes de ampliar esta ficha. El seno esfenoidal es una cavidad relacionada, no un accidente que deba modelarse como hueso.",
+        "articulaciones": "Rostralmente con el presfenoides mediante la sincondrosis interesfenoidal durante el desarrollo; caudalmente con la porción basilar del occipital mediante la sincondrosis esfeno-occipital. El estado de estas uniones cambia con la edad por osificación/fusión progresiva.",
+        "inserciones": "Pendiente de verificación específica para el caballo. No se incorporan inserciones musculares o ligamentosas sin una fuente equina que identifique con precisión el sitio.",
+        "irrigacion": "Pendiente de verificación. No se asigna un patrón vascular específico sin fuente osteológica equina.",
+        "inervacion": "No aplica como inervación funcional propia del tejido óseo. La proximidad de nervios craneales a los senos esfenoidales es una relación topográfica clínica, no inervación del hueso.",
+        "funcion": "Contribuye a la base central y lateral del cráneo, al soporte de la cavidad craneal y a la arquitectura de la región esfenoidal. Sus procesos y alas participan en la configuración de la base craneal.",
+        "especie": "En el caballo, el basisfenoides es el componente caudal del esfenoides. Se describen cuerpo, alas y procesos pterigoideos. La anatomía del seno esfenoidal y su extensión hacia el basisfenoides varían entre individuos y con la edad; no debe asumirse simetría perfecta ni una cavidad de tamaño constante. No se fija una edad universal de cierre de las sincondrosis.",
+        "clinica": "La relación del basisfenoides con los senos esfenoidales y esfenopalatinos es relevante por la proximidad de estructuras neurovasculares. La anatomía sinusal equina presenta variación; cualquier interpretación clínica o planificación debe basarse en imagen y evaluación individual.",
+        "referencias": "IMAIOS vet-Anatomy. Basisphenoid bone — Os basisphenoidale (Horse): https://www.imaios.com/en/vet-anatomy/anatomical-structures/basisphenoid-bone-11073768820\nUniversidad de Murcia, Anatomía y Embriología Veterinarias. Base del cráneo en équidos (2010): https://clutv10.um.es/pro/video?id=13261\nTucker R, et al. Clinical anatomy of the equine sphenopalatine sinus. Equine Veterinary Journal. 2004: https://pubmed.ncbi.nlm.nih.gov/15460069/"
+      }
     },
     {
       "id": "equ.ske.cra.003",
       "es": "Presfenoides",
       "la": "Os presphenoidale",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Base central rostral del cráneo, inmediatamente rostral al basisfenoides y caudal al etmoides. Es el componente rostral del esfenoides. Su cuerpo ocupa la línea media y sus alas se extienden lateralmente hacia la región orbitaria.",
+        "descripcion": "Hueso impar y mediano constituido por un cuerpo (Corpus presphenoidale) y dos alas (Alae). Las alas contribuyen a la región orbitaria y al canal óptico. El cuerpo se relaciona con los senos esfenoidales. En la vista ventral del cráneo equino, el cuerpo puede quedar parcialmente cubierto por las alas del vómer.",
+        "relaciones": "Caudalmente con el basisfenoides; rostralmente con el etmoides; también se relaciona con los huesos frontales y el vómer. Las alas contribuyen a límites óseos de la órbita y del canal óptico, en continuidad con huesos vecinos; no deben atribuirse todos esos límites exclusivamente al presfenoides.",
+        "accidentes": "Cuerpo y alas pares. Se relaciona con los senos esfenoidales y contribuye a la formación del canal óptico. Los forámenes, canales y límites orbitarios deben describirse como estructuras compartidas cuando corresponda, evitando asignaciones exclusivas incorrectas.",
+        "articulaciones": "Caudalmente con el basisfenoides mediante la sincondrosis interesfenoidal durante el desarrollo. Se relaciona además con el etmoides, los frontales y el vómer. Las uniones cartilaginosas se modifican con el desarrollo y pueden fusionarse.",
+        "inserciones": "Pendiente de verificación específica para el caballo. No se incorporan inserciones musculares o ligamentosas sin fuente equina identificable.",
+        "irrigacion": "Pendiente de verificación. No se asigna un patrón vascular específico sin fuente osteológica equina.",
+        "inervacion": "No aplica como inervación funcional propia del tejido óseo. El canal óptico y las estructuras neurovasculares vecinas son relaciones topográficas, no inervación del hueso.",
+        "funcion": "Contribuye a la base rostral del neurocráneo y a la configuración de la fosa craneal rostral, la órbita y el canal óptico. Participa en la arquitectura de la región esfenoidal.",
+        "especie": "En el caballo, el presfenoides es el componente rostral del esfenoides. Su cuerpo se relaciona con los senos esfenoidales y puede estar parcialmente cubierto ventralmente por el vómer. Las alas participan en la región orbitaria y en el canal óptico. La extensión y configuración de los senos esfenoidales son variables; no se debe representar una cavidad fija como universal.",
+        "clinica": "Su relación con los senos esfenoidales y con el canal óptico es clínicamente relevante por la proximidad de estructuras neurovasculares. La anatomía sinusal debe evaluarse individualmente; no extrapolar dimensiones o simetría de un ejemplar a todos los caballos.",
+        "referencias": "IMAIOS vet-Anatomy. Presphenoid bone — Os presphenoidale (Horse): https://www.imaios.com/en/vet-anatomy/anatomical-structures/presphenoid-bone-11073769540\nUniversidad de Murcia, Anatomía y Embriología Veterinarias. Base del cráneo en équidos (2010): https://clutv10.um.es/pro/video?id=13261\nTucker R, et al. Clinical anatomy of the equine sphenopalatine sinus. Equine Veterinary Journal. 2004: https://pubmed.ncbi.nlm.nih.gov/15460069/"
+      }
     },
     {
       "id": "equ.ske.cra.004",
