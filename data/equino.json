@@ -27665,6 +27665,48 @@
         "clinica": "La concha nasal ventral y su bulla pueden verse afectadas por inflamación, infección, quistes o alteraciones expansivas que causan descarga nasal u obstrucción. La tomografía computarizada permite valorar el hueso conchal, la bulla, su relación con el maxilar y los senos vecinos. En cirugía y diagnóstico por imagen debe diferenciarse la concha ventral de la dorsal, las conchas etmoidales y los senos conchales.",
         "referencias": "IMAIOS. Anatomy of the equine head using CT – Bone of ventral nasal concha, nomenclature according to NAV: https://www.imaios.cn/en/vet-anatomy/horse/horse-head\nGoodarzi N, Zehtabvar O, Tohidifar M. Applied anatomy of the skull in the Arabian horse: A computed tomographic, cross-sectional, volumetric and morphometric study. Veterinary Medicine and Science. 2021;7(6):2225–2233. doi:10.1002/vms3.618\nSisson S. A Text-book of Veterinary Anatomy. Osteology of the horse. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm\nVISCEROCRANIUM OSSA FACIEI. Veterinary osteology teaching material: description of os conchae nasalis ventralis as separate from ethmoid and fused to maxillary conchal crest: https://univet.hu/wp-content/uploads/2019/10/VISCEROCRANIUM.pdf"
       }
+    },
+    {
+      "id": "equ.ske.hyo.006-i",
+      "es": "Cartílago timpanohioideo (izquierdo)",
+      "la": "Cartilago tympanohyoidea",
+      "sys": "ske",
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Elemento cartilaginoso par del extremo proximal del aparato hioideo. Cada cartílago se interpone entre el proceso estiloides de la porción petrosa del hueso temporal y el extremo proximal del estilohioides correspondiente, formando parte de la articulación temporohioidea.",
+        "descripcion": "Segmento de cartílago que conecta el proceso estiloides del temporal con el estilohioides. No es un hueso ni debe incorporarse al inventario osteológico como pieza ósea. En el caballo, los estudios histológicos describen su composición como cartílago hialino; la literatura también ha empleado descripciones fibrocartilaginosas, por lo que la composición debe interpretarse según la fuente y el método de estudio.",
+        "relaciones": "Proximalmente se relaciona con el proceso estiloides del hueso temporal, en la región de la porción petrosa y timpánica; distalmente se continúa con el extremo proximal del estilohioides. Está rodeado por tejidos conectivos de la región temporohioidea y por la vaina del proceso estiloides.",
+        "accidentes": "Pequeño segmento cartilaginoso de forma irregular que ocupa el espacio entre el proceso estiloides y el estilohioides. No presenta accidentes óseos, forámenes ni superficies articulares propias descritas como tales.",
+        "articulaciones": "Participa en la unión temporohioidea entre el proceso estiloides del temporal y el estilohioides. La investigación histológica equina de Hartl, Egerbacher y Kneissl (2021) clasifica la conexión como sincondrosis; otros trabajos la describen como unión cartilaginosa secundaria. No debe denominarse articulación sinovial.",
+        "inserciones": "No se describen inserciones musculares directas y exclusivas sobre este cartílago. Su función es conectar y estabilizar los elementos óseos adyacentes; los tejidos conectivos regionales contribuyen a su soporte.",
+        "irrigacion": "No se ha establecido una arteria nutricia exclusiva del cartílago timpanohioideo equino. Su nutrición depende de la difusión desde los tejidos y superficies vasculares adyacentes; no asignar vasos concretos sin evidencia específica.",
+        "inervacion": "No se describe una inervación independiente propia del cartílago. La sensibilidad regional corresponde a los tejidos conectivos y estructuras vecinas de la región temporohioidea.",
+        "funcion": "Une el aparato hioideo al cráneo y permite transmitir fuerzas entre el temporal y el estilohioides. Su integridad es importante para la movilidad y estabilidad de la cadena hioidea durante la masticación y la deglución.",
+        "especie": "En el caballo existe un cartílago timpanohioideo a cada lado. Conecta el proceso estiloides del temporal con el estilohioides. El estudio de Hartl et al. (2021), que incluyó CT, micro-CT e histología, identificó cartílago hialino y clasificó la unión con el proceso estiloides como sincondrosis. La mineralización puede aparecer con la edad.",
+        "clinica": "Es una estructura relevante en la osteoartropatía temporohioidea equina. La mineralización y la proliferación ósea alrededor de la unión temporohioidea pueden reducir su movilidad y asociarse con anquilosis, dolor, alteraciones de la deglución o signos relacionados con la cabeza. La evaluación se realiza principalmente mediante imagen, en especial CT, y debe diferenciar cambios relacionados con la edad de enfermedad.",
+        "referencias": "Hartl B, Egerbacher M, Kneissl S. Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology. Front Vet Sci. 2021;8:652563. doi:10.3389/fvets.2021.652563.\nHartl B, et al. Computed tomographic signs of hyoid apparatus disease in 165 horses. Front Vet Sci. 2025;12:1631185. doi:10.3389/fvets.2025.1631185.\nWhitty JA, et al. Associations between styloid process sheath CT sizes and age, body weight, and breed in horses. Vet Radiol Ultrasound. 2022;63(4):436-449. doi:10.1111/vru.13074."
+      }
+    },
+    {
+      "id": "equ.ske.hyo.006-d",
+      "es": "Cartílago timpanohioideo (derecho)",
+      "la": "Cartilago tympanohyoidea",
+      "sys": "ske",
+      "layer": "org",
+      "ficha": {
+        "ubicacion": "Elemento cartilaginoso par del extremo proximal del aparato hioideo. Cada cartílago se interpone entre el proceso estiloides de la porción petrosa del hueso temporal y el extremo proximal del estilohioides correspondiente, formando parte de la articulación temporohioidea.",
+        "descripcion": "Segmento de cartílago que conecta el proceso estiloides del temporal con el estilohioides. No es un hueso ni debe incorporarse al inventario osteológico como pieza ósea. En el caballo, los estudios histológicos describen su composición como cartílago hialino; la literatura también ha empleado descripciones fibrocartilaginosas, por lo que la composición debe interpretarse según la fuente y el método de estudio.",
+        "relaciones": "Proximalmente se relaciona con el proceso estiloides del hueso temporal, en la región de la porción petrosa y timpánica; distalmente se continúa con el extremo proximal del estilohioides. Está rodeado por tejidos conectivos de la región temporohioidea y por la vaina del proceso estiloides.",
+        "accidentes": "Pequeño segmento cartilaginoso de forma irregular que ocupa el espacio entre el proceso estiloides y el estilohioides. No presenta accidentes óseos, forámenes ni superficies articulares propias descritas como tales.",
+        "articulaciones": "Participa en la unión temporohioidea entre el proceso estiloides del temporal y el estilohioides. La investigación histológica equina de Hartl, Egerbacher y Kneissl (2021) clasifica la conexión como sincondrosis; otros trabajos la describen como unión cartilaginosa secundaria. No debe denominarse articulación sinovial.",
+        "inserciones": "No se describen inserciones musculares directas y exclusivas sobre este cartílago. Su función es conectar y estabilizar los elementos óseos adyacentes; los tejidos conectivos regionales contribuyen a su soporte.",
+        "irrigacion": "No se ha establecido una arteria nutricia exclusiva del cartílago timpanohioideo equino. Su nutrición depende de la difusión desde los tejidos y superficies vasculares adyacentes; no asignar vasos concretos sin evidencia específica.",
+        "inervacion": "No se describe una inervación independiente propia del cartílago. La sensibilidad regional corresponde a los tejidos conectivos y estructuras vecinas de la región temporohioidea.",
+        "funcion": "Une el aparato hioideo al cráneo y permite transmitir fuerzas entre el temporal y el estilohioides. Su integridad es importante para la movilidad y estabilidad de la cadena hioidea durante la masticación y la deglución.",
+        "especie": "En el caballo existe un cartílago timpanohioideo a cada lado. Conecta el proceso estiloides del temporal con el estilohioides. El estudio de Hartl et al. (2021), que incluyó CT, micro-CT e histología, identificó cartílago hialino y clasificó la unión con el proceso estiloides como sincondrosis. La mineralización puede aparecer con la edad.",
+        "clinica": "Es una estructura relevante en la osteoartropatía temporohioidea equina. La mineralización y la proliferación ósea alrededor de la unión temporohioidea pueden reducir su movilidad y asociarse con anquilosis, dolor, alteraciones de la deglución o signos relacionados con la cabeza. La evaluación se realiza principalmente mediante imagen, en especial CT, y debe diferenciar cambios relacionados con la edad de enfermedad.",
+        "referencias": "Hartl B, Egerbacher M, Kneissl S. Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology. Front Vet Sci. 2021;8:652563. doi:10.3389/fvets.2021.652563.\nHartl B, et al. Computed tomographic signs of hyoid apparatus disease in 165 horses. Front Vet Sci. 2025;12:1631185. doi:10.3389/fvets.2025.1631185.\nWhitty JA, et al. Associations between styloid process sheath CT sizes and age, body weight, and breed in horses. Vet Radiol Ultrasound. 2022;63(4):436-449. doi:10.1111/vru.13074."
+      }
     }
   ]
 }
