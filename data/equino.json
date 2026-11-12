@@ -27587,14 +27587,42 @@
       "es": "Epihioides (izquierdo; puede fusionarse con el estilohioides)",
       "la": "Os epihyoideum",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Elemento par del aparato hioideo, situado entre el extremo distal del estilohioides y el ceratohioides, a cada lado. Su presencia como pieza independiente depende de la edad y del grado de osificación y fusión con el estilohioides.",
+        "descripcion": "Pequeño elemento hioideo de forma aproximadamente lenticular. En el caballo puede encontrarse como estructura cartilaginosa u osificada separada durante etapas del desarrollo; en una proporción importante de adultos se fusiona con el estilohioides y deja de distinguirse como hueso independiente. No debe interpretarse su ausencia como anomalía por sí sola.",
+        "relaciones": "Proximalmente se continúa con el estilohioides mediante una unión cartilaginosa durante el desarrollo; distalmente se relaciona con el ceratohioides en la articulación epiceratohioidea. Cuando está fusionado con el estilohioides, el ceratohioides se relaciona directamente con el extremo distal de este último.",
+        "accidentes": "Es un elemento pequeño, descrito como lenticular. No se asignan apófisis, crestas, forámenes ni superficies adicionales sin documentación anatómica equina específica.",
+        "articulaciones": "En animales con epihioides separado, su unión proximal con el estilohioides es cartilaginosa, con cartílago hialino y posible placa de crecimiento en jóvenes; no se ha demostrado que sea una articulación sinovial. Distalmente participa en la articulación sinovial epiceratohioidea con el ceratohioides. Si se fusiona con el estilohioides, esta última se establece entre el estilohioides y el ceratohioides.",
+        "inserciones": "No se atribuyen inserciones musculares directas y exclusivas al epihioides equino por falta de respaldo anatómico específico. Su función estructural se relaciona con la continuidad de la cadena hioidea.",
+        "irrigacion": "No se ha establecido una arteria nutricia exclusiva del epihioides equino en las fuentes consultadas. Su aporte depende de la vascularización regional de los tejidos hioideos adyacentes; no se asignan vasos concretos sin evidencia.",
+        "inervacion": "No se describe una inervación propia independiente del pequeño elemento óseo. La sensibilidad y función de la región dependen de los tejidos blandos y estructuras neurovasculares vecinas; no deben confundirse con inervación directa del hueso.",
+        "funcion": "Contribuye a conectar el estilohioides con el ceratohioides y a transmitir fuerzas y movimientos a través de la cadena hioidea. Su osificación y eventual fusión modifican la configuración de la unión estilohioidea-ceratohioidea.",
+        "especie": "En el caballo, el epihioides es un elemento par, pequeño y lenticular. Un estudio de CT, micro-CT e histología encontró que puede permanecer separado del estilohioides en aproximadamente un tercio de los caballos examinados; en los restantes se observó fusión. Se describe cartilaginoso en animales jóvenes, con osificación durante el desarrollo y fusión frecuente en edades posteriores. La edad por sí sola no permite asumir su estado en cada individuo.",
+        "clinica": "Es relevante en la interpretación por imagen del aparato hioideo. La presencia de un epihioides separado o su fusión con el estilohioides puede modificar la identificación de la articulación estiloceratohioidea/epiceratohioidea. Deben diferenciarse las variaciones del desarrollo de la anquilosis o de cambios patológicos; la evaluación clínica y por imagen debe considerar la edad y ambos lados.",
+        "referencias": "Hartl B, Egerbacher M, Kneissl S. Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology. Front Vet Sci. 2021;8:652563. doi:10.3389/fvets.2021.652563.\nHartl B, et al. Computed tomographic signs of hyoid apparatus disease in 165 horses. Front Vet Sci. 2025;12:1631185. doi:10.3389/fvets.2025.1631185."
+      }
     },
     {
       "id": "equ.ske.hyo.005-d",
       "es": "Epihioides (derecho; puede fusionarse con el estilohioides)",
       "la": "Os epihyoideum",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Elemento par del aparato hioideo, situado entre el extremo distal del estilohioides y el ceratohioides, a cada lado. Su presencia como pieza independiente depende de la edad y del grado de osificación y fusión con el estilohioides.",
+        "descripcion": "Pequeño elemento hioideo de forma aproximadamente lenticular. En el caballo puede encontrarse como estructura cartilaginosa u osificada separada durante etapas del desarrollo; en una proporción importante de adultos se fusiona con el estilohioides y deja de distinguirse como hueso independiente. No debe interpretarse su ausencia como anomalía por sí sola.",
+        "relaciones": "Proximalmente se continúa con el estilohioides mediante una unión cartilaginosa durante el desarrollo; distalmente se relaciona con el ceratohioides en la articulación epiceratohioidea. Cuando está fusionado con el estilohioides, el ceratohioides se relaciona directamente con el extremo distal de este último.",
+        "accidentes": "Es un elemento pequeño, descrito como lenticular. No se asignan apófisis, crestas, forámenes ni superficies adicionales sin documentación anatómica equina específica.",
+        "articulaciones": "En animales con epihioides separado, su unión proximal con el estilohioides es cartilaginosa, con cartílago hialino y posible placa de crecimiento en jóvenes; no se ha demostrado que sea una articulación sinovial. Distalmente participa en la articulación sinovial epiceratohioidea con el ceratohioides. Si se fusiona con el estilohioides, esta última se establece entre el estilohioides y el ceratohioides.",
+        "inserciones": "No se atribuyen inserciones musculares directas y exclusivas al epihioides equino por falta de respaldo anatómico específico. Su función estructural se relaciona con la continuidad de la cadena hioidea.",
+        "irrigacion": "No se ha establecido una arteria nutricia exclusiva del epihioides equino en las fuentes consultadas. Su aporte depende de la vascularización regional de los tejidos hioideos adyacentes; no se asignan vasos concretos sin evidencia.",
+        "inervacion": "No se describe una inervación propia independiente del pequeño elemento óseo. La sensibilidad y función de la región dependen de los tejidos blandos y estructuras neurovasculares vecinas; no deben confundirse con inervación directa del hueso.",
+        "funcion": "Contribuye a conectar el estilohioides con el ceratohioides y a transmitir fuerzas y movimientos a través de la cadena hioidea. Su osificación y eventual fusión modifican la configuración de la unión estilohioidea-ceratohioidea.",
+        "especie": "En el caballo, el epihioides es un elemento par, pequeño y lenticular. Un estudio de CT, micro-CT e histología encontró que puede permanecer separado del estilohioides en aproximadamente un tercio de los caballos examinados; en los restantes se observó fusión. Se describe cartilaginoso en animales jóvenes, con osificación durante el desarrollo y fusión frecuente en edades posteriores. La edad por sí sola no permite asumir su estado en cada individuo.",
+        "clinica": "Es relevante en la interpretación por imagen del aparato hioideo. La presencia de un epihioides separado o su fusión con el estilohioides puede modificar la identificación de la articulación estiloceratohioidea/epiceratohioidea. Deben diferenciarse las variaciones del desarrollo de la anquilosis o de cambios patológicos; la evaluación clínica y por imagen debe considerar la edad y ambos lados.",
+        "referencias": "Hartl B, Egerbacher M, Kneissl S. Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology. Front Vet Sci. 2021;8:652563. doi:10.3389/fvets.2021.652563.\nHartl B, et al. Computed tomographic signs of hyoid apparatus disease in 165 horses. Front Vet Sci. 2025;12:1631185. doi:10.3389/fvets.2025.1631185."
+      }
     },
     {
       "id": "equ.ske.cra.019-i",
