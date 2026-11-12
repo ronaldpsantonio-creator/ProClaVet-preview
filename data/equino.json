@@ -616,14 +616,42 @@
       "es": "Martillo (izquierdo)",
       "la": "Malleus",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Se encuentra en la cavidad timpánica del oído medio, dentro de la porción timpánica del hueso temporal. Es el más lateral de los tres huesecillos auditivos y su manubrio se fija a la cara medial de la membrana timpánica. Corresponde al lado indicado. Lado izquierdo.",
+        "descripcion": "Huesecillo pequeño con cabeza (caput mallei), cuello (collum mallei) y manubrio o mango (manubrium mallei). La cabeza presenta una superficie articular para el yunque (incus); el manubrio se continúa hacia la membrana timpánica. Su forma y proporciones deben estudiarse en el contexto específico del oído medio equino.",
+        "relaciones": "Lateralmente se relaciona con la membrana timpánica, a la que se fija mediante el manubrio; medialmente, su cabeza articula con el cuerpo del yunque. Se encuentra suspendido dentro de la cavidad timpánica por ligamentos y cubierto por mucosa. Se relaciona funcionalmente con el músculo tensor del tímpano, que actúa sobre el martillo.",
+        "accidentes": "Cabeza (caput mallei), cuello (collum mallei), manubrio o mango (manubrium mallei) y procesos óseos descritos en la anatomía del martillo. La cabeza posee la superficie articular para el yunque y el manubrio se fija a la membrana timpánica. Evitar atribuirle accidentes de otros huesecillos.",
+        "articulaciones": "La cabeza del martillo forma la articulación incudomaleolar con el cuerpo del yunque. Esta unión integra la cadena de huesecillos del oído medio; no es una articulación con el hueso temporal. El manubrio mantiene una unión firme con la membrana timpánica.",
+        "inserciones": "El músculo tensor del tímpano se inserta en el martillo, habitualmente en la región del manubrio/cuello según la descripción anatómica. Ligamentos suspensorios fijan el huesecillo a la pared de la cavidad timpánica. No presenta inserciones musculares locomotoras.",
+        "irrigacion": "Recibe irrigación mediante pequeños vasos de la mucosa y de los tejidos de la cavidad timpánica. Las fuentes consultadas no establecen una arteria nutricia exclusiva del martillo equino; no debe asignársele una rama específica sin respaldo anatómico.",
+        "inervacion": "No se describe una inervación somática propia del tejido óseo del martillo. La sensibilidad de la mucosa del oído medio se relaciona con la inervación de la cavidad timpánica; el músculo tensor del tímpano recibe inervación motora del nervio mandibular (V3), pero esta inervación muscular no debe confundirse con la del huesecillo.",
+        "funcion": "Recibe las vibraciones de la membrana timpánica y las transmite al yunque. Forma el primer elemento de la cadena mecánica que conduce las vibraciones hacia el estribo y la ventana vestibular, contribuyendo a la transmisión del sonido al oído interno.",
+        "especie": "En el caballo, el martillo se encuentra en el oído medio, dentro de la cavidad timpánica de la porción timpánica del temporal. El manubrio está unido a la membrana timpánica y la cabeza articula con el yunque. La cadena de huesecillos equina comprende martillo, yunque y estribo; no confundir el martillo con el yunque ni con el estribo.",
+        "clinica": "Las alteraciones de la cadena de huesecillos pueden reducir la transmisión del sonido. La evaluación del oído medio equino puede requerir otoscopia, radiografía o tomografía computarizada según el caso. En imágenes y disección debe identificarse su relación con la membrana timpánica, el yunque y la cavidad timpánica.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del oído medio y huesecillos auditivos equinos.\nAAEVT. Equine Manual for Veterinary Technicians. 2nd ed. Sección The Ear: middle ear and auditory ossicles.\nMerck Veterinary Manual. Ear Structure and Function in Horses. https://www.merckvetmanual.com/horse-owners/ear-disorders-of-horses/ear-structure-and-function-in-horses\nTextbook of Veterinary Anatomy. The Middle Ear – Auditory Ossicles. https://elsevier-elibrary.com/contents/fullcontent/58986/epubcontent_v2/OEBPS/B9781416066071000098.htm"
+      }
     },
     {
       "id": "equ.ske.oid.001-d",
       "es": "Martillo (derecho)",
       "la": "Malleus",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Se encuentra en la cavidad timpánica del oído medio, dentro de la porción timpánica del hueso temporal. Es el más lateral de los tres huesecillos auditivos y su manubrio se fija a la cara medial de la membrana timpánica. Corresponde al lado indicado. Lado derecho.",
+        "descripcion": "Huesecillo pequeño con cabeza (caput mallei), cuello (collum mallei) y manubrio o mango (manubrium mallei). La cabeza presenta una superficie articular para el yunque (incus); el manubrio se continúa hacia la membrana timpánica. Su forma y proporciones deben estudiarse en el contexto específico del oído medio equino.",
+        "relaciones": "Lateralmente se relaciona con la membrana timpánica, a la que se fija mediante el manubrio; medialmente, su cabeza articula con el cuerpo del yunque. Se encuentra suspendido dentro de la cavidad timpánica por ligamentos y cubierto por mucosa. Se relaciona funcionalmente con el músculo tensor del tímpano, que actúa sobre el martillo.",
+        "accidentes": "Cabeza (caput mallei), cuello (collum mallei), manubrio o mango (manubrium mallei) y procesos óseos descritos en la anatomía del martillo. La cabeza posee la superficie articular para el yunque y el manubrio se fija a la membrana timpánica. Evitar atribuirle accidentes de otros huesecillos.",
+        "articulaciones": "La cabeza del martillo forma la articulación incudomaleolar con el cuerpo del yunque. Esta unión integra la cadena de huesecillos del oído medio; no es una articulación con el hueso temporal. El manubrio mantiene una unión firme con la membrana timpánica.",
+        "inserciones": "El músculo tensor del tímpano se inserta en el martillo, habitualmente en la región del manubrio/cuello según la descripción anatómica. Ligamentos suspensorios fijan el huesecillo a la pared de la cavidad timpánica. No presenta inserciones musculares locomotoras.",
+        "irrigacion": "Recibe irrigación mediante pequeños vasos de la mucosa y de los tejidos de la cavidad timpánica. Las fuentes consultadas no establecen una arteria nutricia exclusiva del martillo equino; no debe asignársele una rama específica sin respaldo anatómico.",
+        "inervacion": "No se describe una inervación somática propia del tejido óseo del martillo. La sensibilidad de la mucosa del oído medio se relaciona con la inervación de la cavidad timpánica; el músculo tensor del tímpano recibe inervación motora del nervio mandibular (V3), pero esta inervación muscular no debe confundirse con la del huesecillo.",
+        "funcion": "Recibe las vibraciones de la membrana timpánica y las transmite al yunque. Forma el primer elemento de la cadena mecánica que conduce las vibraciones hacia el estribo y la ventana vestibular, contribuyendo a la transmisión del sonido al oído interno.",
+        "especie": "En el caballo, el martillo se encuentra en el oído medio, dentro de la cavidad timpánica de la porción timpánica del temporal. El manubrio está unido a la membrana timpánica y la cabeza articula con el yunque. La cadena de huesecillos equina comprende martillo, yunque y estribo; no confundir el martillo con el yunque ni con el estribo.",
+        "clinica": "Las alteraciones de la cadena de huesecillos pueden reducir la transmisión del sonido. La evaluación del oído medio equino puede requerir otoscopia, radiografía o tomografía computarizada según el caso. En imágenes y disección debe identificarse su relación con la membrana timpánica, el yunque y la cavidad timpánica.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del oído medio y huesecillos auditivos equinos.\nAAEVT. Equine Manual for Veterinary Technicians. 2nd ed. Sección The Ear: middle ear and auditory ossicles.\nMerck Veterinary Manual. Ear Structure and Function in Horses. https://www.merckvetmanual.com/horse-owners/ear-disorders-of-horses/ear-structure-and-function-in-horses\nTextbook of Veterinary Anatomy. The Middle Ear – Auditory Ossicles. https://elsevier-elibrary.com/contents/fullcontent/58986/epubcontent_v2/OEBPS/B9781416066071000098.htm"
+      }
     },
     {
       "id": "equ.ske.oid.002-i",
