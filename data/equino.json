@@ -6623,35 +6623,105 @@
       "es": "Ceratohioideo (izquierdo)",
       "la": "Musculus ceratohyoideus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En el espacio entre los elementos ceratohioideo y tirohioideo del aparato hioideo, en el lado izquierdo; profundo al músculo hiogloso.",
+        "descripcion": "Músculo delgado y aplanado que ocupa el ángulo formado entre el ceratohioides y el proceso tirohioideo. Forma una lámina muscular corta en la región profunda del aparato hioideo.",
+        "relaciones": "Está cubierto por el hiogloso y se relaciona con los bordes rostrales del proceso tirohioideo y caudales del ceratohioides; también alcanza la región proximal del estilohioides.",
+        "accidentes": "Borde rostral del proceso tirohioideo; borde caudal del ceratohioides y extremo proximal del estilohioides.",
+        "articulaciones": "No forma una articulación. Su acción modifica la posición relativa de los componentes del aparato hioideo, la lengua o la laringe.",
+        "inserciones": "Origen: borde rostral del proceso tirohioideo. Inserción: borde caudal del ceratohioides y extremo proximal del estilohioides.",
+        "irrigacion": "La irrigación arterial específica no está descrita de forma suficientemente detallada en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Nervio glosofaríngeo (IX), según la descripción de la musculatura del aparato hioideo equino.",
+        "funcion": "Tracciona el aparato hioideo y la laringe en dirección rostrodorsal.",
+        "especie": "En el caballo es una lámina muscular fina, completamente cubierta por el hiogloso, que ocupa el espacio angular entre los elementos ceratohioideo y tirohioideo.",
+        "clinica": "Su posición profunda y su cobertura por el hiogloso son referencias importantes en la disección del aparato hioideo y en la interpretación de lesiones de esta región.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo.\nSultan Ahmed N. Anatomy, Part 7: Digestive System. University of Mosul; 2019."
+      }
     },
     {
       "id": "equ.mus.cab.045-d",
       "es": "Ceratohioideo (derecho)",
       "la": "Musculus ceratohyoideus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En el espacio entre los elementos ceratohioideo y tirohioideo del aparato hioideo, en el lado derecho; profundo al músculo hiogloso.",
+        "descripcion": "Músculo delgado y aplanado que ocupa el ángulo formado entre el ceratohioides y el proceso tirohioideo. Forma una lámina muscular corta en la región profunda del aparato hioideo.",
+        "relaciones": "Está cubierto por el hiogloso y se relaciona con los bordes rostrales del proceso tirohioideo y caudales del ceratohioides; también alcanza la región proximal del estilohioides.",
+        "accidentes": "Borde rostral del proceso tirohioideo; borde caudal del ceratohioides y extremo proximal del estilohioides.",
+        "articulaciones": "No forma una articulación. Su acción modifica la posición relativa de los componentes del aparato hioideo, la lengua o la laringe.",
+        "inserciones": "Origen: borde rostral del proceso tirohioideo. Inserción: borde caudal del ceratohioides y extremo proximal del estilohioides.",
+        "irrigacion": "La irrigación arterial específica no está descrita de forma suficientemente detallada en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Nervio glosofaríngeo (IX), según la descripción de la musculatura del aparato hioideo equino.",
+        "funcion": "Tracciona el aparato hioideo y la laringe en dirección rostrodorsal.",
+        "especie": "En el caballo es una lámina muscular fina, completamente cubierta por el hiogloso, que ocupa el espacio angular entre los elementos ceratohioideo y tirohioideo.",
+        "clinica": "Su posición profunda y su cobertura por el hiogloso son referencias importantes en la disección del aparato hioideo y en la interpretación de lesiones de esta región.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo.\nSultan Ahmed N. Anatomy, Part 7: Digestive System. University of Mosul; 2019."
+      }
     },
     {
       "id": "equ.mus.cab.046-i",
       "es": "Occipitohioideo (izquierdo)",
       "la": "Musculus occipitohyoideus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la región caudolateral del aparato hioideo, entre el proceso paracondilar del occipital y el extremo caudodorsal del estilohioides, en el lado izquierdo.",
+        "descripcion": "Músculo corto y relativamente ancho que conecta la base del cráneo con el estilohioides. En el caballo presenta fascículos carnosos mezclados con fibras tendinosas.",
+        "relaciones": "Su cara profunda se adhiere estrechamente a la pared de la bolsa gutural. Se relaciona con el proceso paracondilar del occipital, el estilohioides y el vientre caudal del digástrico.",
+        "accidentes": "Proceso paracondilar (yugular) del occipital; extremo caudodorsal del estilohioides.",
+        "articulaciones": "No forma una articulación. Su acción modifica la posición relativa de los componentes del aparato hioideo, la lengua o la laringe.",
+        "inserciones": "Origen: proceso paracondilar del occipital. Inserción: extremo caudodorsal del estilohioides.",
+        "irrigacion": "La irrigación arterial específica no está descrita de forma suficientemente detallada en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Rama del nervio facial (VII).",
+        "funcion": "Desciende la raíz de la lengua y la laringe; moviliza el estilohioides y contribuye al desplazamiento caudoventral del aparato hioideo.",
+        "especie": "En el caballo es relativamente ancho; su cara profunda está adherida a la bolsa gutural. Esta relación topográfica se utiliza como referencia anatómica de la región.",
+        "clinica": "La íntima relación con la bolsa gutural es clínicamente importante en procedimientos y enfermedades de esta cavidad. Debe considerarse en abordajes y en la interpretación de adherencias o lesiones locales.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo.\nBarone R. Anatomie comparée des mammifères domestiques. Tome 2: Arthrologie et myologie. Particularités des Équidés."
+      }
     },
     {
       "id": "equ.mus.cab.046-d",
       "es": "Occipitohioideo (derecho)",
       "la": "Musculus occipitohyoideus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la región caudolateral del aparato hioideo, entre el proceso paracondilar del occipital y el extremo caudodorsal del estilohioides, en el lado derecho.",
+        "descripcion": "Músculo corto y relativamente ancho que conecta la base del cráneo con el estilohioides. En el caballo presenta fascículos carnosos mezclados con fibras tendinosas.",
+        "relaciones": "Su cara profunda se adhiere estrechamente a la pared de la bolsa gutural. Se relaciona con el proceso paracondilar del occipital, el estilohioides y el vientre caudal del digástrico.",
+        "accidentes": "Proceso paracondilar (yugular) del occipital; extremo caudodorsal del estilohioides.",
+        "articulaciones": "No forma una articulación. Su acción modifica la posición relativa de los componentes del aparato hioideo, la lengua o la laringe.",
+        "inserciones": "Origen: proceso paracondilar del occipital. Inserción: extremo caudodorsal del estilohioides.",
+        "irrigacion": "La irrigación arterial específica no está descrita de forma suficientemente detallada en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Rama del nervio facial (VII).",
+        "funcion": "Desciende la raíz de la lengua y la laringe; moviliza el estilohioides y contribuye al desplazamiento caudoventral del aparato hioideo.",
+        "especie": "En el caballo es relativamente ancho; su cara profunda está adherida a la bolsa gutural. Esta relación topográfica se utiliza como referencia anatómica de la región.",
+        "clinica": "La íntima relación con la bolsa gutural es clínicamente importante en procedimientos y enfermedades de esta cavidad. Debe considerarse en abordajes y en la interpretación de adherencias o lesiones locales.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo.\nBarone R. Anatomie comparée des mammifères domestiques. Tome 2: Arthrologie et myologie. Particularités des Équidés."
+      }
     },
     {
       "id": "equ.mus.cab.047",
       "es": "Hioideo transverso",
       "la": "Musculus hyoideus transversus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la región dorsal del aparato hioideo, entre los ceratohioides derecho e izquierdo, próximo a la raíz de la lengua.",
+        "descripcion": "Pequeño músculo transversal que conecta ambos ceratohioides. Sus fibras se aproximan a la línea media y se continúan mediante un rafe o tendón medio poco definido.",
+        "relaciones": "Se relaciona con los ceratohioides de ambos lados y con la musculatura de la raíz de la lengua, incluida la región del hiogloso.",
+        "accidentes": "Ceratohioides derecho e izquierdo; rafe o tendón medio de unión.",
+        "articulaciones": "No forma una articulación. Su acción modifica la posición relativa de los componentes del aparato hioideo, la lengua o la laringe.",
+        "inserciones": "Origen: ceratohioides. Inserción: rafe medio, donde se une con el músculo del lado opuesto.",
+        "irrigacion": "La irrigación arterial específica no está descrita de forma suficientemente detallada en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Nervio glosofaríngeo (IX), según la descripción equina de los músculos del aparato hioideo.",
+        "funcion": "Eleva la raíz de la lengua.",
+        "especie": "En el caballo está bien desarrollado y conecta transversalmente los dos ceratohioides mediante un tendón medio poco conspicuo.",
+        "clinica": "Contribuye a la elevación de la raíz lingual y a la mecánica de la deglución. Su disposición transversal debe tenerse en cuenta al estudiar la región profunda de la lengua.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo.\nSultan Ahmed N. Anatomy, Part 7: Digestive System. University of Mosul; 2019."
+      }
     },
     {
       "id": "equ.mus.cab.048-i",
@@ -8786,7 +8856,21 @@
       "es": "Hioepiglótico",
       "la": "Musculus hyoepiglotticus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la región ventral de la laringe, entre el basihioides y la superficie ventral del cuerpo del cartílago epiglótico. Es un músculo impar en el registro del atlas, aunque anatómicamente se describe como bilobulado.",
+        "descripcion": "Músculo extrínseco de la laringe, bilobulado, que conecta el basihioides con la epiglotis. Es el único músculo que se inserta directamente en el cartílago epiglótico.",
+        "relaciones": "Se relaciona con el basihioides, el ligamento hioepiglótico y la superficie ventral del cuerpo de la epiglotis. Sus fascículos derecho e izquierdo se disponen a ambos lados de la línea media.",
+        "accidentes": "Basihioides; base de la superficie rostral/ventral del cartílago epiglótico; ligamento hioepiglótico como relación ligamentosa.",
+        "articulaciones": "No forma una articulación. Su acción modifica la posición relativa de los componentes del aparato hioideo, la lengua o la laringe.",
+        "inserciones": "Origen: basihioides. Inserción: superficie ventral del cuerpo del cartílago epiglótico, mediante una zona de fijación alargada.",
+        "irrigacion": "La irrigación arterial específica no está descrita de forma suficientemente detallada en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Rama del nervio hipogloso (XII), según la disección de los nervios del aparato hioideo equino.",
+        "funcion": "Tracciona la epiglotis hacia el basihioides y la desplaza rostroventralmente, modificando su posición respecto al paladar blando y la entrada laríngea.",
+        "especie": "En el caballo es bilobulado y se origina en el basihioides. Estudios anatómicos en cadáveres equinos describieron una inserción ventral en el cuerpo epiglótico de aproximadamente 12–15 mm de longitud y 8–10 mm de anchura.",
+        "clinica": "Su inserción puede palparse durante el examen oral de caballos anestesiados. Su función influye en la posición epiglótica y en la configuración de la vía aérea superior.",
+        "referencias": "Holcombe SJ, et al. Hyoepiglotticus muscle in horses: anatomical observations. Am J Vet Res. 2002;63(12):1617–1621. https://avmajournals.avma.org/downloadpdf/journals/ajvr/63/12/ajvr.2002.63.1617.pdf\nDucharme NG, et al. Role of the hypoglossal nerve in equine nasopharyngeal stability. J Appl Physiol. 2009. https://journals.physiology.org/doi/full/10.1152/japplphysiol.91177.2008\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo."
+      }
     },
     {
       "id": "equ.mus.far.005-i",
