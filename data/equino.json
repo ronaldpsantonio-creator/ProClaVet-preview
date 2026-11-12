@@ -27707,6 +27707,48 @@
         "clinica": "Es una estructura relevante en la osteoartropatía temporohioidea equina. La mineralización y la proliferación ósea alrededor de la unión temporohioidea pueden reducir su movilidad y asociarse con anquilosis, dolor, alteraciones de la deglución o signos relacionados con la cabeza. La evaluación se realiza principalmente mediante imagen, en especial CT, y debe diferenciar cambios relacionados con la edad de enfermedad.",
         "referencias": "Hartl B, Egerbacher M, Kneissl S. Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology. Front Vet Sci. 2021;8:652563. doi:10.3389/fvets.2021.652563.\nHartl B, et al. Computed tomographic signs of hyoid apparatus disease in 165 horses. Front Vet Sci. 2025;12:1631185. doi:10.3389/fvets.2025.1631185.\nWhitty JA, et al. Associations between styloid process sheath CT sizes and age, body weight, and breed in horses. Vet Radiol Ultrasound. 2022;63(4):436-449. doi:10.1111/vru.13074."
       }
+    },
+    {
+      "id": "equ.ske.hyo.007-i",
+      "es": "Articulación temporohioidea (izquierda)",
+      "la": "Articulatio temporohyoidea",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Se localiza a cada lado, en la unión entre el proceso estiloides de la porción petrosa del hueso temporal y el extremo proximal del estilohioides. El cartílago timpanohioideo se interpone entre ambas estructuras.",
+        "descripcion": "Unión cartilaginosa par que conecta el aparato hioideo con el cráneo. En el caballo, el cartílago timpanohioideo forma el componente interpuesto entre el proceso estiloides temporal y el estilohioides. No es una articulación sinovial convencional.",
+        "relaciones": "Proximalmente se relaciona con el proceso estiloides del temporal; distalmente con el cartílago timpanohioideo y el extremo proximal del estilohioides. Se encuentra en la región temporohioidea, próxima a estructuras del oído y de la bolsa gutural.",
+        "accidentes": "La unión está formada por superficies óseas enfrentadas y el cartílago timpanohioideo interpuesto. No se describen cavidad sinovial, meniscos ni ligamentos intracapsulares propios de una articulación sinovial.",
+        "articulaciones": "Hartl, Egerbacher y Kneissl (2021), mediante CT, micro-CT e histología, describieron una sincondrosis entre el proceso estiloides y el estilohioides a través del cartílago timpanohioideo. Un estudio posterior de CT (2026) la denomina sínfisis o unión cartilaginosa secundaria y describe el cartílago como fibrocartílago. Por ello, se registra como unión cartilaginosa temporohioidea y se deja constancia de la diferencia de clasificación entre fuentes; no denominarla sinovial.",
+        "inserciones": "No se asignan inserciones musculares directas a la unión. Su función depende de la continuidad cartilaginosa y de los elementos óseos adyacentes del aparato hioideo.",
+        "irrigacion": "No se establece una irrigación arterial exclusiva de la unión en las fuentes consultadas. La nutrición del cartílago depende de los tejidos y superficies vasculares adyacentes; no se atribuyen vasos específicos sin evidencia.",
+        "inervacion": "No se describe una inervación independiente exclusiva de la unión. La sensibilidad regional corresponde a tejidos conectivos y estructuras vecinas de la región temporohioidea.",
+        "funcion": "Suspende el aparato hioideo desde el hueso temporal y transmite fuerzas y movimientos entre el cráneo y la cadena hioidea durante la masticación y la deglución.",
+        "especie": "En el caballo existe una unión temporohioidea a cada lado. El cartílago timpanohioideo conecta el proceso estiloides temporal con el estilohioides. Hartl et al. (2021) la clasifican como sincondrosis y describen cartílago hialino; un trabajo de CT más reciente la denomina sínfisis y refiere fibrocartílago. La ficha conserva esta discrepancia bibliográfica en lugar de imponer una clasificación única.",
+        "clinica": "Es una región de importancia clínica por la osteoartropatía temporohioidea equina. La proliferación ósea y la mineralización alrededor de la unión pueden reducir la movilidad y conducir a anquilosis. La tomografía computarizada es útil para valorar los cambios óseos y la región articular.",
+        "referencias": "Hartl B, Egerbacher M, Kneissl S. Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology. Front Vet Sci. 2021;8:652563. doi:10.3389/fvets.2021.652563.\\nComputed tomography of the equine temporohyoid joint: Association between imaging changes and potential risk factors. 2026. Disponible en PubMed Central: PMC12699099."
+      }
+    },
+    {
+      "id": "equ.ske.hyo.007-d",
+      "es": "Articulación temporohioidea (derecha)",
+      "la": "Articulatio temporohyoidea",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Se localiza a cada lado, en la unión entre el proceso estiloides de la porción petrosa del hueso temporal y el extremo proximal del estilohioides. El cartílago timpanohioideo se interpone entre ambas estructuras.",
+        "descripcion": "Unión cartilaginosa par que conecta el aparato hioideo con el cráneo. En el caballo, el cartílago timpanohioideo forma el componente interpuesto entre el proceso estiloides temporal y el estilohioides. No es una articulación sinovial convencional.",
+        "relaciones": "Proximalmente se relaciona con el proceso estiloides del temporal; distalmente con el cartílago timpanohioideo y el extremo proximal del estilohioides. Se encuentra en la región temporohioidea, próxima a estructuras del oído y de la bolsa gutural.",
+        "accidentes": "La unión está formada por superficies óseas enfrentadas y el cartílago timpanohioideo interpuesto. No se describen cavidad sinovial, meniscos ni ligamentos intracapsulares propios de una articulación sinovial.",
+        "articulaciones": "Hartl, Egerbacher y Kneissl (2021), mediante CT, micro-CT e histología, describieron una sincondrosis entre el proceso estiloides y el estilohioides a través del cartílago timpanohioideo. Un estudio posterior de CT (2026) la denomina sínfisis o unión cartilaginosa secundaria y describe el cartílago como fibrocartílago. Por ello, se registra como unión cartilaginosa temporohioidea y se deja constancia de la diferencia de clasificación entre fuentes; no denominarla sinovial.",
+        "inserciones": "No se asignan inserciones musculares directas a la unión. Su función depende de la continuidad cartilaginosa y de los elementos óseos adyacentes del aparato hioideo.",
+        "irrigacion": "No se establece una irrigación arterial exclusiva de la unión en las fuentes consultadas. La nutrición del cartílago depende de los tejidos y superficies vasculares adyacentes; no se atribuyen vasos específicos sin evidencia.",
+        "inervacion": "No se describe una inervación independiente exclusiva de la unión. La sensibilidad regional corresponde a tejidos conectivos y estructuras vecinas de la región temporohioidea.",
+        "funcion": "Suspende el aparato hioideo desde el hueso temporal y transmite fuerzas y movimientos entre el cráneo y la cadena hioidea durante la masticación y la deglución.",
+        "especie": "En el caballo existe una unión temporohioidea a cada lado. El cartílago timpanohioideo conecta el proceso estiloides temporal con el estilohioides. Hartl et al. (2021) la clasifican como sincondrosis y describen cartílago hialino; un trabajo de CT más reciente la denomina sínfisis y refiere fibrocartílago. La ficha conserva esta discrepancia bibliográfica en lugar de imponer una clasificación única.",
+        "clinica": "Es una región de importancia clínica por la osteoartropatía temporohioidea equina. La proliferación ósea y la mineralización alrededor de la unión pueden reducir la movilidad y conducir a anquilosis. La tomografía computarizada es útil para valorar los cambios óseos y la región articular.",
+        "referencias": "Hartl B, Egerbacher M, Kneissl S. Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology. Front Vet Sci. 2021;8:652563. doi:10.3389/fvets.2021.652563.\\nComputed tomography of the equine temporohyoid joint: Association between imaging changes and potential risk factors. 2026. Disponible en PubMed Central: PMC12699099."
+      }
     }
   ]
 }
