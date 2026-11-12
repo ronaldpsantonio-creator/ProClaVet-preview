@@ -112,7 +112,21 @@
       "es": "Interparietal",
       "la": "Os interparietale",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Se sitúa en la región dorsocaudal del neurocráneo, en la línea media, entre la porción escamosa del occipital y los huesos parietales. Participa en el techo de la cavidad craneal y en la superficie dorsal del cráneo.",
+        "descripcion": "Hueso impar de contorno aproximadamente cuadrilátero en el caballo. Aunque suele describirse como una sola pieza, se desarrolla a partir de dos centros principales de osificación laterales y puede observarse dividido en dos porciones en potros jóvenes. Durante el crecimiento se fusiona con los parietales y, posteriormente, con la porción escamosa del occipital; el momento de estas uniones es variable.",
+        "relaciones": "Caudalmente contacta con la porción escamosa del occipital; rostral y lateralmente se relaciona con los huesos parietales. Su cara cerebral se orienta hacia la cavidad craneal y se relaciona con la duramadre, la región de separación entre los hemisferios cerebrales y el cerebelo, y el tentorio óseo del cerebelo.",
+        "accidentes": "Cara externa (facies externa), de contorno cuadrilátero; cresta sagital externa (crista sagittalis externa), que se hace más evidente con la edad; cara cerebral o interna (facies cerebralis); prominencia occipital interna (protuberantia occipitalis interna), descrita como una proyección interna de tres caras que contribuye a formar el tentorio óseo. La delimitación de relieves y suturas puede variar con la edad y el grado de fusión.",
+        "articulaciones": "En el animal joven presenta uniones suturales con los huesos parietales por sus bordes rostrales y laterales y con la porción escamosa del occipital por su borde caudal. Estas suturas se obliteran en grado y momento variables durante la maduración; en el adulto puede no distinguirse una línea de separación evidente.",
+        "inserciones": "No se atribuyen inserciones musculares principales específicas al interparietal en las fuentes osteológicas consultadas. La cresta sagital externa forma parte del relieve dorsal de inserción de tejidos fibrosos y fascia en continuidad con las regiones parietales; no debe asignarse al interparietal una inserción muscular concreta sin una fuente equina específica.",
+        "irrigacion": "La irrigación nutricional del hueso depende de vasos del periostio y de la región craneal adyacente. No se ha identificado en las fuentes consultadas una descripción equina suficientemente específica para asignar una arteria exclusiva al interparietal; dato pendiente de verificación.",
+        "inervacion": "El tejido óseo no posee una inervación funcional única comparable a la de un órgano. La sensibilidad del periostio depende de la inervación regional de los tejidos craneales; no se asigna un nervio exclusivo al interparietal por falta de respaldo anatómico equino específico.",
+        "funcion": "Contribuye a completar el techo dorsocaudal del neurocráneo y, mediante su cara cerebral y la prominencia occipital interna, participa en el soporte del tentorio óseo que separa parcialmente las regiones encefálicas supratentorial e infratentorial.",
+        "especie": "En el caballo, el interparietal ocupa una posición central entre el occipital escamoso y los parietales. Es habitualmente impar en el adulto, aunque puede estar dividido en potros. Su cara externa puede presentar una cresta sagital mediana, y su cara interna contribuye al tentorio óseo. La fusión con los huesos vecinos es progresiva y variable.",
+        "clinica": "La edad y el grado de fusión de las suturas deben considerarse al interpretar cráneos de potros y estudios de imagen. En el adulto, la fusión puede dificultar la identificación del interparietal como hueso independiente. La prominencia interna contribuye al tentorio óseo, relevante como referencia anatómica intracraneal.",
+        "referencias": "Sisson, S. A Text-book of Veterinary Anatomy (1911), sección The Interparietal Bone, anatomía del caballo. Project Gutenberg: https://www.gutenberg.org/files/75996/75996-h/75996-h.htm. Atlas de Histologia Veterinária, Interparietal, vista dorsal equina: https://atlashistovet.sites2.uff.br/interparietal/."
+      }
     },
     {
       "id": "equ.ske.cra.006-i",
