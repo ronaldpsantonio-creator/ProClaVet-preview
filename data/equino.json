@@ -658,14 +658,42 @@
       "es": "Yunque (izquierdo)",
       "la": "Incus",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Se localiza en la cavidad timpánica del oído medio, entre el martillo y el estribo. Su cuerpo se articula con la cabeza del martillo y su proceso largo se dirige hacia el estribo. Corresponde al lado indicado. Lado izquierdo.",
+        "descripcion": "Huesecillo auditivo intermedio de la cadena osicular. Presenta un cuerpo (corpus incudis), un proceso corto (crus breve) y un proceso largo (crus longum), cuyo extremo participa en la articulación con el estribo mediante el proceso lenticular. La morfología debe interpretarse en el contexto del oído medio equino.",
+        "relaciones": "El cuerpo se relaciona con la cabeza del martillo mediante la articulación incudomaleolar. El proceso largo se dirige hacia el estribo y termina en el proceso lenticular. El proceso corto se fija mediante un ligamento a la pared de la cavidad timpánica. Está rodeado por la mucosa del oído medio.",
+        "accidentes": "Cuerpo (corpus incudis), proceso corto (crus breve), proceso largo (crus longum) y proceso lenticular (processus lenticularis), asociado al extremo del proceso largo y a la unión con la cabeza del estribo. No confundir los procesos del yunque con el manubrio del martillo ni con las cruras del estribo.",
+        "articulaciones": "El cuerpo del yunque articula con la cabeza del martillo en la articulación incudomaleolar. El proceso lenticular del extremo del proceso largo articula con la cabeza del estribo en la articulación incudostapedial. Ambas uniones transmiten las vibraciones a través de la cadena osicular.",
+        "inserciones": "No presenta inserciones musculares principales. El proceso corto se mantiene suspendido por el ligamento posterior del yunque, que lo une a la pared de la cavidad timpánica. Los ligamentos osiculares estabilizan la cadena sin constituir inserciones musculares.",
+        "irrigacion": "Recibe aporte vascular de pequeños vasos de la mucosa y tejidos de la cavidad timpánica. No se establece aquí una arteria nutricia exclusiva del yunque equino; no deben asignarse ramas arteriales concretas sin evidencia anatómica específica.",
+        "inervacion": "No se describe una inervación somática propia del tejido óseo del yunque. La mucosa del oído medio posee inervación regional, pero no debe confundirse con una inervación específica del huesecillo. La función del yunque es mecánica y no sensorial.",
+        "funcion": "Transmite las vibraciones recibidas del martillo hacia el estribo. Actúa como elemento intermedio de la cadena osicular y contribuye a conducir la energía mecánica desde la membrana timpánica hasta la ventana vestibular y el oído interno.",
+        "especie": "En el caballo, el yunque forma parte de la cadena de tres huesecillos del oído medio: martillo, yunque y estribo. Se encuentra en la cavidad timpánica y conecta la cabeza del martillo con la cabeza del estribo. Su proceso corto se fija a la pared timpánica mediante un ligamento; el proceso largo termina en la unión incudostapedial.",
+        "clinica": "Las lesiones, fijaciones anormales o interrupciones de la cadena osicular pueden alterar la conducción del sonido y producir pérdida auditiva conductiva. En la evaluación del oído medio, la tomografía computarizada puede ayudar a valorar la posición e integridad de los huesecillos. La identificación debe diferenciar el yunque del martillo y del estribo.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del oído medio y huesecillos auditivos equinos.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. Sección del oído medio y cadena de huesecillos.\nMerck Veterinary Manual. Ear Structure and Function in Horses. https://www.merckvetmanual.com/horse-owners/ear-disorders-of-horses/ear-structure-and-function-in-horses"
+      }
     },
     {
       "id": "equ.ske.oid.002-d",
       "es": "Yunque (derecho)",
       "la": "Incus",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Se localiza en la cavidad timpánica del oído medio, entre el martillo y el estribo. Su cuerpo se articula con la cabeza del martillo y su proceso largo se dirige hacia el estribo. Corresponde al lado indicado. Lado derecho.",
+        "descripcion": "Huesecillo auditivo intermedio de la cadena osicular. Presenta un cuerpo (corpus incudis), un proceso corto (crus breve) y un proceso largo (crus longum), cuyo extremo participa en la articulación con el estribo mediante el proceso lenticular. La morfología debe interpretarse en el contexto del oído medio equino.",
+        "relaciones": "El cuerpo se relaciona con la cabeza del martillo mediante la articulación incudomaleolar. El proceso largo se dirige hacia el estribo y termina en el proceso lenticular. El proceso corto se fija mediante un ligamento a la pared de la cavidad timpánica. Está rodeado por la mucosa del oído medio.",
+        "accidentes": "Cuerpo (corpus incudis), proceso corto (crus breve), proceso largo (crus longum) y proceso lenticular (processus lenticularis), asociado al extremo del proceso largo y a la unión con la cabeza del estribo. No confundir los procesos del yunque con el manubrio del martillo ni con las cruras del estribo.",
+        "articulaciones": "El cuerpo del yunque articula con la cabeza del martillo en la articulación incudomaleolar. El proceso lenticular del extremo del proceso largo articula con la cabeza del estribo en la articulación incudostapedial. Ambas uniones transmiten las vibraciones a través de la cadena osicular.",
+        "inserciones": "No presenta inserciones musculares principales. El proceso corto se mantiene suspendido por el ligamento posterior del yunque, que lo une a la pared de la cavidad timpánica. Los ligamentos osiculares estabilizan la cadena sin constituir inserciones musculares.",
+        "irrigacion": "Recibe aporte vascular de pequeños vasos de la mucosa y tejidos de la cavidad timpánica. No se establece aquí una arteria nutricia exclusiva del yunque equino; no deben asignarse ramas arteriales concretas sin evidencia anatómica específica.",
+        "inervacion": "No se describe una inervación somática propia del tejido óseo del yunque. La mucosa del oído medio posee inervación regional, pero no debe confundirse con una inervación específica del huesecillo. La función del yunque es mecánica y no sensorial.",
+        "funcion": "Transmite las vibraciones recibidas del martillo hacia el estribo. Actúa como elemento intermedio de la cadena osicular y contribuye a conducir la energía mecánica desde la membrana timpánica hasta la ventana vestibular y el oído interno.",
+        "especie": "En el caballo, el yunque forma parte de la cadena de tres huesecillos del oído medio: martillo, yunque y estribo. Se encuentra en la cavidad timpánica y conecta la cabeza del martillo con la cabeza del estribo. Su proceso corto se fija a la pared timpánica mediante un ligamento; el proceso largo termina en la unión incudostapedial.",
+        "clinica": "Las lesiones, fijaciones anormales o interrupciones de la cadena osicular pueden alterar la conducción del sonido y producir pérdida auditiva conductiva. En la evaluación del oído medio, la tomografía computarizada puede ayudar a valorar la posición e integridad de los huesecillos. La identificación debe diferenciar el yunque del martillo y del estribo.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del oído medio y huesecillos auditivos equinos.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. Sección del oído medio y cadena de huesecillos.\nMerck Veterinary Manual. Ear Structure and Function in Horses. https://www.merckvetmanual.com/horse-owners/ear-disorders-of-horses/ear-structure-and-function-in-horses"
+      }
     },
     {
       "id": "equ.ske.oid.003-i",
