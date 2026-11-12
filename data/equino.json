@@ -3150,28 +3150,84 @@
       "es": "Milohioideo (izquierdo)",
       "la": "Musculus mylohyoideus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En el piso de la cavidad oral, en el lado izquierdo del espacio intermandibular. Se extiende desde la cara lingual de la mandíbula hacia el plano medio y el basihioides.",
+        "descripcion": "Músculo plano y delgado del grupo suprahioideo. Las fibras de ambos lados se aproximan y se relacionan en el rafe medio, formando gran parte del soporte muscular del piso de la boca.",
+        "relaciones": "Se relaciona lateralmente con la cara medial de la mandíbula; medialmente con el contenido del piso de la boca y la lengua; y con el músculo milohioideo contralateral en el rafe medio. Se encuentra próximo a la glándula sublingual y a estructuras vasculonerviosas de la región.",
+        "accidentes": "Línea milohioidea de la cara lingual de la mandíbula; rafe milohioideo medio; cuerpo del basihioides y proceso lingual del basihioides como referencias de fijación.",
+        "articulaciones": "No forma una articulación. Cruza funcionalmente el espacio intermandibular y actúa sobre el piso de la boca y el aparato hioideo.",
+        "inserciones": "Origen: línea milohioidea de la cara lingual de la mandíbula. Inserción: rafe medio y basihioides, incluida la región del proceso lingual, según la descripción topográfica del atlas equino.",
+        "irrigacion": "La irrigación arterial específica del músculo no queda detallada de forma suficiente en la fuente equina consultada; recibe aporte de vasos de la región intermandibular y sublingual. No se asigna una arteria única.",
+        "inervacion": "Nervio milohioideo, rama del nervio alveolar inferior del nervio mandibular (V3), división mandibular del trigémino.",
+        "funcion": "Eleva y tensa el piso de la boca; contribuye a elevar el aparato hioideo y comprime la lengua contra el paladar, colaborando en la formación y propulsión del bolo durante la masticación y la deglución.",
+        "especie": "En el caballo, el músculo ocupa el espacio intermandibular y se describe con fijación en la línea milohioidea mandibular, el basihioides/proceso lingual y el rafe medio. Es bilateral y sus mitades se encuentran en la línea media.",
+        "clinica": "Su integridad contribuye al soporte del piso oral y a la mecánica de la deglución. Su ubicación es importante al evaluar lesiones, abordajes y masas del espacio intermandibular.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo.\nSisson S. A Text-book of Veterinary Anatomy. Sección de músculos hioideos equinos (referencia histórica complementaria): https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
+      }
     },
     {
       "id": "equ.mus.cab.023-d",
       "es": "Milohioideo (derecho)",
       "la": "Musculus mylohyoideus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En el piso de la cavidad oral, en el lado derecho del espacio intermandibular. Se extiende desde la cara lingual de la mandíbula hacia el plano medio y el basihioides.",
+        "descripcion": "Músculo plano y delgado del grupo suprahioideo. Las fibras de ambos lados se aproximan y se relacionan en el rafe medio, formando gran parte del soporte muscular del piso de la boca.",
+        "relaciones": "Se relaciona lateralmente con la cara medial de la mandíbula; medialmente con el contenido del piso de la boca y la lengua; y con el músculo milohioideo contralateral en el rafe medio. Se encuentra próximo a la glándula sublingual y a estructuras vasculonerviosas de la región.",
+        "accidentes": "Línea milohioidea de la cara lingual de la mandíbula; rafe milohioideo medio; cuerpo del basihioides y proceso lingual del basihioides como referencias de fijación.",
+        "articulaciones": "No forma una articulación. Cruza funcionalmente el espacio intermandibular y actúa sobre el piso de la boca y el aparato hioideo.",
+        "inserciones": "Origen: línea milohioidea de la cara lingual de la mandíbula. Inserción: rafe medio y basihioides, incluida la región del proceso lingual, según la descripción topográfica del atlas equino.",
+        "irrigacion": "La irrigación arterial específica del músculo no queda detallada de forma suficiente en la fuente equina consultada; recibe aporte de vasos de la región intermandibular y sublingual. No se asigna una arteria única.",
+        "inervacion": "Nervio milohioideo, rama del nervio alveolar inferior del nervio mandibular (V3), división mandibular del trigémino.",
+        "funcion": "Eleva y tensa el piso de la boca; contribuye a elevar el aparato hioideo y comprime la lengua contra el paladar, colaborando en la formación y propulsión del bolo durante la masticación y la deglución.",
+        "especie": "En el caballo, el músculo ocupa el espacio intermandibular y se describe con fijación en la línea milohioidea mandibular, el basihioides/proceso lingual y el rafe medio. Es bilateral y sus mitades se encuentran en la línea media.",
+        "clinica": "Su integridad contribuye al soporte del piso oral y a la mecánica de la deglución. Su ubicación es importante al evaluar lesiones, abordajes y masas del espacio intermandibular.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo.\nSisson S. A Text-book of Veterinary Anatomy. Sección de músculos hioideos equinos (referencia histórica complementaria): https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
+      }
     },
     {
       "id": "equ.mus.cab.024-i",
       "es": "Geniohioideo (izquierdo)",
       "la": "Musculus geniohyoideus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la porción rostral del piso de la boca, profundo al milohioideo, en el lado izquierdo de la línea media. Se extiende desde la región incisiva de la mandíbula hacia el proceso lingual del basihioides.",
+        "descripcion": "Músculo suprahioideo alargado y relativamente estrecho, dispuesto longitudinalmente entre la mandíbula rostral y el aparato hioideo. Sus fibras se sitúan junto a las del músculo contralateral.",
+        "relaciones": "Se relaciona ventralmente con el milohioideo y dorsalmente con la lengua y el tejido del piso oral. Se encuentra próximo al geniogloso y al músculo geniohioideo del lado opuesto.",
+        "accidentes": "Región incisiva y superficie genial de la mandíbula; proceso lingual del basihioides, que constituye su referencia de inserción.",
+        "articulaciones": "No forma una articulación. Cruza funcionalmente la región rostral del piso oral y transmite tracción desde la mandíbula al aparato hioideo.",
+        "inserciones": "Origen: porción incisiva de la mandíbula, en la región de la superficie genial. Inserción: proceso lingual del basihioides.",
+        "irrigacion": "La irrigación arterial específica del músculo no se detalla de forma independiente en la fuente equina consultada. Recibe aporte de la vascularización regional del piso de la boca; no se asigna una arteria exclusiva.",
+        "inervacion": "Nervio hipogloso (XII), según la descripción de la musculatura del aparato hioideo equino.",
+        "funcion": "Desplaza rostralmente el aparato hioideo y la lengua. Contribuye a los movimientos coordinados de la lengua y del piso de la boca durante la prensión, manipulación del alimento y deglución.",
+        "especie": "En el caballo, el origen se sitúa en la porción incisiva mandibular y la inserción en el proceso lingual del basihioides. Es un músculo par, con disposición longitudinal en la región ventral de la lengua.",
+        "clinica": "Participa en la movilidad rostral del aparato hioideo y de la lengua; su función debe considerarse en la evaluación de alteraciones de movilidad lingual y deglución.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo.\n"
+      }
     },
     {
       "id": "equ.mus.cab.024-d",
       "es": "Geniohioideo (derecho)",
       "la": "Musculus geniohyoideus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la porción rostral del piso de la boca, profundo al milohioideo, en el lado derecho de la línea media. Se extiende desde la región incisiva de la mandíbula hacia el proceso lingual del basihioides.",
+        "descripcion": "Músculo suprahioideo alargado y relativamente estrecho, dispuesto longitudinalmente entre la mandíbula rostral y el aparato hioideo. Sus fibras se sitúan junto a las del músculo contralateral.",
+        "relaciones": "Se relaciona ventralmente con el milohioideo y dorsalmente con la lengua y el tejido del piso oral. Se encuentra próximo al geniogloso y al músculo geniohioideo del lado opuesto.",
+        "accidentes": "Región incisiva y superficie genial de la mandíbula; proceso lingual del basihioides, que constituye su referencia de inserción.",
+        "articulaciones": "No forma una articulación. Cruza funcionalmente la región rostral del piso oral y transmite tracción desde la mandíbula al aparato hioideo.",
+        "inserciones": "Origen: porción incisiva de la mandíbula, en la región de la superficie genial. Inserción: proceso lingual del basihioides.",
+        "irrigacion": "La irrigación arterial específica del músculo no se detalla de forma independiente en la fuente equina consultada. Recibe aporte de la vascularización regional del piso de la boca; no se asigna una arteria exclusiva.",
+        "inervacion": "Nervio hipogloso (XII), según la descripción de la musculatura del aparato hioideo equino.",
+        "funcion": "Desplaza rostralmente el aparato hioideo y la lengua. Contribuye a los movimientos coordinados de la lengua y del piso de la boca durante la prensión, manipulación del alimento y deglución.",
+        "especie": "En el caballo, el origen se sitúa en la porción incisiva mandibular y la inserción en el proceso lingual del basihioides. Es un músculo par, con disposición longitudinal en la región ventral de la lengua.",
+        "clinica": "Participa en la movilidad rostral del aparato hioideo y de la lengua; su función debe considerarse en la evaluación de alteraciones de movilidad lingual y deglución.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo.\n"
+      }
     },
     {
       "id": "equ.mus.cab.025-i",
@@ -8506,14 +8562,42 @@
       "es": "Articulación tirohioidea (izquierda)",
       "la": "Articulatio thyrohyoidea",
       "sys": "res",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el lado izquierdo de la laringe, entre el extremo distal del proceso tirohioideo correspondiente del aparato hioideo y el cuerno rostral del cartílago tiroides.",
+        "descripcion": "Articulación sinovial que conecta el proceso tirohioideo con el cartílago tiroides. No debe confundirse con la unión basihioidea, donde el proceso tirohioideo se continúa con el basihioides y puede presentar sinostosis con la maduración.",
+        "relaciones": "Se relaciona medialmente con la laringe y sus estructuras cartilaginosas; dorsalmente con la región de la raíz de la lengua y el aparato hioideo; y caudalmente con el resto del esqueleto laríngeo. La disposición es bilateral.",
+        "accidentes": "Superficies articulares del extremo distal del proceso tirohioideo y del cuerno rostral del cartílago tiroides; cartílago articular hialino y pequeña cavidad articular con cápsula.",
+        "articulaciones": "Articula el proceso tirohioideo con el cuerno rostral del cartílago tiroides. Es una articulación sinovial pequeña; no corresponde a la sinostosis entre el basihioides y el proceso tirohioideo.",
+        "inserciones": "No constituye una superficie de inserción muscular principal. La cápsula articular se fija alrededor de los márgenes de las superficies articulares.",
+        "irrigacion": "La irrigación capsular específica no se describe de forma independiente y consistente en las fuentes consultadas. Recibe aporte de la vascularización regional de la laringe; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "La inervación articular específica no está detallada de forma consistente en las fuentes consultadas. No se atribuye un nervio exclusivo.",
+        "funcion": "Permite una conexión móvil entre el aparato hioideo y el cartílago tiroides, coordinando los desplazamientos del aparato hioideo con los movimientos de la laringe durante la deglución y la función respiratoria.",
+        "especie": "En el caballo, el proceso tirohioideo es una prolongación del basihioides y su extremo distal se articula con el cuerno rostral del cartílago tiroides mediante una pequeña articulación sinovial. La unión proximal basihioides–proceso tirohioideo es distinta y puede osificarse con la edad.",
+        "clinica": "Es una conexión relevante para la movilidad coordinada del aparato hioideo y la laringe. La valoración de alteraciones debe considerar la articulación distal y distinguirla de cambios de osificación en la unión basihioidea.",
+        "referencias": "Hartl B, Egerbacher M, Kneissl SM. Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology. Front Vet Sci. 2021;8:652563. https://doi.org/10.3389/fvets.2021.652563\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo.\n"
+      }
     },
     {
       "id": "equ.res.lar.021-d",
       "es": "Articulación tirohioidea (derecha)",
       "la": "Articulatio thyrohyoidea",
       "sys": "res",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el lado derecho de la laringe, entre el extremo distal del proceso tirohioideo correspondiente del aparato hioideo y el cuerno rostral del cartílago tiroides.",
+        "descripcion": "Articulación sinovial que conecta el proceso tirohioideo con el cartílago tiroides. No debe confundirse con la unión basihioidea, donde el proceso tirohioideo se continúa con el basihioides y puede presentar sinostosis con la maduración.",
+        "relaciones": "Se relaciona medialmente con la laringe y sus estructuras cartilaginosas; dorsalmente con la región de la raíz de la lengua y el aparato hioideo; y caudalmente con el resto del esqueleto laríngeo. La disposición es bilateral.",
+        "accidentes": "Superficies articulares del extremo distal del proceso tirohioideo y del cuerno rostral del cartílago tiroides; cartílago articular hialino y pequeña cavidad articular con cápsula.",
+        "articulaciones": "Articula el proceso tirohioideo con el cuerno rostral del cartílago tiroides. Es una articulación sinovial pequeña; no corresponde a la sinostosis entre el basihioides y el proceso tirohioideo.",
+        "inserciones": "No constituye una superficie de inserción muscular principal. La cápsula articular se fija alrededor de los márgenes de las superficies articulares.",
+        "irrigacion": "La irrigación capsular específica no se describe de forma independiente y consistente en las fuentes consultadas. Recibe aporte de la vascularización regional de la laringe; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "La inervación articular específica no está detallada de forma consistente en las fuentes consultadas. No se atribuye un nervio exclusivo.",
+        "funcion": "Permite una conexión móvil entre el aparato hioideo y el cartílago tiroides, coordinando los desplazamientos del aparato hioideo con los movimientos de la laringe durante la deglución y la función respiratoria.",
+        "especie": "En el caballo, el proceso tirohioideo es una prolongación del basihioides y su extremo distal se articula con el cuerno rostral del cartílago tiroides mediante una pequeña articulación sinovial. La unión proximal basihioides–proceso tirohioideo es distinta y puede osificarse con la edad.",
+        "clinica": "Es una conexión relevante para la movilidad coordinada del aparato hioideo y la laringe. La valoración de alteraciones debe considerar la articulación distal y distinguirla de cambios de osificación en la unión basihioidea.",
+        "referencias": "Hartl B, Egerbacher M, Kneissl SM. Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology. Front Vet Sci. 2021;8:652563. https://doi.org/10.3389/fvets.2021.652563\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo.\n"
+      }
     },
     {
       "id": "equ.res.lar.022",
