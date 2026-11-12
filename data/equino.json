@@ -27749,6 +27749,48 @@
         "clinica": "Es una región de importancia clínica por la osteoartropatía temporohioidea equina. La proliferación ósea y la mineralización alrededor de la unión pueden reducir la movilidad y conducir a anquilosis. La tomografía computarizada es útil para valorar los cambios óseos y la región articular.",
         "referencias": "Hartl B, Egerbacher M, Kneissl S. Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology. Front Vet Sci. 2021;8:652563. doi:10.3389/fvets.2021.652563.\\nComputed tomography of the equine temporohyoid joint: Association between imaging changes and potential risk factors. 2026. Disponible en PubMed Central: PMC12699099."
       }
+    },
+    {
+      "id": "equ.ske.hyo.008-i",
+      "es": "Unión estilohioidea–epihioidea (izquierda)",
+      "la": "Junctura stylohyoidea-epihyoidea",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el lado izquierdo, entre el extremo distal del estilohioides y el epihioides, cuando este último permanece como elemento separado.",
+        "descripcion": "Unión cartilaginosa del aparato hioideo. No debe clasificarse como articulación sinovial: en el caballo puede persistir como unión cartilaginosa durante el desarrollo o desaparecer como límite reconocible cuando ocurre la fusión ósea entre estilohioides y epihioides.",
+        "relaciones": "Proximalmente se relaciona con el extremo distal del estilohioides y distalmente con el epihioides. Cuando ambos elementos están fusionados, no existe una unión independiente identificable.",
+        "accidentes": "No se describen cavidad sinovial, cápsula, meniscos ni ligamentos propios. El tejido de unión se describe como cartílago hialino en los ejemplares con epihioides separado.",
+        "articulaciones": "Hartl, Egerbacher y Kneissl (2021) describieron una unión cartilaginosa con cartílago hialino y, en animales jóvenes, posible placa de crecimiento; no demostraron una articulación sinovial. En una proporción importante de caballos adultos se observa sinostosis entre estilohioides y epihioides. Por ello, esta ficha representa la unión solo cuando ambos elementos permanecen separados.",
+        "inserciones": "No se atribuyen inserciones musculares directas y exclusivas a esta unión por falta de respaldo anatómico equino específico.",
+        "irrigacion": "No se ha establecido una irrigación arterial exclusiva de esta unión en las fuentes consultadas. No se asignan vasos concretos sin evidencia.",
+        "inervacion": "No se describe una inervación independiente exclusiva de la unión. La sensibilidad regional depende de los tejidos conectivos y estructuras vecinas.",
+        "funcion": "Mantiene la continuidad de la cadena hioidea y permite la transición entre estilohioides y epihioides durante el desarrollo, antes de la posible fusión ósea.",
+        "especie": "En el caballo, el epihioides puede permanecer separado del estilohioides en una parte de los individuos o fusionarse con él. Hartl et al. (2021) observaron epihioides separado en aproximadamente un tercio de los caballos examinados y fusión en los restantes. La configuración debe interpretarse según el individuo y no como una estructura sinovial constante.",
+        "clinica": "Es importante al interpretar imágenes del aparato hioideo. La fusión estilohioidea-epihioidea puede ser una variación anatómica frecuente y no debe confundirse automáticamente con anquilosis patológica. La evaluación debe considerar edad, simetría y cambios óseos asociados.",
+        "referencias": "Hartl B, Egerbacher M, Kneissl S. Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology. Front Vet Sci. 2021;8:652563. doi:10.3389/fvets.2021.652563."
+      }
+    },
+    {
+      "id": "equ.ske.hyo.008-d",
+      "es": "Unión estilohioidea–epihioidea (derecha)",
+      "la": "Junctura stylohyoidea-epihyoidea",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el lado derecho, entre el extremo distal del estilohioides y el epihioides, cuando este último permanece como elemento separado.",
+        "descripcion": "Unión cartilaginosa del aparato hioideo. No debe clasificarse como articulación sinovial: en el caballo puede persistir como unión cartilaginosa durante el desarrollo o desaparecer como límite reconocible cuando ocurre la fusión ósea entre estilohioides y epihioides.",
+        "relaciones": "Proximalmente se relaciona con el extremo distal del estilohioides y distalmente con el epihioides. Cuando ambos elementos están fusionados, no existe una unión independiente identificable.",
+        "accidentes": "No se describen cavidad sinovial, cápsula, meniscos ni ligamentos propios. El tejido de unión se describe como cartílago hialino en los ejemplares con epihioides separado.",
+        "articulaciones": "Hartl, Egerbacher y Kneissl (2021) describieron una unión cartilaginosa con cartílago hialino y, en animales jóvenes, posible placa de crecimiento; no demostraron una articulación sinovial. En una proporción importante de caballos adultos se observa sinostosis entre estilohioides y epihioides. Por ello, esta ficha representa la unión solo cuando ambos elementos permanecen separados.",
+        "inserciones": "No se atribuyen inserciones musculares directas y exclusivas a esta unión por falta de respaldo anatómico equino específico.",
+        "irrigacion": "No se ha establecido una irrigación arterial exclusiva de esta unión en las fuentes consultadas. No se asignan vasos concretos sin evidencia.",
+        "inervacion": "No se describe una inervación independiente exclusiva de la unión. La sensibilidad regional depende de los tejidos conectivos y estructuras vecinas.",
+        "funcion": "Mantiene la continuidad de la cadena hioidea y permite la transición entre estilohioides y epihioides durante el desarrollo, antes de la posible fusión ósea.",
+        "especie": "En el caballo, el epihioides puede permanecer separado del estilohioides en una parte de los individuos o fusionarse con él. Hartl et al. (2021) observaron epihioides separado en aproximadamente un tercio de los caballos examinados y fusión en los restantes. La configuración debe interpretarse según el individuo y no como una estructura sinovial constante.",
+        "clinica": "Es importante al interpretar imágenes del aparato hioideo. La fusión estilohioidea-epihioidea puede ser una variación anatómica frecuente y no debe confundirse automáticamente con anquilosis patológica. La evaluación debe considerar edad, simetría y cambios óseos asociados.",
+        "referencias": "Hartl B, Egerbacher M, Kneissl S. Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology. Front Vet Sci. 2021;8:652563. doi:10.3389/fvets.2021.652563."
+      }
     }
   ]
 }
