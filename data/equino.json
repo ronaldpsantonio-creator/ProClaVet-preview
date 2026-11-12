@@ -3234,14 +3234,42 @@
       "es": "Estilohioideo (izquierdo)",
       "la": "Musculus stylohyoideus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la región profunda y lateral del aparato hioideo, a cada lado de la faringe, en el lado izquierdo.",
+        "descripcion": "Músculo pequeño y alargado asociado al aparato hioideo. En el caballo, su tendón de inserción presenta una división por la que pasa el tendón intermedio del músculo digástrico.",
+        "relaciones": "Se relaciona con el hueso estilohioides, la región del tirohioides y el músculo digástrico; su tendón mantiene una relación característica con el tendón intermedio de este último.",
+        "accidentes": "Extremo caudodorsal del estilohioides y región del tirohioides como referencias de fijación descritas en la anatomía equina clásica.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: extremo caudodorsal del estilohioides. Inserción: tirohioides, según la descripción equina de Budras et al.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Rama del nervio facial (VII).",
+        "funcion": "Tracciona el aparato hioideo y la laringe en dirección dorsocaudal, contribuyendo a ajustar su posición durante la deglución.",
+        "especie": "En el caballo, el tendón de inserción está escotado o dividido para permitir el paso del tendón intermedio del digástrico, rasgo anatómico útil para reconocerlo en disección.",
+        "clinica": "La relación de su tendón con el digástrico es importante en la identificación anatómica y en abordajes de la región parotídea y del aparato hioideo.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf\nIMAIOS. Stylohyoid muscle – Horse. https://www.imaios.com/en/vet-anatomy/anatomical-structures/stylohyoid-muscle-11077964160"
+      }
     },
     {
       "id": "equ.mus.cab.025-d",
       "es": "Estilohioideo (derecho)",
       "la": "Musculus stylohyoideus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la región profunda y lateral del aparato hioideo, a cada lado de la faringe, en el lado derecho.",
+        "descripcion": "Músculo pequeño y alargado asociado al aparato hioideo. En el caballo, su tendón de inserción presenta una división por la que pasa el tendón intermedio del músculo digástrico.",
+        "relaciones": "Se relaciona con el hueso estilohioides, la región del tirohioides y el músculo digástrico; su tendón mantiene una relación característica con el tendón intermedio de este último.",
+        "accidentes": "Extremo caudodorsal del estilohioides y región del tirohioides como referencias de fijación descritas en la anatomía equina clásica.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: extremo caudodorsal del estilohioides. Inserción: tirohioides, según la descripción equina de Budras et al.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Rama del nervio facial (VII).",
+        "funcion": "Tracciona el aparato hioideo y la laringe en dirección dorsocaudal, contribuyendo a ajustar su posición durante la deglución.",
+        "especie": "En el caballo, el tendón de inserción está escotado o dividido para permitir el paso del tendón intermedio del digástrico, rasgo anatómico útil para reconocerlo en disección.",
+        "clinica": "La relación de su tendón con el digástrico es importante en la identificación anatómica y en abordajes de la región parotídea y del aparato hioideo.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf\nIMAIOS. Stylohyoid muscle – Horse. https://www.imaios.com/en/vet-anatomy/anatomical-structures/stylohyoid-muscle-11077964160"
+      }
     },
     {
       "id": "equ.mus.cue.001-i",
@@ -3290,28 +3318,84 @@
       "es": "Omohioideo (izquierdo)",
       "la": "Musculus omohyoideus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la región ventrolateral del cuello, desde la fascia subescapular hacia el aparato hioideo, en el lado izquierdo.",
+        "descripcion": "Músculo delgado, aplanado y oblicuo que conecta la región escapular con el aparato hioideo. En el caballo contribuye a formar el límite profundo o medial del surco yugular.",
+        "relaciones": "Se sitúa profundo a la vena yugular externa en parte de su trayecto y se relaciona con el esternohioideo y con la fascia cervical; ayuda a separar la vena yugular de estructuras profundas del cuello.",
+        "accidentes": "Fascia subescapular próxima a la articulación del hombro y margen lateral del esternohioideo junto a la región basihioidea.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: fascia subescapular, cerca de la articulación del hombro. Inserción: margen lateral del esternohioideo, próximo a su fijación en el basihioides.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Ramos ventrales del primer nervio cervical (C1), según la descripción equina clásica.",
+        "funcion": "Actúa como sinergista del esternohioideo y contribuye a retraer o descender el aparato hioideo. También forma parte del plano profundo del surco yugular.",
+        "especie": "En el caballo es un músculo bien desarrollado en comparación con varias otras especies domésticas; forma parte del límite profundo del surco yugular y se extiende desde la fascia subescapular.",
+        "clinica": "Su relación con la vena yugular externa y el paquete carotídeo es relevante para comprender la anatomía del surco yugular y los planos de venopunción.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf\nUniversity of Minnesota. Ungulate Anatomy Lab Guide, Part 1: Neck. https://pressbooks.umn.edu/ungulateanatomylabguide/chapter/part-1-neck/"
+      }
     },
     {
       "id": "equ.mus.cue.004-d",
       "es": "Omohioideo (derecho)",
       "la": "Musculus omohyoideus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la región ventrolateral del cuello, desde la fascia subescapular hacia el aparato hioideo, en el lado derecho.",
+        "descripcion": "Músculo delgado, aplanado y oblicuo que conecta la región escapular con el aparato hioideo. En el caballo contribuye a formar el límite profundo o medial del surco yugular.",
+        "relaciones": "Se sitúa profundo a la vena yugular externa en parte de su trayecto y se relaciona con el esternohioideo y con la fascia cervical; ayuda a separar la vena yugular de estructuras profundas del cuello.",
+        "accidentes": "Fascia subescapular próxima a la articulación del hombro y margen lateral del esternohioideo junto a la región basihioidea.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: fascia subescapular, cerca de la articulación del hombro. Inserción: margen lateral del esternohioideo, próximo a su fijación en el basihioides.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Ramos ventrales del primer nervio cervical (C1), según la descripción equina clásica.",
+        "funcion": "Actúa como sinergista del esternohioideo y contribuye a retraer o descender el aparato hioideo. También forma parte del plano profundo del surco yugular.",
+        "especie": "En el caballo es un músculo bien desarrollado en comparación con varias otras especies domésticas; forma parte del límite profundo del surco yugular y se extiende desde la fascia subescapular.",
+        "clinica": "Su relación con la vena yugular externa y el paquete carotídeo es relevante para comprender la anatomía del surco yugular y los planos de venopunción.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf\nUniversity of Minnesota. Ungulate Anatomy Lab Guide, Part 1: Neck. https://pressbooks.umn.edu/ungulateanatomylabguide/chapter/part-1-neck/"
+      }
     },
     {
       "id": "equ.mus.cue.005-i",
       "es": "Esternohioideo (izquierdo)",
       "la": "Musculus sternohyoideus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la línea ventral del cuello, profundo a la fascia superficial y a la tráquea, a un lado de la línea media (izquierdo).",
+        "descripcion": "Músculo largo, delgado y en forma de banda, perteneciente al grupo infrahioideo. Sus porciones derecha e izquierda pueden estar poco separadas caudalmente y se continúan desde un origen esternal común o muy próximo.",
+        "relaciones": "Se relaciona con el esternotiroideo, la tráquea y la fascia cervical ventral. En el cuello medio puede compartir una intersección tendinosa con el esternotiroideo y otros fascículos.",
+        "accidentes": "Manubrio del esternón como origen; proceso lingual y cuerpo del basihioides como región de inserción.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: manubrio del esternón, en continuidad o proximidad con el origen del esternotiroideo. Inserción: basihioides, especialmente la región del proceso lingual.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Ramos ventrales de C1; la descripción de la musculatura infrahioidea equina incluye aporte cervical, con variaciones segmentarias descritas en textos.",
+        "funcion": "Retrae y desciende el basihioides y la raíz de la lengua; contribuye a desplazar caudalmente el aparato hioideo durante la deglución.",
+        "especie": "En el caballo es una banda ventral del cuello que puede unirse caudalmente con el esternotiroideo y separarse cranealmente para alcanzar el basihioides.",
+        "clinica": "Es una referencia anatómica de la región ventral del cuello y participa en el desplazamiento caudal del aparato hioideo. Se debe distinguir del esternotiroideo, que termina en el cartílago tiroides.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf\nTextbook of Veterinary Anatomy. Elsevier. Sección de músculos infrahioideos y aparato hioideo equino. https://elsevier-elibrary.com/contents/fullcontent/58986/epubcontent_v2/OEBPS/B9781416066071000025.htm"
+      }
     },
     {
       "id": "equ.mus.cue.005-d",
       "es": "Esternohioideo (derecho)",
       "la": "Musculus sternohyoideus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la línea ventral del cuello, profundo a la fascia superficial y a la tráquea, a un lado de la línea media (derecho).",
+        "descripcion": "Músculo largo, delgado y en forma de banda, perteneciente al grupo infrahioideo. Sus porciones derecha e izquierda pueden estar poco separadas caudalmente y se continúan desde un origen esternal común o muy próximo.",
+        "relaciones": "Se relaciona con el esternotiroideo, la tráquea y la fascia cervical ventral. En el cuello medio puede compartir una intersección tendinosa con el esternotiroideo y otros fascículos.",
+        "accidentes": "Manubrio del esternón como origen; proceso lingual y cuerpo del basihioides como región de inserción.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: manubrio del esternón, en continuidad o proximidad con el origen del esternotiroideo. Inserción: basihioides, especialmente la región del proceso lingual.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Ramos ventrales de C1; la descripción de la musculatura infrahioidea equina incluye aporte cervical, con variaciones segmentarias descritas en textos.",
+        "funcion": "Retrae y desciende el basihioides y la raíz de la lengua; contribuye a desplazar caudalmente el aparato hioideo durante la deglución.",
+        "especie": "En el caballo es una banda ventral del cuello que puede unirse caudalmente con el esternotiroideo y separarse cranealmente para alcanzar el basihioides.",
+        "clinica": "Es una referencia anatómica de la región ventral del cuello y participa en el desplazamiento caudal del aparato hioideo. Se debe distinguir del esternotiroideo, que termina en el cartílago tiroides.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf\nTextbook of Veterinary Anatomy. Elsevier. Sección de músculos infrahioideos y aparato hioideo equino. https://elsevier-elibrary.com/contents/fullcontent/58986/epubcontent_v2/OEBPS/B9781416066071000025.htm"
+      }
     },
     {
       "id": "equ.mus.cue.006-i",
@@ -4971,14 +5055,42 @@
       "es": "Tirohioideo (izquierdo)",
       "la": "Musculus thyrohyoideus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la pared lateral de la laringe, entre el cartílago tiroides y el proceso tirohioideo del lado izquierdo.",
+        "descripcion": "Músculo corto del grupo hioideo que conecta el cartílago tiroides con el proceso tirohioideo del aparato hioideo.",
+        "relaciones": "Se encuentra adyacente al cartílago tiroides y al proceso tirohioideo; forma parte de la conexión muscular entre laringe y aparato hioideo.",
+        "accidentes": "Lámina lateral del cartílago tiroides y proceso tirohioideo correspondiente.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: cartílago tiroides. Inserción: proceso tirohioideo del aparato hioideo.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Nervio cervical C1. Un estudio de disección, histología y estimulación en caballos encontró que la inervación procede de C1; en algunos ejemplares existe una anastomosis entre C1 y el nervio hipogloso, pero no se identificó una conexión directa del músculo con XII.",
+        "funcion": "Aproxima el cartílago tiroides y el proceso tirohioideo, contribuyendo a desplazar la laringe y el aparato hioideo uno respecto al otro durante la deglución.",
+        "especie": "En el caballo, la inervación del tirohioideo procede principalmente de C1, con variaciones en el patrón de ramificación. Este hallazgo corrige la atribución clásica exclusiva al nervio hipogloso.",
+        "clinica": "La preservación de C1 es relevante en procedimientos quirúrgicos cervicales equinos; su lesión puede comprometer la función del tirohioideo. La evidencia anatómica y de estimulación apoya esta relevancia clínica.",
+        "referencias": "Thyrohyoideus muscle innervation in the horse. Equine Vet J. 2021. PMID: 33155732. https://pubmed.ncbi.nlm.nih.gov/33155732/\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf"
+      }
     },
     {
       "id": "equ.mus.cue.023-d",
       "es": "Tirohioideo (derecho)",
       "la": "Musculus thyrohyoideus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la pared lateral de la laringe, entre el cartílago tiroides y el proceso tirohioideo del lado derecho.",
+        "descripcion": "Músculo corto del grupo hioideo que conecta el cartílago tiroides con el proceso tirohioideo del aparato hioideo.",
+        "relaciones": "Se encuentra adyacente al cartílago tiroides y al proceso tirohioideo; forma parte de la conexión muscular entre laringe y aparato hioideo.",
+        "accidentes": "Lámina lateral del cartílago tiroides y proceso tirohioideo correspondiente.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: cartílago tiroides. Inserción: proceso tirohioideo del aparato hioideo.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Nervio cervical C1. Un estudio de disección, histología y estimulación en caballos encontró que la inervación procede de C1; en algunos ejemplares existe una anastomosis entre C1 y el nervio hipogloso, pero no se identificó una conexión directa del músculo con XII.",
+        "funcion": "Aproxima el cartílago tiroides y el proceso tirohioideo, contribuyendo a desplazar la laringe y el aparato hioideo uno respecto al otro durante la deglución.",
+        "especie": "En el caballo, la inervación del tirohioideo procede principalmente de C1, con variaciones en el patrón de ramificación. Este hallazgo corrige la atribución clásica exclusiva al nervio hipogloso.",
+        "clinica": "La preservación de C1 es relevante en procedimientos quirúrgicos cervicales equinos; su lesión puede comprometer la función del tirohioideo. La evidencia anatómica y de estimulación apoya esta relevancia clínica.",
+        "referencias": "Thyrohyoideus muscle innervation in the horse. Equine Vet J. 2021. PMID: 33155732. https://pubmed.ncbi.nlm.nih.gov/33155732/\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf"
+      }
     },
     {
       "id": "equ.mus.len.001-i",
@@ -4999,14 +5111,42 @@
       "es": "Hiogloso (izquierdo)",
       "la": "Musculus hyoglossus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la lengua, profundo a sus músculos superficiales y próximo al aparato hioideo, en el lado izquierdo.",
+        "descripcion": "Músculo extrínseco de la lengua, de trayecto longitudinal, que conecta el aparato hioideo con el tejido lingual.",
+        "relaciones": "Se relaciona con el proceso lingual del basihioides y con los elementos estilohioideo y tirohioideo; sus fibras penetran en la lengua y se disponen cerca del plano medio y del dorso lingual.",
+        "accidentes": "Proceso lingual del basihioides y elementos estilohioideo y tirohioideo como referencias de origen; tejido muscular de la lengua como zona de terminación.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: proceso lingual del basihioides y regiones del estilohioides y tirohioides. Inserción: fibras que terminan en la lengua, muchas próximas al dorso y al plano medio.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Nervio hipogloso (XII).",
+        "funcion": "Retrae y deprime la lengua, especialmente su porción caudal; actúa como antagonista funcional del geniogloso en la protrusión lingual.",
+        "especie": "En el caballo, el hyoglossus se origina en el proceso lingual del basihioides y en elementos hioideos vecinos, y sus fibras terminan en la lengua. Su función principal es retraerla caudoventralmente.",
+        "clinica": "Participa en la movilidad de la lengua y en la manipulación del alimento durante la masticación y la deglución. Su función debe valorarse junto con la del nervio hipogloso.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf\nKelly PG. Studies on serial resting and dynamic endoscopic examinations of Thoroughbred yearlings. University of Glasgow; 2015. https://theses.gla.ac.uk/7248/1/2015KellyMVM.pdf"
+      }
     },
     {
       "id": "equ.mus.len.002-d",
       "es": "Hiogloso (derecho)",
       "la": "Musculus hyoglossus",
       "sys": "mus",
-      "layer": "mpr"
+      "layer": "mpr",
+      "ficha": {
+        "ubicacion": "En la lengua, profundo a sus músculos superficiales y próximo al aparato hioideo, en el lado derecho.",
+        "descripcion": "Músculo extrínseco de la lengua, de trayecto longitudinal, que conecta el aparato hioideo con el tejido lingual.",
+        "relaciones": "Se relaciona con el proceso lingual del basihioides y con los elementos estilohioideo y tirohioideo; sus fibras penetran en la lengua y se disponen cerca del plano medio y del dorso lingual.",
+        "accidentes": "Proceso lingual del basihioides y elementos estilohioideo y tirohioideo como referencias de origen; tejido muscular de la lengua como zona de terminación.",
+        "articulaciones": "No forma una articulación. Actúa sobre los elementos del aparato hioideo, la lengua o la laringe, según su trayecto.",
+        "inserciones": "Origen: proceso lingual del basihioides y regiones del estilohioides y tirohioides. Inserción: fibras que terminan en la lengua, muchas próximas al dorso y al plano medio.",
+        "irrigacion": "La irrigación arterial individual del músculo no está descrita de manera suficientemente específica y consistente en las fuentes equinas consultadas. Recibe aporte de la vascularización regional; no se asigna una arteria exclusiva sin respaldo.",
+        "inervacion": "Nervio hipogloso (XII).",
+        "funcion": "Retrae y deprime la lengua, especialmente su porción caudal; actúa como antagonista funcional del geniogloso en la protrusión lingual.",
+        "especie": "En el caballo, el hyoglossus se origina en el proceso lingual del basihioides y en elementos hioideos vecinos, y sus fibras terminan en la lengua. Su función principal es retraerla caudoventralmente.",
+        "clinica": "Participa en la movilidad de la lengua y en la manipulación del alimento durante la masticación y la deglución. Su función debe valorarse junto con la del nervio hipogloso.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Tabla de músculos del aparato hioideo y músculos ventrales del cuello. https://equinetherapies.net.au/wp-content/uploads/2020/12/Anatomy-of-the-Horse-6th-Edition.pdf\nKelly PG. Studies on serial resting and dynamic endoscopic examinations of Thoroughbred yearlings. University of Glasgow; 2015. https://theses.gla.ac.uk/7248/1/2015KellyMVM.pdf"
+      }
     },
     {
       "id": "equ.mus.len.003-i",
