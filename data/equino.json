@@ -27440,7 +27440,21 @@
       "es": "Basihioides",
       "la": "Os basihyoideum",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Se sitúa en la línea media, en la base del aparato hioideo, entre los segmentos derechos e izquierdos que se proyectan hacia el aparato estilohioideo y la laringe. Está profundamente relacionado con la raíz de la lengua y el suelo de la cavidad oral.",
+        "descripcion": "Hueso impar y central del aparato hioideo equino. Constituye el cuerpo o segmento basilar al que se conectan los elementos pares del aparato hioideo. Presenta un proceso lingual (processus lingualis) que se proyecta rostralmente y sirve de soporte a la raíz de la lengua.",
+        "relaciones": "Rostralmente se relaciona con la raíz de la lengua y su musculatura; lateralmente se conecta con los segmentos ceratohioideos y tirohioideos del aparato; caudalmente se relaciona con la región de la laringe. Se encuentra suspendido desde la región temporal por la cadena de elementos hioideos pares.",
+        "accidentes": "Cuerpo del basihioides (corpus) y proceso lingual (processus lingualis). Las superficies y extremos laterales participan en la unión con los segmentos pares del aparato hioideo. No atribuirle procesos o cuernos propios de otros elementos sin confirmación anatómica equina.",
+        "articulaciones": "Forma parte de las uniones del aparato hioideo con los segmentos pares adyacentes, especialmente los ceratohioideos y tirohioideos, según la disposición de cada lado. Estas uniones son articulaciones o sincondrosis propias del aparato hioideo; no constituye una articulación directa con el cráneo.",
+        "inserciones": "Proporciona fijación a músculos extrínsecos de la lengua y músculos suprahioideos asociados al aparato hioideo, incluidos los músculos geniohioideo y basihioideo cuando se describen en la especie. La inserción concreta depende del músculo y de la superficie del cuerpo o del proceso lingual.",
+        "irrigacion": "Recibe pequeños vasos de los tejidos musculares y mucosos vecinos del suelo de la boca y la raíz de la lengua. No se asigna una arteria nutricia exclusiva del basihioides equino sin una fuente anatómica específica; distinguir el aporte de tejidos blandos de la vascularización intraósea.",
+        "inervacion": "El tejido óseo no posee una inervación funcional independiente descrita en la nomenclatura anatómica. Los músculos y tejidos blandos relacionados reciben inervación de nervios craneales y cervicales según cada músculo; no atribuir al basihioides la inervación de la lengua o de la musculatura hioidea.",
+        "funcion": "Actúa como pieza central de soporte del aparato hioideo, mantiene la relación entre lengua y laringe y sirve de punto de fijación para músculos que intervienen en los movimientos de la lengua, la deglución y la coordinación del aparato hioideo durante la respiración y la fonación.",
+        "especie": "En el caballo, el basihioides es impar y ocupa la posición central del aparato hioideo. Su proceso lingual es una referencia característica y se relaciona estrechamente con la raíz de la lengua. El aparato hioideo suspende la lengua y la laringe desde la región temporal mediante sus elementos pares.",
+        "clinica": "Las alteraciones del aparato hioideo pueden afectar la movilidad de la lengua, la deglución y la función laríngea. En el caballo, la evaluación clínica y por imagen del aparato hioideo es importante ante disfagia, dolor regional o alteraciones de la movilidad lingual. No confundir el basihioides con el cartílago basihioideo ni con los segmentos pares adyacentes.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del aparato hioideo.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. Sección de lengua, aparato hioideo y laringe.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. Sección del aparato hioideo."
+      }
     },
     {
       "id": "equ.ske.hyo.002-i",
