@@ -27461,14 +27461,42 @@
       "es": "Tirohioides (izquierdo)",
       "la": "Os thyrohyoideum",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Segmento par y caudal del aparato hioideo. Cada tirohioides se extiende desde el extremo correspondiente del basihioides hacia el cartílago tiroideo de la laringe.",
+        "descripcion": "Hueso alargado, derecho o izquierdo, que conecta el basihioides con la región rostral del cartílago tiroideo. Forma parte de la unión funcional entre el aparato hioideo, la lengua y la laringe.",
+        "relaciones": "Se relaciona medialmente con el extremo caudal del basihioides y caudalmente con el cartílago tiroideo. Está rodeado por músculos y tejidos blandos del aparato hioideo y de la región laríngea.",
+        "accidentes": "Es un elemento óseo alargado, con extremos de unión al basihioides y a la región del cartílago tiroideo. No se asignan procesos o relieves nominales adicionales sin confirmación específica en el caballo.",
+        "articulaciones": "Se une rostralmente al basihioides y caudalmente al cartílago tiroideo, mediante conexiones cartilaginosas o fibrosas descritas para el aparato hioideo. La configuración exacta debe interpretarse con la anatomía equina, sin confundir estas uniones con articulaciones sinoviales.",
+        "inserciones": "Se relaciona con el músculo tirohioideo (thyrohyoideus), que aproxima el aparato hioideo y la laringe. Las fijaciones musculares deben atribuirse a las superficies y conexiones regionales descritas, sin inventar inserciones de músculos linguales no demostradas.",
+        "irrigacion": "La vascularización procede de pequeños vasos regionales de los tejidos musculares y laríngeos vecinos. No se asigna una arteria nutricia exclusiva del tirohioides equino sin respaldo anatómico específico.",
+        "inervacion": "El hueso no tiene una inervación funcional independiente descrita. El músculo tirohioideo y los tejidos blandos vecinos reciben inervación regional; no debe confundirse la inervación muscular con una inervación propia del tejido óseo.",
+        "funcion": "Completa el enlace caudal del aparato hioideo con la laringe. Contribuye a transmitir los movimientos entre el aparato hioideo y la laringe durante la deglución y los ajustes de posición de la lengua y la laringe.",
+        "especie": "En el caballo existe un par de tirohioides, uno a cada lado, que conecta el basihioides con el cartílago tiroideo. Debe estudiarse como parte del aparato hioideo y no como un hueso independiente del esqueleto laríngeo.",
+        "clinica": "Las alteraciones, traumatismos o cambios de posición del aparato hioideo pueden asociarse con dolor, disfagia o trastornos de la movilidad lingual y laríngea. La valoración debe considerar el conjunto hioideo y sus conexiones con la laringe.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del aparato hioideo y laringe.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. Sección del aparato hioideo.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. Sección del aparato hioideo y laringe."
+      }
     },
     {
       "id": "equ.ske.hyo.002-d",
       "es": "Tirohioides (derecho)",
       "la": "Os thyrohyoideum",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Segmento par y caudal del aparato hioideo. Cada tirohioides se extiende desde el extremo correspondiente del basihioides hacia el cartílago tiroideo de la laringe.",
+        "descripcion": "Hueso alargado, derecho o izquierdo, que conecta el basihioides con la región rostral del cartílago tiroideo. Forma parte de la unión funcional entre el aparato hioideo, la lengua y la laringe.",
+        "relaciones": "Se relaciona medialmente con el extremo caudal del basihioides y caudalmente con el cartílago tiroideo. Está rodeado por músculos y tejidos blandos del aparato hioideo y de la región laríngea.",
+        "accidentes": "Es un elemento óseo alargado, con extremos de unión al basihioides y a la región del cartílago tiroideo. No se asignan procesos o relieves nominales adicionales sin confirmación específica en el caballo.",
+        "articulaciones": "Se une rostralmente al basihioides y caudalmente al cartílago tiroideo, mediante conexiones cartilaginosas o fibrosas descritas para el aparato hioideo. La configuración exacta debe interpretarse con la anatomía equina, sin confundir estas uniones con articulaciones sinoviales.",
+        "inserciones": "Se relaciona con el músculo tirohioideo (thyrohyoideus), que aproxima el aparato hioideo y la laringe. Las fijaciones musculares deben atribuirse a las superficies y conexiones regionales descritas, sin inventar inserciones de músculos linguales no demostradas.",
+        "irrigacion": "La vascularización procede de pequeños vasos regionales de los tejidos musculares y laríngeos vecinos. No se asigna una arteria nutricia exclusiva del tirohioides equino sin respaldo anatómico específico.",
+        "inervacion": "El hueso no tiene una inervación funcional independiente descrita. El músculo tirohioideo y los tejidos blandos vecinos reciben inervación regional; no debe confundirse la inervación muscular con una inervación propia del tejido óseo.",
+        "funcion": "Completa el enlace caudal del aparato hioideo con la laringe. Contribuye a transmitir los movimientos entre el aparato hioideo y la laringe durante la deglución y los ajustes de posición de la lengua y la laringe.",
+        "especie": "En el caballo existe un par de tirohioides, uno a cada lado, que conecta el basihioides con el cartílago tiroideo. Debe estudiarse como parte del aparato hioideo y no como un hueso independiente del esqueleto laríngeo.",
+        "clinica": "Las alteraciones, traumatismos o cambios de posición del aparato hioideo pueden asociarse con dolor, disfagia o trastornos de la movilidad lingual y laríngea. La valoración debe considerar el conjunto hioideo y sus conexiones con la laringe.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del aparato hioideo y laringe.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. Sección del aparato hioideo.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. Sección del aparato hioideo y laringe."
+      }
     },
     {
       "id": "equ.ske.hyo.003-i",
