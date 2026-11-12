@@ -27545,14 +27545,42 @@
       "es": "Estilohioides (izquierdo)",
       "la": "Os stylohyoideum",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Elemento par y alargado del aparato hioideo, situado dorsalmente en cada lado. Se extiende desde la región del hueso temporal, donde se conecta mediante el cartílago timpano-hioideo, hacia el epihioides.",
+        "descripcion": "Hueso largo y robusto que constituye el principal segmento proximal de cada mitad del aparato hioideo equino. Suspende el resto de la cadena hioidea desde la región temporal.",
+        "relaciones": "Su extremo proximal se relaciona con la porción timpánica del hueso temporal a través del cartílago timpano-hioideo. Su extremo distal se conecta con el epihioides. Se relaciona con estructuras de la región parotídea, faríngea y del oído, además de músculos hioideos vecinos.",
+        "accidentes": "Presenta un cuerpo alargado con extremos de conexión proximal y distal. No se asignan procesos, crestas ni superficies articulares nominales adicionales sin confirmación específica en la descripción anatómica equina.",
+        "articulaciones": "Proximalmente se une al temporal mediante el cartílago timpano-hioideo; distalmente se conecta con el epihioides. Estas conexiones forman parte de la suspensión y continuidad del aparato hioideo y no deben confundirse con articulaciones sinoviales convencionales.",
+        "inserciones": "Sirve de soporte y zona de relación para la musculatura asociada al aparato hioideo. Las fijaciones musculares deben describirse según cada músculo y la fuente anatómica; no se atribuyen inserciones exclusivas no documentadas sobre el estilohioides equino.",
+        "irrigacion": "Recibe aporte de pequeños vasos regionales de los tejidos blandos vecinos. No se asigna una arteria nutricia exclusiva del estilohioides equino sin respaldo anatómico específico.",
+        "inervacion": "El tejido óseo no posee una inervación funcional independiente establecida. La musculatura y los tejidos blandos adyacentes reciben inervación regional; esta no debe presentarse como inervación propia del hueso.",
+        "funcion": "Suspende el aparato hioideo desde el hueso temporal y transmite las fuerzas y movimientos entre el cráneo y los segmentos hioideos más ventrales. Contribuye a la movilidad coordinada de lengua y laringe durante la deglución.",
+        "especie": "En el caballo, cada estilohioides es un elemento largo y prominente que se dirige ventralmente desde la región temporal. Se conecta proximalmente mediante el cartílago timpano-hioideo y distalmente con el epihioides, formando parte de la cadena hioidea lateral.",
+        "clinica": "La región estilohioidea es relevante en la evaluación de alteraciones del aparato hioideo equino. Cambios óseos o de sus conexiones pueden asociarse con dolor al movimiento de la cabeza, disfagia o alteraciones de la movilidad lingual. La interpretación debe considerar la cadena hioidea completa.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del aparato hioideo y región temporal.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. Sección del aparato hioideo.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. Sección del aparato hioideo."
+      }
     },
     {
       "id": "equ.ske.hyo.004-d",
       "es": "Estilohioides (derecho)",
       "la": "Os stylohyoideum",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Elemento par y alargado del aparato hioideo, situado dorsalmente en cada lado. Se extiende desde la región del hueso temporal, donde se conecta mediante el cartílago timpano-hioideo, hacia el epihioides.",
+        "descripcion": "Hueso largo y robusto que constituye el principal segmento proximal de cada mitad del aparato hioideo equino. Suspende el resto de la cadena hioidea desde la región temporal.",
+        "relaciones": "Su extremo proximal se relaciona con la porción timpánica del hueso temporal a través del cartílago timpano-hioideo. Su extremo distal se conecta con el epihioides. Se relaciona con estructuras de la región parotídea, faríngea y del oído, además de músculos hioideos vecinos.",
+        "accidentes": "Presenta un cuerpo alargado con extremos de conexión proximal y distal. No se asignan procesos, crestas ni superficies articulares nominales adicionales sin confirmación específica en la descripción anatómica equina.",
+        "articulaciones": "Proximalmente se une al temporal mediante el cartílago timpano-hioideo; distalmente se conecta con el epihioides. Estas conexiones forman parte de la suspensión y continuidad del aparato hioideo y no deben confundirse con articulaciones sinoviales convencionales.",
+        "inserciones": "Sirve de soporte y zona de relación para la musculatura asociada al aparato hioideo. Las fijaciones musculares deben describirse según cada músculo y la fuente anatómica; no se atribuyen inserciones exclusivas no documentadas sobre el estilohioides equino.",
+        "irrigacion": "Recibe aporte de pequeños vasos regionales de los tejidos blandos vecinos. No se asigna una arteria nutricia exclusiva del estilohioides equino sin respaldo anatómico específico.",
+        "inervacion": "El tejido óseo no posee una inervación funcional independiente establecida. La musculatura y los tejidos blandos adyacentes reciben inervación regional; esta no debe presentarse como inervación propia del hueso.",
+        "funcion": "Suspende el aparato hioideo desde el hueso temporal y transmite las fuerzas y movimientos entre el cráneo y los segmentos hioideos más ventrales. Contribuye a la movilidad coordinada de lengua y laringe durante la deglución.",
+        "especie": "En el caballo, cada estilohioides es un elemento largo y prominente que se dirige ventralmente desde la región temporal. Se conecta proximalmente mediante el cartílago timpano-hioideo y distalmente con el epihioides, formando parte de la cadena hioidea lateral.",
+        "clinica": "La región estilohioidea es relevante en la evaluación de alteraciones del aparato hioideo equino. Cambios óseos o de sus conexiones pueden asociarse con dolor al movimiento de la cabeza, disfagia o alteraciones de la movilidad lingual. La interpretación debe considerar la cadena hioidea completa.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del aparato hioideo y región temporal.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. Sección del aparato hioideo.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. Sección del aparato hioideo."
+      }
     },
     {
       "id": "equ.ske.hyo.005-i",
