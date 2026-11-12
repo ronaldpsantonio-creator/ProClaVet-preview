@@ -27503,14 +27503,42 @@
       "es": "Ceratohioides (izquierdo)",
       "la": "Os ceratohyoideum",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Elemento par del aparato hioideo, situado entre el epihioides y el basihioides. Cada ceratohioides ocupa la porción rostral de la cadena hioidea, a uno y otro lado de la línea media.",
+        "descripcion": "Hueso pequeño y par que participa en la continuidad de cada cadena hioidea lateral hacia el basihioides. Su forma y proporciones deben interpretarse junto con los segmentos vecinos del aparato hioideo equino.",
+        "relaciones": "Se relaciona proximalmente con el epihioides y distalmente con el basihioides. Mantiene relaciones estrechas con la musculatura de la raíz de la lengua y los tejidos blandos del espacio intermandibular.",
+        "accidentes": "Presenta extremos de conexión con los segmentos hioideos adyacentes. No se asignan nombres específicos a crestas, caras o procesos que no estén confirmados para la descripción equina.",
+        "articulaciones": "Participa en las uniones de la cadena hioidea entre epihioides y basihioides. Estas conexiones pueden ser cartilaginosas o fibrosas según el segmento y la descripción anatómica; no deben representarse automáticamente como articulaciones sinoviales.",
+        "inserciones": "Se integra en el sistema de fijación de la musculatura hioidea y lingual. No se atribuyen inserciones musculares exclusivas al ceratohioides cuando la bibliografía describe fijaciones sobre el aparato hioideo en conjunto o sobre segmentos vecinos.",
+        "irrigacion": "Recibe aporte de pequeños vasos regionales de los tejidos blandos vecinos. No se identifica aquí una arteria nutricia exclusiva del ceratohioides equino por falta de respaldo anatómico específico.",
+        "inervacion": "El tejido óseo no posee una inervación funcional independiente establecida. La musculatura y los tejidos blandos relacionados reciben inervación regional; no debe confundirse esta con una inervación propia del hueso.",
+        "funcion": "Contribuye a mantener la continuidad y movilidad de la cadena hioidea, transmitiendo fuerzas entre el basihioides y los segmentos más dorsales que suspenden el aparato desde la región temporal. Participa indirectamente en los movimientos de lengua y laringe durante la deglución.",
+        "especie": "En el caballo el ceratohioides es par y forma parte de la cadena hioidea lateral. Se encuentra entre el epihioides y el basihioides. La identificación debe respetar la nomenclatura y disposición propias de la especie equina.",
+        "clinica": "Las lesiones o alteraciones de la cadena hioidea pueden afectar la movilidad lingual y la deglución, aunque los signos suelen requerir evaluación del conjunto del aparato. La exploración por imagen debe diferenciar ceratohioides, epihioides y segmentos adyacentes.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del aparato hioideo.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. Sección del aparato hioideo.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. Sección del aparato hioideo."
+      }
     },
     {
       "id": "equ.ske.hyo.003-d",
       "es": "Ceratohioides (derecho)",
       "la": "Os ceratohyoideum",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Elemento par del aparato hioideo, situado entre el epihioides y el basihioides. Cada ceratohioides ocupa la porción rostral de la cadena hioidea, a uno y otro lado de la línea media.",
+        "descripcion": "Hueso pequeño y par que participa en la continuidad de cada cadena hioidea lateral hacia el basihioides. Su forma y proporciones deben interpretarse junto con los segmentos vecinos del aparato hioideo equino.",
+        "relaciones": "Se relaciona proximalmente con el epihioides y distalmente con el basihioides. Mantiene relaciones estrechas con la musculatura de la raíz de la lengua y los tejidos blandos del espacio intermandibular.",
+        "accidentes": "Presenta extremos de conexión con los segmentos hioideos adyacentes. No se asignan nombres específicos a crestas, caras o procesos que no estén confirmados para la descripción equina.",
+        "articulaciones": "Participa en las uniones de la cadena hioidea entre epihioides y basihioides. Estas conexiones pueden ser cartilaginosas o fibrosas según el segmento y la descripción anatómica; no deben representarse automáticamente como articulaciones sinoviales.",
+        "inserciones": "Se integra en el sistema de fijación de la musculatura hioidea y lingual. No se atribuyen inserciones musculares exclusivas al ceratohioides cuando la bibliografía describe fijaciones sobre el aparato hioideo en conjunto o sobre segmentos vecinos.",
+        "irrigacion": "Recibe aporte de pequeños vasos regionales de los tejidos blandos vecinos. No se identifica aquí una arteria nutricia exclusiva del ceratohioides equino por falta de respaldo anatómico específico.",
+        "inervacion": "El tejido óseo no posee una inervación funcional independiente establecida. La musculatura y los tejidos blandos relacionados reciben inervación regional; no debe confundirse esta con una inervación propia del hueso.",
+        "funcion": "Contribuye a mantener la continuidad y movilidad de la cadena hioidea, transmitiendo fuerzas entre el basihioides y los segmentos más dorsales que suspenden el aparato desde la región temporal. Participa indirectamente en los movimientos de lengua y laringe durante la deglución.",
+        "especie": "En el caballo el ceratohioides es par y forma parte de la cadena hioidea lateral. Se encuentra entre el epihioides y el basihioides. La identificación debe respetar la nomenclatura y disposición propias de la especie equina.",
+        "clinica": "Las lesiones o alteraciones de la cadena hioidea pueden afectar la movilidad lingual y la deglución, aunque los signos suelen requerir evaluación del conjunto del aparato. La exploración por imagen debe diferenciar ceratohioides, epihioides y segmentos adyacentes.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del aparato hioideo.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. Sección del aparato hioideo.\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. Sección del aparato hioideo."
+      }
     },
     {
       "id": "equ.ske.hyo.004-i",
