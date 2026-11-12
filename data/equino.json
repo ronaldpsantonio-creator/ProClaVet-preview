@@ -700,14 +700,42 @@
       "es": "Estribo (izquierdo)",
       "la": "Stapes",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Se encuentra en la cavidad timpánica del oído medio, medial al yunque y apoyado sobre la ventana vestibular (fenestra vestibuli) mediante su base o platina (basis stapedis). Corresponde al lado indicado. Lado izquierdo.",
+        "descripcion": "Es el más medial de los tres huesecillos auditivos y presenta una cabeza (caput stapedis), dos ramas o cruras (crus rostrale y crus caudale) y una base o platina (basis stapedis). Su forma recuerda a un estribo. La platina se adapta a la ventana vestibular y se mantiene unida por el ligamento anular del estribo.",
+        "relaciones": "La cabeza se articula con el proceso lenticular del yunque. Las dos cruras conectan la cabeza con la base; la base se relaciona con la ventana vestibular y el vestíbulo del oído interno. El estribo está rodeado por la mucosa de la cavidad timpánica y estabilizado por el ligamento anular.",
+        "accidentes": "Cabeza (caput stapedis), dos ramas o cruras (crura stapedis) y base o platina (basis stapedis). La base presenta una superficie adaptada a la ventana vestibular. No confundir la ventana vestibular con la ventana coclear, ni las cruras del estribo con los procesos del yunque.",
+        "articulaciones": "La cabeza articula con el proceso lenticular del yunque mediante la articulación incudostapedial. La base no forma una articulación sinovial con el temporal: se fija al margen de la ventana vestibular mediante el ligamento anular del estribo, permitiendo transmitir vibraciones al oído interno.",
+        "inserciones": "No presenta inserciones musculares principales directas comparables a las del martillo. Se fija periféricamente a la ventana vestibular por el ligamento anular del estribo. El músculo estapedio, cuando está presente y descrito en la especie, actúa sobre la región de la cabeza/cuello del estribo; no atribuirle inserciones no confirmadas para el caballo.",
+        "irrigacion": "Recibe aporte vascular de pequeños vasos de la mucosa y tejidos de la cavidad timpánica. No se asigna una arteria nutricia exclusiva del estribo equino por falta de respaldo anatómico específico. La vascularización de la mucosa vecina no debe presentarse como irrigación intraósea demostrada.",
+        "inervacion": "No se describe una inervación sensitiva propia del tejido óseo del estribo. La mucosa de la cavidad timpánica posee inervación regional. La inervación motora del músculo estapedio, si se describe para la especie, corresponde al músculo y no al huesecillo.",
+        "funcion": "Recibe las vibraciones del yunque y las transmite mediante su base a la ventana vestibular. El movimiento de la platina desplaza los líquidos del oído interno y permite la propagación de ondas mecánicas hacia la cóclea, paso esencial para la audición.",
+        "especie": "En el caballo, el estribo integra la cadena osicular del oído medio junto con el martillo y el yunque. Es el huesecillo más medial; su base ocupa la ventana vestibular y comunica mecánicamente la cadena osicular con el oído interno. Debe diferenciarse de la ventana coclear y de las estructuras del laberinto.",
+        "clinica": "La fijación anormal, fractura o alteración de la cadena osicular puede causar pérdida auditiva conductiva. La ventana vestibular y la platina del estribo son referencias importantes en la evaluación por imagen del oído medio. La tomografía computarizada puede ayudar a valorar la cadena osicular y sus relaciones con el oído interno.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del oído medio y huesecillos auditivos equinos.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. Sección del oído medio y cadena de huesecillos.\nMerck Veterinary Manual. Ear Structure and Function in Horses. https://www.merckvetmanual.com/horse-owners/ear-disorders-of-horses/ear-structure-and-function-in-horses"
+      }
     },
     {
       "id": "equ.ske.oid.003-d",
       "es": "Estribo (derecho)",
       "la": "Stapes",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Se encuentra en la cavidad timpánica del oído medio, medial al yunque y apoyado sobre la ventana vestibular (fenestra vestibuli) mediante su base o platina (basis stapedis). Corresponde al lado indicado. Lado derecho.",
+        "descripcion": "Es el más medial de los tres huesecillos auditivos y presenta una cabeza (caput stapedis), dos ramas o cruras (crus rostrale y crus caudale) y una base o platina (basis stapedis). Su forma recuerda a un estribo. La platina se adapta a la ventana vestibular y se mantiene unida por el ligamento anular del estribo.",
+        "relaciones": "La cabeza se articula con el proceso lenticular del yunque. Las dos cruras conectan la cabeza con la base; la base se relaciona con la ventana vestibular y el vestíbulo del oído interno. El estribo está rodeado por la mucosa de la cavidad timpánica y estabilizado por el ligamento anular.",
+        "accidentes": "Cabeza (caput stapedis), dos ramas o cruras (crura stapedis) y base o platina (basis stapedis). La base presenta una superficie adaptada a la ventana vestibular. No confundir la ventana vestibular con la ventana coclear, ni las cruras del estribo con los procesos del yunque.",
+        "articulaciones": "La cabeza articula con el proceso lenticular del yunque mediante la articulación incudostapedial. La base no forma una articulación sinovial con el temporal: se fija al margen de la ventana vestibular mediante el ligamento anular del estribo, permitiendo transmitir vibraciones al oído interno.",
+        "inserciones": "No presenta inserciones musculares principales directas comparables a las del martillo. Se fija periféricamente a la ventana vestibular por el ligamento anular del estribo. El músculo estapedio, cuando está presente y descrito en la especie, actúa sobre la región de la cabeza/cuello del estribo; no atribuirle inserciones no confirmadas para el caballo.",
+        "irrigacion": "Recibe aporte vascular de pequeños vasos de la mucosa y tejidos de la cavidad timpánica. No se asigna una arteria nutricia exclusiva del estribo equino por falta de respaldo anatómico específico. La vascularización de la mucosa vecina no debe presentarse como irrigación intraósea demostrada.",
+        "inervacion": "No se describe una inervación sensitiva propia del tejido óseo del estribo. La mucosa de la cavidad timpánica posee inervación regional. La inervación motora del músculo estapedio, si se describe para la especie, corresponde al músculo y no al huesecillo.",
+        "funcion": "Recibe las vibraciones del yunque y las transmite mediante su base a la ventana vestibular. El movimiento de la platina desplaza los líquidos del oído interno y permite la propagación de ondas mecánicas hacia la cóclea, paso esencial para la audición.",
+        "especie": "En el caballo, el estribo integra la cadena osicular del oído medio junto con el martillo y el yunque. Es el huesecillo más medial; su base ocupa la ventana vestibular y comunica mecánicamente la cadena osicular con el oído interno. Debe diferenciarse de la ventana coclear y de las estructuras del laberinto.",
+        "clinica": "La fijación anormal, fractura o alteración de la cadena osicular puede causar pérdida auditiva conductiva. La ventana vestibular y la platina del estribo son referencias importantes en la evaluación por imagen del oído medio. La tomografía computarizada puede ayudar a valorar la cadena osicular y sus relaciones con el oído interno.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del oído medio y huesecillos auditivos equinos.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. Sección del oído medio y cadena de huesecillos.\nMerck Veterinary Manual. Ear Structure and Function in Horses. https://www.merckvetmanual.com/horse-owners/ear-disorders-of-horses/ear-structure-and-function-in-horses"
+      }
     },
     {
       "id": "equ.ske.cer.001",
