@@ -914,7 +914,7 @@
         "referencias": "Henson FMD (ed.). Equine Neck and Back Pathology: Diagnosis and Treatment. 2nd ed. Wiley-Blackwell; 2018. Capítulo 1, “The Normal Anatomy of the Neck”: proceso espinoso de C7, procesos transversos no bifurcados y ausencia normal de foramen transverso.\n\nUniversity of Minnesota. Large Animal Anatomy: Neck and Thorax. Características de las vértebras cervicales equinas y ausencia de foramen transverso en C7: https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/\n\nVeraa S, et al. Ex vivo computed tomographic evaluation of morphology variations in equine cervical vertebrae. Veterinary Radiology & Ultrasound. 2016. Variaciones morfológicas de C6–C7 y transposición de estructuras: https://pubmed.ncbi.nlm.nih.gov/27438135/\n\nAnatomical Insights Into the Equine Cervical Intervertebral Foramina: Implications for Veterinary Practice. Anatomia, Histologia, Embryologia. 2026. Anatomía de los forámenes intervertebrales C5–C6 y C6–C7: https://pmc.ncbi.nlm.nih.gov/articles/PMC13370843/\n\nShould cervical radiographs be included in a pre-purchase examination? Equine Veterinary Education. Variaciones morfológicas de C7 y transposición de la lámina ventral de C6: https://beva.onlinelibrary.wiley.com/doi/10.1111/eve.13941"
       },
       "auditoria": {
-        "ficha": "incorporada_pendiente_verificacion",
+        "ficha": "verificada_por_usuario",
         "fecha": "2026-11-13",
         "entorno": "ProClaVet-preview"
       }
