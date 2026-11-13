@@ -69,7 +69,12 @@ El único registro con ruta de modelo es el corazón, cuyo nombre está marcado 
 - Registros sin nombre latino: 0.
 - Registros sin código de sistema: 0.
 - Registros sin código de capa: 0.
-- IDs duplicados: 0 (según la auditoría estructural previa; volver a ejecutar como control automatizado antes de publicar cambios masivos).
+- IDs duplicados: 0 (control automatizado ejecutado en esta actualización).
+- Registros sin ID, nombre español, nombre latino, sistema o capa: 0 en cada campo.
+
+### Desglose del sistema esquelético
+
+De los 352 registros esqueléticos, 52 tienen ficha con contenido y 300 no. Por capa: 217 registros óseos (46 con ficha), 133 articulares/ligamentosos (4 con ficha) y 2 registros orgánicos (2 con ficha). Los 31 registros del cráneo están incluidos entre los 46 óseos con ficha.
 
 ## 6. Decisiones y siguientes pasos
 
