@@ -8,10 +8,12 @@ Este registro conserva los resultados observados y comunicados por el usuario du
 | Estructura | Ficha anatómica | Modelo 3D | Observación |
 |---|---|---|---|
 | Atlas (C1) | **Ausente** | **Verificado por el usuario** | Debe crearse/revisarse la ficha. El modelo 3D fue confirmado visualmente por el usuario. |
+| Axis (C2) | **Ausente** | **Esquemático o incorrecto** | Debe elaborarse/incorporarse la ficha y sustituirse o corregirse el modelo 3D; no se considera validado anatómicamente. |
 
 ## Pendientes derivados
 - Atlas (C1): elaborar e incorporar ficha anatómica; conservar el modelo 3D como verificado.
-- Continuar la verificación de Axis (C2), sin asumir resultados antes de la confirmación del usuario.
+- Axis (C2): elaborar e incorporar ficha anatómica y revisar/sustituir el modelo 3D esquemático o incorrecto.
+- Continuar la verificación de Vértebra cervical C3, sin asumir resultados antes de la confirmación del usuario.
 
 ## Criterios
 - “Verificado” significa confirmado visualmente por el usuario en el visor.
