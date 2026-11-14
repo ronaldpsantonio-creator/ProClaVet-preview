@@ -5,12 +5,12 @@ const SYSTEMS=[["ske","Esquelético"],["mus","Muscular"],["dig","Digestivo"],["r
 const LYM=new Set(["lin","lco","lor"]);const skey=s=>s.sys==="car"&&LYM.has(s.id.split(".")[2])?"lin":s.sys;
 const LAYERS=[["pel","Piel y tejido subcutáneo"],["fas","Fascias"],["msu","Músculos superficiales"],["mpr","Músculos profundos"],["oss","Sistema óseo"],["art","Articulaciones y ligamentos"],["vas","Sistema vascular"],["ner","Sistema nervioso"],["org","Órganos internos"],["cav","Cavidades y estructuras profundas"]];
 const FIELDS=[["ubicacion","Ubicación anatómica"],["descripcion","Descripción morfológica"],["relaciones","Relaciones anatómicas"],["accidentes","Accidentes anatómicos"],["articulaciones","Articulaciones"],["inserciones","Inserciones musculares"],["irrigacion","Irrigación"],["inervacion","Inervación"],["funcion","Función"],["especie","Particularidades de la especie"],["clinica","Importancia clínica"],["referencias","Referencias bibliográficas"]];
-const S={items:{},sel:null,q:"",L:{},sys:{},fav:{},notes:{},sex:"all"};
+const S={items:{},sel:null,q:"",L:{},sys:{},fav:{},notes:{},sex:"all",verified:{}};
 // Sexo: "all" muestra todo; "m" caballo (macho); "f" yegua (hembra). Las estructuras sin campo "sex" se ven siempre.
 const sexOk=s=>!s.sex||S.sex==="all"||s.sex===S.sex;
 LAYERS.forEach(([k])=>S.L[k]={on:true,op:100});
-try{S.fav=JSON.parse(localStorage.getItem("va_fav")||"{}");S.notes=JSON.parse(localStorage.getItem("va_notes")||"{}")}catch(e){}
-const persist=()=>{try{localStorage.setItem("va_fav",JSON.stringify(S.fav));localStorage.setItem("va_notes",JSON.stringify(S.notes))}catch(e){}};
+try{S.fav=JSON.parse(localStorage.getItem("va_fav")||"{}");S.notes=JSON.parse(localStorage.getItem("va_notes")||"{}");S.verified=JSON.parse(localStorage.getItem("va_verified")||"{}")}catch(e){}
+const persist=()=>{try{localStorage.setItem("va_fav",JSON.stringify(S.fav));localStorage.setItem("va_notes",JSON.stringify(S.notes));localStorage.setItem("va_verified",JSON.stringify(S.verified))}catch(e){}};
 // ---- Visor
 const vw=$("vw"),sc=new THREE.Scene(),cam=new THREE.PerspectiveCamera(45,1,.1,100),ren=new THREE.WebGLRenderer({antialias:true,alpha:true});
 ren.setPixelRatio(Math.min(devicePixelRatio,2));vw.prepend(ren.domElement);
@@ -164,8 +164,8 @@ function ficha(){
  $("tf").innerHTML=`<h3 style="margin:0">${blind?s.id:s.es}</h3><div class="mu">${blind?"":s.la+" (NAV) · "}${s.id}</div>
  <p class="${it.state==="cargado"?"mu":"pend"}" style="font-size:13px">Modelo 3D: ${it.state==="cargado"?"cargado. Licencia: "+(s.licencia||"sin documentar"):(it.esq?"esquemático provisional (forma simplificada, no es anatomía real); pendiente del modelo verificado.":s.ph?"marcador provisional, pendiente de desarrollo.":"sin modelo 3D, pendiente de desarrollo.")}</p>`+
  FIELDS.map(([k,n])=>`<div class="f"><span>${n}</span>${F[k]?F[k]:'<span class="pend">Pendiente: sin información verificada</span>'}</div>`).join("")+
- `<div class="f"><span>Notas personales</span><textarea id="nt" rows="3" style="width:100%;box-sizing:border-box">${S.notes[s.id]||""}</textarea></div>`;
- $("nt").oninput=e=>{S.notes[s.id]=e.target.value;persist()};
+ `<div class="f"><span>Revisión de ficha</span><button id="vf" style="width:100%;padding:10px;border-radius:8px">${S.verified[s.id]?"Ficha confirmada · pasar a siguiente":"Confirmar ficha y pasar a siguiente"}</button><small class="mu">La confirmación registra la revisión de la ficha; no certifica por sí sola el modelo 3D.</small></div>`+`<div class="f"><span>Notas personales</span><textarea id="nt" rows="3" style="width:100%;box-sizing:border-box">${S.notes[s.id]||""}</textarea></div>`;
+ $("nt").oninput=e=>{S.notes[s.id]=e.target.value;persist()};$("vf").onclick=()=>{S.verified[s.id]=true;persist();const ids=Object.keys(S.items).filter(id=>/^equ\\.ske\\.(cer|tor|lum|sac|cau)\\.\\d{3}$/.test(id));const at=ids.indexOf(s.id);if(at>=0&&ids[at+1])pick(ids[at+1]);else ficha()};
 }
 function tab(t){["e","c","v","f","q"].forEach(k=>{const p=$("t"+k),b=document.querySelector(`[data-t=${k}]`);if(!p||!b)return;p.classList.toggle("hid",k!==t);b.classList.toggle("on",k===t)});if(t==="q"){window.quizEnter&&window.quizEnter()}else{window.quizLeave&&window.quizLeave()}}
 document.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>tab(b.dataset.t));
