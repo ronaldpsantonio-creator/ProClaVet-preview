@@ -1,7 +1,7 @@
 // ProClaVet - Service Worker sincronizado
-// v5: actualiza primero los archivos principales y conserva respaldo offline.
-const C="vetanatomy-v5";
-const CORE=["./","index.html","css/styles.css","js/app.js","data/equino.json","manifest.webmanifest"];
+// v7: incluye las fichas de Costilla 7 izquierda y derecha.
+const C="vetanatomy-v7-rib7-fichas";
+const CORE=["./","index.html","css/styles.css","js/app.js","data/equino.json","data/fichas_costillas_7.json","manifest.webmanifest"];
 
 self.addEventListener("install",e=>{
  e.waitUntil(caches.open(C).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting()));
