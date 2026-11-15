@@ -56,7 +56,7 @@ function makeMesh(P){
 function centerOf(P){return P.k==="seg"?V3(...P.a).add(V3(...P.b)).multiplyScalar(.5):P.k==="rib"?V3(...P.pts[2]):V3(...P.p)}
 // ---- Carga de datos y estructuras
 const loader=new THREE.GLTFLoader();
-fetch("data/equino.json").then(r=>r.json()).then(build).catch(()=>{$("warn").textContent="No se pudo leer data/equino.json. Abre la app desde un servidor (GitHub Pages), no desde el archivo local."});
+fetch("data/equino.json").then(r=>r.json()).then(d=>fetch("data/fichas_costillas_7.json").then(r=>r.ok?r.json():{}).catch(()=>({})).then(extra=>{d.structures.forEach(s=>{if(extra[s.id])s.ficha=extra[s.id]});return d})).then(build).catch(()=>{$("warn").textContent="No se pudo leer data/equino.json. Abre la app desde un servidor (GitHub Pages), no desde el archivo local."});
 function build(d){
  d.structures.filter(s=>!s.id.startsWith("equ.prv.ske.")).forEach(s=>{
   const g=new THREE.Group(),P0=s.ph,E=P0?null:schem(s),P=P0||E,ph=P0?new THREE.Mesh(new THREE.BoxGeometry(...P0.s),new THREE.MeshStandardMaterial({color:P0.c,transparent:true})):E?makeMesh(E):null;
@@ -165,7 +165,7 @@ function ficha(){
  <p class="${it.state==="cargado"?"mu":"pend"}" style="font-size:13px">Modelo 3D: ${it.state==="cargado"?"cargado. Licencia: "+(s.licencia||"sin documentar"):(it.esq?"esquemático provisional (forma simplificada, no es anatomía real); pendiente del modelo verificado.":s.ph?"marcador provisional, pendiente de desarrollo.":"sin modelo 3D, pendiente de desarrollo.")}</p>`+
  FIELDS.map(([k,n])=>`<div class="f"><span>${n}</span>${F[k]?F[k]:'<span class="pend">Pendiente: sin información verificada</span>'}</div>`).join("")+
  `<div class="f"><span>Revisión de ficha</span><button id="vf" style="width:100%;padding:10px;border-radius:8px">${S.verified[s.id]?"Ficha confirmada · pasar a siguiente":"Confirmar ficha y pasar a siguiente"}</button><small class="mu">La confirmación registra la revisión de la ficha; no certifica por sí sola el modelo 3D.</small></div>`+`<div class="f"><span>Notas personales</span><textarea id="nt" rows="3" style="width:100%;box-sizing:border-box">${S.notes[s.id]||""}</textarea></div>`;
- $("nt").oninput=e=>{S.notes[s.id]=e.target.value;persist()};$("vf").onclick=()=>{S.verified[s.id]=true;persist();const ids=Object.keys(S.items).filter(id=>/^equ\.ske\.(cer|tor|lum|sac|cau)\.\d{3}$/.test(id));const at=ids.indexOf(s.id);if(at>=0&&ids[at+1])pick(ids[at+1]);else ficha()};
+ $("nt").oninput=e=>{S.notes[s.id]=e.target.value;persist()};$("vf").onclick=()=>{S.verified[s.id]=true;persist();const ids=Object.keys(S.items).filter(id=>/^equ\.ske\.(cer|tor|lum|sac|cau)\.\d{3}$/.test(id)||/^equ\.ske\.cos\.\d{3}-[id]$/.test(id));const at=ids.indexOf(s.id);if(at>=0&&ids[at+1])pick(ids[at+1]);else ficha()};
 }
 function tab(t){["e","c","v","f","q"].forEach(k=>{const p=$("t"+k),b=document.querySelector(`[data-t=${k}]`);if(!p||!b)return;p.classList.toggle("hid",k!==t);b.classList.toggle("on",k===t)});if(t==="q"){window.quizEnter&&window.quizEnter()}else{window.quizLeave&&window.quizLeave()}}
 document.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>tab(b.dataset.t));
