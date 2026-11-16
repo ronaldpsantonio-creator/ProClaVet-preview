@@ -93,7 +93,7 @@ function build(d){
  });
  buildSystems();layerPanel();list();ficha();refresh();
  const nFichas=Object.values(S.items).filter(i=>i.s.ficha&&Object.keys(i.s.ficha).length>0).length;
- const tarsales=Object.values(S.items).filter(i=>/^equ\\.ske\\.mpe\\.00[89]|^equ\\.ske\\.mpe\\.010/.test(i.s.id)&&i.s.ficha).length;
+ const tarsales=Object.values(S.items).filter(i=>/^equ\.ske\.mpe\.(?:008|009|010)-[id]$/.test(i.s.id)&&i.s.ficha).length;
  console.info("[ProClaVet] Carga correcta:",{estructuras:Object.keys(S.items).length,fichas:nFichas,fichasTarsales:tarsales});
  $("warn").textContent=`Diagnóstico de carga: ${Object.keys(S.items).length} estructuras · ${nFichas} fichas integradas · ${tarsales}/6 fichas tarsales. Esqueleto esquemático provisional: las formas no son anatomía real; cada hueso espera su modelo GLB verificado.`;
  loadAll();
