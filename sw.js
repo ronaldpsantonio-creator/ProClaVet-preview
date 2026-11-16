@@ -1,6 +1,6 @@
 // ProClaVet - Service Worker sincronizado
-// v25: fichas anatómicas dentro de data/equino.json (ulna, carpianos radial e intermedio).
-const C="vetanatomy-v25-fichas-ulna-carpo";
+// v26: fichas anatómicas dentro de data/equino.json (hasta carpianos ulnar, accesorio y II).
+const C="vetanatomy-v26-fichas-carpo-2";
 const CORE=["./","index.html","css/styles.css","js/app.js","data/equino.json","manifest.webmanifest","assets/laminas/atlas-equino-c1.svg","assets/laminas/axis-equino-c2.svg"];
 
 self.addEventListener("install",e=>{
