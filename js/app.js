@@ -67,7 +67,13 @@ fetch("data/equino.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("equi
  "equ.ske.mpe.006-i":["Talus (izquierdo)","Talus sinister"],
  "equ.ske.mpe.006-d":["Talus (derecho)","Talus dexter"],
  "equ.ske.mpe.007-i":["Calcáneo (izquierdo)","Calcaneus sinister"],
- "equ.ske.mpe.007-d":["Calcáneo (derecho)","Calcaneus dexter"]
+ "equ.ske.mpe.007-d":["Calcáneo (derecho)","Calcaneus dexter"],
+ "equ.ske.mpe.008-i":["Tarsiano central (izquierdo)","Os tarsi centrale sinistrum"],
+ "equ.ske.mpe.008-d":["Tarsiano central (derecho)","Os tarsi centrale dextrum"],
+ "equ.ske.mpe.009-i":["Tarsianos I y II fusionados (izquierdos)","Ossa tarsalia I et II sinistra"],
+ "equ.ske.mpe.009-d":["Tarsianos I y II fusionados (derechos)","Ossa tarsalia I et II dextra"],
+ "equ.ske.mpe.010-i":["Tarsiano III (izquierdo)","Os tarsale III sinistrum"],
+ "equ.ske.mpe.010-d":["Tarsiano III (derecho)","Os tarsale III dextrum"]
  };
  Object.entries(extra).forEach(([id,ficha])=>{
   let s=d.structures.find(x=>x.id===id);
