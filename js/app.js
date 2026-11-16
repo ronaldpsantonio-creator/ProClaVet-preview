@@ -92,7 +92,10 @@ function build(d){
   S.items[s.id]={s,g,ph,c,lb,has:!!P,esq:!!E,vis:true,state:E?"esquemático":"pendiente",dir:c.clone().setY(c.y-.3).normalize()};
  });
  buildSystems();layerPanel();list();ficha();refresh();
- $("warn").textContent="Esqueleto esquemático provisional: formas simplificadas, no son anatomía real. Cada hueso espera su modelo GLB verificado.";
+ const nFichas=Object.values(S.items).filter(i=>i.s.ficha&&Object.keys(i.s.ficha).length>0).length;
+ const tarsales=Object.values(S.items).filter(i=>/^equ\\.ske\\.mpe\\.00[89]|^equ\\.ske\\.mpe\\.010/.test(i.s.id)&&i.s.ficha).length;
+ console.info("[ProClaVet] Carga correcta:",{estructuras:Object.keys(S.items).length,fichas:nFichas,fichasTarsales:tarsales});
+ $("warn").textContent=`Diagnóstico de carga: ${Object.keys(S.items).length} estructuras · ${nFichas} fichas integradas · ${tarsales}/6 fichas tarsales. Esqueleto esquemático provisional: las formas no son anatomía real; cada hueso espera su modelo GLB verificado.`;
  loadAll();
 }
 function mats(it){const a=[];it.g.traverse(m=>{if(m.isMesh)a.push(m.material)});return a}
