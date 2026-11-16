@@ -60,7 +60,24 @@ function makeMesh(P){
 function centerOf(P){return P.k==="seg"?V3(...P.a).add(V3(...P.b)).multiplyScalar(.5):P.k==="rib"?V3(...P.pts[2]):V3(...P.p)}
 // ---- Carga de datos y estructuras
 const loader=new THREE.GLTFLoader();
-fetch("data/equino.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("equino.json HTTP "+r.status);return r.json()}).then(d=>fetch("data/fichas_miembro_pelviano_1.json?v=1",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("fichas_miembro_pelviano_1.json HTTP "+r.status);return r.json()}).then(extra=>{d.structures.forEach(s=>{if(extra[s.id])s.ficha=extra[s.id]});return d})).then(build).catch(e=>{$("warn").textContent="Error al cargar datos anatómicos: "+e.message});
+fetch("data/equino.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("equino.json HTTP "+r.status);return r.json()}).then(d=>fetch("data/fichas_miembro_pelviano_1.json?v=2",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("fichas_miembro_pelviano_1.json HTTP "+r.status);return r.json()}).then(extra=>{
+ const defs={
+ "equ.ske.mpe.005-i":["Fíbula (izquierda)","Fibula sinistra"],
+ "equ.ske.mpe.005-d":["Fíbula (derecha)","Fibula dextra"],
+ "equ.ske.mpe.006-i":["Talus (izquierdo)","Talus sinister"],
+ "equ.ske.mpe.006-d":["Talus (derecho)","Talus dexter"],
+ "equ.ske.mpe.007-i":["Calcáneo (izquierdo)","Calcaneus sinister"],
+ "equ.ske.mpe.007-d":["Calcáneo (derecho)","Calcaneus dexter"]
+ };
+ Object.entries(extra).forEach(([id,ficha])=>{
+  let s=d.structures.find(x=>x.id===id);
+  if(!s){const [es,la]=defs[id]||[id,id];s={id,es,la,sys:"ske",layer:"oss"};d.structures.push(s)}
+  s.ficha=ficha;
+ });
+ const missing=Object.keys(extra).filter(id=>!d.structures.find(s=>s.id===id&&s.ficha));
+ if(missing.length)throw Error("Fichas pelvianas no vinculadas: "+missing.join(", "));
+ return d;
+})).then(build).catch(e=>{$("warn").textContent="Error al cargar datos anatómicos: "+e.message});
 function build(d){
  d.structures.filter(s=>!s.id.startsWith("equ.prv.ske.")).forEach(s=>{
   const g=new THREE.Group(),P0=s.ph,E=P0?null:schem(s),P=P0||E,ph=P0?new THREE.Mesh(new THREE.BoxGeometry(...P0.s),new THREE.MeshStandardMaterial({color:P0.c,transparent:true})):E?makeMesh(E):null;
