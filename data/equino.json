@@ -31292,18 +31292,18 @@
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "Se encuentra en la región caudodorsal del cráneo, entre el borde caudal de los huesos parietales y la región occipital, incluyendo la relación con el hueso interparietal según la configuración del cráneo.",
+        "ubicacion": "Se sitúa en la región caudodorsal del cráneo, en la unión entre los bordes caudales de los huesos parietales y la porción escamosa del occipital. En cráneos jóvenes, el hueso interparietal participa en esta región y sus uniones se modifican progresivamente durante el desarrollo.",
         "descripcion": "Articulación fibrosa del tipo sutura entre huesos planos del cráneo. No presenta cavidad sinovial ni cartílago articular; la unión se realiza mediante tejido conectivo fibroso interpuesto.",
         "accidentes": "Los márgenes óseos presentan contacto sutural de contorno dentado o irregular, con tejido conectivo fibroso interpuesto. No existen cápsula sinovial, meniscos ni ligamentos propios.",
         "articulaciones": "Se clasifica estructuralmente como sutura fibrosa y funcionalmente como sinartrosis en la clasificación clásica. La sutura puede permanecer patente durante el crecimiento y obliterarse progresivamente con la edad; los tiempos de cierre varían según la sutura y el individuo.",
         "inserciones": "No presenta inserciones musculares propias. El tejido fibroso se continúa con el periostio de los huesos adyacentes.",
         "irrigacion": "No posee irrigación articular independiente. Recibe aporte indirecto de los vasos periostales y de los tejidos conectivos vecinos; no se atribuye una arteria exclusiva a la línea sutural.",
         "inervacion": "No se describe una inervación exclusiva de la sutura. La sensibilidad regional corresponde al periostio y a los tejidos conectivos adyacentes.",
-        "especie": "En el caballo estas suturas forman parte de las uniones fibrosas del neurocráneo. La anatomía descriptiva equina identifica sus trayectos y las fuentes anatómicas clásicas señalan que su obliteración es progresiva y dependiente de la edad.",
-        "clinica": "Son referencias para la interpretación radiográfica y tomográfica del cráneo equino. La persistencia de una línea sutural debe interpretarse considerando edad y variación individual; no debe confundirse automáticamente con una fractura.",
-        "relaciones": "Rostralmente se relaciona con los huesos parietales; caudalmente con la región occipital. Lateralmente se aproxima a la unión parietotemporal.",
+        "especie": "En el caballo, el interparietal se une primero a los parietales y posteriormente al occipital durante el desarrollo. La secuencia y el momento de fusión presentan variación individual; la edad de cierre descrita en textos clásicos no debe tomarse como un límite universal.",
+        "clinica": "Es una referencia para la interpretación radiográfica y tomográfica del cráneo equino. En animales jóvenes debe considerarse el desarrollo y la posible persistencia de componentes suturales/interparietales para evitar confundir una línea de unión normal con una fractura.",
+        "relaciones": "Rostralmente se relaciona con los huesos parietales y caudalmente con la porción escamosa del occipital. En animales jóvenes puede identificarse el interparietal entre ambos componentes; lateralmente se aproxima a la región parietotemporal.",
         "funcion": "Conecta la región parietal del techo craneal con el occipital, contribuyendo a la estabilidad de la bóveda craneal y al crecimiento del neurocráneo.",
-        "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Fig. 47, cráneo del caballo en vista dorsal: identifica la sutura parietooccipital.\\nA Text-book of Veterinary Anatomy. Sección sobre los huesos parietales del caballo: describe la sutura parietooccipital o lambdoidea y señala su cierre habitual alrededor de los cinco años."
+        "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Fig. 47, cráneo del caballo en vista dorsal: identifica la sutura parietooccipital.\\nA Text-book of Veterinary Anatomy. Sección sobre los huesos parietales e interparietal: describe la unión parietooccipital/lambdoidea y la fusión progresiva del interparietal. La edad de cierre indicada en textos clásicos se considera orientativa, no una regla universal."
       }
     },
     {
@@ -31313,9 +31313,9 @@
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "En la región rostral de la órbita, entre el hueso nasal y el hueso lagrimal, en el límite entre la región nasal y la pared medial de la órbita.",
+        "ubicacion": "Se localiza en la región naso-orbitaria, entre el hueso nasal y el hueso lagrimal, en la transición de la región nasal hacia la pared medial y el margen rostral de la órbita. Debe distinguirse la línea sutural del conducto nasolagrimal, que es una estructura diferente.",
         "descripcion": "Articulación fibrosa del tipo sutura que une los márgenes de los huesos indicados. No presenta cavidad sinovial ni cartílago articular; el contacto se mantiene mediante tejido conectivo fibroso sutural.",
-        "relaciones": "Se relaciona rostralmente con el hueso nasal y caudalmente con el lagrimal. Forma parte de la continuidad sutural del margen orbitario rostral y de la región nasofacial.",
+        "relaciones": "Se establece entre los huesos nasal y lagrimal, en la transición nasoorbitaria. Se encuentra próxima a otras suturas faciales y a la región de entrada del conducto nasolagrimal, sin que la sutura y el conducto deban considerarse la misma estructura.",
         "accidentes": "La unión está formada por márgenes óseos contiguos y tejido conectivo fibroso interpuesto. No presenta cápsula sinovial, meniscos ni superficies articulares cartilaginosas.",
         "articulaciones": "Estructuralmente es una sutura fibrosa y funcionalmente se clasifica como sinartrosis en la clasificación clásica. La línea sutural puede remodelarse y obliterarse progresivamente con la edad; su persistencia y grado de cierre varían según la sutura y el individuo.",
         "inserciones": "No posee inserciones musculares propias. El tejido sutural se continúa con el periostio de los huesos adyacentes.",
@@ -31323,8 +31323,8 @@
         "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
         "funcion": "Une el hueso nasal con el lagrimal y contribuye a la continuidad ósea entre la región nasal y la pared medial de la órbita.",
         "especie": "La sutura está descrita en la anatomía del cráneo equino por la anatomía veterinaria clásica. Su aspecto puede variar con la edad y la remodelación de los huesos craneofaciales.",
-        "clinica": "Es una referencia anatómica en radiografía y tomografía del cráneo equino. La línea sutural debe diferenciarse de líneas de fractura mediante su trayecto, bordes, simetría y contexto clínico.",
-        "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Fig. 47, Skull of Horse; Dorsal View, sutura 7: naso-lacrimal.\\nA Text-book of Veterinary Anatomy. Descripción de las suturas del cráneo equino."
+        "clinica": "Es un reparo para la evaluación radiográfica y tomográfica de la región naso-orbitaria y de lesiones óseas craneofaciales. La presencia de exostosis en suturas faciales equinas está descrita clínicamente; no debe atribuirse toda obstrucción del conducto nasolagrimal a esta sutura, ya que la relación causal depende de la localización de la lesión.",
+        "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Fig. 47, cráneo del caballo en vista dorsal: identifica la sutura nasolagrimal.\\nEquine Veterinary Education. 2021. Figura 1, esquema de suturas craneofaciales equinas; identifica la nasolacrimal suture.\\nPoore LA, le Roux M, Carstens A. Trauma-induced exostosis of multiple suture lines causing partial bilateral nasolacrimal duct obstruction in a 7-year-old Thoroughbred mare. Journal of the South African Veterinary Association. 2019."
       }
     },
     {
@@ -31334,18 +31334,18 @@
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "En el borde rostral de la órbita, entre el hueso lagrimal y el hueso cigomático (malar), en la unión de la pared medial con el margen orbitario.",
+        "ubicacion": "Se localiza en la región lateral de la órbita, entre el hueso lagrimal y el hueso cigomático (malar), en la unión de la pared lateral y el margen orbitario. La denominación descriptiva debe mantenerse diferenciada de la nomenclatura latina oficial hasta su cotejo específico.",
         "descripcion": "Articulación fibrosa del tipo sutura que une los márgenes de los huesos indicados. No presenta cavidad sinovial ni cartílago articular; el contacto se mantiene mediante tejido conectivo fibroso sutural.",
-        "relaciones": "Se relaciona medialmente con el hueso lagrimal y lateralmente con el cigomático. Se encuentra próxima a las suturas lagrimomaxilar y cigomaticomaxilar.",
+        "relaciones": "Se establece entre el lagrimal y el cigomático, en vecindad con las suturas lagrimomaxilar y cigomaticomaxilar. El término malar aparece en descripciones anatómicas clásicas para el hueso cigomático.",
         "accidentes": "La unión está formada por márgenes óseos contiguos y tejido conectivo fibroso interpuesto. No presenta cápsula sinovial, meniscos ni superficies articulares cartilaginosas.",
         "articulaciones": "Estructuralmente es una sutura fibrosa y funcionalmente se clasifica como sinartrosis en la clasificación clásica. La línea sutural puede remodelarse y obliterarse progresivamente con la edad; su persistencia y grado de cierre varían según la sutura y el individuo.",
         "inserciones": "No posee inserciones musculares propias. El tejido sutural se continúa con el periostio de los huesos adyacentes.",
         "irrigacion": "No posee irrigación articular independiente. El aporte procede indirectamente de los vasos periostales y de los tejidos blandos vecinos; no se asigna una arteria exclusiva a la sutura.",
         "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
         "funcion": "Conecta el hueso lagrimal con el cigomático, contribuyendo a la continuidad y estabilidad del anillo óseo orbitario del caballo.",
-        "especie": "La sutura está descrita en la anatomía del cráneo equino por la anatomía veterinaria clásica. Su aspecto puede variar con la edad y la remodelación de los huesos craneofaciales.",
-        "clinica": "Es una referencia anatómica en radiografía y tomografía del cráneo equino. La línea sutural debe diferenciarse de líneas de fractura mediante su trayecto, bordes, simetría y contexto clínico.",
-        "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Fig. 47, Skull of Horse; Dorsal View, sutura 8: lacrimo-malar.\\nA Text-book of Veterinary Anatomy. Descripción de los huesos lagrimal y cigomático del caballo."
+        "especie": "La región y la unión lagrimocigomática están descritas en el cráneo equino. La literatura clínica equina sobre exostosis sutural utiliza también la expresión lacrimozygomatic; esta forma se registra como variante descriptiva bibliográfica y no se declara aquí como término latino oficial de la NAV.",
+        "clinica": "Puede ser una localización de exostosis sutural facial en el caballo. La evaluación mediante radiografía y, cuando está indicado, tomografía permite determinar la extensión de la proliferación ósea y su relación con la órbita y estructuras vecinas.",
+        "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Fig. 47, cráneo del caballo en vista dorsal: identifica la sutura lacrimo-malar.\\nPoore LA, le Roux M, Carstens A. Trauma-induced exostosis of multiple suture lines causing partial bilateral nasolacrimal duct obstruction in a 7-year-old Thoroughbred mare. Journal of the South African Veterinary Association. 2019; describe exostosis en la región denominada lacrimozygomatic."
       }
     },
     {
@@ -31355,18 +31355,18 @@
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "En la región rostral y medial de la órbita, entre el hueso lagrimal y el proceso frontal de la maxila, donde ambos contribuyen a la pared medial de la órbita.",
+        "ubicacion": "Se localiza en la región orbitonasal, entre el hueso lagrimal y la maxila, en la pared medial de la órbita y la región nasomaxilar. Su trayecto es anatómicamente relevante por la proximidad del conducto nasolagrimal.",
         "descripcion": "Articulación fibrosa del tipo sutura que une los márgenes de los huesos indicados. No presenta cavidad sinovial ni cartílago articular; el contacto se mantiene mediante tejido conectivo fibroso sutural.",
-        "relaciones": "Se relaciona dorsalmente con el hueso lagrimal, ventral y rostralmente con la maxila y medialmente con la cavidad nasal y los tejidos orbitarios adyacentes.",
+        "relaciones": "Se establece entre el lagrimal y la maxila. El conducto nasolagrimal atraviesa la región de esta sutura; por ello, la relación entre el trayecto del conducto y la unión ósea tiene importancia anatómica y clínica.",
         "accidentes": "La unión está formada por márgenes óseos contiguos y tejido conectivo fibroso interpuesto. No presenta cápsula sinovial, meniscos ni superficies articulares cartilaginosas.",
         "articulaciones": "Estructuralmente es una sutura fibrosa y funcionalmente se clasifica como sinartrosis en la clasificación clásica. La línea sutural puede remodelarse y obliterarse progresivamente con la edad; su persistencia y grado de cierre varían según la sutura y el individuo.",
         "inserciones": "No posee inserciones musculares propias. El tejido sutural se continúa con el periostio de los huesos adyacentes.",
         "irrigacion": "No posee irrigación articular independiente. El aporte procede indirectamente de los vasos periostales y de los tejidos blandos vecinos; no se asigna una arteria exclusiva a la sutura.",
         "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
         "funcion": "Une el lagrimal con la maxila y contribuye a la continuidad de la pared medial de la órbita y de la región nasomaxilar.",
-        "especie": "La sutura está descrita en la anatomía del cráneo equino por la anatomía veterinaria clásica. Su aspecto puede variar con la edad y la remodelación de los huesos craneofaciales.",
-        "clinica": "Es una referencia anatómica en radiografía y tomografía del cráneo equino. La línea sutural debe diferenciarse de líneas de fractura mediante su trayecto, bordes, simetría y contexto clínico.",
-        "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Fig. 47, Skull of Horse; Dorsal View, sutura 9: lacrimo-maxillary.\\nA Text-book of Veterinary Anatomy. Descripción de las suturas craneofaciales del caballo."
+        "especie": "En el caballo, la sutura lagrimomaxilar puede conservar componentes de tejido conectivo en algunos individuos incluso a edades avanzadas. Los estudios de exostosis sutural equina describen esta unión como una localización clínicamente relevante; no debe suponerse un cierre completo y uniforme a una edad fija.",
+        "clinica": "La exostosis de la sutura lagrimomaxilar puede estrechar u obstruir el conducto nasolagrimal y producir epífora o tumefacción. Se han descrito casos equinos con obstrucción del conducto en el punto donde atraviesa la región sutural. La dacriocistorrinografía y la tomografía computarizada pueden ayudar a localizar y caracterizar la lesión.",
+        "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Fig. 47, cráneo del caballo en vista dorsal: identifica la sutura lacrimo-maxillary.\\nCarslake HB. Suture exostosis causing obstruction of the nasolacrimal duct in three horses. New Zealand Veterinary Journal. 2009;57(4):229–234. doi:10.1080/00480169.2009.36907.\\nGeitzenauer JM, et al. Histological evaluation of facial bone sutures in horses. Equine Veterinary Education. 2022. doi:10.1111/eve.13436.\\nEquine Suture Exostosis: A Review of Cases from a Multicenter Retrospective Study. 2022."
       }
     },
     {
@@ -31376,17 +31376,17 @@
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "En la región lateral de la cara, en la unión entre el hueso cigomático (malar) y la maxila, formando parte del límite óseo del arco cigomático y de la región facial caudal.",
+        "ubicacion": "Se localiza en la región facial lateral, entre el hueso cigomático (malar) y la maxila. Se relaciona con la región de la cresta facial y la fosa masetérica, pero no debe describirse como parte constitutiva del arco cigomático.",
         "descripcion": "Unión fibrosa sutural entre el hueso cigomático y la maxila. Es una articulación sin cavidad sinovial, en la que los márgenes óseos se mantienen unidos por tejido conectivo fibroso sutural.",
-        "relaciones": "Se encuentra próxima al arco cigomático y a la cresta facial; participa en la continuidad del esqueleto facial lateral y se relaciona con los tejidos de la región masetérica y bucal.",
-        "accidentes": "Presenta márgenes óseos contiguos entre el cigomático y la maxila. Su trazo y extensión deben reconocerse en la superficie lateral del cráneo; no presenta cápsula ni cartílago articular.",
+        "relaciones": "Se establece entre el cigomático y la maxila, próxima a la cresta facial y a la región de origen del músculo masetero. El arco cigomático incluye el proceso cigomático del temporal; por tanto, no debe atribuirse a esta sutura la formación completa del arco.",
+        "accidentes": "Presenta márgenes óseos contiguos entre la maxila y el cigomático. Su trazo se reconoce en la superficie lateral del cráneo, en relación con la región de la cresta facial; debe diferenciarse de la cresta facial y del arco cigomático como accidentes anatómicos distintos.",
         "articulaciones": "Por su estructura es una sutura fibrosa; funcionalmente corresponde a una sinartrosis en la clasificación clásica. La línea puede remodelarse y hacerse menos evidente con la edad, sin que deba suponerse un patrón uniforme de obliteración.",
         "inserciones": "No presenta inserciones musculares propias. El tejido conectivo sutural se continúa con el periostio de ambos huesos.",
         "irrigacion": "No posee irrigación articular independiente ni una arteria exclusiva reconocida. Recibe aporte indirecto de los vasos periostales y de los tejidos blandos vecinos.",
         "inervacion": "No se describe una inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
-        "funcion": "Mantiene la unión entre el cigomático y la maxila, contribuyendo a la continuidad y estabilidad del esqueleto facial lateral y del arco cigomático.",
-        "especie": "Identificada en el cráneo equino como sutura cigomaticomaxilar (zygomaticomaxillary) en descripciones anatómicas de la cabeza del caballo.",
-        "clinica": "Es un reparo de imagenología en estudios del cráneo y de traumatismos faciales. Debe distinguirse una línea sutural de una fractura atendiendo a su localización anatómica, continuidad, márgenes y hallazgos asociados.",
+        "funcion": "Mantiene la unión fibrosa entre el cigomático y la maxila, contribuyendo a la continuidad y estabilidad del esqueleto facial lateral.",
+        "especie": "La sutura cigomaticomaxilar (zygomaticomaxillary suture) está identificada en descripciones anatómicas y reportes clínicos equinos. La literatura sobre exostosis sutural del caballo la reconoce como una posible localización de proliferación ósea.",
+        "clinica": "Es un reparo de imagenología en la evaluación de traumatismos y exostosis faciales equinas. La tomografía computarizada permite valorar la extensión de una lesión y su relación con la órbita, la cresta facial y los tejidos masetéricos.",
         "referencias": "Equine Veterinary Education. A clinical report illustrating equine craniofacial sutures, Fig. 1: zygomaticomaxillary suture. 2021.\\nSisson S, Grossman JD. The Anatomy of the Domestic Animals. Skull of Horse, dorsal view."
       }
     },
