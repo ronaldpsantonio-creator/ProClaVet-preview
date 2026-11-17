@@ -1,6 +1,6 @@
 // ProClaVet - Service Worker sincronizado
 // v28: fichas anatómicas dentro de data/equino.json (miembro torácico y miembro pelviano completos).
-const C="vetanatomy-v32-miembro-pelviano";
+const C="vetanatomy-v33-miembro-pelviano";
 const CORE=["./","index.html","css/styles.css","js/app.js","data/equino.json","manifest.webmanifest","assets/laminas/atlas-equino-c1.svg","assets/laminas/axis-equino-c2.svg"];
 
 self.addEventListener("install",e=>{
