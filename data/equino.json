@@ -4731,7 +4731,21 @@
       "es": "Articulación atlantoaxial",
       "la": "Articulatio atlantoaxialis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la parte craneal del cuello, entre el atlas (C1) y el axis (C2), caudal a la articulación atlantooccipital. El diente del axis se aloja en el arco ventral del atlas.",
+        "descripcion": "Articulación sinovial trocoide (en pivote) entre el atlas y el axis, formada por el diente del axis y el atlas. Permite la rotación del atlas, y con él de la cabeza, alrededor del eje longitudinal del cuello.",
+        "relaciones": "Cranialmente continúa con la articulación atlantooccipital. Dorsalmente se relaciona con el espacio subaracnoideo y la duramadre, a través de la membrana atlantoaxial dorsal. En el caballo ese espacio dorsal entre las vértebras es amplio en varias regiones del cuello.",
+        "accidentes": "Diente del axis; arco ventral del atlas; ligamento odontoideo longitudinal; ligamentos atlantoaxiales dorsal y ventral; membrana tectoria.",
+        "articulaciones": "Articulación sinovial trocoide con cápsula articular. En el caballo la resonancia magnética identificó el ligamento odontoideo longitudinal en abanico, los ligamentos atlantoaxiales dorsal y ventral y la membrana tectoria. El ligamento transverso del atlas no está presente en el caballo.",
+        "inserciones": "Los puentes miodurales conectan los músculos suboccipitales con la duramadre a través de la membrana atlantoaxial dorsal.",
+        "irrigacion": "Las fuentes equinas consultadas no describen su irrigación.",
+        "inervacion": "Las fuentes equinas consultadas no describen su inervación.",
+        "funcion": "Es el pivote de los movimientos de rotación de la cabeza sobre el cuello. El ligamento odontoideo longitudinal mantiene el diente unido al atlas y a la región occipital.",
+        "especie": "En el caballo, el estudio de resonancia documentó un ligamento odontoideo longitudinal en abanico, un ligamento atlantoaxial ventral y la ausencia del ligamento transverso. En carnívoros y cerdos, en cambio, los apuntes docentes describen un ligamento transverso que sujeta el diente al atlas.",
+        "clinica": "El espacio subaracnoideo entre atlas y axis se ha usado para recoger líquido cefalorraquídeo con guía ecográfica en caballos de pie y sedados, como alternativa al espacio atlantooccipital. Se han descrito tres caballos con mineralización del ligamento odontoideo longitudinal en la TC, aunque su relación con los signos clínicos sigue sin aclararse.",
+        "referencias": "3 Tesla magnetic resonance imaging of the occipitoatlantoaxial region in the normal horse (Vetsuisse Faculty, University of Zürich): ligamento odontoideo longitudinal en abanico, ligamento atlantoaxial ventral, ausencia del ligamento transverso. https://madbarn.com/research/3-tesla-magnetic-resonance-imaging-of-the-occipitoatlantoaxial-region-in-the-normal-horse\\\\nElbrønd VS, Schultz RM. An anatomical, integrative and functional description of myodural bridges along the spine of horses: special focus on the atlanto-occipital and atlanto-axial regions. Medical Research Archives. 2019;7(11). https://esmed.org/MRA/mra/article/download/2005/193545487\\\\nLawson AL, Carslake HB, Kane-Smyth J, Maddox TW, Talbot AM. Mineralisation of the longitudinal odontoid ligament in three horses identified on computed tomographic examination. Equine Vet Educ. 2021. doi:10.1111/eve.13247. https://livrepository.liverpool.ac.uk/id/eprint/3148998\\\\nAtlanto-axial approach for cervical myelography in a Thoroughbred horse with complete fusion of the atlanto-occipital bones. Can Vet J. 2014;55:1069 (cita la recogida ecoguiada de líquido cefalorraquídeo entre atlas y axis en caballos de pie). https://escholarship.org/uc/item/9qx5h9nh\\\\nApuntes docentes de anatomía comparada sobre las articulaciones de cráneo y tronco (ligamento transverso del atlas en carnívoros y cerdos). https://knowt.com/note/5e28c9d0-7dc7-4d29-ae9a-dbff3260a1da/Joints-of-the-Skull-and-Trunk"
+      }
     },
     {
       "id": "equ.ske.aax.004",
