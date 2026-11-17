@@ -31893,6 +31893,48 @@
         "clinica": "Es un reparo anatómico profundo de interés en la interpretación de imágenes de la base del cráneo y de la región orbitaria. Debe diferenciarse de la sutura esfenofrontal y de los límites del foramen etmoidal.",
         "referencias": "Sisson S. The Anatomy of the Domestic Animals. 2nd ed. W.B. Saunders; 1914. The Skeleton of the Horse, p. 53: conexiones del ala orbitaria del esfenoides. https://upload.wikimedia.org/wikipedia/commons/e/e1/The_anatomy_of_the_domestic_animals_%28IA_anatomyofdomesti01siss%29.pdf"
       }
+    },
+    {
+      "id": "equ.ske.sut.035",
+      "es": "Sincondrosis esfenooccipital",
+      "la": "Synchondrosis sphenooccipitalis",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la línea media de la base del cráneo, entre el basisfenoides (parte caudal del cuerpo del esfenoides) y la porción basilar del occipital (basioccipital), rostral al agujero magno y medial a las porciones petrosas del temporal.",
+        "descripcion": "Articulación cartilaginosa impar (sincondrosis) que une el basisfenoides con el basioccipital. Es una zona de crecimiento de la base craneal que, al osificarse, deja ambos huesos soldados en una sola pieza. En la superficie ventral del cráneo equino se reconoce como una línea de unión entre ambos huesos.",
+        "relaciones": "Caudalmente se continúa con el basioccipital y rostralmente con el basisfenoides. Lateralmente se relaciona con las porciones petrosas del temporal y con la región del agujero lacerado. Rostralmente, en el cuerpo del esfenoides, se encuentra la sincondrosis intraesfenoidal.",
+        "accidentes": "El reparo es la línea de unión entre el basisfenoides y el basioccipital en la cara ventral de la base del cráneo. Con la edad la línea se va cerrando por osificación.",
+        "articulaciones": "Articulación cartilaginosa del tipo sincondrosis; sin cavidad sinovial. Tras la osificación pasa a sinostosis.",
+        "inserciones": "No presenta inserciones musculares propias.",
+        "irrigacion": "No se reconoce una arteria exclusiva para la sincondrosis. Su aporte es indirecto, a través de los vasos periostales de los huesos adyacentes y de la región basicraneal.",
+        "inervacion": "No se describe una inervación propia. La sensibilidad regional procede del periostio y de los tejidos vecinos.",
+        "funcion": "Actúa como zona de crecimiento en longitud de la base del cráneo hasta su osificación. Después mantiene la continuidad entre el basisfenoides y el basioccipital.",
+        "especie": "En el caballo se describe como una línea visible en la superficie ventral del cráneo, entre el basioccipital y el basisfenoides, y un texto docente de anatomía equina la señala como la última unión craneal en fusionarse. En estudios de craniometría equina se empleó como zona de referencia por su posición relativamente estable.",
+        "clinica": "En el estudio de Lang et al. (2017) sobre el cráneo equino, esta sincondrosis y la intraesfenoidal fueron los dos puntos de la base del cráneo con posición relativamente estable para usar como referencia en medidas craneométricas, con aplicación en el diagnóstico por imagen y en el abordaje quirúrgico de estructuras intracraneales.",
+        "referencias": "Lang A, Brucker P, Ludwig M, Wrede T, Theunert J, Gasse H. The challenge of extra-intra craniometry: a computer-assisted three-dimensional approach on the equine skull. Folia Morphologica. 2017;76(3):458–472. doi:10.5603/FM.a2016.0082. https://journals.viamedica.pl/folia_morphologica/article/view/49137\\\\nClark T. Large Animal Anatomy, capítulo 10 Head (rev. 2024). University of Minnesota Pressbooks: superficie ventral del cráneo equino con basioccipital, basisfenoides, porciones petrosas y agujero lacerado. https://pressbooks.umn.edu/largeanimalanatomy/chapter/neck-head/\\\\nFIPAT / IFAA, Terminologia Anatomica: synchondrosis sphenooccipitalis (término de la TA humana, usado aquí como apoyo de nomenclatura). https://ifaa.unifr.ch/Public/TNAEntryPage/auto/unit/LAES/TAH1352 Unit EN.htm"
+      }
+    },
+    {
+      "id": "equ.ske.sut.036",
+      "es": "Sincondrosis intraesfenoidal",
+      "la": "Synchondrosis intersphenoidalis",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la línea media de la base del cráneo, dentro del esfenoides, entre el presfenoides (rostral) y el basisfenoides (caudal).",
+        "descripcion": "Articulación cartilaginosa impar (sincondrosis) que une el presfenoides con el basisfenoides en el cuerpo del esfenoides. También se denomina sincondrosis interesfenoidal, por el término latino intersphenoidalis. Es, junto con la esfenooccipital, una de las dos sincondrosis centrales de la base craneal.",
+        "relaciones": "Rostralmente limita con el presfenoides y caudalmente con el basisfenoides, que a su vez se une al basioccipital por la sincondrosis esfenooccipital.",
+        "accidentes": "El reparo es la línea de unión entre el presfenoides y el basisfenoides en el cuerpo del esfenoides, en la línea media de la base del cráneo.",
+        "articulaciones": "Articulación cartilaginosa del tipo sincondrosis; sin cavidad sinovial.",
+        "inserciones": "No presenta inserciones musculares propias.",
+        "irrigacion": "No se reconoce una arteria exclusiva para la sincondrosis. Su aporte es indirecto, a través de los vasos periostales de los huesos adyacentes y de la región basicraneal.",
+        "inervacion": "No se describe una inervación propia. La sensibilidad regional procede del periostio y de los tejidos vecinos.",
+        "funcion": "Actúa como zona de crecimiento en longitud del cuerpo del esfenoides y de la base del cráneo central, junto con la sincondrosis esfenooccipital, hasta su osificación.",
+        "especie": "El estudio de craniometría equina de Lang et al. (2017) usa expresamente el término Synchondrosis intersphenoidalis en el caballo y la identifica como uno de los dos puntos de la base del cráneo con posición relativamente estable. Las descripciones del desarrollo de ambas sincondrosis centrales proceden sobre todo de modelos murinos.",
+        "clinica": "Por su posición relativamente estable, se propuso como punto de referencia en medidas craneométricas del cráneo equino, con interés para el diagnóstico por imagen y el abordaje quirúrgico de estructuras intracraneales (Lang et al., 2017).",
+        "referencias": "Lang A, Brucker P, Ludwig M, Wrede T, Theunert J, Gasse H. The challenge of extra-intra craniometry: a computer-assisted three-dimensional approach on the equine skull. Folia Morphologica. 2017;76(3):458–472. doi:10.5603/FM.a2016.0082. https://journals.viamedica.pl/folia_morphologica/article/view/49137\\\\nFunato N. New Insights Into Cranial Synchondrosis Development: A Mini Review. 2020 (revisión basada sobre todo en modelos murinos): describe dos sincondrosis centrales en la base craneal, la intraesfenoidal y la esfenooccipital. https://agris.fao.org/search/en/records/6759a8c90ce2cede71c96157"
+      }
     }
   ]
 }
