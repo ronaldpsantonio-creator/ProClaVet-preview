@@ -997,8 +997,7 @@
         "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
-    {
-      "id": "equ.ske.tor.004",
+    {      "id": "equ.ske.tor.004",
       "es": "Vértebra torácica 4 (T4)",
       "la": "Vertebra thoracica 4",
       "sys": "ske",
@@ -1997,8 +1996,7 @@
         "relaciones": "Se articula cranealmente con Cd12 y caudalmente con Cd14. Se integra en los tejidos blandos distales de la cola, en relación con fascículos terminales de músculos sacrocaudales, intertransversarios, fascias y tejido subcutáneo. Ventralmente mantiene relaciones topográficas con vasos caudales medianos y sus ramas, así como con ramos de nervios caudales.",
         "accidentes": "Cuerpo vertebral pequeño con superficies articulares en ambos extremos; arco y foramen vertebral muy reducidos, incompletos o difíciles de delimitar; procesos espinosos, transversos y articulares pequeños, residuales o ausentes. Los elementos hemales pueden aparecer en distintos niveles caudales, pero su presencia y morfología son variables y no deben afirmarse como rasgos constantes de Cd13 sin examen directo.",
         "articulaciones": "Articulación intervertebral craneal con Cd12 y caudal con Cd14 mediante discos intervertebrales. Las articulaciones interapofisarias pueden estar muy reducidas o no ser evidentes por la regresión de los procesos articulares. Los ligamentos longitudinales y el tejido conjuntivo regional mantienen la continuidad de la serie caudal.",
-        "inserciones": "Las superficies de fijación son limitadas. Puede recibir fascículos de músculos sacrocaudales e intertransversarios distales y fijaciones de fascias locales, sobre el cuerpo vertebral o sobre procesos residuales cuando estén presentes. Las inserciones concretas deben correlacionarse con la morfología real del espécimen, evitando asignarlas a accidentes ausentes.",
-        "irrigacion": "La irrigación ósea y periostal depende de pequeñas ramas segmentarias del sistema de la arteria caudal mediana y de vasos musculares regionales. El drenaje venoso acompaña a las venas caudales y a sus comunicaciones plexiformes. No se atribuye una arteria exclusiva a Cd13.",
+        "inserciones": "Las superficies de fijación son limitadas. Puede recibir fascículos de músculos sacrocaudales e intertransversarios distales y fijaciones de fascias locales, sobre el cuerpo vertebral o sobre procesos residuales cuando estén presentes. Las inserciones concretas deben correlacionarse con la morfología real del espécimen, evitando asignarlas a accidentes ausentes.",        "irrigacion": "La irrigación ósea y periostal depende de pequeñas ramas segmentarias del sistema de la arteria caudal mediana y de vasos musculares regionales. El drenaje venoso acompaña a las venas caudales y a sus comunicaciones plexiformes. No se atribuye una arteria exclusiva a Cd13.",
         "inervacion": "Se relaciona topográficamente con el decimotercer nervio caudal (Co13), cuando este segmento está presente en la distribución individual. Sus ramos dorsales y ventrales contribuyen a la inervación segmentaria de piel, musculatura y otros tejidos blandos de la cola, con posible solapamiento periférico entre segmentos. No debe describirse como inervación directa del tejido óseo.",
         "funcion": "Contribuye a la continuidad axial y al soporte de la región distal de la cola, transmitiendo fuerzas entre Cd12 y Cd14. Su cuerpo vertebral sirve de soporte a los tejidos blandos y los procesos residuales, cuando existen, pueden proporcionar fijación a musculatura y fascias.",
         "especie": "En el caballo, la serie caudal muestra reducción progresiva de arcos y procesos hacia el extremo de la cola. Cd13 suele encontrarse en un tramo donde la simplificación es avanzada, aunque el grado y el nivel de desaparición de cada elemento varían entre individuos. La fórmula caudal equina no es fija.",
@@ -2997,8 +2995,7 @@
         "articulaciones": "La cavidad glenoidea articula con la cabeza del húmero y forma la articulación del hombro (articulatio humeri), de tipo sinovial. La escápula no establece una articulación ósea convencional con el tronco: se mantiene aplicada a la pared torácica mediante la sinsarcosis escapulotorácica, constituida por músculos y tejido conectivo. El cartílago escapular se continúa con el borde dorsal y no constituye una articulación sinovial independiente.",
         "inserciones": "La fosa supraespinosa proporciona origen al músculo supraespinoso y la fosa infraespinosa al infraespinoso. La fosa subescapular da origen al subescapular. La facies serrata sirve de inserción al músculo serrato ventral. La espina y su tuberosidad reciben inserciones del trapecio, especialmente de su porción torácica. El tubérculo supraglenoideo es el origen del músculo bíceps braquial; el proceso coracoides se relaciona con el origen del coracobraquial. Las áreas concretas de fijación deben interpretarse junto con la anatomía muscular regional.",
         "irrigacion": "La vascularización regional procede de ramas de las arterias escapular dorsal, supraescapular y subescapular, con contribuciones de la circulación circunfleja escapular y redes periarticulares. La distribución puede variar y no debe atribuirse toda la irrigación del hueso a una única arteria. Esta descripción corresponde al aporte regional periostal y muscular; no implica que cada vaso irrigue por sí solo toda la escápula.",
-        "inervacion": "El tejido óseo no posee una inervación funcional única comparable a la de un músculo u órgano. La sensibilidad periostal depende de ramas nerviosas regionales. El nervio supraescapular discurre próximo al borde craneal de la escápula y es clínicamente importante por su relación con los músculos supraespinoso e infraespinoso; no debe describirse como la inervación exclusiva de todo el hueso.",
-        "funcion": "Constituye el soporte óseo proximal del miembro torácico, transmite las fuerzas desde el miembro hacia el tronco mediante la sinsarcosis escapulotorácica, ofrece amplias superficies de origen e inserción muscular y participa en la articulación del hombro con el húmero.",
+        "inervacion": "El tejido óseo no posee una inervación funcional única comparable a la de un músculo u órgano. La sensibilidad periostal depende de ramas nerviosas regionales. El nervio supraescapular discurre próximo al borde craneal de la escápula y es clínicamente importante por su relación con los músculos supraespinoso e infraespinoso; no debe describirse como la inervación exclusiva de todo el hueso.",        "funcion": "Constituye el soporte óseo proximal del miembro torácico, transmite las fuerzas desde el miembro hacia el tronco mediante la sinsarcosis escapulotorácica, ofrece amplias superficies de origen e inserción muscular y participa en la articulación del hombro con el húmero.",
         "especie": "En el caballo, la escápula es alargada y plana, con una fosa infraespinosa más extensa que la supraespinosa y una tuberosidad de la espina prominente. La espina se atenúa hacia el extremo distal y no forma acromion: el acromion está ausente en los équidos. El borde dorsal está prolongado por un cartílago escapular amplio. La cavidad glenoidea presenta una incisura glenoidea reconocible. La forma y el grado de osificación del cartílago escapular varían con la edad. Esta ficha corresponde al elemento izquierdo y se mantiene separada de su homólogo contralateral.",
         "clinica": "La lesión del nervio supraescapular puede causar atrofia de los músculos supraespinoso e infraespinoso, conocida como shoulder sweeney o atrofia escapular. El tubérculo supraglenoideo es un sitio relevante de fractura en caballos, especialmente por traumatismos. Las fracturas escapulares y las alteraciones de la articulación del hombro deben evaluarse mediante exploración e imagen diagnóstica, considerando la protección muscular que rodea al hueso.",
         "referencias": "König HE, Liebich HG. Veterinary Anatomy of Domestic Mammals: Textbook and Colour Atlas. 6th ed. Schattauer; 2014. Sección: Skeleton of the thoracic limb, scapula.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección: The skeleton of the forelimb. https://elsevier-elibrary.com/contents/fullcontent/58986/epubcontent_v2/OEBPS/B9781416066071000025.htm\nSisson S. The Anatomy of the Domestic Animals. Sección “The Scapula”, descripción de la escápula equina y sus accidentes. https://upload.wikimedia.org/wikipedia/commons/e/e1/The_anatomy_of_the_domestic_animals_%28IA_anatomyofdomesti01siss%29.pdf\nIMAIOS vet-Anatomy. Lateral surface of the scapula; referencias a König y Liebich. https://www.imaios.cn/en/vet-anatomy/anatomical-structures/lateral-surface-11073897656\nFürst MJ, Jackson AF, Somm F. Management of Equine Scapular and Pelvic Fractures. ECVS Annual Scientific Meeting proceedings, 2026."
@@ -3997,8 +3994,7 @@
       "la": "Fibula",
       "sys": "ske",
       "layer": "oss",
-      "ficha": {
-        "ubicacion": "Región crural del miembro pelviano izquierda, a lo largo del borde lateral de la tibia. Su cabeza se apoya en el cóndilo lateral de la tibia y su cuerpo delgado desciende junto a ella hasta aproximadamente la mitad de la pierna.",
+      "ficha": {        "ubicacion": "Región crural del miembro pelviano izquierda, a lo largo del borde lateral de la tibia. Su cabeza se apoya en el cóndilo lateral de la tibia y su cuerpo delgado desciende junto a ella hasta aproximadamente la mitad de la pierna.",
         "descripcion": "Hueso largo muy reducido, vestigial en el caballo. Conserva una cabeza proximal (caput fibulae) y un cuerpo (corpus fibulae) delgado que se afina hacia distal y termina aproximadamente hacia la mitad de la tibia. La parte distal no persiste como hueso independiente: se fusiona con la tibia y forma parte de su maléolo lateral. No debe representarse como la fíbula completa de los carnívoros.\n\nEsta ficha corresponde a la fíbula izquierda; no presupone diferencias morfológicas entre ambos lados sin evidencia específica.",
         "relaciones": "Su cabeza se relaciona con el cóndilo lateral de la tibia. El cuerpo se apoya en la cara lateral de la tibia, bajo los músculos laterales de la pierna, y se vuelve rudimentario hacia distal. Distalmente, la antigua extremidad fibular está incorporada al maléolo lateral de la tibia, que se relaciona con el talus y es el punto de origen del ligamento colateral lateral largo del tarso.",
         "accidentes": "Cabeza de la fíbula (caput fibulae), con superficie articular para el cóndilo lateral de la tibia. Cuerpo (corpus fibulae), delgado y de longitud reducida. No hay maléolo lateral propio: ese relieve pertenece a la tibia.",
@@ -4807,7 +4803,7 @@
         "funcion": "Unen las costillas a la columna y permiten la rotación de cada costilla, que es mayor hacia caudal.",
         "especie": "La configuración típica equina comprende la articulación de la cabeza de la costilla y la costotransversa. La descripción clásica del caballo señala que el ligamento conjugado o intercapital no está presente en la primera articulación costo-central; por ello, no debe generalizarse la disposición de las costillas típicas a todos los niveles torácicos.",
         "clinica": "No se localizó una fuente clínica equina específica para esta articulación.",
-        "referencias": "Sisson S. A Text-book of Veterinary Anatomy. 1911. Articulations of the Thorax: articulaciones costo-centrales y costo-transversas, cápsulas y ligamentos. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm\nIMAIOS vet-Anatomy. Joint of head of rib – Horse (Articulatio capitis costae): superficies articulares de la cabeza costal y vértebras correspondientes. https://www.imaios.cn/en/vet-anatomy/anatomical-structures/joint-of-head-of-rib-11077953908\nIMAIOS vet-Anatomy. Intraarticular ligament of head of rib – Horse. https://www.imaios.cn/en/vet-anatomy/anatomical-structures/intraarticular-ligament-of-head-of-rib-11077954012\nThe Anatomy of the Horse: A Dissection Guide. Chondro-costal and costo-vertebral articulations. https://objects.library.uu.nl/download/1874-32163/fulltext"
+        "referencias": "FIPAT / IFAA, Terminologia Anatomica: articulationes costovertebrales, articulatio capitis costae, ligamentum radiatum y ligamentum intraarticulare capitis costae (términos de la TA humana, usados como apoyo de nomenclatura). https://ifaa.unifr.ch/Public/TNAEntryPage/auto/part/LAEN/TAH53012 P3F EN.htm\n\nEquine Spine and Head Anatomy (Physiopedia): costovertebral joint del caballo y sus ligamentos. https://www.physio-pedia.com:443/Equine_Spine_and_Head_Anatomy\n\nSkeletal system of the horse (Wikipedia): ligamentos intercapitales entre las costillas 1 a 11 y número de costillas. https://www.wikipedia.org/wiki/Skeletal_system_of_the_horse\n\nIntraarticular ligament of head of rib. IMAIOS vet-Anatomy. https://www.imaios.cn/en/vet-anatomy/anatomical-structures/intraarticular-ligament-of-head-of-rib-11077954012\n\nSisson S. A Text-book of Veterinary Anatomy. 1911. Articulations of the Thorax: articulaciones costo-centrales y costo-transversas, cápsulas y ligamentos. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm\n\nIMAIOS vet-Anatomy. Joint of head of rib – Horse (Articulatio capitis costae): superficies articulares de la cabeza costal y vértebras correspondientes. https://www.imaios.cn/en/vet-anatomy/anatomical-structures/joint-of-head-of-rib-11077953908\n\nIMAIOS vet-Anatomy. Intraarticular ligament of head of rib – Horse. https://www.imaios.cn/en/vet-anatomy/anatomical-structures/intraarticular-ligament-of-head-of-rib-11077954012\n\nThe Anatomy of the Horse: A Dissection Guide. Chondro-costal and costo-vertebral articulations. https://objects.library.uu.nl/download/1874-32163/fulltext"
       }
     },
     {
@@ -4828,7 +4824,7 @@
         "funcion": "Unen la porción ósea de la costilla con su cartílago y mantienen la elasticidad de la pared torácica durante la respiración.",
         "especie": "En el caballo hay 8 pares de costillas esternales y 10 asternales. Los cartílagos de las primeras costillas se articulan entre sí y con el esternón.",
         "clinica": "En animales de crecimiento rápido la unión costocondral puede estar ensanchada, según una guía docente. No se localizó una fuente clínica equina específica para esta articulación.",
-        "referencias": "Vetscraft, guía docente de anatomía veterinaria: costillas del caballo (18 pares, 8 esternales y 10 asternales; uniones costocondrales). https://vetscraft.com/ribs\\\nVetscraft, guía docente de anatomía veterinaria: articulaciones torácicas (costocondrales, condroesternales y esternales). https://vetscraft.com/thoracic-articulations\\\nWikiVet, Ribs and Sternum - Anatomy & Physiology (costillas, esternebras y articulaciones costoesternales). https://en.wikivet.net/Ribs_and_Sternum_-_Anatomy_%26_Physiology\\\nNC State, LAB 5 – Thoracic wall osteology, arthrology and myology (costillas y esternebras en las especies domésticas). https://ncstate.pressbooks.pub/unit2musculoskeletal/?p=83\nSisson S. A Text-book of Veterinary Anatomy. 1911. Articulations of the Thorax: chondro-costal joints of the horse, described as synarthrodial. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
+        "referencias": "Vetscraft, guía docente de anatomía veterinaria: costillas del caballo (18 pares, 8 esternales y 10 asternales; uniones costocondrales). https://vetscraft.com/ribs\n\nVetscraft, guía docente de anatomía veterinaria: articulaciones torácicas (costocondrales, condroesternales y esternales). https://vetscraft.com/thoracic-articulations\n\nWikiVet, Ribs and Sternum - Anatomy & Physiology (costillas, esternebras y articulaciones costoesternales). https://en.wikivet.net/Ribs_and_Sternum_-_Anatomy_%26_Physiology\n\nNC State, LAB 5 – Thoracic wall osteology, arthrology and myology (costillas y esternebras en las especies domésticas). https://ncstate.pressbooks.pub/unit2musculoskeletal/?p=83\n\nSisson S. A Text-book of Veterinary Anatomy. 1911. Articulations of the Thorax: chondro-costal joints of the horse, described as synarthrodial. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
       }
     },
     {
@@ -4849,7 +4845,7 @@
         "funcion": "Fijan las costillas esternales al esternón.",
         "especie": "El caballo tiene 8 pares de costillas esternales y un esternón de 7 esternebras, con la sexta y la séptima fusionadas en todos los esternones estudiados.",
         "clinica": "No se localizó una fuente clínica equina específica para esta articulación.",
-        "referencias": "The Anatomy of the Horse: A Dissection Guide. Chondro-sternal joint: articulación de los cartílagos de las primeras ocho costillas con el esternón, cápsula y saco sinovial común de la primera pareja. https://objects.library.uu.nl/download/1874-32163/fulltext\nSisson S. A Text-book of Veterinary Anatomy. 1911. Articulations of the Thorax: costo-sternal articulations of the horse. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm\nEydt C, Schröck C, Geburek F, Rohn K, Staszyk C, Pfarrer C. Three-dimensional anatomy of the equine sternum. Anat Histol Embryol. 2014;44(2):99–106. doi:10.1111/ahe.12114. https://madbarn.com/research/three-dimensional-anatomy-of-the-equine-sternum"
+        "referencias": "Vetscraft, guía docente de anatomía veterinaria: articulaciones torácicas (costocondrales, condroesternales y esternales). https://vetscraft.com/thoracic-articulations\n\nIMAIOS vet-Anatomy, True ribs [Sternal ribs]: en el caballo hay 8 pares de costillas esternales. https://www.imaios.cn/en/vet-anatomy/anatomical-structures/true-ribs-sternal-ribs-11073892720\n\nEydt C, Schröck C, Geburek F, Rohn K, Staszyk C, Pfarrer C. Three-dimensional anatomy of the equine sternum. Anat Histol Embryol. 2014;44(2):99–106. doi:10.1111/ahe.12114. https://madbarn.com/research/three-dimensional-anatomy-of-the-equine-sternum\n\nWikiVet, Ribs and Sternum - Anatomy & Physiology (costillas, esternebras y articulaciones costoesternales). https://en.wikivet.net/Ribs_and_Sternum_-_Anatomy_%26_Physiology\n\nThe Anatomy of the Horse: A Dissection Guide. Chondro-sternal joint: articulación de los cartílagos de las primeras ocho costillas con el esternón, cápsula y saco sinovial común de la primera pareja. https://objects.library.uu.nl/download/1874-32163/fulltext\n\nSisson S. A Text-book of Veterinary Anatomy. 1911. Articulations of the Thorax: costo-sternal articulations of the horse. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
       }
     },
     {
@@ -4875,7 +4871,7 @@
     },
     {
       "id": "equ.ske.aax.010-i",
-      "es": "Articulación sacroilíaca (izquierdo)",
+      "es": "Articulación sacroilíaca (izquierda)",
       "la": "Articulatio sacroiliaca",
       "sys": "ske",
       "layer": "art",
@@ -4891,12 +4887,12 @@
         "funcion": "Une la pelvis a la columna y transmite al miembro pelviano el impulso y el peso del tronco. Su movimiento es mínimo en el caballo sano.",
         "especie": "En el caballo, la articulación sacroilíaca es una diartrosis sinovial atípica. La superficie auricular del ilion está recubierta por fibrocartílago y la del sacro por cartílago hialino. La cápsula ajustada y los ligamentos sacroilíacos limitan la movilidad y transmiten las fuerzas entre la columna y la pelvis.",
         "clinica": "Los trastornos más frecuentes son la artritis, las fracturas del sacro o del ilion y la desmitis de los ligamentos sacroilíacos. La ecografía permite valorar los ligamentos y el contorno articular desde la superficie dorsal y por vía rectal. Una revisión discute si la desmitis suspensoria proximal del miembro pelviano predispone a la enfermedad sacroilíaca.",
-        "referencias": "Tallaj A, Coudry V, Denoix JM. Transrectal ultrasonographic examination of the sacroiliac joints of the horse: technique and normal images. Equine Vet Educ. 2019;31(12):666–671.\nTallaj A, Coudry V, Denoix JM. Transrectal ultrasonographic examination of the sacroiliac joints of the horse: abnormal findings and lesions. Equine Vet Educ. 2020;32(1):33–38.\nUniversity of Florida, College of Veterinary Medicine. Veterinary Diagnostic Imaging: 17-year-old Hanoverian gelding, case reveal; describe la articulación sacroilíaca equina como sinovial plana, con fibrocartílago ilíaco y cartílago hialino sacro. https://imaging.vetmed.ufl.edu/large-animal/pelvis/17-year-old-hanoverian-gelding/case-reveal/\nStructural and biomechanical aspects of equine sacroiliac joint function and their relationship to clinical disease. Equine Vet J. 2008. https://doi.org/10.1111/j.2042-3306.2008.tb04118.x"
+        "referencias": "WikiVet, Hindlimb - Anatomy & Physiology: articulación sacroilíaca y sus ligamentos. https://en.wikivet.net/Hindlimb_-_Anatomy_&_Physiology\n\nWikiVet, Joints - Horse Anatomy: ligamentos sacroilíacos dorsales del caballo. https://en.wikivet.net/Joints_-_Horse_Anatomy\n\nIntechOpen, capítulo sobre desmitis suspensoria proximal del miembro pelviano y enfermedad sacroilíaca en el caballo. doi:10.5772/intechopen.92353. https://www.intechopen.com:443/chapters/72062\n\nMad Barn, Sacroiliac joint dysfunction in horses (revisión de anatomía y trastornos de la articulación). https://madbarn.com/sacroiliac-joint-dysfunction-in-horses\n\nNewmarket Equine Hospital, Sacroiliac Disease In The Horse. https://newmarketequinehospital.com/?p=2429\n\nTallaj A, Coudry V, Denoix JM. Transrectal ultrasonographic examination of the sacroiliac joints of the horse: technique and normal images. Equine Vet Educ. 2019;31(12):666–671.\n\nTallaj A, Coudry V, Denoix JM. Transrectal ultrasonographic examination of the sacroiliac joints of the horse: abnormal findings and lesions. Equine Vet Educ. 2020;32(1):33–38.\n\nUniversity of Florida, College of Veterinary Medicine. Veterinary Diagnostic Imaging: 17-year-old Hanoverian gelding, case reveal; describe la articulación sacroilíaca equina como sinovial plana, con fibrocartílago ilíaco y cartílago hialino sacro. https://imaging.vetmed.ufl.edu/large-animal/pelvis/17-year-old-hanoverian-gelding/case-reveal/\n\nStructural and biomechanical aspects of equine sacroiliac joint function and their relationship to clinical disease. Equine Vet J. 2008. https://doi.org/10.1111/j.2042-3306.2008.tb04118.x"
       }
     },
     {
       "id": "equ.ske.aax.010-d",
-      "es": "Articulación sacroilíaca (derecho)",
+      "es": "Articulación sacroilíaca (derecha)",
       "la": "Articulatio sacroiliaca",
       "sys": "ske",
       "layer": "art",
@@ -4912,7 +4908,7 @@
         "funcion": "Une la pelvis a la columna y transmite al miembro pelviano el impulso y el peso del tronco. Su movimiento es mínimo en el caballo sano.",
         "especie": "En el caballo, la articulación sacroilíaca es una diartrosis sinovial atípica. La superficie auricular del ilion está recubierta por fibrocartílago y la del sacro por cartílago hialino. La cápsula ajustada y los ligamentos sacroilíacos limitan la movilidad y transmiten las fuerzas entre la columna y la pelvis.",
         "clinica": "Los trastornos más frecuentes son la artritis, las fracturas del sacro o del ilion y la desmitis de los ligamentos sacroilíacos. La ecografía permite valorar los ligamentos y el contorno articular desde la superficie dorsal y por vía rectal. Una revisión discute si la desmitis suspensoria proximal del miembro pelviano predispone a la enfermedad sacroilíaca.",
-        "referencias": "Tallaj A, Coudry V, Denoix JM. Transrectal ultrasonographic examination of the sacroiliac joints of the horse: technique and normal images. Equine Vet Educ. 2019;31(12):666–671.\nTallaj A, Coudry V, Denoix JM. Transrectal ultrasonographic examination of the sacroiliac joints of the horse: abnormal findings and lesions. Equine Vet Educ. 2020;32(1):33–38.\nUniversity of Florida, College of Veterinary Medicine. Veterinary Diagnostic Imaging: 17-year-old Hanoverian gelding, case reveal; describe la articulación sacroilíaca equina como sinovial plana, con fibrocartílago ilíaco y cartílago hialino sacro. https://imaging.vetmed.ufl.edu/large-animal/pelvis/17-year-old-hanoverian-gelding/case-reveal/\nStructural and biomechanical aspects of equine sacroiliac joint function and their relationship to clinical disease. Equine Vet J. 2008. https://doi.org/10.1111/j.2042-3306.2008.tb04118.x"
+        "referencias": "WikiVet, Hindlimb - Anatomy & Physiology: articulación sacroilíaca y sus ligamentos. https://en.wikivet.net/Hindlimb_-_Anatomy_&_Physiology\n\nWikiVet, Joints - Horse Anatomy: ligamentos sacroilíacos dorsales del caballo. https://en.wikivet.net/Joints_-_Horse_Anatomy\n\nIntechOpen, capítulo sobre desmitis suspensoria proximal del miembro pelviano y enfermedad sacroilíaca en el caballo. doi:10.5772/intechopen.92353. https://www.intechopen.com:443/chapters/72062\n\nMad Barn, Sacroiliac joint dysfunction in horses (revisión de anatomía y trastornos de la articulación). https://madbarn.com/sacroiliac-joint-dysfunction-in-horses\n\nNewmarket Equine Hospital, Sacroiliac Disease In The Horse. https://newmarketequinehospital.com/?p=2429\n\nTallaj A, Coudry V, Denoix JM. Transrectal ultrasonographic examination of the sacroiliac joints of the horse: technique and normal images. Equine Vet Educ. 2019;31(12):666–671.\n\nTallaj A, Coudry V, Denoix JM. Transrectal ultrasonographic examination of the sacroiliac joints of the horse: abnormal findings and lesions. Equine Vet Educ. 2020;32(1):33–38.\n\nUniversity of Florida, College of Veterinary Medicine. Veterinary Diagnostic Imaging: 17-year-old Hanoverian gelding, case reveal; describe la articulación sacroilíaca equina como sinovial plana, con fibrocartílago ilíaco y cartílago hialino sacro. https://imaging.vetmed.ufl.edu/large-animal/pelvis/17-year-old-hanoverian-gelding/case-reveal/\n\nStructural and biomechanical aspects of equine sacroiliac joint function and their relationship to clinical disease. Equine Vet J. 2008. https://doi.org/10.1111/j.2042-3306.2008.tb04118.x"
       }
     },
     {
@@ -4997,8 +4993,7 @@
         "especie": "En el caballo falta la rama caudal (ulnar) del ligamento colateral lateral. La parte craneal del colateral medial es un resto del pronador redondo.",
         "clinica": "El manual MSD agrupa para el codo equino la enfermedad ortopédica del desarrollo, las fracturas, la osteoartritis, la lesión del ligamento colateral y la bursitis del olécranon.",
         "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nMSD Veterinary Manual, Disorders of the Shoulder and Elbow in Horses (versión para propietarios). https://www.msdvetmanual.com/horse-owners/bone,-joint,-and-muscle-disorders-in-horses/disorders-of-the-shoulder-and-elbow-in-horses\\\nWikipedia, Skeletal system of the horse (artículo con aviso de citas pendientes; solo para el dato del arco de flexión del codo). https://www.wikipedia.org/wiki/Skeletal_system_of_the_horse"
-      }
-    },
+      }    },
     {
       "id": "equ.ske.amt.002-d",
       "es": "Articulación del codo (derecho)",
@@ -5358,17 +5353,45 @@
     },
     {
       "id": "equ.ske.amp.001-i",
-      "es": "Articulación coxofemoral (cadera) (izquierdo)",
+      "es": "Articulación coxofemoral (izquierda)",
       "la": "Articulatio coxae",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Región de la cadera izquierda, entre la cabeza del fémur izquierdo y el acetábulo del hueso coxal izquierdo.",
+        "descripcion": "Articulación sinovial esferoidea formada por la cabeza femoral y la superficie semilunar del acetábulo. Presenta cápsula articular, labrum acetabular y ligamentos intracapsulares. En el caballo posee un ligamento accesorio característico de los équidos que refuerza la estabilidad y limita especialmente la abducción y la rotación.",
+        "relaciones": "El acetábulo está formado por la unión del ilion, isquion y pubis izquierdos. La articulación se relaciona lateralmente con la musculatura glútea profunda y los músculos periarticulares, medialmente con la región obturatriz y estructuras pélvicas, y proximalmente con la musculatura y los tejidos conectivos de la pelvis.",
+        "accidentes": "Cabeza del fémur (caput ossis femoris), fóvea de la cabeza femoral (fovea capitis femoris), cuello femoral, acetábulo (acetabulum), superficie semilunar (facies lunata), fosa acetabular (fossa acetabuli), incisura acetabular (incisura acetabuli) y labrum acetabular (labrum acetabulare).",
+        "articulaciones": "La cabeza femoral izquierda articula con la superficie semilunar del acetábulo izquierdo. La incisura acetabular queda puenteada por el ligamento transverso del acetábulo. La cavidad articular está delimitada por la cápsula y revestida internamente por membrana sinovial.",
+        "inserciones": "El ligamento de la cabeza del fémur se extiende desde la fosa acetabular hasta la región central de la fóvea femoral. El ligamento accesorio, característico de los équidos, procede del tendón prepubiano, atraviesa la incisura acetabular y alcanza la región caudal de la fóvea femoral. El ligamento transverso une los extremos del labrum a través de la incisura. La cápsula se fija alrededor del margen acetabular y de la región proximal del fémur.",
+        "irrigacion": "Recibe irrigación mediante ramas periarticulares procedentes de la red arterial de la región glútea, obturatriz y femoral circundante. La contribución de las ramas circunflejas femorales y obturatrices debe interpretarse según la distribución vascular individual. No se atribuye una arteria exclusiva sin confirmación anatómica equina.",
+        "inervacion": "La cápsula y los tejidos periarticulares reciben ramas articulares de los nervios regionales, principalmente de los territorios glúteos, femoral y obturador. La distribución exacta puede presentar variaciones; no se atribuye toda la inervación a un solo nervio.",
+        "funcion": "Transmite el peso y las fuerzas locomotoras entre el miembro pelviano izquierdo y la pelvis. Permite principalmente flexión y extensión, además de movimientos accesorios limitados. Sus componentes ligamentarios mantienen la congruencia y estabilidad articular.",
+        "especie": "En el caballo, el ligamento accesorio de la cabeza femoral es una particularidad anatómica de los équidos. Se origina en el tendón prepubiano y contribuye a restringir la abducción y rotación de la cadera. La movilidad funcional está predominantemente orientada a la flexión y extensión.",
+        "clinica": "Puede presentar luxación o subluxación, fracturas acetabulares o femorales, osteoartritis, artritis séptica y lesiones del complejo ligamentoso de la cabeza femoral. La exploración ecográfica y las técnicas de imagen avanzadas permiten evaluar estructuras periarticulares e intracapsulares.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del miembro pelviano y articulación de la cadera.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Articulaciones del miembro pelviano.\n\nGeburek F. Coxofemoral instability in equids caused by Ligamentum capitis ossis femoris disruption. Equine Veterinary Education. 2026. DOI: 10.1111/eve.70072.\n\nComputed tomographic arthrography of the coxofemoral joint in horses. Equine Veterinary Education."
+      }
     },
     {
       "id": "equ.ske.amp.001-d",
-      "es": "Articulación coxofemoral (cadera) (derecho)",
+      "es": "Articulación coxofemoral (derecha)",
       "la": "Articulatio coxae",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Región de la cadera derecha, entre la cabeza del fémur derecho y el acetábulo del hueso coxal derecho.",
+        "descripcion": "Articulación sinovial esferoidea formada por la cabeza femoral y la superficie semilunar del acetábulo. Presenta cápsula articular, labrum acetabular y ligamentos intracapsulares. En el caballo posee un ligamento accesorio característico de los équidos que refuerza la estabilidad y limita especialmente la abducción y la rotación.",
+        "relaciones": "El acetábulo está formado por la unión del ilion, isquion y pubis derechos. La articulación se relaciona lateralmente con la musculatura glútea profunda y los músculos periarticulares, medialmente con la región obturatriz y estructuras pélvicas, y proximalmente con la musculatura y los tejidos conectivos de la pelvis.",
+        "accidentes": "Cabeza del fémur (caput ossis femoris), fóvea de la cabeza femoral (fovea capitis femoris), cuello femoral, acetábulo (acetabulum), superficie semilunar (facies lunata), fosa acetabular (fossa acetabuli), incisura acetabular (incisura acetabuli) y labrum acetabular (labrum acetabulare).",
+        "articulaciones": "La cabeza femoral derecha articula con la superficie semilunar del acetábulo derecho. La incisura acetabular queda puenteada por el ligamento transverso del acetábulo. La cavidad articular está delimitada por la cápsula y revestida internamente por membrana sinovial.",
+        "inserciones": "El ligamento de la cabeza del fémur se extiende desde la fosa acetabular hasta la región central de la fóvea femoral. El ligamento accesorio, característico de los équidos, procede del tendón prepubiano, atraviesa la incisura acetabular y alcanza la región caudal de la fóvea femoral. El ligamento transverso une los extremos del labrum a través de la incisura. La cápsula se fija alrededor del margen acetabular y de la región proximal del fémur.",
+        "irrigacion": "Recibe irrigación mediante ramas periarticulares procedentes de la red arterial de la región glútea, obturatriz y femoral circundante. La contribución de las ramas circunflejas femorales y obturatrices debe interpretarse según la distribución vascular individual. No se atribuye una arteria exclusiva sin confirmación anatómica equina.",
+        "inervacion": "La cápsula y los tejidos periarticulares reciben ramas articulares de los nervios regionales, principalmente de los territorios glúteos, femoral y obturador. La distribución exacta puede presentar variaciones; no se atribuye toda la inervación a un solo nervio.",
+        "funcion": "Transmite el peso y las fuerzas locomotoras entre el miembro pelviano derecho y la pelvis. Permite principalmente flexión y extensión, además de movimientos accesorios limitados. Sus componentes ligamentarios mantienen la congruencia y estabilidad articular.",
+        "especie": "En el caballo, el ligamento accesorio de la cabeza femoral es una particularidad anatómica de los équidos. Se origina en el tendón prepubiano y contribuye a restringir la abducción y rotación de la cadera. La movilidad funcional está predominantemente orientada a la flexión y extensión.",
+        "clinica": "Puede presentar luxación o subluxación, fracturas acetabulares o femorales, osteoartritis, artritis séptica y lesiones del complejo ligamentoso de la cabeza femoral. La exploración ecográfica y las técnicas de imagen avanzadas permiten evaluar estructuras periarticulares e intracapsulares.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del miembro pelviano y articulación de la cadera.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Articulaciones del miembro pelviano.\n\nGeburek F. Coxofemoral instability in equids caused by Ligamentum capitis ossis femoris disruption. Equine Veterinary Education. 2026. DOI: 10.1111/eve.70072.\n\nComputed tomographic arthrography of the coxofemoral joint in horses. Equine Veterinary Education."
+      }
     },
     {
       "id": "equ.ske.amp.002-i",
@@ -5969,8 +5992,7 @@
       "id": "equ.ske.lmp.012-d",
       "es": "Ligamento colateral medial del tarso (derecho)",
       "la": "Ligamentum collaterale tarsi mediale",
-      "sys": "ske",
-      "layer": "art"
+      "sys": "ske",      "layer": "art"
     },
     {
       "id": "equ.ske.lmp.013-i",
@@ -6969,8 +6991,7 @@
     {
       "id": "equ.mus.tor.008-i",
       "es": "Retractor de la costilla (izquierdo)",
-      "la": "Musculus retractor costae",
-      "sys": "mus",
+      "la": "Musculus retractor costae",      "sys": "mus",
       "layer": "mpr"
     },
     {
@@ -7969,8 +7990,7 @@
       "sys": "mus",
       "layer": "mpr"
     },
-    {
-      "id": "equ.mus.pie.006-i",
+    {      "id": "equ.mus.pie.006-i",
       "es": "Tibial caudal (izquierdo)",
       "la": "Musculus tibialis caudalis",
       "sys": "mus",
@@ -8969,8 +8989,7 @@
       "sys": "mus",
       "layer": "mpr"
     },
-    {
-      "id": "equ.mus.tor.029-i",
+    {      "id": "equ.mus.tor.029-i",
       "es": "Intercostal interno, espacio 1 (izquierdo)",
       "la": "Musculus intercostalis internus, spatium 1",
       "sys": "mus",
@@ -9969,8 +9988,7 @@
       "la": "Bucca",
       "sys": "dig",
       "layer": "org"
-    },
-    {
+    },    {
       "id": "equ.dig.boc.004",
       "es": "Encía",
       "la": "Gingiva",
@@ -10969,8 +10987,7 @@
       "es": "Conchas etmoidales (izquierda)",
       "la": "Conchae ethmoidales",
       "sys": "res",
-      "layer": "org"
-    },
+      "layer": "org"    },
     {
       "id": "equ.res.cav.005-d",
       "es": "Conchas etmoidales (derecha)",
@@ -11969,8 +11986,7 @@
         "descripcion": "Articulación sinovial que conecta el proceso tirohioideo con el cartílago tiroides. No debe confundirse con la unión basihioidea, donde el proceso tirohioideo se continúa con el basihioides y puede presentar sinostosis con la maduración.",
         "relaciones": "Se relaciona medialmente con la laringe y sus estructuras cartilaginosas; dorsalmente con la región de la raíz de la lengua y el aparato hioideo; y caudalmente con el resto del esqueleto laríngeo. La disposición es bilateral.",
         "accidentes": "Superficies articulares del extremo distal del proceso tirohioideo y del cuerno rostral del cartílago tiroides; cartílago articular hialino y pequeña cavidad articular con cápsula.",
-        "articulaciones": "Articula el proceso tirohioideo con el cuerno rostral del cartílago tiroides. Es una articulación sinovial pequeña; no corresponde a la sinostosis entre el basihioides y el proceso tirohioideo.",
-        "inserciones": "No constituye una superficie de inserción muscular principal. La cápsula articular se fija alrededor de los márgenes de las superficies articulares.",
+        "articulaciones": "Articula el proceso tirohioideo con el cuerno rostral del cartílago tiroides. Es una articulación sinovial pequeña; no corresponde a la sinostosis entre el basihioides y el proceso tirohioideo.",        "inserciones": "No constituye una superficie de inserción muscular principal. La cápsula articular se fija alrededor de los márgenes de las superficies articulares.",
         "irrigacion": "La irrigación capsular específica no se describe de forma independiente y consistente en las fuentes consultadas. Recibe aporte de la vascularización regional de la laringe; no se asigna una arteria exclusiva sin respaldo.",
         "inervacion": "La inervación articular específica no está detallada de forma consistente en las fuentes consultadas. No se atribuye un nervio exclusivo.",
         "funcion": "Permite una conexión móvil entre el aparato hioideo y el cartílago tiroides, coordinando los desplazamientos del aparato hioideo con los movimientos de la laringe durante la deglución y la función respiratoria.",
@@ -12969,8 +12985,7 @@
     {
       "id": "equ.car.acc.001-d",
       "es": "Arteria subclavia (derecha)",
-      "la": "Arteria subclavia",
-      "sys": "car",
+      "la": "Arteria subclavia",      "sys": "car",
       "layer": "vas"
     },
     {
@@ -13969,8 +13984,7 @@
     },
     {
       "id": "equ.car.amt.019-d",
-      "es": "Arteria metacarpiana palmar II (derecha)",
-      "la": "Arteria metacarpea palmaris II",
+      "es": "Arteria metacarpiana palmar II (derecha)",      "la": "Arteria metacarpea palmaris II",
       "sys": "car",
       "layer": "vas"
     },
@@ -14969,8 +14983,7 @@
     },
     {
       "id": "equ.car.vcc.011-i",
-      "es": "Vena infraorbitaria (izquierda)",
-      "la": "Vena infraorbitalis",
+      "es": "Vena infraorbitaria (izquierda)",      "la": "Vena infraorbitalis",
       "sys": "car",
       "layer": "vas"
     },
@@ -15969,8 +15982,7 @@
       "es": "Vena renal (izquierda)",
       "la": "Vena renalis",
       "sys": "car",
-      "layer": "vas"
-    },
+      "layer": "vas"    },
     {
       "id": "equ.car.vvi.018-d",
       "es": "Vena renal (derecha)",
@@ -16969,8 +16981,7 @@
       "id": "equ.ner.tel.026-d",
       "es": "Pilar del fórnix (derecho)",
       "la": "Crus fornicis",
-      "sys": "ner",
-      "layer": "ner"
+      "sys": "ner",      "layer": "ner"
     },
     {
       "id": "equ.ner.tel.027",
@@ -17969,8 +17980,7 @@
     {
       "id": "equ.ner.met.013",
       "es": "Árbol de la vida del cerebelo",
-      "la": "Arbor vitae cerebelli",
-      "sys": "ner",
+      "la": "Arbor vitae cerebelli",      "sys": "ner",
       "layer": "ner"
     },
     {
@@ -18969,8 +18979,7 @@
     },
     {
       "id": "equ.ner.tra.016-d",
-      "es": "Tracto espinorreticular (derecho)",
-      "la": "Tractus spinoreticularis",
+      "es": "Tracto espinorreticular (derecho)",      "la": "Tractus spinoreticularis",
       "sys": "ner",
       "layer": "ner"
     },
@@ -19969,8 +19978,7 @@
       "layer": "ner"
     },
     {
-      "id": "equ.ner.cra.009-d",
-      "es": "Raíz sensitiva del nervio trigémino (derecha)",
+      "id": "equ.ner.cra.009-d",      "es": "Raíz sensitiva del nervio trigémino (derecha)",
       "la": "Radix sensoria n. trigemini",
       "sys": "ner",
       "layer": "ner"
@@ -20969,8 +20977,7 @@
       "sys": "ner",
       "layer": "ner"
     },
-    {
-      "id": "equ.ner.cra.081-i",
+    {      "id": "equ.ner.cra.081-i",
       "es": "Ramas faríngeas del nervio vago (izquierdas)",
       "la": "Rami pharyngei n. vagi",
       "sys": "ner",
@@ -21969,8 +21976,7 @@
       "es": "Nervio glúteo caudal (derecho)",
       "la": "N. gluteus caudalis",
       "sys": "ner",
-      "layer": "ner"
-    },
+      "layer": "ner"    },
     {
       "id": "equ.ner.lum.010-i",
       "es": "Nervio ciático (izquierdo)",
@@ -22969,8 +22975,7 @@
       "layer": "ner"
     },
     {
-      "id": "equ.ner.med.045",
-      "es": "Segmento medular torácico T11",
+      "id": "equ.ner.med.045",      "es": "Segmento medular torácico T11",
       "la": "Segmentum medullae spinalis thoracicum T11",
       "sys": "ner",
       "layer": "ner"
@@ -23969,8 +23974,7 @@
       "sys": "ner",
       "layer": "ner"
     },
-    {
-      "id": "equ.ner.esp.060-d",
+    {      "id": "equ.ner.esp.060-d",
       "es": "Rama dorsal del nervio torácico T10 (derecha)",
       "la": "Ramus dorsalis n. thoracicus T10",
       "sys": "ner",
@@ -24969,8 +24973,7 @@
       "la": "Ganglion spinale C5",
       "sys": "ner",
       "layer": "ner"
-    },
-    {
+    },    {
       "id": "equ.ner.esp.132-i",
       "es": "Ganglio espinal C6 (izquierdo)",
       "la": "Ganglion spinale C6",
@@ -25969,8 +25972,7 @@
       "es": "Venas arcuatas del riñón (izquierdas)",
       "la": "Vv. arcuatae renis",
       "sys": "uri",
-      "layer": "org"
-    },
+      "layer": "org"    },
     {
       "id": "equ.uri.rin.018-d",
       "es": "Venas arcuatas del riñón (derechas)",
@@ -26969,8 +26971,7 @@
       "layer": "org",
       "sex": "m"
     },
-    {
-      "id": "equ.rep.gla.004-i",
+    {      "id": "equ.rep.gla.004-i",
       "es": "Lóbulo de la próstata (izquierdo)",
       "la": "Lobus prostatae",
       "sys": "rep",
@@ -27969,8 +27970,7 @@
       "layer": "org",
       "sex": "f"
     },
-    {
-      "id": "equ.rep.mam.001-d",
+    {      "id": "equ.rep.mam.001-d",
       "es": "Glándula mamaria (derecha)",
       "la": "Mamma",
       "sys": "rep",
@@ -28969,8 +28969,7 @@
     },
     {
       "id": "equ.teg.cmp.007-d",
-      "es": "Ángulo de la muralla (derecho)",
-      "la": "Angulus parietis ungulae",
+      "es": "Ángulo de la muralla (derecho)",      "la": "Angulus parietis ungulae",
       "sys": "teg",
       "layer": "pel"
     },
@@ -29969,8 +29968,7 @@
       "layer": "org"
     },
     {
-      "id": "equ.sen.ane.002-i",
-      "es": "Párpado inferior (izquierdo)",
+      "id": "equ.sen.ane.002-i",      "es": "Párpado inferior (izquierdo)",
       "la": "Palpebra inferior",
       "sys": "sen",
       "layer": "org"
@@ -30969,8 +30967,7 @@
       "sys": "sen",
       "layer": "org"
     },
-    {
-      "id": "equ.sen.olf.002-d",
+    {      "id": "equ.sen.olf.002-d",
       "es": "Epitelio olfatorio (derecho)",
       "la": "Epithelium olfactorium",
       "sys": "sen",
@@ -31969,8 +31966,7 @@
         "relaciones": "Se relaciona con la porción orbital del frontal y la lámina perpendicular del palatino, en la región caudal de la cavidad nasal y de la órbita. Se encuentra próxima a otras uniones del frontal con huesos vecinos.",
         "accidentes": "La unión se establece entre el margen del frontal y el palatino en la región caudal de la pared nasal y orbitopal atina. Su extensión debe interpretarse según la superficie y los límites óseos descritos en el cráneo equino.",
         "articulaciones": "Es una sutura fibrosa y funcionalmente una sinartrosis en la clasificación clásica. No posee cápsula ni cavidad sinovial.",
-        "inserciones": "No presenta inserciones musculares propias. El tejido sutural se continúa con el periostio de los huesos frontal y palatino.",
-        "irrigacion": "No posee irrigación propia independiente. El aporte procede de vasos periostales y de los tejidos blandos de la región orbitopalatina; no se asigna una arteria exclusiva.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido sutural se continúa con el periostio de los huesos frontal y palatino.",        "irrigacion": "No posee irrigación propia independiente. El aporte procede de vasos periostales y de los tejidos blandos de la región orbitopalatina; no se asigna una arteria exclusiva.",
         "inervacion": "No se describe una inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos vecinos.",
         "funcion": "Contribuye a la continuidad ósea entre el frontal y el palatino en la región caudal de la cara y de la órbita.",
         "especie": "La conexión frontopalatina se incluye entre las uniones del hueso frontal del caballo descritas en la anatomía veterinaria clásica.",
