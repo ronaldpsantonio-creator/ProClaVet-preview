@@ -4941,140 +4941,420 @@
       "es": "Articulación del hombro (izquierdo)",
       "la": "Articulatio humeri",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región del hombro del lado izquierdo, entre la cavidad glenoidea de la escápula y la cabeza del húmero.",
+        "descripcion": "Articulación sinovial entre la cavidad glenoidea de la escápula y la cabeza del húmero del lado izquierdo. En el caballo no son posibles los movimientos laterales ni mediales por la forma de la cabeza humeral, y el movimiento se limita a flexión y extensión.",
+        "relaciones": "Se relaciona con el tendón del bíceps braquial, que en el caballo no tiene vaina sinovial sino una bolsa intertubercular entre los tubérculos del húmero. Esa bolsa no comunica con la cavidad articular. El retináculo humeral transverso, entre los tubérculos mayor y menor, mantiene en su sitio la bolsa y el tendón.",
+        "accidentes": "Cavidad glenoidea, tubérculo supraglenoideo, cabeza y tubérculos mayor y menor del húmero, surco intertubercular con su bolsa. Tiene recesos craneal y caudal.",
+        "articulaciones": "Articulación sinovial reforzada por los ligamentos glenohumerales medial y lateral y por el ligamento coracohumeral, que va del tubérculo supraglenoideo al tubérculo mayor del húmero.",
+        "inserciones": "El tendón del bíceps braquial se inserta distalmente en la tuberosidad radial.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "Permite la flexión y la extensión del miembro torácico en el plano sagital.",
+        "especie": "En el caballo el tendón bicipital no tiene vaina sinovial: lo rodea una bolsa intertubercular independiente de la articulación.",
+        "clinica": "El hombro es un origen poco frecuente de cojera. La osteocondrosis se diagnostica sobre todo en destetados y de un año, con osteocondritis disecante en la cabeza humeral caudal y lesiones quísticas subcondrales en la glenoides. La displasia escapulohumeral es casi exclusiva de los caballos miniatura. Existe además bursitis bicipital, y para el diagnóstico se usa anestesia sinovial de la articulación o de la bolsa bicipital.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\\nTurner TA. Disorders of the Shoulder in Horses. MSD Veterinary Manual, rev. 2025. https://www.merckvetmanual.com/veterinary/musculoskeletal-system/lameness-in-horses/disorders-of-the-shoulder-in-horses\\\\nMSD Veterinary Manual, Disorders of the Shoulder and Elbow in Horses (versión para propietarios). https://www.msdvetmanual.com/horse-owners/bone,-joint,-and-muscle-disorders-in-horses/disorders-of-the-shoulder-and-elbow-in-horses\\\\nWikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.amt.001-d",
       "es": "Articulación del hombro (derecho)",
       "la": "Articulatio humeri",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región del hombro del lado derecho, entre la cavidad glenoidea de la escápula y la cabeza del húmero.",
+        "descripcion": "Articulación sinovial entre la cavidad glenoidea de la escápula y la cabeza del húmero del lado derecho. En el caballo no son posibles los movimientos laterales ni mediales por la forma de la cabeza humeral, y el movimiento se limita a flexión y extensión.",
+        "relaciones": "Se relaciona con el tendón del bíceps braquial, que en el caballo no tiene vaina sinovial sino una bolsa intertubercular entre los tubérculos del húmero. Esa bolsa no comunica con la cavidad articular. El retináculo humeral transverso, entre los tubérculos mayor y menor, mantiene en su sitio la bolsa y el tendón.",
+        "accidentes": "Cavidad glenoidea, tubérculo supraglenoideo, cabeza y tubérculos mayor y menor del húmero, surco intertubercular con su bolsa. Tiene recesos craneal y caudal.",
+        "articulaciones": "Articulación sinovial reforzada por los ligamentos glenohumerales medial y lateral y por el ligamento coracohumeral, que va del tubérculo supraglenoideo al tubérculo mayor del húmero.",
+        "inserciones": "El tendón del bíceps braquial se inserta distalmente en la tuberosidad radial.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "Permite la flexión y la extensión del miembro torácico en el plano sagital.",
+        "especie": "En el caballo el tendón bicipital no tiene vaina sinovial: lo rodea una bolsa intertubercular independiente de la articulación.",
+        "clinica": "El hombro es un origen poco frecuente de cojera. La osteocondrosis se diagnostica sobre todo en destetados y de un año, con osteocondritis disecante en la cabeza humeral caudal y lesiones quísticas subcondrales en la glenoides. La displasia escapulohumeral es casi exclusiva de los caballos miniatura. Existe además bursitis bicipital, y para el diagnóstico se usa anestesia sinovial de la articulación o de la bolsa bicipital.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\\nTurner TA. Disorders of the Shoulder in Horses. MSD Veterinary Manual, rev. 2025. https://www.merckvetmanual.com/veterinary/musculoskeletal-system/lameness-in-horses/disorders-of-the-shoulder-in-horses\\\\nMSD Veterinary Manual, Disorders of the Shoulder and Elbow in Horses (versión para propietarios). https://www.msdvetmanual.com/horse-owners/bone,-joint,-and-muscle-disorders-in-horses/disorders-of-the-shoulder-and-elbow-in-horses\\\\nWikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.amt.002-i",
       "es": "Articulación del codo (izquierdo)",
       "la": "Articulatio cubiti",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el codo del lado izquierdo, entre el cóndilo del húmero, la incisura troclear de la ulna y la cabeza del radio.",
+        "descripcion": "Articulación sinovial compuesta del lado izquierdo, formada por el cóndilo humeral, la incisura troclear de la ulna y la cabeza del radio. Una fuente general la describe como una articulación en bisagra que flexiona unos 55 a 60 grados.",
+        "relaciones": "La cápsula se inserta en la superficie articular del cóndilo, en el borde de la fosa del olécranon y en el cartílago articular de la incisura troclear de la ulna.",
+        "accidentes": "Cóndilo y epicóndilos medial y lateral del húmero, fosa del olécranon, incisura troclear de la ulna y cabeza del radio.",
+        "articulaciones": "Articulación sinovial con dos ligamentos colaterales. El colateral lateral (radial) se origina en el epicóndilo lateral del húmero. El colateral medial (ulnar) se origina en el epicóndilo medial y se inserta en la ulna y en el radio.",
+        "inserciones": "La parte craneal del ligamento colateral medial es un resto del músculo pronador redondo.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "Permite la flexión y la extensión del antebrazo sobre el brazo.",
+        "especie": "En el caballo falta la rama caudal (ulnar) del ligamento colateral lateral. La parte craneal del colateral medial es un resto del pronador redondo.",
+        "clinica": "El manual MSD agrupa para el codo equino la enfermedad ortopédica del desarrollo, las fracturas, la osteoartritis, la lesión del ligamento colateral y la bursitis del olécranon.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\\nMSD Veterinary Manual, Disorders of the Shoulder and Elbow in Horses (versión para propietarios). https://www.msdvetmanual.com/horse-owners/bone,-joint,-and-muscle-disorders-in-horses/disorders-of-the-shoulder-and-elbow-in-horses\\\\nWikipedia, Skeletal system of the horse (artículo con aviso de citas pendientes; solo para el dato del arco de flexión del codo). https://www.wikipedia.org/wiki/Skeletal_system_of_the_horse"
+      }
     },
     {
       "id": "equ.ske.amt.002-d",
       "es": "Articulación del codo (derecho)",
       "la": "Articulatio cubiti",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el codo del lado derecho, entre el cóndilo del húmero, la incisura troclear de la ulna y la cabeza del radio.",
+        "descripcion": "Articulación sinovial compuesta del lado derecho, formada por el cóndilo humeral, la incisura troclear de la ulna y la cabeza del radio. Una fuente general la describe como una articulación en bisagra que flexiona unos 55 a 60 grados.",
+        "relaciones": "La cápsula se inserta en la superficie articular del cóndilo, en el borde de la fosa del olécranon y en el cartílago articular de la incisura troclear de la ulna.",
+        "accidentes": "Cóndilo y epicóndilos medial y lateral del húmero, fosa del olécranon, incisura troclear de la ulna y cabeza del radio.",
+        "articulaciones": "Articulación sinovial con dos ligamentos colaterales. El colateral lateral (radial) se origina en el epicóndilo lateral del húmero. El colateral medial (ulnar) se origina en el epicóndilo medial y se inserta en la ulna y en el radio.",
+        "inserciones": "La parte craneal del ligamento colateral medial es un resto del músculo pronador redondo.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "Permite la flexión y la extensión del antebrazo sobre el brazo.",
+        "especie": "En el caballo falta la rama caudal (ulnar) del ligamento colateral lateral. La parte craneal del colateral medial es un resto del pronador redondo.",
+        "clinica": "El manual MSD agrupa para el codo equino la enfermedad ortopédica del desarrollo, las fracturas, la osteoartritis, la lesión del ligamento colateral y la bursitis del olécranon.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\\nMSD Veterinary Manual, Disorders of the Shoulder and Elbow in Horses (versión para propietarios). https://www.msdvetmanual.com/horse-owners/bone,-joint,-and-muscle-disorders-in-horses/disorders-of-the-shoulder-and-elbow-in-horses\\\\nWikipedia, Skeletal system of the horse (artículo con aviso de citas pendientes; solo para el dato del arco de flexión del codo). https://www.wikipedia.org/wiki/Skeletal_system_of_the_horse"
+      }
     },
     {
       "id": "equ.ske.amt.003-i",
       "es": "Sindesmosis radiocubital (izquierdo)",
       "la": "Syndesmosis radioulnaris",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el antebrazo del lado izquierdo, entre el radio y la ulna, sobre todo en su cuarto proximal.",
+        "descripcion": "Unión del radio y la ulna del lado izquierdo. En el cuarto proximal del radio los huesos se unen por ligamentos, con un espacio interóseo por el que pasan vasos, y más distalmente están fusionados. La ulna se adelgaza hacia la mitad del antebrazo.",
+        "relaciones": "El espacio interóseo proximal permite el paso de vasos sanguíneos hacia los músculos del antebrazo. El proceso estiloides lateral del radio es el extremo distal de la ulna.",
+        "accidentes": "Espacio interóseo proximal del antebrazo y proceso estiloides lateral del radio, que corresponde a la ulna distal fusionada.",
+        "articulaciones": "Sindesmosis ligamentosa en el cuarto proximal, donde los huesos se unen por ligamentos. Hacia distal pasa a una unión ósea (sinostosis).",
+        "inserciones": "No se detallan inserciones propias en las fuentes consultadas.",
+        "irrigacion": "Una guía docente indica que la arteria interósea común atraviesa el espacio interóseo para llegar a los músculos antebraquiales. No describe un aporte propio de la unión.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "La fusión de ambos huesos limita el movimiento al plano sagital, con muy poca pronación y supinación.",
+        "especie": "En el caballo adulto la ulna está fusionada al radio y muy reducida. El proceso estiloides lateral aparece como un centro de osificación aparte en el potro y se fusiona hacia el año de edad.",
+        "clinica": "La separación del proceso estiloides lateral, que no es una fractura, se ve como variación normal en algunos caballos.",
+        "referencias": "WikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy\\\\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb"
+      }
     },
     {
       "id": "equ.ske.amt.003-d",
       "es": "Sindesmosis radiocubital (derecho)",
       "la": "Syndesmosis radioulnaris",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el antebrazo del lado derecho, entre el radio y la ulna, sobre todo en su cuarto proximal.",
+        "descripcion": "Unión del radio y la ulna del lado derecho. En el cuarto proximal del radio los huesos se unen por ligamentos, con un espacio interóseo por el que pasan vasos, y más distalmente están fusionados. La ulna se adelgaza hacia la mitad del antebrazo.",
+        "relaciones": "El espacio interóseo proximal permite el paso de vasos sanguíneos hacia los músculos del antebrazo. El proceso estiloides lateral del radio es el extremo distal de la ulna.",
+        "accidentes": "Espacio interóseo proximal del antebrazo y proceso estiloides lateral del radio, que corresponde a la ulna distal fusionada.",
+        "articulaciones": "Sindesmosis ligamentosa en el cuarto proximal, donde los huesos se unen por ligamentos. Hacia distal pasa a una unión ósea (sinostosis).",
+        "inserciones": "No se detallan inserciones propias en las fuentes consultadas.",
+        "irrigacion": "Una guía docente indica que la arteria interósea común atraviesa el espacio interóseo para llegar a los músculos antebraquiales. No describe un aporte propio de la unión.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "La fusión de ambos huesos limita el movimiento al plano sagital, con muy poca pronación y supinación.",
+        "especie": "En el caballo adulto la ulna está fusionada al radio y muy reducida. El proceso estiloides lateral aparece como un centro de osificación aparte en el potro y se fusiona hacia el año de edad.",
+        "clinica": "La separación del proceso estiloides lateral, que no es una fractura, se ve como variación normal en algunos caballos.",
+        "referencias": "WikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy\\\\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb"
+      }
     },
     {
       "id": "equ.ske.amt.004-i",
       "es": "Articulación antebraquiocarpiana (izquierdo)",
       "la": "Articulatio antebrachiocarpea",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el carpo del lado izquierdo, entre el radio (con su proceso estiloides lateral) y la fila proximal de huesos del carpo.",
+        "descripcion": "Articulación entre el radio y la fila proximal de huesos carpianos del lado izquierdo. Forma parte de la articulación compuesta del carpo, que tiene una cápsula fibrosa externa común y tres bolsas sinoviales internas, una por articulación.",
+        "relaciones": "El retináculo extensor refuerza la cápsula en la cara dorsal y el retináculo flexor en la cara palmar. El canal carpiano aloja los tendones flexores digitales superficial y profundo dentro de una vaina sinovial común, la vaina carpiana, que se relaciona con esta articulación.",
+        "accidentes": "Extremo distal del radio con sus procesos estiloides, fila proximal de huesos del carpo y bolsa palmar de la articulación.",
+        "articulaciones": "Articulación sinovial con cápsula fibrosa común. La estabilizan los ligamentos colaterales largos lateral y medial, que parten de los procesos estiloides del radio y llegan hasta los metacarpianos.",
+        "inserciones": "El ligamento colateral largo lateral se inserta en el cuarto metacarpiano y en los huesos ulnar y cuarto del carpo. El colateral largo medial se inserta en el segundo metacarpiano y en el segundo hueso del carpo.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "Las fuentes consultadas no detallan su función específica; forma parte de la articulación compuesta del carpo.",
+        "especie": "El carpo del caballo suele tener 7 huesos, u 8 si existe el primer carpiano. La articulación antebraquiocarpiana suele ser independiente de la mediocarpiana, aunque en uno de 50 carpos de cadáver se observó comunicación entre ambas.",
+        "clinica": "Se han descrito accesos artroscópicos a los flancos medial y lateral de su bolsa palmar, útiles para retirar fragmentos de fractura.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb\\\\nFord TS, Ross MW, Orsini PG. Communications and boundaries of the middle carpal and carpometacarpal joints in horses. 1988 (50 miembros anteriores de cadáveres). https://agris.fao.org/search/en/records/65df0ea563b8185d9caa8fcf\\\\nCheetham J, Nixon AJ. Arthroscopic approaches to the palmar aspect of the equine carpus. Vet Surg. 2006;35(3):227–231. doi:10.1111/j.1532-950X.2006.00141.x. https://madbarn.com/research/arthroscopic-approaches-to-the-palmar-aspect-of-the-equine-carpus\\\\nSouthwood LL, Stashak TS, Kainer RA. Tenoscopic anatomy of the equine carpal flexor synovial sheath. Vet Surg. 1998;27(2):150–157. doi:10.1111/j.1532-950x.1998.tb00112.x. https://madbarn.com/research/tenoscopic-anatomy-of-the-equine-carpal-flexor-synovial-sheath"
+      }
     },
     {
       "id": "equ.ske.amt.004-d",
       "es": "Articulación antebraquiocarpiana (derecho)",
       "la": "Articulatio antebrachiocarpea",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el carpo del lado derecho, entre el radio (con su proceso estiloides lateral) y la fila proximal de huesos del carpo.",
+        "descripcion": "Articulación entre el radio y la fila proximal de huesos carpianos del lado derecho. Forma parte de la articulación compuesta del carpo, que tiene una cápsula fibrosa externa común y tres bolsas sinoviales internas, una por articulación.",
+        "relaciones": "El retináculo extensor refuerza la cápsula en la cara dorsal y el retináculo flexor en la cara palmar. El canal carpiano aloja los tendones flexores digitales superficial y profundo dentro de una vaina sinovial común, la vaina carpiana, que se relaciona con esta articulación.",
+        "accidentes": "Extremo distal del radio con sus procesos estiloides, fila proximal de huesos del carpo y bolsa palmar de la articulación.",
+        "articulaciones": "Articulación sinovial con cápsula fibrosa común. La estabilizan los ligamentos colaterales largos lateral y medial, que parten de los procesos estiloides del radio y llegan hasta los metacarpianos.",
+        "inserciones": "El ligamento colateral largo lateral se inserta en el cuarto metacarpiano y en los huesos ulnar y cuarto del carpo. El colateral largo medial se inserta en el segundo metacarpiano y en el segundo hueso del carpo.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "Las fuentes consultadas no detallan su función específica; forma parte de la articulación compuesta del carpo.",
+        "especie": "El carpo del caballo suele tener 7 huesos, u 8 si existe el primer carpiano. La articulación antebraquiocarpiana suele ser independiente de la mediocarpiana, aunque en uno de 50 carpos de cadáver se observó comunicación entre ambas.",
+        "clinica": "Se han descrito accesos artroscópicos a los flancos medial y lateral de su bolsa palmar, útiles para retirar fragmentos de fractura.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb\\\\nFord TS, Ross MW, Orsini PG. Communications and boundaries of the middle carpal and carpometacarpal joints in horses. 1988 (50 miembros anteriores de cadáveres). https://agris.fao.org/search/en/records/65df0ea563b8185d9caa8fcf\\\\nCheetham J, Nixon AJ. Arthroscopic approaches to the palmar aspect of the equine carpus. Vet Surg. 2006;35(3):227–231. doi:10.1111/j.1532-950X.2006.00141.x. https://madbarn.com/research/arthroscopic-approaches-to-the-palmar-aspect-of-the-equine-carpus\\\\nSouthwood LL, Stashak TS, Kainer RA. Tenoscopic anatomy of the equine carpal flexor synovial sheath. Vet Surg. 1998;27(2):150–157. doi:10.1111/j.1532-950x.1998.tb00112.x. https://madbarn.com/research/tenoscopic-anatomy-of-the-equine-carpal-flexor-synovial-sheath"
+      }
     },
     {
       "id": "equ.ske.amt.005-i",
       "es": "Articulación mediocarpiana (izquierdo)",
       "la": "Articulatio mediocarpea",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el carpo del lado izquierdo, entre las filas proximal y distal de huesos carpianos.",
+        "descripcion": "Articulación entre las dos filas de huesos carpianos del lado izquierdo. Dentro de la cápsula fibrosa común del carpo tiene su propia bolsa sinovial. En todos los especímenes de un estudio con 50 miembros comunicó con la articulación carpometacarpiana.",
+        "relaciones": "Comunica con la articulación carpometacarpiana por un punto situado entre el tercer y el cuarto hueso del carpo, siempre presente en el estudio. En el 34 % hubo comunicaciones adicionales, sobre todo en la cara palmar del cuarto carpiano.",
+        "accidentes": "Filas proximal y distal de huesos carpianos y bolsa palmar de la articulación.",
+        "articulaciones": "Articulación sinovial con cápsula fibrosa común. Se estabiliza con los ligamentos colaterales largos, con ligamentos cortos entre huesos vecinos y con ligamentos intercarpianos palmares mediales.",
+        "inserciones": "No se detallan inserciones propias en las fuentes consultadas.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "Las fuentes consultadas no detallan su función específica; forma parte de la articulación compuesta del carpo.",
+        "especie": "En el caballo la articulación mediocarpiana y la carpometacarpiana comunican siempre y suelen tratarse como una unidad. En uno de 50 carpos se observó además comunicación con la articulación antebraquiocarpiana.",
+        "clinica": "Al inyectar la articulación mediocarpiana hay que tener en cuenta su efecto sobre el ligamento suspensor proximal, porque, a través de la articulación carpometacarpiana, alcanza invaginaciones sinoviales situadas dentro del ligamento suspensor proximal. Se han descrito accesos artroscópicos a su bolsa palmar.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\\nFord TS, Ross MW, Orsini PG. Communications and boundaries of the middle carpal and carpometacarpal joints in horses. 1988 (50 miembros anteriores de cadáveres). https://agris.fao.org/search/en/records/65df0ea563b8185d9caa8fcf\\\\nGerdes C, Morgan R, Terry R, Foote A, Smith R. Computed tomographic arthrography, gross anatomy and histology demonstrate a communication between synovial invaginations in the proximal aspect of the third interosseous muscle and the carpometacarpal joint in horses. Front Vet Sci. 2022;9:958598. doi:10.3389/fvets.2022.958598. https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.958598/pdf\\\\nCheetham J, Nixon AJ. Arthroscopic approaches to the palmar aspect of the equine carpus. Vet Surg. 2006;35(3):227–231. doi:10.1111/j.1532-950X.2006.00141.x. https://madbarn.com/research/arthroscopic-approaches-to-the-palmar-aspect-of-the-equine-carpus"
+      }
     },
     {
       "id": "equ.ske.amt.005-d",
       "es": "Articulación mediocarpiana (derecho)",
       "la": "Articulatio mediocarpea",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el carpo del lado derecho, entre las filas proximal y distal de huesos carpianos.",
+        "descripcion": "Articulación entre las dos filas de huesos carpianos del lado derecho. Dentro de la cápsula fibrosa común del carpo tiene su propia bolsa sinovial. En todos los especímenes de un estudio con 50 miembros comunicó con la articulación carpometacarpiana.",
+        "relaciones": "Comunica con la articulación carpometacarpiana por un punto situado entre el tercer y el cuarto hueso del carpo, siempre presente en el estudio. En el 34 % hubo comunicaciones adicionales, sobre todo en la cara palmar del cuarto carpiano.",
+        "accidentes": "Filas proximal y distal de huesos carpianos y bolsa palmar de la articulación.",
+        "articulaciones": "Articulación sinovial con cápsula fibrosa común. Se estabiliza con los ligamentos colaterales largos, con ligamentos cortos entre huesos vecinos y con ligamentos intercarpianos palmares mediales.",
+        "inserciones": "No se detallan inserciones propias en las fuentes consultadas.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "Las fuentes consultadas no detallan su función específica; forma parte de la articulación compuesta del carpo.",
+        "especie": "En el caballo la articulación mediocarpiana y la carpometacarpiana comunican siempre y suelen tratarse como una unidad. En uno de 50 carpos se observó además comunicación con la articulación antebraquiocarpiana.",
+        "clinica": "Al inyectar la articulación mediocarpiana hay que tener en cuenta su efecto sobre el ligamento suspensor proximal, porque, a través de la articulación carpometacarpiana, alcanza invaginaciones sinoviales situadas dentro del ligamento suspensor proximal. Se han descrito accesos artroscópicos a su bolsa palmar.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\\nFord TS, Ross MW, Orsini PG. Communications and boundaries of the middle carpal and carpometacarpal joints in horses. 1988 (50 miembros anteriores de cadáveres). https://agris.fao.org/search/en/records/65df0ea563b8185d9caa8fcf\\\\nGerdes C, Morgan R, Terry R, Foote A, Smith R. Computed tomographic arthrography, gross anatomy and histology demonstrate a communication between synovial invaginations in the proximal aspect of the third interosseous muscle and the carpometacarpal joint in horses. Front Vet Sci. 2022;9:958598. doi:10.3389/fvets.2022.958598. https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.958598/pdf\\\\nCheetham J, Nixon AJ. Arthroscopic approaches to the palmar aspect of the equine carpus. Vet Surg. 2006;35(3):227–231. doi:10.1111/j.1532-950X.2006.00141.x. https://madbarn.com/research/arthroscopic-approaches-to-the-palmar-aspect-of-the-equine-carpus"
+      }
     },
     {
       "id": "equ.ske.amt.006-i",
       "es": "Articulaciones intercarpianas (izquierdo)",
       "la": "Articulationes intercarpeae",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el carpo del lado izquierdo, entre los huesos carpianos vecinos de una misma fila o de filas adyacentes.",
+        "descripcion": "Conjunto de uniones entre huesos carpianos vecinos del lado izquierdo. Los huesos de una misma fila o de la fila adyacente se unen mediante ligamentos cortos. La fila distal suele constar del segundo, tercer y cuarto carpiano, porque el primero y el segundo están fusionados o parcialmente fusionados.",
+        "relaciones": "Se relacionan con los ligamentos intercarpianos palmares mediales, que se pueden valorar por artroscopia palmar.",
+        "accidentes": "Huesos carpianos radial, intermedio, ulnar y accesorio en la fila proximal; segundo, tercer y cuarto en la distal; el primer carpiano está presente en 15 a 20 % de los carpos en radiografías.",
+        "articulaciones": "Uniones entre huesos del carpo, mantenidas por ligamentos cortos. No se localizó una descripción equina de cavidades sinoviales propias de estas uniones.",
+        "inserciones": "No se detallan inserciones propias en las fuentes consultadas.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "Mantienen unidos los huesos vecinos del carpo mediante ligamentos cortos.",
+        "especie": "El carpo del caballo suele tener 7 huesos, u 8 si existe el primer carpiano.",
+        "clinica": "Los ligamentos intercarpianos palmares mediales se han valorado por artroscopia palmar. No se localizó una fuente clínica equina específica para estas uniones.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb\\\\nCheetham J, Nixon AJ. Arthroscopic approaches to the palmar aspect of the equine carpus. Vet Surg. 2006;35(3):227–231. doi:10.1111/j.1532-950X.2006.00141.x. https://madbarn.com/research/arthroscopic-approaches-to-the-palmar-aspect-of-the-equine-carpus"
+      }
     },
     {
       "id": "equ.ske.amt.006-d",
       "es": "Articulaciones intercarpianas (derecho)",
       "la": "Articulationes intercarpeae",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el carpo del lado derecho, entre los huesos carpianos vecinos de una misma fila o de filas adyacentes.",
+        "descripcion": "Conjunto de uniones entre huesos carpianos vecinos del lado derecho. Los huesos de una misma fila o de la fila adyacente se unen mediante ligamentos cortos. La fila distal suele constar del segundo, tercer y cuarto carpiano, porque el primero y el segundo están fusionados o parcialmente fusionados.",
+        "relaciones": "Se relacionan con los ligamentos intercarpianos palmares mediales, que se pueden valorar por artroscopia palmar.",
+        "accidentes": "Huesos carpianos radial, intermedio, ulnar y accesorio en la fila proximal; segundo, tercer y cuarto en la distal; el primer carpiano está presente en 15 a 20 % de los carpos en radiografías.",
+        "articulaciones": "Uniones entre huesos del carpo, mantenidas por ligamentos cortos. No se localizó una descripción equina de cavidades sinoviales propias de estas uniones.",
+        "inserciones": "No se detallan inserciones propias en las fuentes consultadas.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "Mantienen unidos los huesos vecinos del carpo mediante ligamentos cortos.",
+        "especie": "El carpo del caballo suele tener 7 huesos, u 8 si existe el primer carpiano.",
+        "clinica": "Los ligamentos intercarpianos palmares mediales se han valorado por artroscopia palmar. No se localizó una fuente clínica equina específica para estas uniones.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb\\\\nCheetham J, Nixon AJ. Arthroscopic approaches to the palmar aspect of the equine carpus. Vet Surg. 2006;35(3):227–231. doi:10.1111/j.1532-950X.2006.00141.x. https://madbarn.com/research/arthroscopic-approaches-to-the-palmar-aspect-of-the-equine-carpus"
+      }
     },
     {
       "id": "equ.ske.amt.007-i",
       "es": "Articulación carpometacarpiana (izquierdo)",
       "la": "Articulatio carpometacarpea",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la base del metacarpo del lado izquierdo, entre la fila distal de huesos del carpo y las extremidades proximales de los metacarpianos.",
+        "descripcion": "Articulación entre los huesos carpianos distales y los metacarpianos proximales del lado izquierdo, dentro de la cápsula fibrosa común del carpo. Comunica siempre con la articulación mediocarpiana.",
+        "relaciones": "Tiene bolsas distopalmares medial y lateral, situadas entre la cara axial de los metacarpianos II y IV y la cara abaxial del ligamento suspensor, de 2,3 cm la lateral y 2,6 cm la medial en promedio en el estudio de Ford. Pequeñas extensiones llegan a las fibras del ligamento suspensor.",
+        "accidentes": "Extremidad proximal del tercer metacarpiano y de los metacarpianos II y IV (huesos rudimentarios), huesos carpianos distales y bolsas distopalmares.",
+        "articulaciones": "Articulación sinovial con cápsula fibrosa común. Se refuerza con los ligamentos colaterales largos del carpo, que llegan a los metacarpianos II y IV.",
+        "inserciones": "Cerca de su cara palmar nace el ligamento suspensor.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "Las fuentes consultadas no detallan su función específica; es la unión entre la fila distal del carpo y el metacarpo.",
+        "especie": "En el caballo solo el tercer metacarpiano permanece completo; el segundo y el cuarto son rudimentarios (huesos accesorios o 'splint').",
+        "clinica": "Un estudio con TC y artrografía demostró invaginaciones sinoviales en la parte proximal del ligamento suspensor que comunican con esta articulación. Es habitual que los bloqueos perineurales palmares altos anestesien por error la articulación carpometacarpiana y con ella la mediocarpiana, y viceversa.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\\nFord TS, Ross MW, Orsini PG. Communications and boundaries of the middle carpal and carpometacarpal joints in horses. 1988 (50 miembros anteriores de cadáveres). https://agris.fao.org/search/en/records/65df0ea563b8185d9caa8fcf\\\\nGerdes C, Morgan R, Terry R, Foote A, Smith R. Computed tomographic arthrography, gross anatomy and histology demonstrate a communication between synovial invaginations in the proximal aspect of the third interosseous muscle and the carpometacarpal joint in horses. Front Vet Sci. 2022;9:958598. doi:10.3389/fvets.2022.958598. https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.958598/pdf\\\\nWikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.amt.007-d",
       "es": "Articulación carpometacarpiana (derecho)",
       "la": "Articulatio carpometacarpea",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la base del metacarpo del lado derecho, entre la fila distal de huesos del carpo y las extremidades proximales de los metacarpianos.",
+        "descripcion": "Articulación entre los huesos carpianos distales y los metacarpianos proximales del lado derecho, dentro de la cápsula fibrosa común del carpo. Comunica siempre con la articulación mediocarpiana.",
+        "relaciones": "Tiene bolsas distopalmares medial y lateral, situadas entre la cara axial de los metacarpianos II y IV y la cara abaxial del ligamento suspensor, de 2,3 cm la lateral y 2,6 cm la medial en promedio en el estudio de Ford. Pequeñas extensiones llegan a las fibras del ligamento suspensor.",
+        "accidentes": "Extremidad proximal del tercer metacarpiano y de los metacarpianos II y IV (huesos rudimentarios), huesos carpianos distales y bolsas distopalmares.",
+        "articulaciones": "Articulación sinovial con cápsula fibrosa común. Se refuerza con los ligamentos colaterales largos del carpo, que llegan a los metacarpianos II y IV.",
+        "inserciones": "Cerca de su cara palmar nace el ligamento suspensor.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "Las fuentes consultadas no detallan su función específica; es la unión entre la fila distal del carpo y el metacarpo.",
+        "especie": "En el caballo solo el tercer metacarpiano permanece completo; el segundo y el cuarto son rudimentarios (huesos accesorios o 'splint').",
+        "clinica": "Un estudio con TC y artrografía demostró invaginaciones sinoviales en la parte proximal del ligamento suspensor que comunican con esta articulación. Es habitual que los bloqueos perineurales palmares altos anestesien por error la articulación carpometacarpiana y con ella la mediocarpiana, y viceversa.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\\nFord TS, Ross MW, Orsini PG. Communications and boundaries of the middle carpal and carpometacarpal joints in horses. 1988 (50 miembros anteriores de cadáveres). https://agris.fao.org/search/en/records/65df0ea563b8185d9caa8fcf\\\\nGerdes C, Morgan R, Terry R, Foote A, Smith R. Computed tomographic arthrography, gross anatomy and histology demonstrate a communication between synovial invaginations in the proximal aspect of the third interosseous muscle and the carpometacarpal joint in horses. Front Vet Sci. 2022;9:958598. doi:10.3389/fvets.2022.958598. https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.958598/pdf\\\\nWikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.amt.008-i",
       "es": "Articulación del menudillo (metacarpofalángica) (izquierdo)",
       "la": "Articulatio metacarpophalangea",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el menudillo del lado izquierdo, entre la tróclea del tercer metacarpiano, la falange proximal y los huesos sesamoideos proximales.",
+        "descripcion": "Articulación entre la tróclea del tercer metacarpiano, la falange proximal y los sesamoideos proximales del lado izquierdo. Permite flexión y extensión.",
+        "relaciones": "La bolsa dorsal se extiende entre el tercer metacarpiano y el tendón extensor digital común. La bolsa palmar queda entre el tercer metacarpiano y el ligamento suspensor. La cápsula se inserta en el cartílago articular de los sesamoideos.",
+        "accidentes": "Tróclea del tercer metacarpiano con su cresta sagital, falange proximal, par de sesamoideos proximales y bolsas sinoviales dorsal y palmar.",
+        "articulaciones": "Articulación sinovial con ligamentos colaterales, intersesamoideo palmar de fibrocartílago, colaterales de los sesamoideos y ligamentos sesamoideos distales: cortos, cruzados, oblicuo y recto. El ligamento anular palmar rodea sesamoideos, tendones flexores y sus vainas.",
+        "inserciones": "Los ligamentos colaterales unen el metacarpiano a la falange proximal, con una rama profunda al sesamoideo. El ligamento recto se une al fibrocartílago del extremo proximal de la falange media.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "Permite la flexión y la extensión del dedo.",
+        "especie": "En el caballo los ligamentos sesamoideos distales están muy marcados.",
+        "clinica": "Es frecuente el derrame sinovial en la fractura de sesamoideos, casi siempre articular y propia de caballos de carreras, y la fractura osteocondral dorsoproximal de la falange proximal por hiperextensión. Los fragmentos osteocondrales pueden retirarse por artroscopia con buen pronóstico si no hay otras lesiones.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\\nMSD Veterinary Manual, Disorders of the Pastern and Fetlock in Horses (fracturas de falanges y sesamoideos, osteoartritis interfalángica proximal). https://www.msdvetmanual.com/musculoskeletal-system/lameness-in-horses/disorders-of-the-pastern-and-fetlock"
+      }
     },
     {
       "id": "equ.ske.amt.008-d",
       "es": "Articulación del menudillo (metacarpofalángica) (derecho)",
       "la": "Articulatio metacarpophalangea",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el menudillo del lado derecho, entre la tróclea del tercer metacarpiano, la falange proximal y los huesos sesamoideos proximales.",
+        "descripcion": "Articulación entre la tróclea del tercer metacarpiano, la falange proximal y los sesamoideos proximales del lado derecho. Permite flexión y extensión.",
+        "relaciones": "La bolsa dorsal se extiende entre el tercer metacarpiano y el tendón extensor digital común. La bolsa palmar queda entre el tercer metacarpiano y el ligamento suspensor. La cápsula se inserta en el cartílago articular de los sesamoideos.",
+        "accidentes": "Tróclea del tercer metacarpiano con su cresta sagital, falange proximal, par de sesamoideos proximales y bolsas sinoviales dorsal y palmar.",
+        "articulaciones": "Articulación sinovial con ligamentos colaterales, intersesamoideo palmar de fibrocartílago, colaterales de los sesamoideos y ligamentos sesamoideos distales: cortos, cruzados, oblicuo y recto. El ligamento anular palmar rodea sesamoideos, tendones flexores y sus vainas.",
+        "inserciones": "Los ligamentos colaterales unen el metacarpiano a la falange proximal, con una rama profunda al sesamoideo. El ligamento recto se une al fibrocartílago del extremo proximal de la falange media.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "Permite la flexión y la extensión del dedo.",
+        "especie": "En el caballo los ligamentos sesamoideos distales están muy marcados.",
+        "clinica": "Es frecuente el derrame sinovial en la fractura de sesamoideos, casi siempre articular y propia de caballos de carreras, y la fractura osteocondral dorsoproximal de la falange proximal por hiperextensión. Los fragmentos osteocondrales pueden retirarse por artroscopia con buen pronóstico si no hay otras lesiones.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\\nMSD Veterinary Manual, Disorders of the Pastern and Fetlock in Horses (fracturas de falanges y sesamoideos, osteoartritis interfalángica proximal). https://www.msdvetmanual.com/musculoskeletal-system/lameness-in-horses/disorders-of-the-pastern-and-fetlock"
+      }
     },
     {
       "id": "equ.ske.amt.009-i",
       "es": "Articulación interfalángica proximal (izquierdo)",
       "la": "Articulatio interphalangea proximalis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la cuartilla del lado izquierdo, entre la tróclea de la falange proximal y el extremo proximal de la falange media.",
+        "descripcion": "Articulación entre la falange proximal y la falange media del lado izquierdo. Permite flexión y extensión. Es una articulación de poco movimiento que soporta cargas altas.",
+        "relaciones": "El borde palmar de la falange media tiene un fibrocartílago complementario (escudo medio) que sirve de superficie de deslizamiento al tendón flexor digital profundo. Dorsalmente la cápsula se mezcla con el tendón extensor digital común.",
+        "accidentes": "Tróclea de la falange proximal, extremo proximal de la falange media y fibrocartílago complementario palmar.",
+        "articulaciones": "Articulación sinovial con cápsula simple, ligamentos colaterales lateral y medial en dirección vertical, y ligamentos palmares que limitan la dorsiflexión.",
+        "inserciones": "Los ligamentos palmares unen la mitad distal de la falange proximal con el fibrocartílago de la falange media. El ligamento recto sesamoideo se une por palmar. Un anillo digital proximal rodea los tendones flexores.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "Contribuye a la flexión y la extensión del dedo con poco rango de movimiento.",
+        "especie": "En el caballo existe un ligamento del espolón, fibroso y delgado, que une el anillo digital distal con el espolón.",
+        "clinica": "La osteoartritis, llamada 'sobrehueso alto', es una causa frecuente de cojera, sobre todo en caballos de doma occidental. A menudo se necesita la artrodesis para controlar la cojera.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\\nMSD Veterinary Manual, Disorders of the Pastern and Fetlock in Horses (fracturas de falanges y sesamoideos, osteoartritis interfalángica proximal). https://www.msdvetmanual.com/musculoskeletal-system/lameness-in-horses/disorders-of-the-pastern-and-fetlock"
+      }
     },
     {
       "id": "equ.ske.amt.009-d",
       "es": "Articulación interfalángica proximal (derecho)",
       "la": "Articulatio interphalangea proximalis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la cuartilla del lado derecho, entre la tróclea de la falange proximal y el extremo proximal de la falange media.",
+        "descripcion": "Articulación entre la falange proximal y la falange media del lado derecho. Permite flexión y extensión. Es una articulación de poco movimiento que soporta cargas altas.",
+        "relaciones": "El borde palmar de la falange media tiene un fibrocartílago complementario (escudo medio) que sirve de superficie de deslizamiento al tendón flexor digital profundo. Dorsalmente la cápsula se mezcla con el tendón extensor digital común.",
+        "accidentes": "Tróclea de la falange proximal, extremo proximal de la falange media y fibrocartílago complementario palmar.",
+        "articulaciones": "Articulación sinovial con cápsula simple, ligamentos colaterales lateral y medial en dirección vertical, y ligamentos palmares que limitan la dorsiflexión.",
+        "inserciones": "Los ligamentos palmares unen la mitad distal de la falange proximal con el fibrocartílago de la falange media. El ligamento recto sesamoideo se une por palmar. Un anillo digital proximal rodea los tendones flexores.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "Contribuye a la flexión y la extensión del dedo con poco rango de movimiento.",
+        "especie": "En el caballo existe un ligamento del espolón, fibroso y delgado, que une el anillo digital distal con el espolón.",
+        "clinica": "La osteoartritis, llamada 'sobrehueso alto', es una causa frecuente de cojera, sobre todo en caballos de doma occidental. A menudo se necesita la artrodesis para controlar la cojera.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\\nMSD Veterinary Manual, Disorders of the Pastern and Fetlock in Horses (fracturas de falanges y sesamoideos, osteoartritis interfalángica proximal). https://www.msdvetmanual.com/musculoskeletal-system/lameness-in-horses/disorders-of-the-pastern-and-fetlock"
+      }
     },
     {
       "id": "equ.ske.amt.010-i",
       "es": "Articulación interfalángica distal (izquierdo)",
       "la": "Articulatio interphalangea distalis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el casco del lado izquierdo, entre la tróclea distal de la falange media, la falange distal y el hueso navicular.",
+        "descripcion": "Articulación entre la falange media, la falange distal y el hueso navicular (sesamoideo distal) del lado izquierdo. Permite extensión y una flexión ligera.",
+        "relaciones": "La bolsa del navicular queda entre el hueso navicular y el tendón flexor digital profundo. La cápsula tiene una bolsa dorsal pequeña, bajo el tendón extensor digital común, y otra palmar mayor, bajo el flexor digital profundo.",
+        "accidentes": "Tróclea distal de la falange media, falange distal, hueso navicular, bolsa dorsal y palmar de la articulación y bolsa del navicular.",
+        "articulaciones": "Articulación sinovial con ligamentos colaterales, ligamentos sesamoideos distales y colaterales de los sesamoideos. Los cartílagos ungulares tienen ligamentos hacia las tres falanges y el navicular.",
+        "inserciones": "Los ligamentos colaterales unen la falange media con la falange distal. Los ligamentos sesamoideos distales unen el borde distal del navicular con la falange distal.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "Permite extensión y flexión ligera del dedo.",
+        "especie": "En un estudio con 66 pares de miembros de cadáver, la bolsa del navicular se opacificó tras inyectar la articulación solo en el 5,3 % de los miembros. La comunicación es poco frecuente e inconstante.",
+        "clinica": "La osteoartritis afecta con más frecuencia a los miembros anteriores. Las invaginaciones sinoviales del borde distal del navicular se asocian más a la sinovitis de esta articulación que a la enfermedad primaria del hueso navicular. La cojera se localiza con anestesia de los nervios digitales palmares o intraarticular.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\\nMoorman VJ. Osteoarthritis of the Distal Interphalangeal (Coffin) Joint in Horses. MSD Veterinary Manual, rev. 2024. https://www.msdvetmanual.com/musculoskeletal-system/disorders-of-the-foot-in-horses/osteoarthritis-of-the-distal-interphalangeal-coffin-joint-in-horses\\\\nCommunication between the distal interphalangeal joint and the navicular bursa in the horse at computed tomography arthrography. Anat Histol Embryol. 2019 (66 pares de miembros anteriores de cadáveres). https://read.qxmd.com/read/30609106/communication-between-the-distal-interphalangeal-joint-and-the-navicular-bursa-in-the-horse-at-computed-tomography-arthrography\\\\nEstudio de CT con artrografía y bursografía sobre las invaginaciones sinoviales del borde distal del hueso navicular (Vet Comp Orthop Traumatol). https://www.thieme-connect.de/products/ejournals/abstract/10.3415/VCOT-16-08-0120"
+      }
     },
     {
       "id": "equ.ske.amt.010-d",
       "es": "Articulación interfalángica distal (derecho)",
       "la": "Articulatio interphalangea distalis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el casco del lado derecho, entre la tróclea distal de la falange media, la falange distal y el hueso navicular.",
+        "descripcion": "Articulación entre la falange media, la falange distal y el hueso navicular (sesamoideo distal) del lado derecho. Permite extensión y una flexión ligera.",
+        "relaciones": "La bolsa del navicular queda entre el hueso navicular y el tendón flexor digital profundo. La cápsula tiene una bolsa dorsal pequeña, bajo el tendón extensor digital común, y otra palmar mayor, bajo el flexor digital profundo.",
+        "accidentes": "Tróclea distal de la falange media, falange distal, hueso navicular, bolsa dorsal y palmar de la articulación y bolsa del navicular.",
+        "articulaciones": "Articulación sinovial con ligamentos colaterales, ligamentos sesamoideos distales y colaterales de los sesamoideos. Los cartílagos ungulares tienen ligamentos hacia las tres falanges y el navicular.",
+        "inserciones": "Los ligamentos colaterales unen la falange media con la falange distal. Los ligamentos sesamoideos distales unen el borde distal del navicular con la falange distal.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
+        "funcion": "Permite extensión y flexión ligera del dedo.",
+        "especie": "En un estudio con 66 pares de miembros de cadáver, la bolsa del navicular se opacificó tras inyectar la articulación solo en el 5,3 % de los miembros. La comunicación es poco frecuente e inconstante.",
+        "clinica": "La osteoartritis afecta con más frecuencia a los miembros anteriores. Las invaginaciones sinoviales del borde distal del navicular se asocian más a la sinovitis de esta articulación que a la enfermedad primaria del hueso navicular. La cojera se localiza con anestesia de los nervios digitales palmares o intraarticular.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\\nMoorman VJ. Osteoarthritis of the Distal Interphalangeal (Coffin) Joint in Horses. MSD Veterinary Manual, rev. 2024. https://www.msdvetmanual.com/musculoskeletal-system/disorders-of-the-foot-in-horses/osteoarthritis-of-the-distal-interphalangeal-coffin-joint-in-horses\\\\nCommunication between the distal interphalangeal joint and the navicular bursa in the horse at computed tomography arthrography. Anat Histol Embryol. 2019 (66 pares de miembros anteriores de cadáveres). https://read.qxmd.com/read/30609106/communication-between-the-distal-interphalangeal-joint-and-the-navicular-bursa-in-the-horse-at-computed-tomography-arthrography\\\\nEstudio de CT con artrografía y bursografía sobre las invaginaciones sinoviales del borde distal del hueso navicular (Vet Comp Orthop Traumatol). https://www.thieme-connect.de/products/ejournals/abstract/10.3415/VCOT-16-08-0120"
+      }
     },
     {
       "id": "equ.ske.amp.001-i",
