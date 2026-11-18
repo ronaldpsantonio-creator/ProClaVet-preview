@@ -1,6 +1,6 @@
 // ProClaVet - Service Worker sincronizado
-// v28: fichas anatómicas dentro de data/equino.json (miembro torácico y miembro pelviano completos).
-const C="vetanatomy-v35-miembro-pelviano";
+// Las fichas anatómicas viven dentro de data/equino.json. El sufijo del nombre de caché es solo una etiqueta; lo que importa es que cambie en cada entrega.
+const C="vetanatomy-v34-articulaciones";
 const CORE=["./","index.html","css/styles.css","js/app.js","data/equino.json","manifest.webmanifest","assets/laminas/atlas-equino-c1.svg","assets/laminas/axis-equino-c2.svg"];
 
 self.addEventListener("install",e=>{
