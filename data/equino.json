@@ -997,7 +997,8 @@
         "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
-    {      "id": "equ.ske.tor.004",
+    {
+      "id": "equ.ske.tor.004",
       "es": "Vértebra torácica 4 (T4)",
       "la": "Vertebra thoracica 4",
       "sys": "ske",
@@ -1996,7 +1997,8 @@
         "relaciones": "Se articula cranealmente con Cd12 y caudalmente con Cd14. Se integra en los tejidos blandos distales de la cola, en relación con fascículos terminales de músculos sacrocaudales, intertransversarios, fascias y tejido subcutáneo. Ventralmente mantiene relaciones topográficas con vasos caudales medianos y sus ramas, así como con ramos de nervios caudales.",
         "accidentes": "Cuerpo vertebral pequeño con superficies articulares en ambos extremos; arco y foramen vertebral muy reducidos, incompletos o difíciles de delimitar; procesos espinosos, transversos y articulares pequeños, residuales o ausentes. Los elementos hemales pueden aparecer en distintos niveles caudales, pero su presencia y morfología son variables y no deben afirmarse como rasgos constantes de Cd13 sin examen directo.",
         "articulaciones": "Articulación intervertebral craneal con Cd12 y caudal con Cd14 mediante discos intervertebrales. Las articulaciones interapofisarias pueden estar muy reducidas o no ser evidentes por la regresión de los procesos articulares. Los ligamentos longitudinales y el tejido conjuntivo regional mantienen la continuidad de la serie caudal.",
-        "inserciones": "Las superficies de fijación son limitadas. Puede recibir fascículos de músculos sacrocaudales e intertransversarios distales y fijaciones de fascias locales, sobre el cuerpo vertebral o sobre procesos residuales cuando estén presentes. Las inserciones concretas deben correlacionarse con la morfología real del espécimen, evitando asignarlas a accidentes ausentes.",        "irrigacion": "La irrigación ósea y periostal depende de pequeñas ramas segmentarias del sistema de la arteria caudal mediana y de vasos musculares regionales. El drenaje venoso acompaña a las venas caudales y a sus comunicaciones plexiformes. No se atribuye una arteria exclusiva a Cd13.",
+        "inserciones": "Las superficies de fijación son limitadas. Puede recibir fascículos de músculos sacrocaudales e intertransversarios distales y fijaciones de fascias locales, sobre el cuerpo vertebral o sobre procesos residuales cuando estén presentes. Las inserciones concretas deben correlacionarse con la morfología real del espécimen, evitando asignarlas a accidentes ausentes.",
+        "irrigacion": "La irrigación ósea y periostal depende de pequeñas ramas segmentarias del sistema de la arteria caudal mediana y de vasos musculares regionales. El drenaje venoso acompaña a las venas caudales y a sus comunicaciones plexiformes. No se atribuye una arteria exclusiva a Cd13.",
         "inervacion": "Se relaciona topográficamente con el decimotercer nervio caudal (Co13), cuando este segmento está presente en la distribución individual. Sus ramos dorsales y ventrales contribuyen a la inervación segmentaria de piel, musculatura y otros tejidos blandos de la cola, con posible solapamiento periférico entre segmentos. No debe describirse como inervación directa del tejido óseo.",
         "funcion": "Contribuye a la continuidad axial y al soporte de la región distal de la cola, transmitiendo fuerzas entre Cd12 y Cd14. Su cuerpo vertebral sirve de soporte a los tejidos blandos y los procesos residuales, cuando existen, pueden proporcionar fijación a musculatura y fascias.",
         "especie": "En el caballo, la serie caudal muestra reducción progresiva de arcos y procesos hacia el extremo de la cola. Cd13 suele encontrarse en un tramo donde la simplificación es avanzada, aunque el grado y el nivel de desaparición de cada elemento varían entre individuos. La fórmula caudal equina no es fija.",
@@ -2995,7 +2997,8 @@
         "articulaciones": "La cavidad glenoidea articula con la cabeza del húmero y forma la articulación del hombro (articulatio humeri), de tipo sinovial. La escápula no establece una articulación ósea convencional con el tronco: se mantiene aplicada a la pared torácica mediante la sinsarcosis escapulotorácica, constituida por músculos y tejido conectivo. El cartílago escapular se continúa con el borde dorsal y no constituye una articulación sinovial independiente.",
         "inserciones": "La fosa supraespinosa proporciona origen al músculo supraespinoso y la fosa infraespinosa al infraespinoso. La fosa subescapular da origen al subescapular. La facies serrata sirve de inserción al músculo serrato ventral. La espina y su tuberosidad reciben inserciones del trapecio, especialmente de su porción torácica. El tubérculo supraglenoideo es el origen del músculo bíceps braquial; el proceso coracoides se relaciona con el origen del coracobraquial. Las áreas concretas de fijación deben interpretarse junto con la anatomía muscular regional.",
         "irrigacion": "La vascularización regional procede de ramas de las arterias escapular dorsal, supraescapular y subescapular, con contribuciones de la circulación circunfleja escapular y redes periarticulares. La distribución puede variar y no debe atribuirse toda la irrigación del hueso a una única arteria. Esta descripción corresponde al aporte regional periostal y muscular; no implica que cada vaso irrigue por sí solo toda la escápula.",
-        "inervacion": "El tejido óseo no posee una inervación funcional única comparable a la de un músculo u órgano. La sensibilidad periostal depende de ramas nerviosas regionales. El nervio supraescapular discurre próximo al borde craneal de la escápula y es clínicamente importante por su relación con los músculos supraespinoso e infraespinoso; no debe describirse como la inervación exclusiva de todo el hueso.",        "funcion": "Constituye el soporte óseo proximal del miembro torácico, transmite las fuerzas desde el miembro hacia el tronco mediante la sinsarcosis escapulotorácica, ofrece amplias superficies de origen e inserción muscular y participa en la articulación del hombro con el húmero.",
+        "inervacion": "El tejido óseo no posee una inervación funcional única comparable a la de un músculo u órgano. La sensibilidad periostal depende de ramas nerviosas regionales. El nervio supraescapular discurre próximo al borde craneal de la escápula y es clínicamente importante por su relación con los músculos supraespinoso e infraespinoso; no debe describirse como la inervación exclusiva de todo el hueso.",
+        "funcion": "Constituye el soporte óseo proximal del miembro torácico, transmite las fuerzas desde el miembro hacia el tronco mediante la sinsarcosis escapulotorácica, ofrece amplias superficies de origen e inserción muscular y participa en la articulación del hombro con el húmero.",
         "especie": "En el caballo, la escápula es alargada y plana, con una fosa infraespinosa más extensa que la supraespinosa y una tuberosidad de la espina prominente. La espina se atenúa hacia el extremo distal y no forma acromion: el acromion está ausente en los équidos. El borde dorsal está prolongado por un cartílago escapular amplio. La cavidad glenoidea presenta una incisura glenoidea reconocible. La forma y el grado de osificación del cartílago escapular varían con la edad. Esta ficha corresponde al elemento izquierdo y se mantiene separada de su homólogo contralateral.",
         "clinica": "La lesión del nervio supraescapular puede causar atrofia de los músculos supraespinoso e infraespinoso, conocida como shoulder sweeney o atrofia escapular. El tubérculo supraglenoideo es un sitio relevante de fractura en caballos, especialmente por traumatismos. Las fracturas escapulares y las alteraciones de la articulación del hombro deben evaluarse mediante exploración e imagen diagnóstica, considerando la protección muscular que rodea al hueso.",
         "referencias": "König HE, Liebich HG. Veterinary Anatomy of Domestic Mammals: Textbook and Colour Atlas. 6th ed. Schattauer; 2014. Sección: Skeleton of the thoracic limb, scapula.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección: The skeleton of the forelimb. https://elsevier-elibrary.com/contents/fullcontent/58986/epubcontent_v2/OEBPS/B9781416066071000025.htm\nSisson S. The Anatomy of the Domestic Animals. Sección “The Scapula”, descripción de la escápula equina y sus accidentes. https://upload.wikimedia.org/wikipedia/commons/e/e1/The_anatomy_of_the_domestic_animals_%28IA_anatomyofdomesti01siss%29.pdf\nIMAIOS vet-Anatomy. Lateral surface of the scapula; referencias a König y Liebich. https://www.imaios.cn/en/vet-anatomy/anatomical-structures/lateral-surface-11073897656\nFürst MJ, Jackson AF, Somm F. Management of Equine Scapular and Pelvic Fractures. ECVS Annual Scientific Meeting proceedings, 2026."
@@ -3994,7 +3997,8 @@
       "la": "Fibula",
       "sys": "ske",
       "layer": "oss",
-      "ficha": {        "ubicacion": "Región crural del miembro pelviano izquierda, a lo largo del borde lateral de la tibia. Su cabeza se apoya en el cóndilo lateral de la tibia y su cuerpo delgado desciende junto a ella hasta aproximadamente la mitad de la pierna.",
+      "ficha": {
+        "ubicacion": "Región crural del miembro pelviano izquierda, a lo largo del borde lateral de la tibia. Su cabeza se apoya en el cóndilo lateral de la tibia y su cuerpo delgado desciende junto a ella hasta aproximadamente la mitad de la pierna.",
         "descripcion": "Hueso largo muy reducido, vestigial en el caballo. Conserva una cabeza proximal (caput fibulae) y un cuerpo (corpus fibulae) delgado que se afina hacia distal y termina aproximadamente hacia la mitad de la tibia. La parte distal no persiste como hueso independiente: se fusiona con la tibia y forma parte de su maléolo lateral. No debe representarse como la fíbula completa de los carnívoros.\n\nEsta ficha corresponde a la fíbula izquierda; no presupone diferencias morfológicas entre ambos lados sin evidencia específica.",
         "relaciones": "Su cabeza se relaciona con el cóndilo lateral de la tibia. El cuerpo se apoya en la cara lateral de la tibia, bajo los músculos laterales de la pierna, y se vuelve rudimentario hacia distal. Distalmente, la antigua extremidad fibular está incorporada al maléolo lateral de la tibia, que se relaciona con el talus y es el punto de origen del ligamento colateral lateral largo del tarso.",
         "accidentes": "Cabeza de la fíbula (caput fibulae), con superficie articular para el cóndilo lateral de la tibia. Cuerpo (corpus fibulae), delgado y de longitud reducida. No hay maléolo lateral propio: ese relieve pertenece a la tibia.",
@@ -4677,7 +4681,7 @@
         "funcion": "Permite la apertura y el cierre de la boca y los movimientos laterales y caudales de la mandíbula durante la masticación. El disco articular contribuye a compensar la incongruencia de las superficies articulares.",
         "especie": "En el caballo la articulación se describe con dos compartimentos (discotemporal y discomandibular), ligamentos lateral y caudal, y bolsas sinoviales dorsal y ventral con compartimentos rostral y caudal. Estudios ecográficos identificaron además la expansión fibrosa caudal del disco y el compartimento caudal de la bolsa sinovial dorsal.",
         "clinica": "La osteoartritis es uno de los trastornos de esta articulación. Su diagnóstico definitivo puede requerir imagen avanzada, y se emplean la artroscopia y la radiografía con contraste del disco. El acceso al compartimento discomandibular puede ser difícil, y se recomienda precaución al diagnosticar una perforación del disco intraarticular.",
-        "referencias": "Equine Veterinary Education, marzo 2015: descripción de la articulación temporomandibular equina (ligamentos lateral y caudal, disco bicóncavo, relación con la parótida). https://pubs.aaep.org/0A4370h/EVEMarch2015/html/38.html\\\nRodríguez MJ, et al. 2006. Anatomy of the equine temporomandibular joint: study by gross dissection, vascular injection and section. https://madbarn.com/research/anatomy-of-the-equine-temporomandibular-joint-study-by-gross-dissection-vascular-injection-and-section\\\nRodríguez-Shadow M, Soler M, Latorre R, Gil F, Agut A. Ultrasonographic anatomy of the temporomandibular joint in healthy pure-bred Spanish horses. Vet Radiol Ultrasound. 2007;48(2):149–154. doi:10.1111/j.1740-8261.2007.00223.x. https://agris.fao.org/search/fr/records/65de69327c7033e84beadce8\\\nThe Equine Temporomandibular Joint: Comparisons Between Standard and Needle Arthroscopic Examination of Cadaver Specimens and Standing Horses. Front Vet Sci. 2022;9:876041. https://www.frontiersin.org/articles/10.3389/fvets.2022.876041\\\nKim CS, Reisbig NA, Carmalt JL. Contrast arthrography of the equine temporomandibular joint. Front Vet Sci. 2024;11:1368131. doi:10.3389/fvets.2024.1368131. https://frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2024.1368131/pdf\\\nActa of Bioengineering and Biomechanics 2004;6(1): ligamento temporomandibular lateral y movimientos mandibulares del caballo. https://actabio.pwr.edu.pl/fcp/2GBUKOQtTKlQhbx08SlkTUARAUWRuHQwFDBoIVURNWHRQFVZpCFghUHcKVigEQUw/302/public/publikacje/v6-1-2004/3.pdf"
+        "referencias": "Equine Veterinary Education, marzo 2015: descripción de la articulación temporomandibular equina (ligamentos lateral y caudal, disco bicóncavo, relación con la parótida). https://pubs.aaep.org/0A4370h/EVEMarch2015/html/38.html\n\nRodríguez MJ, et al. 2006. Anatomy of the equine temporomandibular joint: study by gross dissection, vascular injection and section. https://madbarn.com/research/anatomy-of-the-equine-temporomandibular-joint-study-by-gross-dissection-vascular-injection-and-section\n\nRodríguez-Shadow M, Soler M, Latorre R, Gil F, Agut A. Ultrasonographic anatomy of the temporomandibular joint in healthy pure-bred Spanish horses. Vet Radiol Ultrasound. 2007;48(2):149–154. doi:10.1111/j.1740-8261.2007.00223.x. https://agris.fao.org/search/fr/records/65de69327c7033e84beadce8\n\nThe Equine Temporomandibular Joint: Comparisons Between Standard and Needle Arthroscopic Examination of Cadaver Specimens and Standing Horses. Front Vet Sci. 2022;9:876041. https://www.frontiersin.org/articles/10.3389/fvets.2022.876041\n\nKim CS, Reisbig NA, Carmalt JL. Contrast arthrography of the equine temporomandibular joint. Front Vet Sci. 2024;11:1368131. doi:10.3389/fvets.2024.1368131. https://frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2024.1368131/pdf\n\nActa of Bioengineering and Biomechanics 2004;6(1): ligamento temporomandibular lateral y movimientos mandibulares del caballo. https://actabio.pwr.edu.pl/fcp/2GBUKOQtTKlQhbx08SlkTUARAUWRuHQwFDBoIVURNWHRQFVZpCFghUHcKVigEQUw/302/public/publikacje/v6-1-2004/3.pdf"
       }
     },
     {
@@ -4698,7 +4702,7 @@
         "funcion": "Permite la apertura y el cierre de la boca y los movimientos laterales y caudales de la mandíbula durante la masticación. El disco articular contribuye a compensar la incongruencia de las superficies articulares.",
         "especie": "En el caballo la articulación se describe con dos compartimentos (discotemporal y discomandibular), ligamentos lateral y caudal, y bolsas sinoviales dorsal y ventral con compartimentos rostral y caudal. Estudios ecográficos identificaron además la expansión fibrosa caudal del disco y el compartimento caudal de la bolsa sinovial dorsal.",
         "clinica": "La osteoartritis es uno de los trastornos de esta articulación. Su diagnóstico definitivo puede requerir imagen avanzada, y se emplean la artroscopia y la radiografía con contraste del disco. El acceso al compartimento discomandibular puede ser difícil, y se recomienda precaución al diagnosticar una perforación del disco intraarticular.",
-        "referencias": "Equine Veterinary Education, marzo 2015: descripción de la articulación temporomandibular equina (ligamentos lateral y caudal, disco bicóncavo, relación con la parótida). https://pubs.aaep.org/0A4370h/EVEMarch2015/html/38.html\\\nRodríguez MJ, et al. 2006. Anatomy of the equine temporomandibular joint: study by gross dissection, vascular injection and section. https://madbarn.com/research/anatomy-of-the-equine-temporomandibular-joint-study-by-gross-dissection-vascular-injection-and-section\\\nRodríguez-Shadow M, Soler M, Latorre R, Gil F, Agut A. Ultrasonographic anatomy of the temporomandibular joint in healthy pure-bred Spanish horses. Vet Radiol Ultrasound. 2007;48(2):149–154. doi:10.1111/j.1740-8261.2007.00223.x. https://agris.fao.org/search/fr/records/65de69327c7033e84beadce8\\\nThe Equine Temporomandibular Joint: Comparisons Between Standard and Needle Arthroscopic Examination of Cadaver Specimens and Standing Horses. Front Vet Sci. 2022;9:876041. https://www.frontiersin.org/articles/10.3389/fvets.2022.876041\\\nKim CS, Reisbig NA, Carmalt JL. Contrast arthrography of the equine temporomandibular joint. Front Vet Sci. 2024;11:1368131. doi:10.3389/fvets.2024.1368131. https://frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2024.1368131/pdf\\\nActa of Bioengineering and Biomechanics 2004;6(1): ligamento temporomandibular lateral y movimientos mandibulares del caballo. https://actabio.pwr.edu.pl/fcp/2GBUKOQtTKlQhbx08SlkTUARAUWRuHQwFDBoIVURNWHRQFVZpCFghUHcKVigEQUw/302/public/publikacje/v6-1-2004/3.pdf"
+        "referencias": "Equine Veterinary Education, marzo 2015: descripción de la articulación temporomandibular equina (ligamentos lateral y caudal, disco bicóncavo, relación con la parótida). https://pubs.aaep.org/0A4370h/EVEMarch2015/html/38.html\n\nRodríguez MJ, et al. 2006. Anatomy of the equine temporomandibular joint: study by gross dissection, vascular injection and section. https://madbarn.com/research/anatomy-of-the-equine-temporomandibular-joint-study-by-gross-dissection-vascular-injection-and-section\n\nRodríguez-Shadow M, Soler M, Latorre R, Gil F, Agut A. Ultrasonographic anatomy of the temporomandibular joint in healthy pure-bred Spanish horses. Vet Radiol Ultrasound. 2007;48(2):149–154. doi:10.1111/j.1740-8261.2007.00223.x. https://agris.fao.org/search/fr/records/65de69327c7033e84beadce8\n\nThe Equine Temporomandibular Joint: Comparisons Between Standard and Needle Arthroscopic Examination of Cadaver Specimens and Standing Horses. Front Vet Sci. 2022;9:876041. https://www.frontiersin.org/articles/10.3389/fvets.2022.876041\n\nKim CS, Reisbig NA, Carmalt JL. Contrast arthrography of the equine temporomandibular joint. Front Vet Sci. 2024;11:1368131. doi:10.3389/fvets.2024.1368131. https://frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2024.1368131/pdf\n\nActa of Bioengineering and Biomechanics 2004;6(1): ligamento temporomandibular lateral y movimientos mandibulares del caballo. https://actabio.pwr.edu.pl/fcp/2GBUKOQtTKlQhbx08SlkTUARAUWRuHQwFDBoIVURNWHRQFVZpCFghUHcKVigEQUw/302/public/publikacje/v6-1-2004/3.pdf"
       }
     },
     {
@@ -4719,7 +4723,7 @@
         "funcion": "Une el cráneo con el atlas y permite principalmente la flexión y extensión de la cabeza respecto al cuello, con una amplitud menor de movimientos laterales.",
         "especie": "En el caballo la resonancia magnética documentó la membrana atlantooccipital dorsal con ligamentos de refuerzo y los ligamentos atlantooccipitales laterales. En la región vecina, ese estudio describe un ligamento odontoideo longitudinal en abanico, un ligamento atlantoaxial ventral y la ausencia del ligamento transverso.",
         "clinica": "El espacio subaracnoideo atlantooccipital se usa en el caballo para recoger líquido cefalorraquídeo y para mielografía, por la línea media dorsal bajo anestesia general o con guía ecográfica. En la artroscopia, un abordaje dorsal a ciegas perforó la duramadre en 2 de 5 articulaciones y la guía ecográfica evitó la perforación. Se ha descrito artritis séptica en un potro de 2 semanas y un caso de fusión atlantooccipital en un Pura Sangre.",
-        "referencias": "Wright L, Puchalski SM, Kristoffersen M, Lindegaard C. Arthroscopic approach and intra-articular anatomy of the equine atlanto-occipital joint. Vet Surg. 2018;47(6):756–767. doi:10.1111/vsu.12932. https://madbarn.com/research/arthroscopic-approach-and-intra-articular-anatomy-of-the-equine-atlanto-occipital-joint\\\nGollob E, Edinger H, Stanek C, Wurnig C. Ultrasonographic investigation of the atlanto-occipital articulation in the horse. Equine Vet J. 2002;34(1):44–50. doi:10.2746/042516402776181196. https://madbarn.com/research/ultrasonographic-investigation-of-the-atlanto-occipital-articulation-in-the-horse\\\n3 Tesla magnetic resonance imaging of the occipitoatlantoaxial region in the normal horse (Vetsuisse Faculty, University of Zürich). https://madbarn.com/research/3-tesla-magnetic-resonance-imaging-of-the-occipitoatlantoaxial-region-in-the-normal-horse\\\nElbrønd VS, Schultz RM. An anatomical, integrative and functional description of myodural bridges along the spine of horses: special focus on the atlanto-occipital and atlanto-axial regions. Medical Research Archives. 2019;7(11). https://esmed.org/MRA/mra/article/download/2005/193545487\\\nAudigié F, Tapprest J, Didierlaurent D, Denoix JM. Ultrasound-guided atlanto-occipital puncture for myelography in the horse. Vet Radiol Ultrasound. 2004;45:340–344 (citado en https://scielo.br/j/abmvz/a/Dhk5tzFnbzvbYH7DyXF4BBt/?lang=en).\\\nAtlanto-axial approach for cervical myelography in a Thoroughbred horse with complete fusion of the atlanto-occipital bones. Can Vet J. 2014;55:1069. https://escholarship.org/uc/item/9qx5h9nh"
+        "referencias": "Wright L, Puchalski SM, Kristoffersen M, Lindegaard C. Arthroscopic approach and intra-articular anatomy of the equine atlanto-occipital joint. Vet Surg. 2018;47(6):756–767. doi:10.1111/vsu.12932. https://madbarn.com/research/arthroscopic-approach-and-intra-articular-anatomy-of-the-equine-atlanto-occipital-joint\n\nGollob E, Edinger H, Stanek C, Wurnig C. Ultrasonographic investigation of the atlanto-occipital articulation in the horse. Equine Vet J. 2002;34(1):44–50. doi:10.2746/042516402776181196. https://madbarn.com/research/ultrasonographic-investigation-of-the-atlanto-occipital-articulation-in-the-horse\n\n3 Tesla magnetic resonance imaging of the occipitoatlantoaxial region in the normal horse (Vetsuisse Faculty, University of Zürich). https://madbarn.com/research/3-tesla-magnetic-resonance-imaging-of-the-occipitoatlantoaxial-region-in-the-normal-horse\n\nElbrønd VS, Schultz RM. An anatomical, integrative and functional description of myodural bridges along the spine of horses: special focus on the atlanto-occipital and atlanto-axial regions. Medical Research Archives. 2019;7(11). https://esmed.org/MRA/mra/article/download/2005/193545487\n\nAudigié F, Tapprest J, Didierlaurent D, Denoix JM. Ultrasound-guided atlanto-occipital puncture for myelography in the horse. Vet Radiol Ultrasound. 2004;45:340–344 (citado en https://scielo.br/j/abmvz/a/Dhk5tzFnbzvbYH7DyXF4BBt/?lang=en).\n\nAtlanto-axial approach for cervical myelography in a Thoroughbred horse with complete fusion of the atlanto-occipital bones. Can Vet J. 2014;55:1069. https://escholarship.org/uc/item/9qx5h9nh"
       }
     },
     {
@@ -4740,7 +4744,7 @@
         "funcion": "Permite principalmente la rotación del atlas y de la cabeza respecto al axis. El diente del axis y los elementos ligamentarios asociados contribuyen a estabilizar esta unión.",
         "especie": "En el caballo, el estudio de resonancia documentó un ligamento odontoideo longitudinal en abanico, un ligamento atlantoaxial ventral y la ausencia del ligamento transverso. En carnívoros y cerdos, en cambio, los apuntes docentes describen un ligamento transverso que sujeta el diente al atlas.",
         "clinica": "El espacio subaracnoideo entre atlas y axis se ha usado para recoger líquido cefalorraquídeo con guía ecográfica en caballos de pie y sedados, como alternativa al espacio atlantooccipital. Se han descrito tres caballos con mineralización del ligamento odontoideo longitudinal en la TC, aunque su relación con los signos clínicos sigue sin aclararse.",
-        "referencias": "3 Tesla magnetic resonance imaging of the occipitoatlantoaxial region in the normal horse (Vetsuisse Faculty, University of Zürich): ligamento odontoideo longitudinal en abanico, ligamento atlantoaxial ventral, ausencia del ligamento transverso. https://madbarn.com/research/3-tesla-magnetic-resonance-imaging-of-the-occipitoatlantoaxial-region-in-the-normal-horse\\\nElbrønd VS, Schultz RM. An anatomical, integrative and functional description of myodural bridges along the spine of horses: special focus on the atlanto-occipital and atlanto-axial regions. Medical Research Archives. 2019;7(11). https://esmed.org/MRA/mra/article/download/2005/193545487\\\nLawson AL, Carslake HB, Kane-Smyth J, Maddox TW, Talbot AM. Mineralisation of the longitudinal odontoid ligament in three horses identified on computed tomographic examination. Equine Vet Educ. 2021. doi:10.1111/eve.13247. https://livrepository.liverpool.ac.uk/id/eprint/3148998\\\nAtlanto-axial approach for cervical myelography in a Thoroughbred horse with complete fusion of the atlanto-occipital bones. Can Vet J. 2014;55:1069 (cita la recogida ecoguiada de líquido cefalorraquídeo entre atlas y axis en caballos de pie). https://escholarship.org/uc/item/9qx5h9nh\\\nApuntes docentes de anatomía comparada sobre las articulaciones de cráneo y tronco (ligamento transverso del atlas en carnívoros y cerdos). https://knowt.com/note/5e28c9d0-7dc7-4d29-ae9a-dbff3260a1da/Joints-of-the-Skull-and-Trunk"
+        "referencias": "3 Tesla magnetic resonance imaging of the occipitoatlantoaxial region in the normal horse (Vetsuisse Faculty, University of Zürich): ligamento odontoideo longitudinal en abanico, ligamento atlantoaxial ventral, ausencia del ligamento transverso. https://madbarn.com/research/3-tesla-magnetic-resonance-imaging-of-the-occipitoatlantoaxial-region-in-the-normal-horse\n\nElbrønd VS, Schultz RM. An anatomical, integrative and functional description of myodural bridges along the spine of horses: special focus on the atlanto-occipital and atlanto-axial regions. Medical Research Archives. 2019;7(11). https://esmed.org/MRA/mra/article/download/2005/193545487\n\nLawson AL, Carslake HB, Kane-Smyth J, Maddox TW, Talbot AM. Mineralisation of the longitudinal odontoid ligament in three horses identified on computed tomographic examination. Equine Vet Educ. 2021. doi:10.1111/eve.13247. https://livrepository.liverpool.ac.uk/id/eprint/3148998\n\nAtlanto-axial approach for cervical myelography in a Thoroughbred horse with complete fusion of the atlanto-occipital bones. Can Vet J. 2014;55:1069 (cita la recogida ecoguiada de líquido cefalorraquídeo entre atlas y axis en caballos de pie). https://escholarship.org/uc/item/9qx5h9nh\n\nApuntes docentes de anatomía comparada sobre las articulaciones de cráneo y tronco (ligamento transverso del atlas en carnívoros y cerdos). https://knowt.com/note/5e28c9d0-7dc7-4d29-ae9a-dbff3260a1da/Joints-of-the-Skull-and-Trunk"
       }
     },
     {
@@ -4782,7 +4786,7 @@
         "funcion": "Guían y limitan el movimiento entre vértebras contiguas. Una guía docente señala la flexión lateral como el movimiento principal en las articulaciones cervicales, y a la región torácica caudal y lumbar como las menos móviles.",
         "especie": "En el caballo, estas articulaciones se agrupan como complejos articulación del proceso articular–articulación sinovial intervertebral. Las lesiones se concentran en el cuello caudal, el tórax caudal y la región lumbar craneal.",
         "clinica": "La osteoartritis afecta con frecuencia a 2 a 5 articulaciones, sobre todo en el cuello caudal, el tórax caudal y la región lumbar craneal; en una serie de 77 caballos con bajo rendimiento y dolor de espalda, las articulaciones afectadas se localizaron con frecuencia entre T15 y L1. El diagnóstico se basa en signos clínicos segmentarios y estudios de imagen, como radiografía o ecografía. El tratamiento puede incluir infiltraciones ecoguiadas, ondas de choque y antiinflamatorios. La artroscopia cervical se ha descrito entre C2–C3 y C6–C7. En un estudio de 55 caballos, el 72 % de los procesos articulares evaluados presentó cambios óseos anormales; la gradación fue normal en el 28 %, leve en el 45 %, moderada en el 22 % y severa en el 5 % de los procesos articulares. Estos porcentajes corresponden a procesos articulares, no al porcentaje de caballos con cuello anatómicamente normal.",
-        "referencias": "Durgam SS. Osteoarthritis of the Articular Process-Synovial Intervertebral Articulation Complexes in Horses. MSD Veterinary Manual, 2025. https://www.msdvetmanual.com/musculoskeletal-system/disorders-of-the-back-and-pelvis-in-horses/osteoarthritis-of-the-articular-process−synovial-intervertebral-articulation-complexes-in-horses\\\nPepe M, Angelone M, Gialletti R, Nannarone S, Beccati F. Arthroscopic anatomy of the equine cervical articular process joints. Equine Vet J. 2014;46(3):345–351. doi:10.1111/evj.12112. https://madbarn.com/research/arthroscopic-anatomy-of-the-equine-cervical-articular-process-joints\\\nBiochemical and biomechanical characterisation of equine cervical facet joint cartilage. Equine Vet J. 2018;50(6). https://escholarship.org/uc/item/7x7077w2\\\nGirodroux M, Dyson S, Murray R. Osteoarthritis of the thoracolumbar synovial intervertebral articulations: clinical and radiographic features in 77 horses with poor performance and back pain. Equine Vet J. 2009;41(2):130–138. doi:10.2746/042516408x345099. https://madbarn.com/research/osteoarthritis-of-the-thoracolumbar-synovial-intervertebral-articulations-clinical-and-radiographic-features-in-77-horses-with-poor-performance-and-back-pain\\\nHaussler KK, Pool RR, Clayton HM. Characterization of bony changes localized to the cervical articular processes in a mixed population of horses. PLoS One. 2019;14(9):e0222989. https://madbarn.com/research/characterization-of-bony-changes-localized-to-the-cervical-articular-processes-in-a-mixed-population-of-horses\\\nEquine Spine and Head Anatomy (Physiopedia): orientación y movimiento de las articulaciones cervicales. https://www.physio-pedia.com:443/Equine_Spine_and_Head_Anatomy"
+        "referencias": "Durgam SS. Osteoarthritis of the Articular Process-Synovial Intervertebral Articulation Complexes in Horses. MSD Veterinary Manual, 2025. https://www.msdvetmanual.com/musculoskeletal-system/disorders-of-the-back-and-pelvis-in-horses/osteoarthritis-of-the-articular-process−synovial-intervertebral-articulation-complexes-in-horses\n\nPepe M, Angelone M, Gialletti R, Nannarone S, Beccati F. Arthroscopic anatomy of the equine cervical articular process joints. Equine Vet J. 2014;46(3):345–351. doi:10.1111/evj.12112. https://madbarn.com/research/arthroscopic-anatomy-of-the-equine-cervical-articular-process-joints\n\nBiochemical and biomechanical characterisation of equine cervical facet joint cartilage. Equine Vet J. 2018;50(6). https://escholarship.org/uc/item/7x7077w2\n\nGirodroux M, Dyson S, Murray R. Osteoarthritis of the thoracolumbar synovial intervertebral articulations: clinical and radiographic features in 77 horses with poor performance and back pain. Equine Vet J. 2009;41(2):130–138. doi:10.2746/042516408x345099. https://madbarn.com/research/osteoarthritis-of-the-thoracolumbar-synovial-intervertebral-articulations-clinical-and-radiographic-features-in-77-horses-with-poor-performance-and-back-pain\n\nHaussler KK, Pool RR, Clayton HM. Characterization of bony changes localized to the cervical articular processes in a mixed population of horses. PLoS One. 2019;14(9):e0222989. https://madbarn.com/research/characterization-of-bony-changes-localized-to-the-cervical-articular-processes-in-a-mixed-population-of-horses\n\nEquine Spine and Head Anatomy (Physiopedia): orientación y movimiento de las articulaciones cervicales. https://www.physio-pedia.com:443/Equine_Spine_and_Head_Anatomy"
       }
     },
     {
@@ -4866,7 +4870,7 @@
         "funcion": "Mantienen unidas las esternebras formando un esternón rígido para la inserción de las costillas esternales.",
         "especie": "El caballo tiene 7 esternebras, a diferencia de los carnívoros (8) y del cerdo (6). En el caballo, las dimensiones de las esternebras se correlacionaron positivamente con la edad, no con el peso corporal.",
         "clinica": "El esternón se usa en el caballo para obtener médula ósea con fines diagnósticos y terapéuticos, y su descripción anatómica sirve de base para ese procedimiento.",
-        "referencias": "Eydt C, Schröck C, Geburek F, Rohn K, Staszyk C, Pfarrer C. Three-dimensional anatomy of the equine sternum. Anat Histol Embryol. 2014;44(2):99–106. doi:10.1111/ahe.12114. https://madbarn.com/research/three-dimensional-anatomy-of-the-equine-sternum\\\nNC State, LAB 5 – Thoracic wall osteology, arthrology and myology (costillas y esternebras en las especies domésticas). https://ncstate.pressbooks.pub/unit2musculoskeletal/?p=83\\\nWikiVet, Ribs and Sternum - Anatomy & Physiology (costillas, esternebras y articulaciones costoesternales). https://en.wikivet.net/Ribs_and_Sternum_-_Anatomy_%26_Physiology\\\nVetscraft, guía docente de anatomía veterinaria: articulaciones torácicas (costocondrales, condroesternales y esternales). https://vetscraft.com/thoracic-articulations"
+        "referencias": "Eydt C, Schröck C, Geburek F, Rohn K, Staszyk C, Pfarrer C. Three-dimensional anatomy of the equine sternum. Anat Histol Embryol. 2014;44(2):99–106. doi:10.1111/ahe.12114. https://madbarn.com/research/three-dimensional-anatomy-of-the-equine-sternum\n\nNC State, LAB 5 – Thoracic wall osteology, arthrology and myology (costillas y esternebras en las especies domésticas). https://ncstate.pressbooks.pub/unit2musculoskeletal/?p=83\n\nWikiVet, Ribs and Sternum - Anatomy & Physiology (costillas, esternebras y articulaciones costoesternales). https://en.wikivet.net/Ribs_and_Sternum_-_Anatomy_%26_Physiology\n\nVetscraft, guía docente de anatomía veterinaria: articulaciones torácicas (costocondrales, condroesternales y esternales). https://vetscraft.com/thoracic-articulations"
       }
     },
     {
@@ -4929,7 +4933,7 @@
         "funcion": "Mantiene unidas las dos mitades de la pelvis, que con la edad forman un suelo pelviano sólido de hueso.",
         "especie": "En el caballo, fuentes divulgativas dicen que la sínfisis suele estar osificada hacia los 5 a 6 años y que la porción dorsal se fusiona antes que la ventral. No se localizó un estudio anatómico equino que establezca la edad con precisión.",
         "clinica": "Fuentes divulgativas describen la fusión incompleta o el ensanchamiento de la parte ventral de la sínfisis, asociados a inestabilidad pelviana y a daño de la articulación sacroilíaca. Esta información procede de textos divulgativos, no de estudios anatómicos revisados.",
-        "referencias": "Resumen de congreso AAEP 2019, Pelvis and Lumbosacral Junction: la sínfisis pelviana permanece parcialmente flexible y su fibrocartílago se osifica con la edad. https://pubs.aaep.org/0A4370h/65thAnnCon2019/html/350.html\\\nThe Horse's Back, A Pelvic Blow Out? The Widened Pubic Symphysis in Horses (divulgativo). https://thehorsesback.com/tag/sacroiliac-dysfunction\\\nProducer.com, Pelvic instability often undiagnosed in young horses (divulgativo). https://www.producer.com/livestock/pelvic-instability-often-undiagnosed-in-young-horses/\\\nWikiVet, Hindlimb - Anatomy & Physiology: pubis y sínfisis pelviana. https://en.wikivet.net/Hindlimb_-_Anatomy_&_Physiology"
+        "referencias": "Resumen de congreso AAEP 2019, Pelvis and Lumbosacral Junction: la sínfisis pelviana permanece parcialmente flexible y su fibrocartílago se osifica con la edad. https://pubs.aaep.org/0A4370h/65thAnnCon2019/html/350.html\n\nThe Horse's Back, A Pelvic Blow Out? The Widened Pubic Symphysis in Horses (divulgativo). https://thehorsesback.com/tag/sacroiliac-dysfunction\n\nProducer.com, Pelvic instability often undiagnosed in young horses (divulgativo). https://www.producer.com/livestock/pelvic-instability-often-undiagnosed-in-young-horses/\n\nWikiVet, Hindlimb - Anatomy & Physiology: pubis y sínfisis pelviana. https://en.wikivet.net/Hindlimb_-_Anatomy_&_Physiology"
       }
     },
     {
@@ -4950,7 +4954,7 @@
         "funcion": "Permite la flexión y la extensión del miembro torácico en el plano sagital.",
         "especie": "En el caballo el tendón bicipital no tiene vaina sinovial: lo rodea una bolsa intertubercular independiente de la articulación.",
         "clinica": "El hombro es un origen poco frecuente de cojera. La osteocondrosis se diagnostica sobre todo en destetados y de un año, con osteocondritis disecante en la cabeza humeral caudal y lesiones quísticas subcondrales en la glenoides. La displasia escapulohumeral es casi exclusiva de los caballos miniatura. Existe además bursitis bicipital, y para el diagnóstico se usa anestesia sinovial de la articulación o de la bolsa bicipital.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nTurner TA. Disorders of the Shoulder in Horses. MSD Veterinary Manual, rev. 2025. https://www.merckvetmanual.com/veterinary/musculoskeletal-system/lameness-in-horses/disorders-of-the-shoulder-in-horses\\\nMSD Veterinary Manual, Disorders of the Shoulder and Elbow in Horses (versión para propietarios). https://www.msdvetmanual.com/horse-owners/bone,-joint,-and-muscle-disorders-in-horses/disorders-of-the-shoulder-and-elbow-in-horses\\\nWikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy"
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nTurner TA. Disorders of the Shoulder in Horses. MSD Veterinary Manual, rev. 2025. https://www.merckvetmanual.com/veterinary/musculoskeletal-system/lameness-in-horses/disorders-of-the-shoulder-in-horses\n\nMSD Veterinary Manual, Disorders of the Shoulder and Elbow in Horses (versión para propietarios). https://www.msdvetmanual.com/horse-owners/bone,-joint,-and-muscle-disorders-in-horses/disorders-of-the-shoulder-and-elbow-in-horses\n\nWikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy"
       }
     },
     {
@@ -4971,7 +4975,7 @@
         "funcion": "Permite la flexión y la extensión del miembro torácico en el plano sagital.",
         "especie": "En el caballo el tendón bicipital no tiene vaina sinovial: lo rodea una bolsa intertubercular independiente de la articulación.",
         "clinica": "El hombro es un origen poco frecuente de cojera. La osteocondrosis se diagnostica sobre todo en destetados y de un año, con osteocondritis disecante en la cabeza humeral caudal y lesiones quísticas subcondrales en la glenoides. La displasia escapulohumeral es casi exclusiva de los caballos miniatura. Existe además bursitis bicipital, y para el diagnóstico se usa anestesia sinovial de la articulación o de la bolsa bicipital.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nTurner TA. Disorders of the Shoulder in Horses. MSD Veterinary Manual, rev. 2025. https://www.merckvetmanual.com/veterinary/musculoskeletal-system/lameness-in-horses/disorders-of-the-shoulder-in-horses\\\nMSD Veterinary Manual, Disorders of the Shoulder and Elbow in Horses (versión para propietarios). https://www.msdvetmanual.com/horse-owners/bone,-joint,-and-muscle-disorders-in-horses/disorders-of-the-shoulder-and-elbow-in-horses\\\nWikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy"
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nTurner TA. Disorders of the Shoulder in Horses. MSD Veterinary Manual, rev. 2025. https://www.merckvetmanual.com/veterinary/musculoskeletal-system/lameness-in-horses/disorders-of-the-shoulder-in-horses\n\nMSD Veterinary Manual, Disorders of the Shoulder and Elbow in Horses (versión para propietarios). https://www.msdvetmanual.com/horse-owners/bone,-joint,-and-muscle-disorders-in-horses/disorders-of-the-shoulder-and-elbow-in-horses\n\nWikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy"
       }
     },
     {
@@ -4992,8 +4996,9 @@
         "funcion": "Permite la flexión y la extensión del antebrazo sobre el brazo.",
         "especie": "En el caballo falta la rama caudal (ulnar) del ligamento colateral lateral. La parte craneal del colateral medial es un resto del pronador redondo.",
         "clinica": "El manual MSD agrupa para el codo equino la enfermedad ortopédica del desarrollo, las fracturas, la osteoartritis, la lesión del ligamento colateral y la bursitis del olécranon.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nMSD Veterinary Manual, Disorders of the Shoulder and Elbow in Horses (versión para propietarios). https://www.msdvetmanual.com/horse-owners/bone,-joint,-and-muscle-disorders-in-horses/disorders-of-the-shoulder-and-elbow-in-horses\\\nWikipedia, Skeletal system of the horse (artículo con aviso de citas pendientes; solo para el dato del arco de flexión del codo). https://www.wikipedia.org/wiki/Skeletal_system_of_the_horse"
-      }    },
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nMSD Veterinary Manual, Disorders of the Shoulder and Elbow in Horses (versión para propietarios). https://www.msdvetmanual.com/horse-owners/bone,-joint,-and-muscle-disorders-in-horses/disorders-of-the-shoulder-and-elbow-in-horses\n\nWikipedia, Skeletal system of the horse (artículo con aviso de citas pendientes; solo para el dato del arco de flexión del codo). https://www.wikipedia.org/wiki/Skeletal_system_of_the_horse"
+      }
+    },
     {
       "id": "equ.ske.amt.002-d",
       "es": "Articulación del codo (derecho)",
@@ -5012,7 +5017,7 @@
         "funcion": "Permite la flexión y la extensión del antebrazo sobre el brazo.",
         "especie": "En el caballo falta la rama caudal (ulnar) del ligamento colateral lateral. La parte craneal del colateral medial es un resto del pronador redondo.",
         "clinica": "El manual MSD agrupa para el codo equino la enfermedad ortopédica del desarrollo, las fracturas, la osteoartritis, la lesión del ligamento colateral y la bursitis del olécranon.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nMSD Veterinary Manual, Disorders of the Shoulder and Elbow in Horses (versión para propietarios). https://www.msdvetmanual.com/horse-owners/bone,-joint,-and-muscle-disorders-in-horses/disorders-of-the-shoulder-and-elbow-in-horses\\\nWikipedia, Skeletal system of the horse (artículo con aviso de citas pendientes; solo para el dato del arco de flexión del codo). https://www.wikipedia.org/wiki/Skeletal_system_of_the_horse"
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nMSD Veterinary Manual, Disorders of the Shoulder and Elbow in Horses (versión para propietarios). https://www.msdvetmanual.com/horse-owners/bone,-joint,-and-muscle-disorders-in-horses/disorders-of-the-shoulder-and-elbow-in-horses\n\nWikipedia, Skeletal system of the horse (artículo con aviso de citas pendientes; solo para el dato del arco de flexión del codo). https://www.wikipedia.org/wiki/Skeletal_system_of_the_horse"
       }
     },
     {
@@ -5033,7 +5038,7 @@
         "funcion": "La fusión de ambos huesos limita el movimiento al plano sagital, con muy poca pronación y supinación.",
         "especie": "En el caballo adulto la ulna está fusionada al radio y muy reducida. El proceso estiloides lateral aparece como un centro de osificación aparte en el potro y se fusiona hacia el año de edad.",
         "clinica": "La separación del proceso estiloides lateral, que no es una fractura, se ve como variación normal en algunos caballos.",
-        "referencias": "WikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy\\\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb"
+        "referencias": "WikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy\n\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb"
       }
     },
     {
@@ -5054,7 +5059,7 @@
         "funcion": "La fusión de ambos huesos limita el movimiento al plano sagital, con muy poca pronación y supinación.",
         "especie": "En el caballo adulto la ulna está fusionada al radio y muy reducida. El proceso estiloides lateral aparece como un centro de osificación aparte en el potro y se fusiona hacia el año de edad.",
         "clinica": "La separación del proceso estiloides lateral, que no es una fractura, se ve como variación normal en algunos caballos.",
-        "referencias": "WikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy\\\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb"
+        "referencias": "WikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy\n\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb"
       }
     },
     {
@@ -5075,7 +5080,7 @@
         "funcion": "Las fuentes consultadas no detallan su función específica; forma parte de la articulación compuesta del carpo.",
         "especie": "El carpo del caballo suele tener 7 huesos, u 8 si existe el primer carpiano. La articulación antebraquiocarpiana suele ser independiente de la mediocarpiana, aunque en uno de 50 carpos de cadáver se observó comunicación entre ambas.",
         "clinica": "Se han descrito accesos artroscópicos a los flancos medial y lateral de su bolsa palmar, útiles para retirar fragmentos de fractura.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb\\\nFord TS, Ross MW, Orsini PG. Communications and boundaries of the middle carpal and carpometacarpal joints in horses. 1988 (50 miembros anteriores de cadáveres). https://agris.fao.org/search/en/records/65df0ea563b8185d9caa8fcf\\\nCheetham J, Nixon AJ. Arthroscopic approaches to the palmar aspect of the equine carpus. Vet Surg. 2006;35(3):227–231. doi:10.1111/j.1532-950X.2006.00141.x. https://madbarn.com/research/arthroscopic-approaches-to-the-palmar-aspect-of-the-equine-carpus\\\nSouthwood LL, Stashak TS, Kainer RA. Tenoscopic anatomy of the equine carpal flexor synovial sheath. Vet Surg. 1998;27(2):150–157. doi:10.1111/j.1532-950x.1998.tb00112.x. https://madbarn.com/research/tenoscopic-anatomy-of-the-equine-carpal-flexor-synovial-sheath"
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb\n\nFord TS, Ross MW, Orsini PG. Communications and boundaries of the middle carpal and carpometacarpal joints in horses. 1988 (50 miembros anteriores de cadáveres). https://agris.fao.org/search/en/records/65df0ea563b8185d9caa8fcf\n\nCheetham J, Nixon AJ. Arthroscopic approaches to the palmar aspect of the equine carpus. Vet Surg. 2006;35(3):227–231. doi:10.1111/j.1532-950X.2006.00141.x. https://madbarn.com/research/arthroscopic-approaches-to-the-palmar-aspect-of-the-equine-carpus\n\nSouthwood LL, Stashak TS, Kainer RA. Tenoscopic anatomy of the equine carpal flexor synovial sheath. Vet Surg. 1998;27(2):150–157. doi:10.1111/j.1532-950x.1998.tb00112.x. https://madbarn.com/research/tenoscopic-anatomy-of-the-equine-carpal-flexor-synovial-sheath"
       }
     },
     {
@@ -5096,7 +5101,7 @@
         "funcion": "Las fuentes consultadas no detallan su función específica; forma parte de la articulación compuesta del carpo.",
         "especie": "El carpo del caballo suele tener 7 huesos, u 8 si existe el primer carpiano. La articulación antebraquiocarpiana suele ser independiente de la mediocarpiana, aunque en uno de 50 carpos de cadáver se observó comunicación entre ambas.",
         "clinica": "Se han descrito accesos artroscópicos a los flancos medial y lateral de su bolsa palmar, útiles para retirar fragmentos de fractura.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb\\\nFord TS, Ross MW, Orsini PG. Communications and boundaries of the middle carpal and carpometacarpal joints in horses. 1988 (50 miembros anteriores de cadáveres). https://agris.fao.org/search/en/records/65df0ea563b8185d9caa8fcf\\\nCheetham J, Nixon AJ. Arthroscopic approaches to the palmar aspect of the equine carpus. Vet Surg. 2006;35(3):227–231. doi:10.1111/j.1532-950X.2006.00141.x. https://madbarn.com/research/arthroscopic-approaches-to-the-palmar-aspect-of-the-equine-carpus\\\nSouthwood LL, Stashak TS, Kainer RA. Tenoscopic anatomy of the equine carpal flexor synovial sheath. Vet Surg. 1998;27(2):150–157. doi:10.1111/j.1532-950x.1998.tb00112.x. https://madbarn.com/research/tenoscopic-anatomy-of-the-equine-carpal-flexor-synovial-sheath"
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb\n\nFord TS, Ross MW, Orsini PG. Communications and boundaries of the middle carpal and carpometacarpal joints in horses. 1988 (50 miembros anteriores de cadáveres). https://agris.fao.org/search/en/records/65df0ea563b8185d9caa8fcf\n\nCheetham J, Nixon AJ. Arthroscopic approaches to the palmar aspect of the equine carpus. Vet Surg. 2006;35(3):227–231. doi:10.1111/j.1532-950X.2006.00141.x. https://madbarn.com/research/arthroscopic-approaches-to-the-palmar-aspect-of-the-equine-carpus\n\nSouthwood LL, Stashak TS, Kainer RA. Tenoscopic anatomy of the equine carpal flexor synovial sheath. Vet Surg. 1998;27(2):150–157. doi:10.1111/j.1532-950x.1998.tb00112.x. https://madbarn.com/research/tenoscopic-anatomy-of-the-equine-carpal-flexor-synovial-sheath"
       }
     },
     {
@@ -5117,7 +5122,7 @@
         "funcion": "Las fuentes consultadas no detallan su función específica; forma parte de la articulación compuesta del carpo.",
         "especie": "En el caballo la articulación mediocarpiana y la carpometacarpiana comunican siempre y suelen tratarse como una unidad. En uno de 50 carpos se observó además comunicación con la articulación antebraquiocarpiana.",
         "clinica": "Al inyectar la articulación mediocarpiana hay que tener en cuenta su efecto sobre el ligamento suspensor proximal, porque, a través de la articulación carpometacarpiana, alcanza invaginaciones sinoviales situadas dentro del ligamento suspensor proximal. Se han descrito accesos artroscópicos a su bolsa palmar.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nFord TS, Ross MW, Orsini PG. Communications and boundaries of the middle carpal and carpometacarpal joints in horses. 1988 (50 miembros anteriores de cadáveres). https://agris.fao.org/search/en/records/65df0ea563b8185d9caa8fcf\\\nGerdes C, Morgan R, Terry R, Foote A, Smith R. Computed tomographic arthrography, gross anatomy and histology demonstrate a communication between synovial invaginations in the proximal aspect of the third interosseous muscle and the carpometacarpal joint in horses. Front Vet Sci. 2022;9:958598. doi:10.3389/fvets.2022.958598. https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.958598/pdf\\\nCheetham J, Nixon AJ. Arthroscopic approaches to the palmar aspect of the equine carpus. Vet Surg. 2006;35(3):227–231. doi:10.1111/j.1532-950X.2006.00141.x. https://madbarn.com/research/arthroscopic-approaches-to-the-palmar-aspect-of-the-equine-carpus"
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nFord TS, Ross MW, Orsini PG. Communications and boundaries of the middle carpal and carpometacarpal joints in horses. 1988 (50 miembros anteriores de cadáveres). https://agris.fao.org/search/en/records/65df0ea563b8185d9caa8fcf\n\nGerdes C, Morgan R, Terry R, Foote A, Smith R. Computed tomographic arthrography, gross anatomy and histology demonstrate a communication between synovial invaginations in the proximal aspect of the third interosseous muscle and the carpometacarpal joint in horses. Front Vet Sci. 2022;9:958598. doi:10.3389/fvets.2022.958598. https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.958598/pdf\n\nCheetham J, Nixon AJ. Arthroscopic approaches to the palmar aspect of the equine carpus. Vet Surg. 2006;35(3):227–231. doi:10.1111/j.1532-950X.2006.00141.x. https://madbarn.com/research/arthroscopic-approaches-to-the-palmar-aspect-of-the-equine-carpus"
       }
     },
     {
@@ -5138,7 +5143,7 @@
         "funcion": "Las fuentes consultadas no detallan su función específica; forma parte de la articulación compuesta del carpo.",
         "especie": "En el caballo la articulación mediocarpiana y la carpometacarpiana comunican siempre y suelen tratarse como una unidad. En uno de 50 carpos se observó además comunicación con la articulación antebraquiocarpiana.",
         "clinica": "Al inyectar la articulación mediocarpiana hay que tener en cuenta su efecto sobre el ligamento suspensor proximal, porque, a través de la articulación carpometacarpiana, alcanza invaginaciones sinoviales situadas dentro del ligamento suspensor proximal. Se han descrito accesos artroscópicos a su bolsa palmar.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nFord TS, Ross MW, Orsini PG. Communications and boundaries of the middle carpal and carpometacarpal joints in horses. 1988 (50 miembros anteriores de cadáveres). https://agris.fao.org/search/en/records/65df0ea563b8185d9caa8fcf\\\nGerdes C, Morgan R, Terry R, Foote A, Smith R. Computed tomographic arthrography, gross anatomy and histology demonstrate a communication between synovial invaginations in the proximal aspect of the third interosseous muscle and the carpometacarpal joint in horses. Front Vet Sci. 2022;9:958598. doi:10.3389/fvets.2022.958598. https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.958598/pdf\\\nCheetham J, Nixon AJ. Arthroscopic approaches to the palmar aspect of the equine carpus. Vet Surg. 2006;35(3):227–231. doi:10.1111/j.1532-950X.2006.00141.x. https://madbarn.com/research/arthroscopic-approaches-to-the-palmar-aspect-of-the-equine-carpus"
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nFord TS, Ross MW, Orsini PG. Communications and boundaries of the middle carpal and carpometacarpal joints in horses. 1988 (50 miembros anteriores de cadáveres). https://agris.fao.org/search/en/records/65df0ea563b8185d9caa8fcf\n\nGerdes C, Morgan R, Terry R, Foote A, Smith R. Computed tomographic arthrography, gross anatomy and histology demonstrate a communication between synovial invaginations in the proximal aspect of the third interosseous muscle and the carpometacarpal joint in horses. Front Vet Sci. 2022;9:958598. doi:10.3389/fvets.2022.958598. https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.958598/pdf\n\nCheetham J, Nixon AJ. Arthroscopic approaches to the palmar aspect of the equine carpus. Vet Surg. 2006;35(3):227–231. doi:10.1111/j.1532-950X.2006.00141.x. https://madbarn.com/research/arthroscopic-approaches-to-the-palmar-aspect-of-the-equine-carpus"
       }
     },
     {
@@ -5159,7 +5164,7 @@
         "funcion": "Mantienen unidos los huesos vecinos del carpo mediante ligamentos cortos.",
         "especie": "El carpo del caballo suele tener 7 huesos, u 8 si existe el primer carpiano.",
         "clinica": "Los ligamentos intercarpianos palmares mediales se han valorado por artroscopia palmar. No se localizó una fuente clínica equina específica para estas uniones.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb\\\nCheetham J, Nixon AJ. Arthroscopic approaches to the palmar aspect of the equine carpus. Vet Surg. 2006;35(3):227–231. doi:10.1111/j.1532-950X.2006.00141.x. https://madbarn.com/research/arthroscopic-approaches-to-the-palmar-aspect-of-the-equine-carpus"
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb\n\nCheetham J, Nixon AJ. Arthroscopic approaches to the palmar aspect of the equine carpus. Vet Surg. 2006;35(3):227–231. doi:10.1111/j.1532-950X.2006.00141.x. https://madbarn.com/research/arthroscopic-approaches-to-the-palmar-aspect-of-the-equine-carpus"
       }
     },
     {
@@ -5180,7 +5185,7 @@
         "funcion": "Mantienen unidos los huesos vecinos del carpo mediante ligamentos cortos.",
         "especie": "El carpo del caballo suele tener 7 huesos, u 8 si existe el primer carpiano.",
         "clinica": "Los ligamentos intercarpianos palmares mediales se han valorado por artroscopia palmar. No se localizó una fuente clínica equina específica para estas uniones.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb\\\nCheetham J, Nixon AJ. Arthroscopic approaches to the palmar aspect of the equine carpus. Vet Surg. 2006;35(3):227–231. doi:10.1111/j.1532-950X.2006.00141.x. https://madbarn.com/research/arthroscopic-approaches-to-the-palmar-aspect-of-the-equine-carpus"
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb\n\nCheetham J, Nixon AJ. Arthroscopic approaches to the palmar aspect of the equine carpus. Vet Surg. 2006;35(3):227–231. doi:10.1111/j.1532-950X.2006.00141.x. https://madbarn.com/research/arthroscopic-approaches-to-the-palmar-aspect-of-the-equine-carpus"
       }
     },
     {
@@ -5201,7 +5206,7 @@
         "funcion": "Las fuentes consultadas no detallan su función específica; es la unión entre la fila distal del carpo y el metacarpo.",
         "especie": "En el caballo solo el tercer metacarpiano permanece completo; el segundo y el cuarto son rudimentarios (huesos accesorios o 'splint').",
         "clinica": "Un estudio con TC y artrografía demostró invaginaciones sinoviales en la parte proximal del ligamento suspensor que comunican con esta articulación. Es habitual que los bloqueos perineurales palmares altos anestesien por error la articulación carpometacarpiana y con ella la mediocarpiana, y viceversa.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nFord TS, Ross MW, Orsini PG. Communications and boundaries of the middle carpal and carpometacarpal joints in horses. 1988 (50 miembros anteriores de cadáveres). https://agris.fao.org/search/en/records/65df0ea563b8185d9caa8fcf\\\nGerdes C, Morgan R, Terry R, Foote A, Smith R. Computed tomographic arthrography, gross anatomy and histology demonstrate a communication between synovial invaginations in the proximal aspect of the third interosseous muscle and the carpometacarpal joint in horses. Front Vet Sci. 2022;9:958598. doi:10.3389/fvets.2022.958598. https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.958598/pdf\\\nWikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy"
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nFord TS, Ross MW, Orsini PG. Communications and boundaries of the middle carpal and carpometacarpal joints in horses. 1988 (50 miembros anteriores de cadáveres). https://agris.fao.org/search/en/records/65df0ea563b8185d9caa8fcf\n\nGerdes C, Morgan R, Terry R, Foote A, Smith R. Computed tomographic arthrography, gross anatomy and histology demonstrate a communication between synovial invaginations in the proximal aspect of the third interosseous muscle and the carpometacarpal joint in horses. Front Vet Sci. 2022;9:958598. doi:10.3389/fvets.2022.958598. https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.958598/pdf\n\nWikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy"
       }
     },
     {
@@ -5222,7 +5227,7 @@
         "funcion": "Las fuentes consultadas no detallan su función específica; es la unión entre la fila distal del carpo y el metacarpo.",
         "especie": "En el caballo solo el tercer metacarpiano permanece completo; el segundo y el cuarto son rudimentarios (huesos accesorios o 'splint').",
         "clinica": "Un estudio con TC y artrografía demostró invaginaciones sinoviales en la parte proximal del ligamento suspensor que comunican con esta articulación. Es habitual que los bloqueos perineurales palmares altos anestesien por error la articulación carpometacarpiana y con ella la mediocarpiana, y viceversa.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nFord TS, Ross MW, Orsini PG. Communications and boundaries of the middle carpal and carpometacarpal joints in horses. 1988 (50 miembros anteriores de cadáveres). https://agris.fao.org/search/en/records/65df0ea563b8185d9caa8fcf\\\nGerdes C, Morgan R, Terry R, Foote A, Smith R. Computed tomographic arthrography, gross anatomy and histology demonstrate a communication between synovial invaginations in the proximal aspect of the third interosseous muscle and the carpometacarpal joint in horses. Front Vet Sci. 2022;9:958598. doi:10.3389/fvets.2022.958598. https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.958598/pdf\\\nWikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy"
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nFord TS, Ross MW, Orsini PG. Communications and boundaries of the middle carpal and carpometacarpal joints in horses. 1988 (50 miembros anteriores de cadáveres). https://agris.fao.org/search/en/records/65df0ea563b8185d9caa8fcf\n\nGerdes C, Morgan R, Terry R, Foote A, Smith R. Computed tomographic arthrography, gross anatomy and histology demonstrate a communication between synovial invaginations in the proximal aspect of the third interosseous muscle and the carpometacarpal joint in horses. Front Vet Sci. 2022;9:958598. doi:10.3389/fvets.2022.958598. https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.958598/pdf\n\nWikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy"
       }
     },
     {
@@ -5243,7 +5248,7 @@
         "funcion": "Permite la flexión y la extensión del dedo.",
         "especie": "En el caballo los ligamentos sesamoideos distales están muy marcados.",
         "clinica": "Es frecuente el derrame sinovial en la fractura de sesamoideos, casi siempre articular y propia de caballos de carreras, y la fractura osteocondral dorsoproximal de la falange proximal por hiperextensión. Los fragmentos osteocondrales pueden retirarse por artroscopia con buen pronóstico si no hay otras lesiones.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nMSD Veterinary Manual, Disorders of the Pastern and Fetlock in Horses (fracturas de falanges y sesamoideos, osteoartritis interfalángica proximal). https://www.msdvetmanual.com/musculoskeletal-system/lameness-in-horses/disorders-of-the-pastern-and-fetlock"
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nMSD Veterinary Manual, Disorders of the Pastern and Fetlock in Horses (fracturas de falanges y sesamoideos, osteoartritis interfalángica proximal). https://www.msdvetmanual.com/musculoskeletal-system/lameness-in-horses/disorders-of-the-pastern-and-fetlock"
       }
     },
     {
@@ -5264,7 +5269,7 @@
         "funcion": "Permite la flexión y la extensión del dedo.",
         "especie": "En el caballo los ligamentos sesamoideos distales están muy marcados.",
         "clinica": "Es frecuente el derrame sinovial en la fractura de sesamoideos, casi siempre articular y propia de caballos de carreras, y la fractura osteocondral dorsoproximal de la falange proximal por hiperextensión. Los fragmentos osteocondrales pueden retirarse por artroscopia con buen pronóstico si no hay otras lesiones.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nMSD Veterinary Manual, Disorders of the Pastern and Fetlock in Horses (fracturas de falanges y sesamoideos, osteoartritis interfalángica proximal). https://www.msdvetmanual.com/musculoskeletal-system/lameness-in-horses/disorders-of-the-pastern-and-fetlock"
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nMSD Veterinary Manual, Disorders of the Pastern and Fetlock in Horses (fracturas de falanges y sesamoideos, osteoartritis interfalángica proximal). https://www.msdvetmanual.com/musculoskeletal-system/lameness-in-horses/disorders-of-the-pastern-and-fetlock"
       }
     },
     {
@@ -5285,7 +5290,7 @@
         "funcion": "Contribuye a la flexión y la extensión del dedo con poco rango de movimiento.",
         "especie": "En el caballo existe un ligamento del espolón, fibroso y delgado, que une el anillo digital distal con el espolón.",
         "clinica": "La osteoartritis, llamada 'sobrehueso alto', es una causa frecuente de cojera, sobre todo en caballos de doma occidental. A menudo se necesita la artrodesis para controlar la cojera.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nMSD Veterinary Manual, Disorders of the Pastern and Fetlock in Horses (fracturas de falanges y sesamoideos, osteoartritis interfalángica proximal). https://www.msdvetmanual.com/musculoskeletal-system/lameness-in-horses/disorders-of-the-pastern-and-fetlock"
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nMSD Veterinary Manual, Disorders of the Pastern and Fetlock in Horses (fracturas de falanges y sesamoideos, osteoartritis interfalángica proximal). https://www.msdvetmanual.com/musculoskeletal-system/lameness-in-horses/disorders-of-the-pastern-and-fetlock"
       }
     },
     {
@@ -5306,7 +5311,7 @@
         "funcion": "Contribuye a la flexión y la extensión del dedo con poco rango de movimiento.",
         "especie": "En el caballo existe un ligamento del espolón, fibroso y delgado, que une el anillo digital distal con el espolón.",
         "clinica": "La osteoartritis, llamada 'sobrehueso alto', es una causa frecuente de cojera, sobre todo en caballos de doma occidental. A menudo se necesita la artrodesis para controlar la cojera.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nMSD Veterinary Manual, Disorders of the Pastern and Fetlock in Horses (fracturas de falanges y sesamoideos, osteoartritis interfalángica proximal). https://www.msdvetmanual.com/musculoskeletal-system/lameness-in-horses/disorders-of-the-pastern-and-fetlock"
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nMSD Veterinary Manual, Disorders of the Pastern and Fetlock in Horses (fracturas de falanges y sesamoideos, osteoartritis interfalángica proximal). https://www.msdvetmanual.com/musculoskeletal-system/lameness-in-horses/disorders-of-the-pastern-and-fetlock"
       }
     },
     {
@@ -5327,7 +5332,7 @@
         "funcion": "Permite extensión y flexión ligera del dedo.",
         "especie": "En un estudio con 66 pares de miembros de cadáver, la bolsa del navicular se opacificó tras inyectar la articulación solo en el 5,3 % de los miembros. La comunicación es poco frecuente e inconstante.",
         "clinica": "La osteoartritis afecta con más frecuencia a los miembros anteriores. Las invaginaciones sinoviales del borde distal del navicular se asocian más a la sinovitis de esta articulación que a la enfermedad primaria del hueso navicular. La cojera se localiza con anestesia de los nervios digitales palmares o intraarticular.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nMoorman VJ. Osteoarthritis of the Distal Interphalangeal (Coffin) Joint in Horses. MSD Veterinary Manual, rev. 2024. https://www.msdvetmanual.com/musculoskeletal-system/disorders-of-the-foot-in-horses/osteoarthritis-of-the-distal-interphalangeal-coffin-joint-in-horses\\\nCommunication between the distal interphalangeal joint and the navicular bursa in the horse at computed tomography arthrography. Anat Histol Embryol. 2019 (66 pares de miembros anteriores de cadáveres). https://read.qxmd.com/read/30609106/communication-between-the-distal-interphalangeal-joint-and-the-navicular-bursa-in-the-horse-at-computed-tomography-arthrography\\\nEstudio de CT con artrografía y bursografía sobre las invaginaciones sinoviales del borde distal del hueso navicular (Vet Comp Orthop Traumatol). https://www.thieme-connect.de/products/ejournals/abstract/10.3415/VCOT-16-08-0120"
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nMoorman VJ. Osteoarthritis of the Distal Interphalangeal (Coffin) Joint in Horses. MSD Veterinary Manual, rev. 2024. https://www.msdvetmanual.com/musculoskeletal-system/disorders-of-the-foot-in-horses/osteoarthritis-of-the-distal-interphalangeal-coffin-joint-in-horses\n\nCommunication between the distal interphalangeal joint and the navicular bursa in the horse at computed tomography arthrography. Anat Histol Embryol. 2019 (66 pares de miembros anteriores de cadáveres). https://read.qxmd.com/read/30609106/communication-between-the-distal-interphalangeal-joint-and-the-navicular-bursa-in-the-horse-at-computed-tomography-arthrography\n\nEstudio de CT con artrografía y bursografía sobre las invaginaciones sinoviales del borde distal del hueso navicular (Vet Comp Orthop Traumatol). https://www.thieme-connect.de/products/ejournals/abstract/10.3415/VCOT-16-08-0120"
       }
     },
     {
@@ -5348,7 +5353,7 @@
         "funcion": "Permite extensión y flexión ligera del dedo.",
         "especie": "En un estudio con 66 pares de miembros de cadáver, la bolsa del navicular se opacificó tras inyectar la articulación solo en el 5,3 % de los miembros. La comunicación es poco frecuente e inconstante.",
         "clinica": "La osteoartritis afecta con más frecuencia a los miembros anteriores. Las invaginaciones sinoviales del borde distal del navicular se asocian más a la sinovitis de esta articulación que a la enfermedad primaria del hueso navicular. La cojera se localiza con anestesia de los nervios digitales palmares o intraarticular.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\\\nMoorman VJ. Osteoarthritis of the Distal Interphalangeal (Coffin) Joint in Horses. MSD Veterinary Manual, rev. 2024. https://www.msdvetmanual.com/musculoskeletal-system/disorders-of-the-foot-in-horses/osteoarthritis-of-the-distal-interphalangeal-coffin-joint-in-horses\\\nCommunication between the distal interphalangeal joint and the navicular bursa in the horse at computed tomography arthrography. Anat Histol Embryol. 2019 (66 pares de miembros anteriores de cadáveres). https://read.qxmd.com/read/30609106/communication-between-the-distal-interphalangeal-joint-and-the-navicular-bursa-in-the-horse-at-computed-tomography-arthrography\\\nEstudio de CT con artrografía y bursografía sobre las invaginaciones sinoviales del borde distal del hueso navicular (Vet Comp Orthop Traumatol). https://www.thieme-connect.de/products/ejournals/abstract/10.3415/VCOT-16-08-0120"
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nMoorman VJ. Osteoarthritis of the Distal Interphalangeal (Coffin) Joint in Horses. MSD Veterinary Manual, rev. 2024. https://www.msdvetmanual.com/musculoskeletal-system/disorders-of-the-foot-in-horses/osteoarthritis-of-the-distal-interphalangeal-coffin-joint-in-horses\n\nCommunication between the distal interphalangeal joint and the navicular bursa in the horse at computed tomography arthrography. Anat Histol Embryol. 2019 (66 pares de miembros anteriores de cadáveres). https://read.qxmd.com/read/30609106/communication-between-the-distal-interphalangeal-joint-and-the-navicular-bursa-in-the-horse-at-computed-tomography-arthrography\n\nEstudio de CT con artrografía y bursografía sobre las invaginaciones sinoviales del borde distal del hueso navicular (Vet Comp Orthop Traumatol). https://www.thieme-connect.de/products/ejournals/abstract/10.3415/VCOT-16-08-0120"
       }
     },
     {
@@ -5369,7 +5374,7 @@
         "funcion": "Transmite el peso y las fuerzas locomotoras entre el miembro pelviano izquierdo y la pelvis. Permite principalmente flexión y extensión, además de movimientos accesorios limitados. Sus componentes ligamentarios mantienen la congruencia y estabilidad articular.",
         "especie": "En el caballo, el ligamento accesorio de la cabeza femoral es una particularidad anatómica de los équidos. Se origina en el tendón prepubiano y contribuye a restringir la abducción y rotación de la cadera. La movilidad funcional está predominantemente orientada a la flexión y extensión.",
         "clinica": "Puede presentar luxación o subluxación, fracturas acetabulares o femorales, osteoartritis, artritis séptica y lesiones del complejo ligamentoso de la cabeza femoral. La exploración ecográfica y las técnicas de imagen avanzadas permiten evaluar estructuras periarticulares e intracapsulares.",
-        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del miembro pelviano y articulación de la cadera.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Articulaciones del miembro pelviano.\n\nGeburek F. Coxofemoral instability in equids caused by Ligamentum capitis ossis femoris disruption. Equine Veterinary Education. 2026. DOI: 10.1111/eve.70072.\n\nComputed tomographic arthrography of the coxofemoral joint in horses. Equine Veterinary Education."
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del miembro pelviano y articulación de la cadera.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Articulaciones del miembro pelviano.\n\nGeburek F. Coxofemoral instability in equids caused by Ligamentum capitis ossis femoris disruption. Equine Veterinary Education. 2026. DOI: 10.1111/eve.70072.\n\nAttin SJ, Kristoffersen M, Aarsvold S. Computed tomographic arthrography of the coxofemoral joint in horses. Equine Veterinary Education. DOI: 10.1111/eve.70169."
       }
     },
     {
@@ -5390,7 +5395,7 @@
         "funcion": "Transmite el peso y las fuerzas locomotoras entre el miembro pelviano derecho y la pelvis. Permite principalmente flexión y extensión, además de movimientos accesorios limitados. Sus componentes ligamentarios mantienen la congruencia y estabilidad articular.",
         "especie": "En el caballo, el ligamento accesorio de la cabeza femoral es una particularidad anatómica de los équidos. Se origina en el tendón prepubiano y contribuye a restringir la abducción y rotación de la cadera. La movilidad funcional está predominantemente orientada a la flexión y extensión.",
         "clinica": "Puede presentar luxación o subluxación, fracturas acetabulares o femorales, osteoartritis, artritis séptica y lesiones del complejo ligamentoso de la cabeza femoral. La exploración ecográfica y las técnicas de imagen avanzadas permiten evaluar estructuras periarticulares e intracapsulares.",
-        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del miembro pelviano y articulación de la cadera.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Articulaciones del miembro pelviano.\n\nGeburek F. Coxofemoral instability in equids caused by Ligamentum capitis ossis femoris disruption. Equine Veterinary Education. 2026. DOI: 10.1111/eve.70072.\n\nComputed tomographic arthrography of the coxofemoral joint in horses. Equine Veterinary Education."
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Sección del miembro pelviano y articulación de la cadera.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Articulaciones del miembro pelviano.\n\nGeburek F. Coxofemoral instability in equids caused by Ligamentum capitis ossis femoris disruption. Equine Veterinary Education. 2026. DOI: 10.1111/eve.70072.\n\nAttin SJ, Kristoffersen M, Aarsvold S. Computed tomographic arthrography of the coxofemoral joint in horses. Equine Veterinary Education. DOI: 10.1111/eve.70169."
       }
     },
     {
@@ -5398,168 +5403,504 @@
       "es": "Articulación femoropatelar (izquierdo)",
       "la": "Articulatio femoropatellaris",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la cara craneal de la rodilla (babilla) del lado izquierdo, entre la tróclea del fémur y la patela (rótula).",
+        "descripcion": "Articulación entre la tróclea femoral (dos crestas y un surco) y la patela del lado izquierdo. Forma, junto con las articulaciones femorotibiales medial y lateral, la articulación de la babilla, que se divide en tres compartimentos: femoropatelar, femorotibial medial y femorotibial lateral. La patela se une al fémur por los ligamentos femoropatelares medial y lateral y a la tibia por tres ligamentos patelares (medial, intermedio y lateral).",
+        "relaciones": "La cresta troclear medial es mayor que la lateral y tiene una protuberancia que se proyecta en sentido proximal. La cavidad se relaciona con la almohadilla grasa infrapatelar y con el cuádriceps femoral, cuyo tendón se inserta en la patela. Su cápsula suele comunicar con la cavidad femorotibial medial y, en ocasiones, con la lateral.",
+        "accidentes": "Tróclea femoral con cresta troclear medial, cresta troclear lateral y surco troclear; patela; almohadilla grasa infrapatelar.",
+        "articulaciones": "Articulación sinovial. Ligamentos femoropatelares medial y lateral (de la patela al fémur) y ligamentos patelares medial, intermedio y lateral (de la patela a la tibia). Forma con las dos articulaciones femorotibiales la articulación de la babilla.",
+        "inserciones": "Los ligamentos femoropatelares anclan la patela al fémur por ambos lados. Los tres ligamentos patelares unen la patela con la tibia, en la región de la tuberosidad tibial. La patela recibe el tendón del cuádriceps femoral.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de esta articulación en las fuentes consultadas.",
+        "funcion": "Permite que la patela se deslice por el surco troclear durante la flexión y la extensión de la babilla. Interviene en el aparato de fijación: con el cuádriceps contraído en reposo, la patela se engancha sobre la cresta troclear medial mediante un lazo formado por los ligamentos patelares medial e intermedio, lo que bloquea la flexión de la babilla y permite al caballo mantenerse de pie con poco esfuerzo muscular.",
+        "especie": "En el caballo la cresta troclear medial es mayor que la lateral y presenta una protuberancia proximal sobre la que se fija la patela; esa disposición es la base del mecanismo de bloqueo del miembro pelviano. Hay tres ligamentos patelares. Las fuentes difieren en la frecuencia de comunicación con las cavidades femorotibiales: una versión de WikiVet indica que comunica habitualmente con la medial y a veces con la lateral.",
+        "clinica": "La fijación proximal de la patela y la luxación lateral de la patela (esta última más frecuente en potros y caballos miniatura) son trastornos descritos de esta articulación. Para la fijación se mencionan el fortalecimiento del cuádriceps o la desmotomía o el desdoblamiento del ligamento patelar medial, y para la luxación la corrección quirúrgica. En caballos jóvenes la osteocondrosis disecante es una causa frecuente de defectos del cartílago y suele afectar a la articulación femoropatelar.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy\n\nWikiVet, Limb Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy\n\nHighline Equine, Understanding stifle injuries in the horse - Part 1: Stifle anatomy (fuente divulgativa). https://medium.com/@highline.equine/understanding-stifle-injuries-in-the-horse-c3f2303a0aed\n\nDiagnostic Performance of Multi-Detector Computed Tomography Arthrography and 3-Tesla Magnetic Resonance Imaging to Diagnose Experimentally Created Articular Cartilage Lesions in Equine Cadaver Stifles. https://pmc.ncbi.nlm.nih.gov/articles/PMC10376593\n\nEquine Stifle Anatomy, Imaging, and Clinical Orthopedics (apuntes de estudio en Knowt; fuente divulgativa). https://knowt.com/note/9503d5e4-768a-442b-9a08-776df91a4960/Equine-Stifle-Anatomy-Imaging-and-Clin"
+      }
     },
     {
       "id": "equ.ske.amp.002-d",
       "es": "Articulación femoropatelar (derecho)",
       "la": "Articulatio femoropatellaris",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la cara craneal de la rodilla (babilla) del lado derecho, entre la tróclea del fémur y la patela (rótula).",
+        "descripcion": "Articulación entre la tróclea femoral (dos crestas y un surco) y la patela del lado derecho. Forma, junto con las articulaciones femorotibiales medial y lateral, la articulación de la babilla, que se divide en tres compartimentos: femoropatelar, femorotibial medial y femorotibial lateral. La patela se une al fémur por los ligamentos femoropatelares medial y lateral y a la tibia por tres ligamentos patelares (medial, intermedio y lateral).",
+        "relaciones": "La cresta troclear medial es mayor que la lateral y tiene una protuberancia que se proyecta en sentido proximal. La cavidad se relaciona con la almohadilla grasa infrapatelar y con el cuádriceps femoral, cuyo tendón se inserta en la patela. Su cápsula suele comunicar con la cavidad femorotibial medial y, en ocasiones, con la lateral.",
+        "accidentes": "Tróclea femoral con cresta troclear medial, cresta troclear lateral y surco troclear; patela; almohadilla grasa infrapatelar.",
+        "articulaciones": "Articulación sinovial. Ligamentos femoropatelares medial y lateral (de la patela al fémur) y ligamentos patelares medial, intermedio y lateral (de la patela a la tibia). Forma con las dos articulaciones femorotibiales la articulación de la babilla.",
+        "inserciones": "Los ligamentos femoropatelares anclan la patela al fémur por ambos lados. Los tres ligamentos patelares unen la patela con la tibia, en la región de la tuberosidad tibial. La patela recibe el tendón del cuádriceps femoral.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de esta articulación en las fuentes consultadas.",
+        "funcion": "Permite que la patela se deslice por el surco troclear durante la flexión y la extensión de la babilla. Interviene en el aparato de fijación: con el cuádriceps contraído en reposo, la patela se engancha sobre la cresta troclear medial mediante un lazo formado por los ligamentos patelares medial e intermedio, lo que bloquea la flexión de la babilla y permite al caballo mantenerse de pie con poco esfuerzo muscular.",
+        "especie": "En el caballo la cresta troclear medial es mayor que la lateral y presenta una protuberancia proximal sobre la que se fija la patela; esa disposición es la base del mecanismo de bloqueo del miembro pelviano. Hay tres ligamentos patelares. Las fuentes difieren en la frecuencia de comunicación con las cavidades femorotibiales: una versión de WikiVet indica que comunica habitualmente con la medial y a veces con la lateral.",
+        "clinica": "La fijación proximal de la patela y la luxación lateral de la patela (esta última más frecuente en potros y caballos miniatura) son trastornos descritos de esta articulación. Para la fijación se mencionan el fortalecimiento del cuádriceps o la desmotomía o el desdoblamiento del ligamento patelar medial, y para la luxación la corrección quirúrgica. En caballos jóvenes la osteocondrosis disecante es una causa frecuente de defectos del cartílago y suele afectar a la articulación femoropatelar.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy\n\nWikiVet, Limb Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy\n\nHighline Equine, Understanding stifle injuries in the horse - Part 1: Stifle anatomy (fuente divulgativa). https://medium.com/@highline.equine/understanding-stifle-injuries-in-the-horse-c3f2303a0aed\n\nDiagnostic Performance of Multi-Detector Computed Tomography Arthrography and 3-Tesla Magnetic Resonance Imaging to Diagnose Experimentally Created Articular Cartilage Lesions in Equine Cadaver Stifles. https://pmc.ncbi.nlm.nih.gov/articles/PMC10376593\n\nEquine Stifle Anatomy, Imaging, and Clinical Orthopedics (apuntes de estudio en Knowt; fuente divulgativa). https://knowt.com/note/9503d5e4-768a-442b-9a08-776df91a4960/Equine-Stifle-Anatomy-Imaging-and-Clin"
+      }
     },
     {
       "id": "equ.ske.amp.003-i",
       "es": "Articulación femorotibial (izquierdo)",
       "la": "Articulatio femorotibialis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la babilla del lado izquierdo, entre los cóndilos del fémur, los cóndilos de la tibia y los meniscos interpuestos.",
+        "descripcion": "Articulación formada por los cóndilos medial y lateral del fémur y la tibia del lado izquierdo, con los meniscos medial y lateral entre ambos. Los meniscos la dividen en un segmento proximal y otro distal, que se comunican por el centro abierto de los meniscos, donde los cóndilos femorales y tibiales están en contacto. La membrana sinovial de la cápsula, completa solo en el caballo, la divide además en dos compartimentos: femorotibial medial y femorotibial lateral.",
+        "relaciones": "En el centro, en la fosa intercondílea del fémur y entre los dos sacos sinoviales, se sitúan los ligamentos cruzados craneal y caudal. Los meniscos se fijan por su borde externo a la cápsula fibrosa. Las fuentes difieren sobre la comunicación entre los compartimentos femorotibiales medial y lateral: WikiVet indica que no existe, mientras que apuntes de estudio señalan comunicaciones ocasionales. El compartimento femorotibial medial suele comunicar con la cavidad femoropatelar y el lateral lo hace en ocasiones.",
+        "accidentes": "Cóndilos medial y lateral del fémur, fosa intercondílea y línea intercondílea (que la separa de la superficie poplítea); superficies rugosas abaxiales de los cóndilos femorales, donde se fijan los ligamentos colaterales; cóndilos de la tibia y eminencia intercondílea.",
+        "articulaciones": "Articulación sinovial compuesta; con la femoropatelar forma los tres compartimentos de la babilla. Se estabiliza con los ligamentos colaterales medial y lateral, los ligamentos cruzados craneal y caudal y los ligamentos de los meniscos (meniscotibiales craneales y caudales, y meniscofemoral del menisco lateral). Una fuente divulgativa cuenta 14 ligamentos en la babilla (3 patelares, 2 colaterales, 4 meniscotibiales, 1 meniscofemoral, 2 femoropatelares y 2 cruzados), más que en cualquier otra articulación.",
+        "inserciones": "Los ligamentos colaterales se fijan en las superficies rugosas abaxiales de los cóndilos femorales. Según la descripción general de WikiVet, el ligamento cruzado craneal une el cóndilo femoral lateral con el área intercondílea central de la tibia. Los meniscos se anclan sobre todo en la tibia por sus ligamentos craneales y caudales, y el menisco lateral tiene además un ligamento hacia el fémur distal.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de esta articulación en las fuentes consultadas.",
+        "funcion": "Permite sobre todo flexión y extensión de la babilla. Durante el movimiento los meniscos se desplazan en sentido craneocaudal sobre la tibia y reparten la carga entre los cóndilos. Los ligamentos cruzados limitan el deslizamiento de la tibia respecto al fémur y estabilizan la articulación.",
+        "especie": "En el caballo la membrana sinovial separa de forma completa los compartimentos medial y lateral. El ligamento meniscofemoral es una estructura robusta que apoya al ligamento cruzado caudal, y su proporción respecto a este es mayor en los cuadrúpedos que en la rodilla humana. El caballo se usa como modelo de los trastornos meniscales de la rodilla humana.",
+        "clinica": "Las lesiones de partes blandas, sobre todo meniscales, son frecuentes: se citan como el 68 % de los trastornos de partes blandas de la babilla en una revisión, y el menisco medial se lesiona más que el lateral. También se describen defectos del cartílago y quistes óseos en los cóndilos femorales, más a menudo en el medial, y lesiones de los ligamentos meniscotibiales craneales, colaterales y cruzados. El diagnóstico es difícil por la musculatura voluminosa que rodea la articulación; se emplean artroscopia, resonancia magnética y tomografía computarizada con artrografía.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Hindlimb - Anatomy & Physiology (descripción general de la babilla y el corvejón). https://en.wikivet.net/Hindlimb_-_Anatomy_&_Physiology\n\nAAEP Proceedings, 65th Annual Convention, 2019. https://pubs.aaep.org/0A4370h/65thAnnCon2019/html/349.html\n\nZellmann P, Ribitsch I, Handschuh S, Peham C. Finite Element Modelling Simulated Meniscus Translocation and Deformation during Locomotion of the Equine Stifle. Animals. 2019;9(8):502. doi:10.3390/ani9080502. https://pmc.ncbi.nlm.nih.gov/articles/PMC6720206\n\nThe Horse, Stifling the Pain in Horses (reporta resultados de Goodrich y colaboradores). https://thehorse.com/148743/stifling-the-pain-in-horses/\n\nDiagnostic Performance of Multi-Detector Computed Tomography Arthrography and 3-Tesla Magnetic Resonance Imaging to Diagnose Experimentally Created Articular Cartilage Lesions in Equine Cadaver Stifles. https://pmc.ncbi.nlm.nih.gov/articles/PMC10376593\n\nHighline Equine, Understanding stifle injuries in the horse - Part 1: Stifle anatomy (fuente divulgativa). https://medium.com/@highline.equine/understanding-stifle-injuries-in-the-horse-c3f2303a0aed\n\nEquine Stifle Anatomy, Imaging, and Clinical Orthopedics (apuntes de estudio en Knowt; fuente divulgativa). https://knowt.com/note/9503d5e4-768a-442b-9a08-776df91a4960/Equine-Stifle-Anatomy-Imaging-and-Clin"
+      }
     },
     {
       "id": "equ.ske.amp.003-d",
       "es": "Articulación femorotibial (derecho)",
       "la": "Articulatio femorotibialis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la babilla del lado derecho, entre los cóndilos del fémur, los cóndilos de la tibia y los meniscos interpuestos.",
+        "descripcion": "Articulación formada por los cóndilos medial y lateral del fémur y la tibia del lado derecho, con los meniscos medial y lateral entre ambos. Los meniscos la dividen en un segmento proximal y otro distal, que se comunican por el centro abierto de los meniscos, donde los cóndilos femorales y tibiales están en contacto. La membrana sinovial de la cápsula, completa solo en el caballo, la divide además en dos compartimentos: femorotibial medial y femorotibial lateral.",
+        "relaciones": "En el centro, en la fosa intercondílea del fémur y entre los dos sacos sinoviales, se sitúan los ligamentos cruzados craneal y caudal. Los meniscos se fijan por su borde externo a la cápsula fibrosa. Las fuentes difieren sobre la comunicación entre los compartimentos femorotibiales medial y lateral: WikiVet indica que no existe, mientras que apuntes de estudio señalan comunicaciones ocasionales. El compartimento femorotibial medial suele comunicar con la cavidad femoropatelar y el lateral lo hace en ocasiones.",
+        "accidentes": "Cóndilos medial y lateral del fémur, fosa intercondílea y línea intercondílea (que la separa de la superficie poplítea); superficies rugosas abaxiales de los cóndilos femorales, donde se fijan los ligamentos colaterales; cóndilos de la tibia y eminencia intercondílea.",
+        "articulaciones": "Articulación sinovial compuesta; con la femoropatelar forma los tres compartimentos de la babilla. Se estabiliza con los ligamentos colaterales medial y lateral, los ligamentos cruzados craneal y caudal y los ligamentos de los meniscos (meniscotibiales craneales y caudales, y meniscofemoral del menisco lateral). Una fuente divulgativa cuenta 14 ligamentos en la babilla (3 patelares, 2 colaterales, 4 meniscotibiales, 1 meniscofemoral, 2 femoropatelares y 2 cruzados), más que en cualquier otra articulación.",
+        "inserciones": "Los ligamentos colaterales se fijan en las superficies rugosas abaxiales de los cóndilos femorales. Según la descripción general de WikiVet, el ligamento cruzado craneal une el cóndilo femoral lateral con el área intercondílea central de la tibia. Los meniscos se anclan sobre todo en la tibia por sus ligamentos craneales y caudales, y el menisco lateral tiene además un ligamento hacia el fémur distal.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de esta articulación en las fuentes consultadas.",
+        "funcion": "Permite sobre todo flexión y extensión de la babilla. Durante el movimiento los meniscos se desplazan en sentido craneocaudal sobre la tibia y reparten la carga entre los cóndilos. Los ligamentos cruzados limitan el deslizamiento de la tibia respecto al fémur y estabilizan la articulación.",
+        "especie": "En el caballo la membrana sinovial separa de forma completa los compartimentos medial y lateral. El ligamento meniscofemoral es una estructura robusta que apoya al ligamento cruzado caudal, y su proporción respecto a este es mayor en los cuadrúpedos que en la rodilla humana. El caballo se usa como modelo de los trastornos meniscales de la rodilla humana.",
+        "clinica": "Las lesiones de partes blandas, sobre todo meniscales, son frecuentes: se citan como el 68 % de los trastornos de partes blandas de la babilla en una revisión, y el menisco medial se lesiona más que el lateral. También se describen defectos del cartílago y quistes óseos en los cóndilos femorales, más a menudo en el medial, y lesiones de los ligamentos meniscotibiales craneales, colaterales y cruzados. El diagnóstico es difícil por la musculatura voluminosa que rodea la articulación; se emplean artroscopia, resonancia magnética y tomografía computarizada con artrografía.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Hindlimb - Anatomy & Physiology (descripción general de la babilla y el corvejón). https://en.wikivet.net/Hindlimb_-_Anatomy_&_Physiology\n\nAAEP Proceedings, 65th Annual Convention, 2019. https://pubs.aaep.org/0A4370h/65thAnnCon2019/html/349.html\n\nZellmann P, Ribitsch I, Handschuh S, Peham C. Finite Element Modelling Simulated Meniscus Translocation and Deformation during Locomotion of the Equine Stifle. Animals. 2019;9(8):502. doi:10.3390/ani9080502. https://pmc.ncbi.nlm.nih.gov/articles/PMC6720206\n\nThe Horse, Stifling the Pain in Horses (reporta resultados de Goodrich y colaboradores). https://thehorse.com/148743/stifling-the-pain-in-horses/\n\nDiagnostic Performance of Multi-Detector Computed Tomography Arthrography and 3-Tesla Magnetic Resonance Imaging to Diagnose Experimentally Created Articular Cartilage Lesions in Equine Cadaver Stifles. https://pmc.ncbi.nlm.nih.gov/articles/PMC10376593\n\nHighline Equine, Understanding stifle injuries in the horse - Part 1: Stifle anatomy (fuente divulgativa). https://medium.com/@highline.equine/understanding-stifle-injuries-in-the-horse-c3f2303a0aed\n\nEquine Stifle Anatomy, Imaging, and Clinical Orthopedics (apuntes de estudio en Knowt; fuente divulgativa). https://knowt.com/note/9503d5e4-768a-442b-9a08-776df91a4960/Equine-Stifle-Anatomy-Imaging-and-Clin"
+      }
     },
     {
       "id": "equ.ske.amp.004-i",
       "es": "Menisco medial (izquierdo)",
       "la": "Meniscus medialis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el compartimento femorotibial medial de la babilla del lado izquierdo, entre el cóndilo medial del fémur y el cóndilo medial de la tibia.",
+        "descripcion": "Disco de fibrocartílago interpuesto entre el cóndilo femoral medial y la superficie articular medial de la tibia del lado izquierdo, que divide el compartimento femorotibial medial en un segmento proximal y otro distal. Su borde externo se fija a la cápsula fibrosa y se ancla en la tibia mediante los ligamentos meniscotibiales craneal y caudal.",
+        "relaciones": "Queda entre el cóndilo femoral (proximal) y la tibia (distal). Su cuerno craneal y el ligamento meniscotibial craneal medial son la región donde se concentran las lesiones del menisco medial.",
+        "accidentes": "Cuerno craneal, cuerpo y cuerno caudal; borde periférico unido a la cápsula; ligamentos meniscotibiales craneal y caudal.",
+        "articulaciones": "Forma parte de la articulación femorotibial (compartimento medial). Se une a la tibia por los ligamentos meniscotibiales craneal y caudal. El ligamento meniscofemoral descrito en las fuentes consultadas pertenece al menisco lateral.",
+        "inserciones": "El ligamento meniscotibial craneal une el cuerno craneal con el área intercondílea craneal medial de la tibia, según la descripción general de WikiVet; el ligamento meniscotibial caudal une el cuerno caudal con la tibia.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación del menisco en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación del menisco en las fuentes consultadas.",
+        "funcion": "Facilita el movimiento sin fricción de la articulación y reparte la carga entre el cóndilo femoral y la tibia. Se desplaza en sentido craneocaudal durante la flexión y la extensión.",
+        "especie": "El cuerno craneal del menisco medial del caballo es la localización más frecuente de lesión de partes blandas de la babilla. En un modelo de elementos finitos el menisco medial mostró menos desplazamiento y deformación que el lateral.",
+        "clinica": "Las roturas del cuerno craneal se relacionan con la hiperextensión de la babilla: en extensión completa (160°) la tensión del ligamento meniscotibial craneal medial es cuatro veces mayor, lo que predispone a la rotura de esta estructura y del cuerno craneal. En una serie citada por The Horse, 25 de 47 meniscos mediales (53 %) estaban lesionados, frente a 6 de 34 laterales (17 %). La artroscopia permite identificar algunas de estas lesiones.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nFowlie JG. Functional anatomy of the equine meniscus: pathogenesis and pathophysiology of injury to the cranial horn of the medial meniscus. Tesis de maestría, Michigan State University, 2011. https://d.lib.msu.edu/etd/1985/FULL_TEXT/view\n\nAAEP Proceedings, 65th Annual Convention, 2019. https://pubs.aaep.org/0A4370h/65thAnnCon2019/html/349.html\n\nZellmann P, Ribitsch I, Handschuh S, Peham C. Finite Element Modelling Simulated Meniscus Translocation and Deformation during Locomotion of the Equine Stifle. Animals. 2019;9(8):502. doi:10.3390/ani9080502. https://pmc.ncbi.nlm.nih.gov/articles/PMC6720206\n\nThe Horse, Stifling the Pain in Horses (reporta resultados de Goodrich y colaboradores). https://thehorse.com/148743/stifling-the-pain-in-horses/"
+      }
     },
     {
       "id": "equ.ske.amp.004-d",
       "es": "Menisco medial (derecho)",
       "la": "Meniscus medialis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el compartimento femorotibial medial de la babilla del lado derecho, entre el cóndilo medial del fémur y el cóndilo medial de la tibia.",
+        "descripcion": "Disco de fibrocartílago interpuesto entre el cóndilo femoral medial y la superficie articular medial de la tibia del lado derecho, que divide el compartimento femorotibial medial en un segmento proximal y otro distal. Su borde externo se fija a la cápsula fibrosa y se ancla en la tibia mediante los ligamentos meniscotibiales craneal y caudal.",
+        "relaciones": "Queda entre el cóndilo femoral (proximal) y la tibia (distal). Su cuerno craneal y el ligamento meniscotibial craneal medial son la región donde se concentran las lesiones del menisco medial.",
+        "accidentes": "Cuerno craneal, cuerpo y cuerno caudal; borde periférico unido a la cápsula; ligamentos meniscotibiales craneal y caudal.",
+        "articulaciones": "Forma parte de la articulación femorotibial (compartimento medial). Se une a la tibia por los ligamentos meniscotibiales craneal y caudal. El ligamento meniscofemoral descrito en las fuentes consultadas pertenece al menisco lateral.",
+        "inserciones": "El ligamento meniscotibial craneal une el cuerno craneal con el área intercondílea craneal medial de la tibia, según la descripción general de WikiVet; el ligamento meniscotibial caudal une el cuerno caudal con la tibia.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación del menisco en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación del menisco en las fuentes consultadas.",
+        "funcion": "Facilita el movimiento sin fricción de la articulación y reparte la carga entre el cóndilo femoral y la tibia. Se desplaza en sentido craneocaudal durante la flexión y la extensión.",
+        "especie": "El cuerno craneal del menisco medial del caballo es la localización más frecuente de lesión de partes blandas de la babilla. En un modelo de elementos finitos el menisco medial mostró menos desplazamiento y deformación que el lateral.",
+        "clinica": "Las roturas del cuerno craneal se relacionan con la hiperextensión de la babilla: en extensión completa (160°) la tensión del ligamento meniscotibial craneal medial es cuatro veces mayor, lo que predispone a la rotura de esta estructura y del cuerno craneal. En una serie citada por The Horse, 25 de 47 meniscos mediales (53 %) estaban lesionados, frente a 6 de 34 laterales (17 %). La artroscopia permite identificar algunas de estas lesiones.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nFowlie JG. Functional anatomy of the equine meniscus: pathogenesis and pathophysiology of injury to the cranial horn of the medial meniscus. Tesis de maestría, Michigan State University, 2011. https://d.lib.msu.edu/etd/1985/FULL_TEXT/view\n\nAAEP Proceedings, 65th Annual Convention, 2019. https://pubs.aaep.org/0A4370h/65thAnnCon2019/html/349.html\n\nZellmann P, Ribitsch I, Handschuh S, Peham C. Finite Element Modelling Simulated Meniscus Translocation and Deformation during Locomotion of the Equine Stifle. Animals. 2019;9(8):502. doi:10.3390/ani9080502. https://pmc.ncbi.nlm.nih.gov/articles/PMC6720206\n\nThe Horse, Stifling the Pain in Horses (reporta resultados de Goodrich y colaboradores). https://thehorse.com/148743/stifling-the-pain-in-horses/"
+      }
     },
     {
       "id": "equ.ske.amp.005-i",
       "es": "Menisco lateral (izquierdo)",
       "la": "Meniscus lateralis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el compartimento femorotibial lateral de la babilla del lado izquierdo, entre el cóndilo lateral del fémur y el cóndilo lateral de la tibia.",
+        "descripcion": "Disco de fibrocartílago interpuesto entre el cóndilo femoral lateral y la superficie articular lateral de la tibia del lado izquierdo, que divide el compartimento femorotibial lateral en un segmento proximal y otro distal. Su borde externo se fija a la cápsula fibrosa. Se ancla en la tibia por los ligamentos meniscotibiales craneal y caudal y, a diferencia del medial, tiene además un ligamento hacia el fémur distal.",
+        "relaciones": "El ligamento meniscofemoral va del menisco lateral hacia el cóndilo femoral medial y apoya al ligamento cruzado caudal.",
+        "accidentes": "Cuerno craneal, cuerpo y cuerno caudal; borde periférico unido a la cápsula; ligamentos meniscotibiales craneal y caudal y ligamento meniscofemoral.",
+        "articulaciones": "Forma parte de la articulación femorotibial (compartimento lateral). Se une a la tibia por los ligamentos meniscotibiales craneal y caudal y al fémur por el ligamento meniscofemoral.",
+        "inserciones": "El ligamento meniscotibial craneal une el cuerno craneal con el área intercondílea craneal lateral de la tibia, según la descripción general de WikiVet; el ligamento meniscotibial caudal une el cuerno caudal con la tibia; el ligamento meniscofemoral une el menisco con el fémur distal.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación del menisco en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación del menisco en las fuentes consultadas.",
+        "funcion": "Facilita el movimiento sin fricción de la articulación y reparte la carga entre el cóndilo femoral y la tibia. Se desplaza en sentido craneocaudal durante la flexión y la extensión.",
+        "especie": "El menisco lateral es el que tiene ligamento meniscofemoral, una estructura sustancial en el caballo, relacionada con la inclinación caudal de la tibia. En un modelo de elementos finitos el menisco lateral soportó mayor presión y mostró más desplazamiento y deformación que el medial.",
+        "clinica": "Se lesiona con menos frecuencia que el medial: 6 de 34 meniscos laterales (17 %) en una serie citada por The Horse. También se describen roturas de los ligamentos meniscotibiales craneales, medial y lateral (hasta el 30 % de los caballos del estudio citado).",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nAAEP Proceedings, 65th Annual Convention, 2019. https://pubs.aaep.org/0A4370h/65thAnnCon2019/html/349.html\n\nZellmann P, Ribitsch I, Handschuh S, Peham C. Finite Element Modelling Simulated Meniscus Translocation and Deformation during Locomotion of the Equine Stifle. Animals. 2019;9(8):502. doi:10.3390/ani9080502. https://pmc.ncbi.nlm.nih.gov/articles/PMC6720206\n\nThe Horse, Stifling the Pain in Horses (reporta resultados de Goodrich y colaboradores). https://thehorse.com/148743/stifling-the-pain-in-horses/\n\nFowlie JG. Functional anatomy of the equine meniscus: pathogenesis and pathophysiology of injury to the cranial horn of the medial meniscus. Tesis de maestría, Michigan State University, 2011. https://d.lib.msu.edu/etd/1985/FULL_TEXT/view"
+      }
     },
     {
       "id": "equ.ske.amp.005-d",
       "es": "Menisco lateral (derecho)",
       "la": "Meniscus lateralis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el compartimento femorotibial lateral de la babilla del lado derecho, entre el cóndilo lateral del fémur y el cóndilo lateral de la tibia.",
+        "descripcion": "Disco de fibrocartílago interpuesto entre el cóndilo femoral lateral y la superficie articular lateral de la tibia del lado derecho, que divide el compartimento femorotibial lateral en un segmento proximal y otro distal. Su borde externo se fija a la cápsula fibrosa. Se ancla en la tibia por los ligamentos meniscotibiales craneal y caudal y, a diferencia del medial, tiene además un ligamento hacia el fémur distal.",
+        "relaciones": "El ligamento meniscofemoral va del menisco lateral hacia el cóndilo femoral medial y apoya al ligamento cruzado caudal.",
+        "accidentes": "Cuerno craneal, cuerpo y cuerno caudal; borde periférico unido a la cápsula; ligamentos meniscotibiales craneal y caudal y ligamento meniscofemoral.",
+        "articulaciones": "Forma parte de la articulación femorotibial (compartimento lateral). Se une a la tibia por los ligamentos meniscotibiales craneal y caudal y al fémur por el ligamento meniscofemoral.",
+        "inserciones": "El ligamento meniscotibial craneal une el cuerno craneal con el área intercondílea craneal lateral de la tibia, según la descripción general de WikiVet; el ligamento meniscotibial caudal une el cuerno caudal con la tibia; el ligamento meniscofemoral une el menisco con el fémur distal.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación del menisco en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación del menisco en las fuentes consultadas.",
+        "funcion": "Facilita el movimiento sin fricción de la articulación y reparte la carga entre el cóndilo femoral y la tibia. Se desplaza en sentido craneocaudal durante la flexión y la extensión.",
+        "especie": "El menisco lateral es el que tiene ligamento meniscofemoral, una estructura sustancial en el caballo, relacionada con la inclinación caudal de la tibia. En un modelo de elementos finitos el menisco lateral soportó mayor presión y mostró más desplazamiento y deformación que el medial.",
+        "clinica": "Se lesiona con menos frecuencia que el medial: 6 de 34 meniscos laterales (17 %) en una serie citada por The Horse. También se describen roturas de los ligamentos meniscotibiales craneales, medial y lateral (hasta el 30 % de los caballos del estudio citado).",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nAAEP Proceedings, 65th Annual Convention, 2019. https://pubs.aaep.org/0A4370h/65thAnnCon2019/html/349.html\n\nZellmann P, Ribitsch I, Handschuh S, Peham C. Finite Element Modelling Simulated Meniscus Translocation and Deformation during Locomotion of the Equine Stifle. Animals. 2019;9(8):502. doi:10.3390/ani9080502. https://pmc.ncbi.nlm.nih.gov/articles/PMC6720206\n\nThe Horse, Stifling the Pain in Horses (reporta resultados de Goodrich y colaboradores). https://thehorse.com/148743/stifling-the-pain-in-horses/\n\nFowlie JG. Functional anatomy of the equine meniscus: pathogenesis and pathophysiology of injury to the cranial horn of the medial meniscus. Tesis de maestría, Michigan State University, 2011. https://d.lib.msu.edu/etd/1985/FULL_TEXT/view"
+      }
     },
     {
       "id": "equ.ske.amp.006-i",
       "es": "Articulación tibioperonea proximal (izquierdo)",
       "la": "Articulatio tibiofibularis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la cara caudolateral de la extremidad proximal de la tibia del lado izquierdo, entre la cabeza de la fíbula (peroné) y el cóndilo lateral de la tibia.",
+        "descripcion": "Articulación entre la cabeza de la fíbula y el cóndilo lateral de la tibia del lado izquierdo. En el caballo la fíbula está reducida: su cuerpo es una varilla vestigial que se afina hacia distal y termina hacia la mitad de la tibia, y su extremo distal se fusionó con la tibia para formar el maléolo lateral; por eso esta articulación existe solo en el extremo proximal.",
+        "relaciones": "En esta región se originan músculos de la pierna, entre ellos el tibial craneal y el fibular largo. La fíbula no participa en la articulación de la babilla ni llega al tarso como hueso independiente.",
+        "accidentes": "Cabeza de la fíbula; faceta articular fibular del cóndilo lateral de la tibia; cuerpo vestigial de la fíbula.",
+        "articulaciones": "Articulación entre la cabeza de la fíbula y la tibia. Las fuentes consultadas no describen su cápsula ni sus ligamentos en el caballo.",
+        "inserciones": "En la región de la cabeza de la fíbula se originan el tibial craneal y el fibular largo, según NC State. No se localizaron descripciones equinas de otras inserciones específicas de esta articulación.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de esta articulación en las fuentes consultadas.",
+        "funcion": "Las fuentes consultadas no detallan su función específica; la fíbula del caballo es vestigial y la tibia soporta la carga del miembro.",
+        "especie": "El caballo presenta una reducción marcada de la fíbula: cuerpo vestigial de longitud variable y maléolo lateral fusionado por completo con la tibia, de modo que no existe articulación tibioperonea distal. En el perro, en cambio, la fíbula conserva toda su longitud, aunque con menor resistencia y función.",
+        "clinica": "No se localizaron descripciones clínicas equinas específicas de esta articulación en las fuentes consultadas.",
+        "referencias": "WikiVet, Limb Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy\n\nWikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nNC State University, Lab 1 - Pelvic limb osteology and arthrology (Unit 2 Musculoskeletal). https://ncstate.pressbooks.pub/unit2musculoskeletal/?p=775\n\nWikiVet, Hindlimb - Anatomy & Physiology (descripción general de la babilla y el corvejón). https://en.wikivet.net/Hindlimb_-_Anatomy_&_Physiology"
+      }
     },
     {
       "id": "equ.ske.amp.006-d",
       "es": "Articulación tibioperonea proximal (derecho)",
       "la": "Articulatio tibiofibularis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la cara caudolateral de la extremidad proximal de la tibia del lado derecho, entre la cabeza de la fíbula (peroné) y el cóndilo lateral de la tibia.",
+        "descripcion": "Articulación entre la cabeza de la fíbula y el cóndilo lateral de la tibia del lado derecho. En el caballo la fíbula está reducida: su cuerpo es una varilla vestigial que se afina hacia distal y termina hacia la mitad de la tibia, y su extremo distal se fusionó con la tibia para formar el maléolo lateral; por eso esta articulación existe solo en el extremo proximal.",
+        "relaciones": "En esta región se originan músculos de la pierna, entre ellos el tibial craneal y el fibular largo. La fíbula no participa en la articulación de la babilla ni llega al tarso como hueso independiente.",
+        "accidentes": "Cabeza de la fíbula; faceta articular fibular del cóndilo lateral de la tibia; cuerpo vestigial de la fíbula.",
+        "articulaciones": "Articulación entre la cabeza de la fíbula y la tibia. Las fuentes consultadas no describen su cápsula ni sus ligamentos en el caballo.",
+        "inserciones": "En la región de la cabeza de la fíbula se originan el tibial craneal y el fibular largo, según NC State. No se localizaron descripciones equinas de otras inserciones específicas de esta articulación.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de esta articulación en las fuentes consultadas.",
+        "funcion": "Las fuentes consultadas no detallan su función específica; la fíbula del caballo es vestigial y la tibia soporta la carga del miembro.",
+        "especie": "El caballo presenta una reducción marcada de la fíbula: cuerpo vestigial de longitud variable y maléolo lateral fusionado por completo con la tibia, de modo que no existe articulación tibioperonea distal. En el perro, en cambio, la fíbula conserva toda su longitud, aunque con menor resistencia y función.",
+        "clinica": "No se localizaron descripciones clínicas equinas específicas de esta articulación en las fuentes consultadas.",
+        "referencias": "WikiVet, Limb Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy\n\nWikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nNC State University, Lab 1 - Pelvic limb osteology and arthrology (Unit 2 Musculoskeletal). https://ncstate.pressbooks.pub/unit2musculoskeletal/?p=775\n\nWikiVet, Hindlimb - Anatomy & Physiology (descripción general de la babilla y el corvejón). https://en.wikivet.net/Hindlimb_-_Anatomy_&_Physiology"
+      }
     },
     {
       "id": "equ.ske.amp.007-i",
       "es": "Articulación tibiotarsiana (talocrural) (izquierdo)",
       "la": "Articulatio talocruralis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el tarso (corvejón) del lado izquierdo, entre la extremidad distal de la tibia (cóclea tibial) y la tróclea del talo.",
+        "descripcion": "Articulación de mayor movilidad del corvejón, formada por la tibia y el talo del lado izquierdo; la extremidad distal de la fíbula está incorporada al maléolo lateral de la tibia, de modo que solo participan estos dos huesos. La cóclea de la tibia tiene una cresta intermedia que encaja en el surco troclear del talo (en la clínica equina, cresta intermedia distal de la tibia, DIRT). Es el primero de los cuatro niveles articulares del corvejón: tarsocrural, intertarsal proximal, intertarsal distal y tarsometatarsal.",
+        "relaciones": "La cápsula tiene una bolsa dorsal y dos plantares, zonas donde la cápsula fibrosa es débil y se abomba cuando la cavidad se distiende con líquido sinovial. Comunica siempre con la articulación intertarsal proximal. En la punción por el lado medial, la aguja pasa entre el ligamento colateral medial y la rama craneal de la vena safena medial. Los tendones flexores digitales pasan por la cara medial y plantar del corvejón.",
+        "accidentes": "Cóclea de la tibia con su cresta intermedia; maléolo medial de la tibia y maléolo lateral (fíbula fusionada con la tibia); tróclea del talo; bolsa dorsal y bolsas plantares de la cápsula.",
+        "articulaciones": "Articulación sinovial de tipo bisagra, con movimiento de flexión y extensión. Se refuerza con los ligamentos colaterales medial y lateral largos y con el ligamento plantar largo. Los ligamentos del tarso son más complejos que los de otras articulaciones.",
+        "inserciones": "Los ligamentos colaterales largos nacen en los maléolos de la tibia y terminan en las extremidades proximales de los huesos metatarsianos accesorios (II y IV); en su trayecto se fijan en algunos huesos del tarso que cruzan. El ligamento plantar largo se extiende desde el calcáneo hacia distal hasta los metatarsianos y se fija en varios huesos del tarso.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de esta articulación en las fuentes consultadas.",
+        "funcion": "Es la articulación donde se produce casi todo el movimiento del corvejón: flexión y extensión. Las tres articulaciones distales del tarso permiten muy poco movimiento.",
+        "especie": "En el caballo solo participan la tibia y el talo, porque la fíbula no llega al tarso como hueso independiente. Los datos sobre comunicación entre las articulaciones del corvejón varían entre individuos.",
+        "clinica": "La distensión de la articulación por exceso de líquido sinovial (efusión) se conoce como 'bog spavin'. La osteocondrosis disecante afecta localizaciones características de la superficie de esta articulación en caballos jóvenes. Como comunica con la intertarsal proximal, la enfermedad de esa articulación puede repercutir en la tarsocrural.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Limb Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy\n\nNC State University, Lab 1 - Pelvic limb osteology and arthrology (Unit 2 Musculoskeletal). https://ncstate.pressbooks.pub/unit2musculoskeletal/?p=775\n\nUniversity of Minnesota, Large Animal Surgery - Supplemental Notes, capítulo Osteoarthritis (hock joint problems). https://open.lib.umn.edu/largeanimalsurgery/chapter/osteoarthritis/\n\nHorse & Rider, What the Hock Is and What It Does (fuente divulgativa). https://horseandrider.com/horse-health/what-the-hock-is-and-what-it-does/\n\nWikipedia, Hock (anatomy). https://www.wikipedia.org/wiki/Hock_(zoology)"
+      }
     },
     {
       "id": "equ.ske.amp.007-d",
       "es": "Articulación tibiotarsiana (talocrural) (derecho)",
       "la": "Articulatio talocruralis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el tarso (corvejón) del lado derecho, entre la extremidad distal de la tibia (cóclea tibial) y la tróclea del talo.",
+        "descripcion": "Articulación de mayor movilidad del corvejón, formada por la tibia y el talo del lado derecho; la extremidad distal de la fíbula está incorporada al maléolo lateral de la tibia, de modo que solo participan estos dos huesos. La cóclea de la tibia tiene una cresta intermedia que encaja en el surco troclear del talo (en la clínica equina, cresta intermedia distal de la tibia, DIRT). Es el primero de los cuatro niveles articulares del corvejón: tarsocrural, intertarsal proximal, intertarsal distal y tarsometatarsal.",
+        "relaciones": "La cápsula tiene una bolsa dorsal y dos plantares, zonas donde la cápsula fibrosa es débil y se abomba cuando la cavidad se distiende con líquido sinovial. Comunica siempre con la articulación intertarsal proximal. En la punción por el lado medial, la aguja pasa entre el ligamento colateral medial y la rama craneal de la vena safena medial. Los tendones flexores digitales pasan por la cara medial y plantar del corvejón.",
+        "accidentes": "Cóclea de la tibia con su cresta intermedia; maléolo medial de la tibia y maléolo lateral (fíbula fusionada con la tibia); tróclea del talo; bolsa dorsal y bolsas plantares de la cápsula.",
+        "articulaciones": "Articulación sinovial de tipo bisagra, con movimiento de flexión y extensión. Se refuerza con los ligamentos colaterales medial y lateral largos y con el ligamento plantar largo. Los ligamentos del tarso son más complejos que los de otras articulaciones.",
+        "inserciones": "Los ligamentos colaterales largos nacen en los maléolos de la tibia y terminan en las extremidades proximales de los huesos metatarsianos accesorios (II y IV); en su trayecto se fijan en algunos huesos del tarso que cruzan. El ligamento plantar largo se extiende desde el calcáneo hacia distal hasta los metatarsianos y se fija en varios huesos del tarso.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de esta articulación en las fuentes consultadas.",
+        "funcion": "Es la articulación donde se produce casi todo el movimiento del corvejón: flexión y extensión. Las tres articulaciones distales del tarso permiten muy poco movimiento.",
+        "especie": "En el caballo solo participan la tibia y el talo, porque la fíbula no llega al tarso como hueso independiente. Los datos sobre comunicación entre las articulaciones del corvejón varían entre individuos.",
+        "clinica": "La distensión de la articulación por exceso de líquido sinovial (efusión) se conoce como 'bog spavin'. La osteocondrosis disecante afecta localizaciones características de la superficie de esta articulación en caballos jóvenes. Como comunica con la intertarsal proximal, la enfermedad de esa articulación puede repercutir en la tarsocrural.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Limb Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy\n\nNC State University, Lab 1 - Pelvic limb osteology and arthrology (Unit 2 Musculoskeletal). https://ncstate.pressbooks.pub/unit2musculoskeletal/?p=775\n\nUniversity of Minnesota, Large Animal Surgery - Supplemental Notes, capítulo Osteoarthritis (hock joint problems). https://open.lib.umn.edu/largeanimalsurgery/chapter/osteoarthritis/\n\nHorse & Rider, What the Hock Is and What It Does (fuente divulgativa). https://horseandrider.com/horse-health/what-the-hock-is-and-what-it-does/\n\nWikipedia, Hock (anatomy). https://www.wikipedia.org/wiki/Hock_(zoology)"
+      }
     },
     {
       "id": "equ.ske.amp.008-i",
       "es": "Articulación intertarsiana proximal (izquierdo)",
       "la": "Articulatio intertarsea proximalis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el tarso (corvejón) del lado izquierdo, entre la fila proximal (talo y calcáneo) y el hueso central del tarso y el cuarto hueso tarsiano.",
+        "descripcion": "Articulación del corvejón del lado izquierdo, llamada también talocalcaneocentrocuartal. WikiVet la describe con una articulación proximal entre el talo y el calcáneo y una distal entre el hueso central y el cuarto hueso tarsiano. Es el segundo nivel articular del corvejón; las tres articulaciones distales permiten casi ningún movimiento.",
+        "relaciones": "Comunica siempre con la articulación tarsocrural. En un estudio con 73 tarsos, el látex inyectado en la articulación tarsometatarsal llegó a la intertarsal distal en 19 y, en 3, también a la intertarsal proximal y a la tarsocrural.",
+        "accidentes": "Talo, calcáneo, hueso central del tarso y cuarto hueso tarsiano.",
+        "articulaciones": "Articulación sinovial compuesta de movimiento escaso. Los ligamentos del tarso son más complejos que los de otras articulaciones; las fuentes consultadas no detallan los ligamentos propios de este nivel.",
+        "inserciones": "No se localizaron descripciones equinas de inserciones propias de esta articulación. Los ligamentos colaterales largos y el ligamento plantar largo pasan por la región (véase la articulación tarsocrural).",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de esta articulación en las fuentes consultadas.",
+        "funcion": "Permite muy poco movimiento. Por su comunicación con la tarsocrural, de gran movilidad, sus alteraciones pueden repercutir en esa articulación.",
+        "especie": "La comunicación constante con la tarsocrural, descrita en el caballo, hace que los cambios en la intertarsal proximal puedan derivar en artritis de la tibiotarsiana.",
+        "clinica": "Es una causa menos frecuente de cojera que las dos articulaciones distales del corvejón. Por comunicar con la tarsocrural, sus lesiones pueden acompañarse de distensión de esa articulación ('bog spavin').",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nUniversity of Minnesota, Large Animal Surgery - Supplemental Notes, capítulo Osteoarthritis (hock joint problems). https://open.lib.umn.edu/largeanimalsurgery/chapter/osteoarthritis/\n\nBell BT, Baker GJ, Foreman JH, Abbott LC. In vivo investigation of communication between the distal intertarsal and tarsometatarsal joints in horses and ponies. Vet Surg. 1993;22(4):289-292. doi:10.1111/j.1532-950x.1993.tb00400.x\n\nDressage Today, Understanding Your Horse's Hock Health (fuente divulgativa). https://dressagetoday.com/horse-care/horse-illnesses-injuries/understanding-your-horses-hock-health-53616/\n\nWikipedia, Hock (anatomy). https://www.wikipedia.org/wiki/Hock_(zoology)"
+      }
     },
     {
       "id": "equ.ske.amp.008-d",
       "es": "Articulación intertarsiana proximal (derecho)",
       "la": "Articulatio intertarsea proximalis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el tarso (corvejón) del lado derecho, entre la fila proximal (talo y calcáneo) y el hueso central del tarso y el cuarto hueso tarsiano.",
+        "descripcion": "Articulación del corvejón del lado derecho, llamada también talocalcaneocentrocuartal. WikiVet la describe con una articulación proximal entre el talo y el calcáneo y una distal entre el hueso central y el cuarto hueso tarsiano. Es el segundo nivel articular del corvejón; las tres articulaciones distales permiten casi ningún movimiento.",
+        "relaciones": "Comunica siempre con la articulación tarsocrural. En un estudio con 73 tarsos, el látex inyectado en la articulación tarsometatarsal llegó a la intertarsal distal en 19 y, en 3, también a la intertarsal proximal y a la tarsocrural.",
+        "accidentes": "Talo, calcáneo, hueso central del tarso y cuarto hueso tarsiano.",
+        "articulaciones": "Articulación sinovial compuesta de movimiento escaso. Los ligamentos del tarso son más complejos que los de otras articulaciones; las fuentes consultadas no detallan los ligamentos propios de este nivel.",
+        "inserciones": "No se localizaron descripciones equinas de inserciones propias de esta articulación. Los ligamentos colaterales largos y el ligamento plantar largo pasan por la región (véase la articulación tarsocrural).",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de esta articulación en las fuentes consultadas.",
+        "funcion": "Permite muy poco movimiento. Por su comunicación con la tarsocrural, de gran movilidad, sus alteraciones pueden repercutir en esa articulación.",
+        "especie": "La comunicación constante con la tarsocrural, descrita en el caballo, hace que los cambios en la intertarsal proximal puedan derivar en artritis de la tibiotarsiana.",
+        "clinica": "Es una causa menos frecuente de cojera que las dos articulaciones distales del corvejón. Por comunicar con la tarsocrural, sus lesiones pueden acompañarse de distensión de esa articulación ('bog spavin').",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nUniversity of Minnesota, Large Animal Surgery - Supplemental Notes, capítulo Osteoarthritis (hock joint problems). https://open.lib.umn.edu/largeanimalsurgery/chapter/osteoarthritis/\n\nBell BT, Baker GJ, Foreman JH, Abbott LC. In vivo investigation of communication between the distal intertarsal and tarsometatarsal joints in horses and ponies. Vet Surg. 1993;22(4):289-292. doi:10.1111/j.1532-950x.1993.tb00400.x\n\nDressage Today, Understanding Your Horse's Hock Health (fuente divulgativa). https://dressagetoday.com/horse-care/horse-illnesses-injuries/understanding-your-horses-hock-health-53616/\n\nWikipedia, Hock (anatomy). https://www.wikipedia.org/wiki/Hock_(zoology)"
+      }
     },
     {
       "id": "equ.ske.amp.009-i",
       "es": "Articulación intertarsiana distal (izquierdo)",
       "la": "Articulatio intertarsea distalis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el tarso (corvejón) del lado izquierdo, entre el hueso central del tarso y la fila distal (tarsianos I+II fusionados, III y IV).",
+        "descripcion": "Articulación centrodistal del corvejón del lado izquierdo, entre el hueso central del tarso y los huesos de la fila distal. Es una articulación de alto impacto y poco movimiento, el tercero de los cuatro niveles articulares del corvejón.",
+        "relaciones": "Comunica con la articulación tarsometatarsal en una proporción variable de caballos: en 103 corvejones de cadáver, en el 8,3 % con presión baja (clínica) y en el 23,8 % con presión alta, sin contar los de hueso central y tercer tarsiano fusionados; en 73 tarsos de caballos y ponis, el látex llegó a la intertarsal distal en el 26 %. El mejor punto de punción es el lado medial, por la parte proximal del espacio entre los tarsianos I+II, el tarsiano III y el hueso central.",
+        "accidentes": "Hueso central del tarso; tarsianos I+II (fusionados), III y IV; espacio entre el tarsiano I+II, el III y el central (referencia de punción).",
+        "articulaciones": "Articulación sinovial de movimiento escaso. Los ligamentos colaterales largos y el ligamento plantar largo pasan por la región (véase la articulación tarsocrural); las fuentes consultadas no detallan ligamentos propios de este nivel.",
+        "inserciones": "No se localizaron descripciones equinas de inserciones propias de esta articulación.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de esta articulación en las fuentes consultadas.",
+        "funcion": "Influye muy poco en el movimiento del corvejón mientras no sea dolorosa, pero soporta las cargas de deslizamiento, paradas y giros.",
+        "especie": "En algunos corvejones el hueso central y el tercer tarsiano están fusionados. La frecuencia de comunicación con la tarsometatarsal varía entre estudios y con la presión de inyección.",
+        "clinica": "Su artrosis, junto con la de la tarsometatarsal, es el 'bone spavin' y la causa más frecuente de cojera del corvejón. Un chasquido ('pop') al inyectar con presión alta no indica necesariamente comunicación entre ambas articulaciones.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nUniversity of Minnesota, Large Animal Surgery - Supplemental Notes, capítulo Osteoarthritis (hock joint problems). https://open.lib.umn.edu/largeanimalsurgery/chapter/osteoarthritis/\n\nDistal intertarsal and tarsometatarsal joints in the horse: communication and injection sites. J Am Vet Med Assoc, 179(4):355-359 (103 corvejones de cadáver). https://madbarn.com/research/distal-intertarsal-and-tarsometatarsal-joints-in-the-horse-communication-and-injection-sites\n\nBell BT, Baker GJ, Foreman JH, Abbott LC. In vivo investigation of communication between the distal intertarsal and tarsometatarsal joints in horses and ponies. Vet Surg. 1993;22(4):289-292. doi:10.1111/j.1532-950x.1993.tb00400.x\n\nDressage Today, Understanding Your Horse's Hock Health (fuente divulgativa). https://dressagetoday.com/horse-care/horse-illnesses-injuries/understanding-your-horses-hock-health-53616/"
+      }
     },
     {
       "id": "equ.ske.amp.009-d",
       "es": "Articulación intertarsiana distal (derecho)",
       "la": "Articulatio intertarsea distalis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el tarso (corvejón) del lado derecho, entre el hueso central del tarso y la fila distal (tarsianos I+II fusionados, III y IV).",
+        "descripcion": "Articulación centrodistal del corvejón del lado derecho, entre el hueso central del tarso y los huesos de la fila distal. Es una articulación de alto impacto y poco movimiento, el tercero de los cuatro niveles articulares del corvejón.",
+        "relaciones": "Comunica con la articulación tarsometatarsal en una proporción variable de caballos: en 103 corvejones de cadáver, en el 8,3 % con presión baja (clínica) y en el 23,8 % con presión alta, sin contar los de hueso central y tercer tarsiano fusionados; en 73 tarsos de caballos y ponis, el látex llegó a la intertarsal distal en el 26 %. El mejor punto de punción es el lado medial, por la parte proximal del espacio entre los tarsianos I+II, el tarsiano III y el hueso central.",
+        "accidentes": "Hueso central del tarso; tarsianos I+II (fusionados), III y IV; espacio entre el tarsiano I+II, el III y el central (referencia de punción).",
+        "articulaciones": "Articulación sinovial de movimiento escaso. Los ligamentos colaterales largos y el ligamento plantar largo pasan por la región (véase la articulación tarsocrural); las fuentes consultadas no detallan ligamentos propios de este nivel.",
+        "inserciones": "No se localizaron descripciones equinas de inserciones propias de esta articulación.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de esta articulación en las fuentes consultadas.",
+        "funcion": "Influye muy poco en el movimiento del corvejón mientras no sea dolorosa, pero soporta las cargas de deslizamiento, paradas y giros.",
+        "especie": "En algunos corvejones el hueso central y el tercer tarsiano están fusionados. La frecuencia de comunicación con la tarsometatarsal varía entre estudios y con la presión de inyección.",
+        "clinica": "Su artrosis, junto con la de la tarsometatarsal, es el 'bone spavin' y la causa más frecuente de cojera del corvejón. Un chasquido ('pop') al inyectar con presión alta no indica necesariamente comunicación entre ambas articulaciones.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nUniversity of Minnesota, Large Animal Surgery - Supplemental Notes, capítulo Osteoarthritis (hock joint problems). https://open.lib.umn.edu/largeanimalsurgery/chapter/osteoarthritis/\n\nDistal intertarsal and tarsometatarsal joints in the horse: communication and injection sites. J Am Vet Med Assoc, 179(4):355-359 (103 corvejones de cadáver). https://madbarn.com/research/distal-intertarsal-and-tarsometatarsal-joints-in-the-horse-communication-and-injection-sites\n\nBell BT, Baker GJ, Foreman JH, Abbott LC. In vivo investigation of communication between the distal intertarsal and tarsometatarsal joints in horses and ponies. Vet Surg. 1993;22(4):289-292. doi:10.1111/j.1532-950x.1993.tb00400.x\n\nDressage Today, Understanding Your Horse's Hock Health (fuente divulgativa). https://dressagetoday.com/horse-care/horse-illnesses-injuries/understanding-your-horses-hock-health-53616/"
+      }
     },
     {
       "id": "equ.ske.amp.010-i",
       "es": "Articulación tarsometatarsiana (izquierdo)",
       "la": "Articulatio tarsometatarsea",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la base del metatarso del lado izquierdo, entre la fila distal del tarso (tarsianos I+II, III y IV) y las extremidades proximales de los metatarsianos II, III y IV.",
+        "descripcion": "Articulación del corvejón del lado izquierdo entre la fila distal de huesos del tarso y la extremidad proximal de los metatarsianos. Es el nivel articular más distal del corvejón y de movimiento casi nulo.",
+        "relaciones": "Suele tener su propio líquido sinovial, que puede no comunicar con el de las articulaciones superiores. Comunica con la intertarsal distal en una proporción variable de caballos (8,3 % a 23,8 % según la presión de inyección en un estudio de 103 corvejones; 26 % en otro de 73 tarsos). Para la punción por el lado lateral, la aguja se introduce entre el cuarto tarsiano y el borde de la cabeza del metatarsiano IV.",
+        "accidentes": "Fila distal del tarso; extremidad proximal del metatarsiano III y de los metatarsianos II y IV (huesos accesorios); cabeza del metatarsiano IV (referencia de punción lateral).",
+        "articulaciones": "Articulación sinovial de movimiento escaso. Los ligamentos colaterales largos del tarso terminan en las extremidades proximales de los metatarsianos II y IV.",
+        "inserciones": "Los ligamentos colaterales largos terminan en las extremidades proximales de los metatarsianos II y IV. El ligamento plantar largo se extiende desde el calcáneo hasta los metatarsianos.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de esta articulación en las fuentes consultadas.",
+        "funcion": "Influye muy poco en el movimiento del corvejón mientras no sea dolorosa, pero soporta las cargas de deslizamiento, paradas y giros.",
+        "especie": "En el caballo solo el tercer metatarsiano permanece completo; el segundo y el cuarto son rudimentarios (huesos accesorios o 'splints') y terminan en nódulos palpables hacia los dos tercios o tres cuartos de la caña.",
+        "clinica": "Su artrosis, junto con la de la intertarsal distal, es el 'bone spavin', y estas dos articulaciones son las fuentes más frecuentes de cojera del corvejón. Los desgarros del origen alto del ligamento suspensorio pueden parecerse a la artritis de las dos articulaciones inferiores del corvejón.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Limb Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy\n\nUniversity of Minnesota, Large Animal Surgery - Supplemental Notes, capítulo Osteoarthritis (hock joint problems). https://open.lib.umn.edu/largeanimalsurgery/chapter/osteoarthritis/\n\nDistal intertarsal and tarsometatarsal joints in the horse: communication and injection sites. J Am Vet Med Assoc, 179(4):355-359 (103 corvejones de cadáver). https://madbarn.com/research/distal-intertarsal-and-tarsometatarsal-joints-in-the-horse-communication-and-injection-sites\n\nBell BT, Baker GJ, Foreman JH, Abbott LC. In vivo investigation of communication between the distal intertarsal and tarsometatarsal joints in horses and ponies. Vet Surg. 1993;22(4):289-292. doi:10.1111/j.1532-950x.1993.tb00400.x\n\nHorse & Rider, What the Hock Is and What It Does (fuente divulgativa). https://horseandrider.com/horse-health/what-the-hock-is-and-what-it-does/\n\nDressage Today, Understanding Your Horse's Hock Health (fuente divulgativa). https://dressagetoday.com/horse-care/horse-illnesses-injuries/understanding-your-horses-hock-health-53616/"
+      }
     },
     {
       "id": "equ.ske.amp.010-d",
       "es": "Articulación tarsometatarsiana (derecho)",
       "la": "Articulatio tarsometatarsea",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la base del metatarso del lado derecho, entre la fila distal del tarso (tarsianos I+II, III y IV) y las extremidades proximales de los metatarsianos II, III y IV.",
+        "descripcion": "Articulación del corvejón del lado derecho entre la fila distal de huesos del tarso y la extremidad proximal de los metatarsianos. Es el nivel articular más distal del corvejón y de movimiento casi nulo.",
+        "relaciones": "Suele tener su propio líquido sinovial, que puede no comunicar con el de las articulaciones superiores. Comunica con la intertarsal distal en una proporción variable de caballos (8,3 % a 23,8 % según la presión de inyección en un estudio de 103 corvejones; 26 % en otro de 73 tarsos). Para la punción por el lado lateral, la aguja se introduce entre el cuarto tarsiano y el borde de la cabeza del metatarsiano IV.",
+        "accidentes": "Fila distal del tarso; extremidad proximal del metatarsiano III y de los metatarsianos II y IV (huesos accesorios); cabeza del metatarsiano IV (referencia de punción lateral).",
+        "articulaciones": "Articulación sinovial de movimiento escaso. Los ligamentos colaterales largos del tarso terminan en las extremidades proximales de los metatarsianos II y IV.",
+        "inserciones": "Los ligamentos colaterales largos terminan en las extremidades proximales de los metatarsianos II y IV. El ligamento plantar largo se extiende desde el calcáneo hasta los metatarsianos.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de esta articulación en las fuentes consultadas.",
+        "funcion": "Influye muy poco en el movimiento del corvejón mientras no sea dolorosa, pero soporta las cargas de deslizamiento, paradas y giros.",
+        "especie": "En el caballo solo el tercer metatarsiano permanece completo; el segundo y el cuarto son rudimentarios (huesos accesorios o 'splints') y terminan en nódulos palpables hacia los dos tercios o tres cuartos de la caña.",
+        "clinica": "Su artrosis, junto con la de la intertarsal distal, es el 'bone spavin', y estas dos articulaciones son las fuentes más frecuentes de cojera del corvejón. Los desgarros del origen alto del ligamento suspensorio pueden parecerse a la artritis de las dos articulaciones inferiores del corvejón.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Limb Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy\n\nUniversity of Minnesota, Large Animal Surgery - Supplemental Notes, capítulo Osteoarthritis (hock joint problems). https://open.lib.umn.edu/largeanimalsurgery/chapter/osteoarthritis/\n\nDistal intertarsal and tarsometatarsal joints in the horse: communication and injection sites. J Am Vet Med Assoc, 179(4):355-359 (103 corvejones de cadáver). https://madbarn.com/research/distal-intertarsal-and-tarsometatarsal-joints-in-the-horse-communication-and-injection-sites\n\nBell BT, Baker GJ, Foreman JH, Abbott LC. In vivo investigation of communication between the distal intertarsal and tarsometatarsal joints in horses and ponies. Vet Surg. 1993;22(4):289-292. doi:10.1111/j.1532-950x.1993.tb00400.x\n\nHorse & Rider, What the Hock Is and What It Does (fuente divulgativa). https://horseandrider.com/horse-health/what-the-hock-is-and-what-it-does/\n\nDressage Today, Understanding Your Horse's Hock Health (fuente divulgativa). https://dressagetoday.com/horse-care/horse-illnesses-injuries/understanding-your-horses-hock-health-53616/"
+      }
     },
     {
       "id": "equ.ske.amp.011-i",
       "es": "Articulación del menudillo (metatarsofalángica) (izquierdo)",
       "la": "Articulatio metatarsophalangea",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la parte distal del miembro pelviano del lado izquierdo, entre la extremidad distal del metatarsiano III, la falange proximal y los dos sesamoideos proximales.",
+        "descripcion": "Articulación entre la tróclea del metatarsiano III, la falange proximal y los sesamoideos proximales del lado izquierdo (equivalente pelviano de la articulación metacarpofalángica); permite flexión y extensión. La cápsula tiene una bolsa dorsal, entre el metatarsiano III y el tendón extensor digital, y otra plantar, entre el metatarsiano y el ligamento suspensorio. En un estudio con moldes, la cavidad mostró diez bolsas.",
+        "relaciones": "El receso medial y el lateral quedan cubiertos por la parte profunda del ligamento colateral. La bolsa plantar distal, en la línea media, está cubierta por el ligamento sesamoideo recto y estrechada por los ligamentos sesamoideos cruzados. Los ligamentos colaterales y colaterales sesamoideos están íntimamente unidos a la cápsula. La descripción de WikiVet vale para ambos miembros (palmar y plantar son intercambiables).",
+        "accidentes": "Tróclea y cresta sagital del metatarsiano III; extremo proximal de la falange proximal; sesamoideos proximales unidos por el ligamento intersesamoideo (fibrocartílago), que forma un surco para el tendón flexor digital profundo; bolsas dorsal y plantar.",
+        "articulaciones": "Articulación sinovial con ligamentos colaterales (del metatarsiano a la falange proximal, con una rama profunda al sesamoideo), ligamento intersesamoideo, ligamentos colaterales sesamoideos, ligamentos sesamoideos distales (cortos, cruzados, oblicuo y recto) y ligamento anular plantar. El ligamento suspensorio forma parte del aparato suspensorio del menudillo.",
+        "inserciones": "Los ligamentos sesamoideos distales conectan la superficie distal de los sesamoideos con la cara plantar de la falange proximal (los cortos desde la base axial de los sesamoideos; los cruzados, en diagonal, hasta la falange proximal). Los colaterales sesamoideos unen la cara externa de los sesamoideos con la falange proximal y tienen una rama hacia el metatarsiano. El ligamento anular plantar rodea los sesamoideos, los tendones flexores y sus vainas.",
+        "irrigacion": "No se localizó una descripción equina de la irrigación específica de esta articulación. La arteria principal de la parte distal del miembro pelviano discurre por el lado lateral del metatarsiano III y, a la altura del extremo de los huesos accesorios, se divide en un par de arterias digitales plantares que pasan por las caras abaxiales del menudillo y del dedo.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de esta articulación en las fuentes consultadas.",
+        "funcion": "Permite flexión y extensión del menudillo. El ligamento suspensorio, junto con los ligamentos sesamoideos distales, forma el aparato suspensorio, que resiste la hiperextensión del menudillo sin acción muscular y estabiliza la articulación bajo carga.",
+        "especie": "En el caballo los ligamentos sesamoideos distales están muy desarrollados. En el miembro pelviano los tendones extensores digitales principales se fusionan, a diferencia del miembro torácico.",
+        "clinica": "Los caballos de carrera y de doma son propensos a lesiones del menudillo pelviano, según una fuente divulgativa. El ligamento suspensorio previene la hiperextensión del menudillo y su lesión compromete la estabilidad de la articulación.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nAnatomy of the fetlock joint in horses by means of joint casts (resumen). https://madbarn.com/research/anatomy-of-the-fetlock-joint-in-horses-by-means-of-joint-casts\n\nUniversity of Minnesota, Veterinary Anatomy, Lab 3 - distal limb (ungulate dissection). https://vanat.ahc.umn.edu/ungDissect/Lab03/Lab03.html\n\nMadBarn, Hind fetlock lameness in horses (fuente divulgativa). https://madbarn.com/hind-fetlock-lameness-in-horses/"
+      }
     },
     {
       "id": "equ.ske.amp.011-d",
       "es": "Articulación del menudillo (metatarsofalángica) (derecho)",
       "la": "Articulatio metatarsophalangea",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la parte distal del miembro pelviano del lado derecho, entre la extremidad distal del metatarsiano III, la falange proximal y los dos sesamoideos proximales.",
+        "descripcion": "Articulación entre la tróclea del metatarsiano III, la falange proximal y los sesamoideos proximales del lado derecho (equivalente pelviano de la articulación metacarpofalángica); permite flexión y extensión. La cápsula tiene una bolsa dorsal, entre el metatarsiano III y el tendón extensor digital, y otra plantar, entre el metatarsiano y el ligamento suspensorio. En un estudio con moldes, la cavidad mostró diez bolsas.",
+        "relaciones": "El receso medial y el lateral quedan cubiertos por la parte profunda del ligamento colateral. La bolsa plantar distal, en la línea media, está cubierta por el ligamento sesamoideo recto y estrechada por los ligamentos sesamoideos cruzados. Los ligamentos colaterales y colaterales sesamoideos están íntimamente unidos a la cápsula. La descripción de WikiVet vale para ambos miembros (palmar y plantar son intercambiables).",
+        "accidentes": "Tróclea y cresta sagital del metatarsiano III; extremo proximal de la falange proximal; sesamoideos proximales unidos por el ligamento intersesamoideo (fibrocartílago), que forma un surco para el tendón flexor digital profundo; bolsas dorsal y plantar.",
+        "articulaciones": "Articulación sinovial con ligamentos colaterales (del metatarsiano a la falange proximal, con una rama profunda al sesamoideo), ligamento intersesamoideo, ligamentos colaterales sesamoideos, ligamentos sesamoideos distales (cortos, cruzados, oblicuo y recto) y ligamento anular plantar. El ligamento suspensorio forma parte del aparato suspensorio del menudillo.",
+        "inserciones": "Los ligamentos sesamoideos distales conectan la superficie distal de los sesamoideos con la cara plantar de la falange proximal (los cortos desde la base axial de los sesamoideos; los cruzados, en diagonal, hasta la falange proximal). Los colaterales sesamoideos unen la cara externa de los sesamoideos con la falange proximal y tienen una rama hacia el metatarsiano. El ligamento anular plantar rodea los sesamoideos, los tendones flexores y sus vainas.",
+        "irrigacion": "No se localizó una descripción equina de la irrigación específica de esta articulación. La arteria principal de la parte distal del miembro pelviano discurre por el lado lateral del metatarsiano III y, a la altura del extremo de los huesos accesorios, se divide en un par de arterias digitales plantares que pasan por las caras abaxiales del menudillo y del dedo.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de esta articulación en las fuentes consultadas.",
+        "funcion": "Permite flexión y extensión del menudillo. El ligamento suspensorio, junto con los ligamentos sesamoideos distales, forma el aparato suspensorio, que resiste la hiperextensión del menudillo sin acción muscular y estabiliza la articulación bajo carga.",
+        "especie": "En el caballo los ligamentos sesamoideos distales están muy desarrollados. En el miembro pelviano los tendones extensores digitales principales se fusionan, a diferencia del miembro torácico.",
+        "clinica": "Los caballos de carrera y de doma son propensos a lesiones del menudillo pelviano, según una fuente divulgativa. El ligamento suspensorio previene la hiperextensión del menudillo y su lesión compromete la estabilidad de la articulación.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nAnatomy of the fetlock joint in horses by means of joint casts (resumen). https://madbarn.com/research/anatomy-of-the-fetlock-joint-in-horses-by-means-of-joint-casts\n\nUniversity of Minnesota, Veterinary Anatomy, Lab 3 - distal limb (ungulate dissection). https://vanat.ahc.umn.edu/ungDissect/Lab03/Lab03.html\n\nMadBarn, Hind fetlock lameness in horses (fuente divulgativa). https://madbarn.com/hind-fetlock-lameness-in-horses/"
+      }
     },
     {
       "id": "equ.ske.amp.012-i",
       "es": "Articulación interfalángica proximal (izquierdo)",
       "la": "Articulatio interphalangea proximalis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región de la cuartilla del lado izquierdo, entre la falange proximal y la falange media.",
+        "descripcion": "Articulación entre la tróclea de la falange proximal y la extremidad proximal de la falange media del lado izquierdo; permite flexión y extensión con un rango de pocos grados. El borde plantar de la falange media tiene un fibrocartílago complementario ('escudo medio') que prolonga su superficie articular y sirve de superficie de deslizamiento al tendón flexor digital profundo.",
+        "relaciones": "La cápsula es simple y se fija en los márgenes articulares de las dos falanges; se funde con el tendón extensor digital por dorsal, con los ligamentos colaterales a los lados y con el ligamento sesamoideo recto por plantar. Las fibras de los ligamentos colaterales sesamoideos de la articulación interfalángica distal se unen a la falange media. El ligamento anular digital proximal rodea los tendones flexores y sus vainas a nivel de la falange proximal.",
+        "accidentes": "Tróclea de la falange proximal; extremidad proximal de la falange media; fibrocartílago complementario plantar ('escudo medio').",
+        "articulaciones": "Articulación sinovial con ligamentos colaterales (del extremo distal de la falange proximal al extremo proximal de la media) y ligamentos plantares (de la mitad distal de la falange proximal al fibrocartílago de la falange media), que limitan la dorsiflexión.",
+        "inserciones": "Los ligamentos colaterales unen el extremo distal de la falange proximal con el extremo proximal de la media. Los ligamentos plantares unen la cara plantar de la mitad distal de la falange proximal con el fibrocartílago de la falange media.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de esta articulación en las fuentes consultadas.",
+        "funcion": "Permite flexión y extensión con un rango limitado a pocos grados. Es de alto impacto y poco movimiento, como las articulaciones distales del tarso.",
+        "especie": "Por su movilidad limitada, la artrodesis de esta articulación no impide el rendimiento deportivo de alto nivel, según la bibliografía citada. WikiVet describe la articulación para ambos miembros, con palmar y plantar intercambiables.",
+        "clinica": "Su enfermedad articular se conoce como 'ringbone' alto; en casos muy dolorosos se recomienda la artrodesis (fusión) de la articulación. Se ha descrito una serie de casos de desmitis de los ligamentos plantares de esta articulación (axial y abaxial, y las entesis del ligamento anular digital distal).",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Phalanges - Horse Anatomy. https://en.wikivet.net/Phalanges_-_Horse_Anatomy\n\nArtículo sobre artrodesis de la articulación interfalángica proximal en caballos. Braz J Vet Res Anim Sci. 2021. doi:10.11606/issn.1678-4456.bjvras.2021.178586. https://revistas.usp.br/bjvras/article/download/178586/170589\n\nDesmitis of the palmar or plantar ligaments of the proximal interphalangeal joint: a descriptive case series. Equine Vet J. doi:10.1111/evj.14547. https://madbarn.com/research/desmitis-of-the-palmar-or-plantar-ligaments-of-the-proximal-interphalangeal-joint-a-descriptive-case-series"
+      }
     },
     {
       "id": "equ.ske.amp.012-d",
       "es": "Articulación interfalángica proximal (derecho)",
       "la": "Articulatio interphalangea proximalis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región de la cuartilla del lado derecho, entre la falange proximal y la falange media.",
+        "descripcion": "Articulación entre la tróclea de la falange proximal y la extremidad proximal de la falange media del lado derecho; permite flexión y extensión con un rango de pocos grados. El borde plantar de la falange media tiene un fibrocartílago complementario ('escudo medio') que prolonga su superficie articular y sirve de superficie de deslizamiento al tendón flexor digital profundo.",
+        "relaciones": "La cápsula es simple y se fija en los márgenes articulares de las dos falanges; se funde con el tendón extensor digital por dorsal, con los ligamentos colaterales a los lados y con el ligamento sesamoideo recto por plantar. Las fibras de los ligamentos colaterales sesamoideos de la articulación interfalángica distal se unen a la falange media. El ligamento anular digital proximal rodea los tendones flexores y sus vainas a nivel de la falange proximal.",
+        "accidentes": "Tróclea de la falange proximal; extremidad proximal de la falange media; fibrocartílago complementario plantar ('escudo medio').",
+        "articulaciones": "Articulación sinovial con ligamentos colaterales (del extremo distal de la falange proximal al extremo proximal de la media) y ligamentos plantares (de la mitad distal de la falange proximal al fibrocartílago de la falange media), que limitan la dorsiflexión.",
+        "inserciones": "Los ligamentos colaterales unen el extremo distal de la falange proximal con el extremo proximal de la media. Los ligamentos plantares unen la cara plantar de la mitad distal de la falange proximal con el fibrocartílago de la falange media.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de esta articulación en las fuentes consultadas.",
+        "funcion": "Permite flexión y extensión con un rango limitado a pocos grados. Es de alto impacto y poco movimiento, como las articulaciones distales del tarso.",
+        "especie": "Por su movilidad limitada, la artrodesis de esta articulación no impide el rendimiento deportivo de alto nivel, según la bibliografía citada. WikiVet describe la articulación para ambos miembros, con palmar y plantar intercambiables.",
+        "clinica": "Su enfermedad articular se conoce como 'ringbone' alto; en casos muy dolorosos se recomienda la artrodesis (fusión) de la articulación. Se ha descrito una serie de casos de desmitis de los ligamentos plantares de esta articulación (axial y abaxial, y las entesis del ligamento anular digital distal).",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Phalanges - Horse Anatomy. https://en.wikivet.net/Phalanges_-_Horse_Anatomy\n\nArtículo sobre artrodesis de la articulación interfalángica proximal en caballos. Braz J Vet Res Anim Sci. 2021. doi:10.11606/issn.1678-4456.bjvras.2021.178586. https://revistas.usp.br/bjvras/article/download/178586/170589\n\nDesmitis of the palmar or plantar ligaments of the proximal interphalangeal joint: a descriptive case series. Equine Vet J. doi:10.1111/evj.14547. https://madbarn.com/research/desmitis-of-the-palmar-or-plantar-ligaments-of-the-proximal-interphalangeal-joint-a-descriptive-case-series"
+      }
     },
     {
       "id": "equ.ske.amp.013-i",
       "es": "Articulación interfalángica distal (izquierdo)",
       "la": "Articulatio interphalangea distalis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el casco del lado izquierdo, entre la tróclea distal de la falange media, la falange distal y el hueso navicular.",
+        "descripcion": "Articulación entre la falange media, la falange distal y el hueso navicular (sesamoideo distal) del lado izquierdo. Permite extensión y una flexión ligera.",
+        "relaciones": "La bolsa del navicular queda entre el hueso navicular y el tendón flexor digital profundo. La cápsula tiene una bolsa dorsal pequeña, bajo el tendón extensor digital, y otra plantar mayor, bajo el flexor digital profundo.",
+        "accidentes": "Tróclea distal de la falange media, falange distal, hueso navicular, bolsa dorsal y plantar de la articulación y bolsa del navicular.",
+        "articulaciones": "Articulación sinovial con ligamentos colaterales, ligamentos sesamoideos distales y colaterales de los sesamoideos. Los cartílagos ungulares tienen ligamentos hacia las tres falanges y el navicular.",
+        "inserciones": "Los ligamentos colaterales unen la falange media con la falange distal. Los ligamentos sesamoideos distales unen el borde distal del navicular con la falange distal.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
+        "inervacion": "No se localizó una descripción equina de la inervación específica de esta articulación. La inervación sensitiva del hueso navicular procede de los nervios digitales, que discurren por los ligamentos colaterales sesamoideos y por el ligamento sesamoideo distal (impar).",
+        "funcion": "Permite extensión y flexión ligera del dedo.",
+        "especie": "En un estudio con 66 pares de miembros de cadáver (miembros torácicos), la bolsa del navicular se opacificó tras inyectar la articulación solo en el 5,3 % de los miembros: la comunicación es poco frecuente e inconstante. WikiVet describe la articulación para ambos miembros, con palmar y plantar intercambiables.",
+        "clinica": "La osteoartritis afecta con más frecuencia a los miembros anteriores. Las invaginaciones sinoviales del borde distal del navicular se asocian más a la sinovitis de esta articulación que a la enfermedad primaria del hueso navicular. La cojera se localiza con anestesia de los nervios digitales o intraarticular.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Phalanges - Horse Anatomy. https://en.wikivet.net/Phalanges_-_Horse_Anatomy\n\nMoorman VJ. Osteoarthritis of the Distal Interphalangeal (Coffin) Joint in Horses. MSD Veterinary Manual, rev. 2024. https://www.msdvetmanual.com/musculoskeletal-system/disorders-of-the-foot-in-horses/osteoarthritis-of-the-distal-interphalangeal-coffin-joint-in-horses\n\nCommunication between the distal interphalangeal joint and the navicular bursa in the horse at computed tomography arthrography. Anat Histol Embryol. 2019 (66 pares de miembros anteriores de cadáveres). https://read.qxmd.com/read/30609106/communication-between-the-distal-interphalangeal-joint-and-the-navicular-bursa-in-the-horse-at-computed-tomography-arthrography"
+      }
     },
     {
       "id": "equ.ske.amp.013-d",
       "es": "Articulación interfalángica distal (derecho)",
       "la": "Articulatio interphalangea distalis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el casco del lado derecho, entre la tróclea distal de la falange media, la falange distal y el hueso navicular.",
+        "descripcion": "Articulación entre la falange media, la falange distal y el hueso navicular (sesamoideo distal) del lado derecho. Permite extensión y una flexión ligera.",
+        "relaciones": "La bolsa del navicular queda entre el hueso navicular y el tendón flexor digital profundo. La cápsula tiene una bolsa dorsal pequeña, bajo el tendón extensor digital, y otra plantar mayor, bajo el flexor digital profundo.",
+        "accidentes": "Tróclea distal de la falange media, falange distal, hueso navicular, bolsa dorsal y plantar de la articulación y bolsa del navicular.",
+        "articulaciones": "Articulación sinovial con ligamentos colaterales, ligamentos sesamoideos distales y colaterales de los sesamoideos. Los cartílagos ungulares tienen ligamentos hacia las tres falanges y el navicular.",
+        "inserciones": "Los ligamentos colaterales unen la falange media con la falange distal. Los ligamentos sesamoideos distales unen el borde distal del navicular con la falange distal.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
+        "inervacion": "No se localizó una descripción equina de la inervación específica de esta articulación. La inervación sensitiva del hueso navicular procede de los nervios digitales, que discurren por los ligamentos colaterales sesamoideos y por el ligamento sesamoideo distal (impar).",
+        "funcion": "Permite extensión y flexión ligera del dedo.",
+        "especie": "En un estudio con 66 pares de miembros de cadáver (miembros torácicos), la bolsa del navicular se opacificó tras inyectar la articulación solo en el 5,3 % de los miembros: la comunicación es poco frecuente e inconstante. WikiVet describe la articulación para ambos miembros, con palmar y plantar intercambiables.",
+        "clinica": "La osteoartritis afecta con más frecuencia a los miembros anteriores. Las invaginaciones sinoviales del borde distal del navicular se asocian más a la sinovitis de esta articulación que a la enfermedad primaria del hueso navicular. La cojera se localiza con anestesia de los nervios digitales o intraarticular.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Phalanges - Horse Anatomy. https://en.wikivet.net/Phalanges_-_Horse_Anatomy\n\nMoorman VJ. Osteoarthritis of the Distal Interphalangeal (Coffin) Joint in Horses. MSD Veterinary Manual, rev. 2024. https://www.msdvetmanual.com/musculoskeletal-system/disorders-of-the-foot-in-horses/osteoarthritis-of-the-distal-interphalangeal-coffin-joint-in-horses\n\nCommunication between the distal interphalangeal joint and the navicular bursa in the horse at computed tomography arthrography. Anat Histol Embryol. 2019 (66 pares de miembros anteriores de cadáveres). https://read.qxmd.com/read/30609106/communication-between-the-distal-interphalangeal-joint-and-the-navicular-bursa-in-the-horse-at-computed-tomography-arthrography"
+      }
     },
     {
       "id": "equ.ske.lax.001",
@@ -5992,7 +6333,8 @@
       "id": "equ.ske.lmp.012-d",
       "es": "Ligamento colateral medial del tarso (derecho)",
       "la": "Ligamentum collaterale tarsi mediale",
-      "sys": "ske",      "layer": "art"
+      "sys": "ske",
+      "layer": "art"
     },
     {
       "id": "equ.ske.lmp.013-i",
@@ -6991,7 +7333,8 @@
     {
       "id": "equ.mus.tor.008-i",
       "es": "Retractor de la costilla (izquierdo)",
-      "la": "Musculus retractor costae",      "sys": "mus",
+      "la": "Musculus retractor costae",
+      "sys": "mus",
       "layer": "mpr"
     },
     {
@@ -7990,7 +8333,8 @@
       "sys": "mus",
       "layer": "mpr"
     },
-    {      "id": "equ.mus.pie.006-i",
+    {
+      "id": "equ.mus.pie.006-i",
       "es": "Tibial caudal (izquierdo)",
       "la": "Musculus tibialis caudalis",
       "sys": "mus",
@@ -8989,7 +9333,8 @@
       "sys": "mus",
       "layer": "mpr"
     },
-    {      "id": "equ.mus.tor.029-i",
+    {
+      "id": "equ.mus.tor.029-i",
       "es": "Intercostal interno, espacio 1 (izquierdo)",
       "la": "Musculus intercostalis internus, spatium 1",
       "sys": "mus",
@@ -9988,7 +10333,8 @@
       "la": "Bucca",
       "sys": "dig",
       "layer": "org"
-    },    {
+    },
+    {
       "id": "equ.dig.boc.004",
       "es": "Encía",
       "la": "Gingiva",
@@ -10987,7 +11333,8 @@
       "es": "Conchas etmoidales (izquierda)",
       "la": "Conchae ethmoidales",
       "sys": "res",
-      "layer": "org"    },
+      "layer": "org"
+    },
     {
       "id": "equ.res.cav.005-d",
       "es": "Conchas etmoidales (derecha)",
@@ -11986,7 +12333,8 @@
         "descripcion": "Articulación sinovial que conecta el proceso tirohioideo con el cartílago tiroides. No debe confundirse con la unión basihioidea, donde el proceso tirohioideo se continúa con el basihioides y puede presentar sinostosis con la maduración.",
         "relaciones": "Se relaciona medialmente con la laringe y sus estructuras cartilaginosas; dorsalmente con la región de la raíz de la lengua y el aparato hioideo; y caudalmente con el resto del esqueleto laríngeo. La disposición es bilateral.",
         "accidentes": "Superficies articulares del extremo distal del proceso tirohioideo y del cuerno rostral del cartílago tiroides; cartílago articular hialino y pequeña cavidad articular con cápsula.",
-        "articulaciones": "Articula el proceso tirohioideo con el cuerno rostral del cartílago tiroides. Es una articulación sinovial pequeña; no corresponde a la sinostosis entre el basihioides y el proceso tirohioideo.",        "inserciones": "No constituye una superficie de inserción muscular principal. La cápsula articular se fija alrededor de los márgenes de las superficies articulares.",
+        "articulaciones": "Articula el proceso tirohioideo con el cuerno rostral del cartílago tiroides. Es una articulación sinovial pequeña; no corresponde a la sinostosis entre el basihioides y el proceso tirohioideo.",
+        "inserciones": "No constituye una superficie de inserción muscular principal. La cápsula articular se fija alrededor de los márgenes de las superficies articulares.",
         "irrigacion": "La irrigación capsular específica no se describe de forma independiente y consistente en las fuentes consultadas. Recibe aporte de la vascularización regional de la laringe; no se asigna una arteria exclusiva sin respaldo.",
         "inervacion": "La inervación articular específica no está detallada de forma consistente en las fuentes consultadas. No se atribuye un nervio exclusivo.",
         "funcion": "Permite una conexión móvil entre el aparato hioideo y el cartílago tiroides, coordinando los desplazamientos del aparato hioideo con los movimientos de la laringe durante la deglución y la función respiratoria.",
@@ -12985,7 +13333,8 @@
     {
       "id": "equ.car.acc.001-d",
       "es": "Arteria subclavia (derecha)",
-      "la": "Arteria subclavia",      "sys": "car",
+      "la": "Arteria subclavia",
+      "sys": "car",
       "layer": "vas"
     },
     {
@@ -13984,7 +14333,8 @@
     },
     {
       "id": "equ.car.amt.019-d",
-      "es": "Arteria metacarpiana palmar II (derecha)",      "la": "Arteria metacarpea palmaris II",
+      "es": "Arteria metacarpiana palmar II (derecha)",
+      "la": "Arteria metacarpea palmaris II",
       "sys": "car",
       "layer": "vas"
     },
@@ -14983,7 +15333,8 @@
     },
     {
       "id": "equ.car.vcc.011-i",
-      "es": "Vena infraorbitaria (izquierda)",      "la": "Vena infraorbitalis",
+      "es": "Vena infraorbitaria (izquierda)",
+      "la": "Vena infraorbitalis",
       "sys": "car",
       "layer": "vas"
     },
@@ -15982,7 +16333,8 @@
       "es": "Vena renal (izquierda)",
       "la": "Vena renalis",
       "sys": "car",
-      "layer": "vas"    },
+      "layer": "vas"
+    },
     {
       "id": "equ.car.vvi.018-d",
       "es": "Vena renal (derecha)",
@@ -16981,7 +17333,8 @@
       "id": "equ.ner.tel.026-d",
       "es": "Pilar del fórnix (derecho)",
       "la": "Crus fornicis",
-      "sys": "ner",      "layer": "ner"
+      "sys": "ner",
+      "layer": "ner"
     },
     {
       "id": "equ.ner.tel.027",
@@ -17980,7 +18333,8 @@
     {
       "id": "equ.ner.met.013",
       "es": "Árbol de la vida del cerebelo",
-      "la": "Arbor vitae cerebelli",      "sys": "ner",
+      "la": "Arbor vitae cerebelli",
+      "sys": "ner",
       "layer": "ner"
     },
     {
@@ -18979,7 +19333,8 @@
     },
     {
       "id": "equ.ner.tra.016-d",
-      "es": "Tracto espinorreticular (derecho)",      "la": "Tractus spinoreticularis",
+      "es": "Tracto espinorreticular (derecho)",
+      "la": "Tractus spinoreticularis",
       "sys": "ner",
       "layer": "ner"
     },
@@ -19978,7 +20333,8 @@
       "layer": "ner"
     },
     {
-      "id": "equ.ner.cra.009-d",      "es": "Raíz sensitiva del nervio trigémino (derecha)",
+      "id": "equ.ner.cra.009-d",
+      "es": "Raíz sensitiva del nervio trigémino (derecha)",
       "la": "Radix sensoria n. trigemini",
       "sys": "ner",
       "layer": "ner"
@@ -20977,7 +21333,8 @@
       "sys": "ner",
       "layer": "ner"
     },
-    {      "id": "equ.ner.cra.081-i",
+    {
+      "id": "equ.ner.cra.081-i",
       "es": "Ramas faríngeas del nervio vago (izquierdas)",
       "la": "Rami pharyngei n. vagi",
       "sys": "ner",
@@ -21976,7 +22333,8 @@
       "es": "Nervio glúteo caudal (derecho)",
       "la": "N. gluteus caudalis",
       "sys": "ner",
-      "layer": "ner"    },
+      "layer": "ner"
+    },
     {
       "id": "equ.ner.lum.010-i",
       "es": "Nervio ciático (izquierdo)",
@@ -22975,7 +23333,8 @@
       "layer": "ner"
     },
     {
-      "id": "equ.ner.med.045",      "es": "Segmento medular torácico T11",
+      "id": "equ.ner.med.045",
+      "es": "Segmento medular torácico T11",
       "la": "Segmentum medullae spinalis thoracicum T11",
       "sys": "ner",
       "layer": "ner"
@@ -23974,7 +24333,8 @@
       "sys": "ner",
       "layer": "ner"
     },
-    {      "id": "equ.ner.esp.060-d",
+    {
+      "id": "equ.ner.esp.060-d",
       "es": "Rama dorsal del nervio torácico T10 (derecha)",
       "la": "Ramus dorsalis n. thoracicus T10",
       "sys": "ner",
@@ -24973,7 +25333,8 @@
       "la": "Ganglion spinale C5",
       "sys": "ner",
       "layer": "ner"
-    },    {
+    },
+    {
       "id": "equ.ner.esp.132-i",
       "es": "Ganglio espinal C6 (izquierdo)",
       "la": "Ganglion spinale C6",
@@ -25972,7 +26333,8 @@
       "es": "Venas arcuatas del riñón (izquierdas)",
       "la": "Vv. arcuatae renis",
       "sys": "uri",
-      "layer": "org"    },
+      "layer": "org"
+    },
     {
       "id": "equ.uri.rin.018-d",
       "es": "Venas arcuatas del riñón (derechas)",
@@ -26971,7 +27333,8 @@
       "layer": "org",
       "sex": "m"
     },
-    {      "id": "equ.rep.gla.004-i",
+    {
+      "id": "equ.rep.gla.004-i",
       "es": "Lóbulo de la próstata (izquierdo)",
       "la": "Lobus prostatae",
       "sys": "rep",
@@ -27970,7 +28333,8 @@
       "layer": "org",
       "sex": "f"
     },
-    {      "id": "equ.rep.mam.001-d",
+    {
+      "id": "equ.rep.mam.001-d",
       "es": "Glándula mamaria (derecha)",
       "la": "Mamma",
       "sys": "rep",
@@ -28969,7 +29333,8 @@
     },
     {
       "id": "equ.teg.cmp.007-d",
-      "es": "Ángulo de la muralla (derecho)",      "la": "Angulus parietis ungulae",
+      "es": "Ángulo de la muralla (derecho)",
+      "la": "Angulus parietis ungulae",
       "sys": "teg",
       "layer": "pel"
     },
@@ -29968,7 +30333,8 @@
       "layer": "org"
     },
     {
-      "id": "equ.sen.ane.002-i",      "es": "Párpado inferior (izquierdo)",
+      "id": "equ.sen.ane.002-i",
+      "es": "Párpado inferior (izquierdo)",
       "la": "Palpebra inferior",
       "sys": "sen",
       "layer": "org"
@@ -30967,7 +31333,8 @@
       "sys": "sen",
       "layer": "org"
     },
-    {      "id": "equ.sen.olf.002-d",
+    {
+      "id": "equ.sen.olf.002-d",
       "es": "Epitelio olfatorio (derecho)",
       "la": "Epithelium olfactorium",
       "sys": "sen",
@@ -31966,7 +32333,8 @@
         "relaciones": "Se relaciona con la porción orbital del frontal y la lámina perpendicular del palatino, en la región caudal de la cavidad nasal y de la órbita. Se encuentra próxima a otras uniones del frontal con huesos vecinos.",
         "accidentes": "La unión se establece entre el margen del frontal y el palatino en la región caudal de la pared nasal y orbitopal atina. Su extensión debe interpretarse según la superficie y los límites óseos descritos en el cráneo equino.",
         "articulaciones": "Es una sutura fibrosa y funcionalmente una sinartrosis en la clasificación clásica. No posee cápsula ni cavidad sinovial.",
-        "inserciones": "No presenta inserciones musculares propias. El tejido sutural se continúa con el periostio de los huesos frontal y palatino.",        "irrigacion": "No posee irrigación propia independiente. El aporte procede de vasos periostales y de los tejidos blandos de la región orbitopalatina; no se asigna una arteria exclusiva.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido sutural se continúa con el periostio de los huesos frontal y palatino.",
+        "irrigacion": "No posee irrigación propia independiente. El aporte procede de vasos periostales y de los tejidos blandos de la región orbitopalatina; no se asigna una arteria exclusiva.",
         "inervacion": "No se describe una inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos vecinos.",
         "funcion": "Contribuye a la continuidad ósea entre el frontal y el palatino en la región caudal de la cara y de la órbita.",
         "especie": "La conexión frontopalatina se incluye entre las uniones del hueso frontal del caballo descritas en la anatomía veterinaria clásica.",
@@ -32370,7 +32738,7 @@
         "funcion": "Actúa como zona de crecimiento en longitud de la base del cráneo hasta su osificación. Después mantiene la continuidad entre el basisfenoides y el basioccipital.",
         "especie": "En el caballo se describe como una línea visible en la superficie ventral del cráneo, entre el basioccipital y el basisfenoides, y un texto docente de anatomía equina la señala como la última unión craneal en fusionarse. En estudios de craniometría equina se empleó como zona de referencia por su posición relativamente estable.",
         "clinica": "En el estudio de Lang et al. (2017) sobre el cráneo equino, esta sincondrosis y la intraesfenoidal fueron los dos puntos de la base del cráneo con posición relativamente estable para usar como referencia en medidas craneométricas, con aplicación en el diagnóstico por imagen y en el abordaje quirúrgico de estructuras intracraneales.",
-        "referencias": "Lang A, Brucker P, Ludwig M, Wrede T, Theunert J, Gasse H. The challenge of extra-intra craniometry: a computer-assisted three-dimensional approach on the equine skull. Folia Morphologica. 2017;76(3):458–472. doi:10.5603/FM.a2016.0082. https://journals.viamedica.pl/folia_morphologica/article/view/49137\\\nClark T. Large Animal Anatomy, capítulo 10 Head (rev. 2024). University of Minnesota Pressbooks: superficie ventral del cráneo equino con basioccipital, basisfenoides, porciones petrosas y agujero lacerado. https://pressbooks.umn.edu/largeanimalanatomy/chapter/neck-head/\\\nFIPAT / IFAA, Terminologia Anatomica: synchondrosis sphenooccipitalis (término de la TA humana, usado aquí como apoyo de nomenclatura). https://ifaa.unifr.ch/Public/TNAEntryPage/auto/unit/LAES/TAH1352 Unit EN.htm"
+        "referencias": "Lang A, Brucker P, Ludwig M, Wrede T, Theunert J, Gasse H. The challenge of extra-intra craniometry: a computer-assisted three-dimensional approach on the equine skull. Folia Morphologica. 2017;76(3):458–472. doi:10.5603/FM.a2016.0082. https://journals.viamedica.pl/folia_morphologica/article/view/49137\n\nClark T. Large Animal Anatomy, capítulo 10 Head (rev. 2024). University of Minnesota Pressbooks: superficie ventral del cráneo equino con basioccipital, basisfenoides, porciones petrosas y agujero lacerado. https://pressbooks.umn.edu/largeanimalanatomy/chapter/neck-head/\n\nFIPAT / IFAA, Terminologia Anatomica: synchondrosis sphenooccipitalis (término de la TA humana, usado aquí como apoyo de nomenclatura). https://ifaa.unifr.ch/Public/TNAEntryPage/auto/unit/LAES/TAH1352 Unit EN.htm"
       }
     },
     {
@@ -32391,7 +32759,7 @@
         "funcion": "Actúa como zona de crecimiento en longitud del cuerpo del esfenoides y de la base del cráneo central, junto con la sincondrosis esfenooccipital, hasta su osificación.",
         "especie": "El estudio de craniometría equina de Lang et al. (2017) usa expresamente el término Synchondrosis intersphenoidalis en el caballo y la identifica como uno de los dos puntos de la base del cráneo con posición relativamente estable. Las descripciones del desarrollo de ambas sincondrosis centrales proceden sobre todo de modelos murinos.",
         "clinica": "Por su posición relativamente estable, se propuso como punto de referencia en medidas craneométricas del cráneo equino, con interés para el diagnóstico por imagen y el abordaje quirúrgico de estructuras intracraneales (Lang et al., 2017).",
-        "referencias": "Lang A, Brucker P, Ludwig M, Wrede T, Theunert J, Gasse H. The challenge of extra-intra craniometry: a computer-assisted three-dimensional approach on the equine skull. Folia Morphologica. 2017;76(3):458–472. doi:10.5603/FM.a2016.0082. https://journals.viamedica.pl/folia_morphologica/article/view/49137\\\nFunato N. New Insights Into Cranial Synchondrosis Development: A Mini Review. 2020 (revisión basada sobre todo en modelos murinos): describe dos sincondrosis centrales en la base craneal, la intraesfenoidal y la esfenooccipital. https://agris.fao.org/search/en/records/6759a8c90ce2cede71c96157"
+        "referencias": "Lang A, Brucker P, Ludwig M, Wrede T, Theunert J, Gasse H. The challenge of extra-intra craniometry: a computer-assisted three-dimensional approach on the equine skull. Folia Morphologica. 2017;76(3):458–472. doi:10.5603/FM.a2016.0082. https://journals.viamedica.pl/folia_morphologica/article/view/49137\n\nFunato N. New Insights Into Cranial Synchondrosis Development: A Mini Review. 2020 (revisión basada sobre todo en modelos murinos): describe dos sincondrosis centrales en la base craneal, la intraesfenoidal y la esfenooccipital. https://agris.fao.org/search/en/records/6759a8c90ce2cede71c96157"
       }
     }
   ]
