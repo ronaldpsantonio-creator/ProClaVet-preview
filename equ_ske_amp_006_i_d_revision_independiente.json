@@ -1,0 +1,64 @@
+{
+  "species": "equ",
+  "name": "ProClaVet — Revisión anatómica independiente de la articulación tibioperonea proximal equina",
+  "description": "Paquete independiente aprobado por el usuario para carga en ProClaVet-preview. Contiene las fichas equ.ske.amp.006-i y equ.ske.amp.006-d. No sustituye ni modifica data/equino.json.",
+  "structures": [
+    {
+      "id": "equ.ske.amp.006-i",
+      "es": "Articulación tibioperonea proximal (izquierdo)",
+      "la": "Articulatio tibiofibularis",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el miembro pelviano izquierdo, en la región proximal y lateral de la pierna, donde la cabeza de la fíbula se relaciona con la faceta articular fibular situada en el cóndilo lateral de la tibia.",
+        "descripcion": "Articulación sinovial proximal entre la cabeza de la fíbula (capitulum fibulae) y la faceta articular fibular de la tibia. En el caballo es una unión estrecha, con movilidad muy limitada. La cápsula articular es fuerte y ajustada; la cavidad sinovial comunica con la cavidad femorotibial lateral según la descripción anatómica equina clásica y los textos de anatomía del caballo.",
+        "relaciones": "La cabeza fibular se encuentra inmediatamente lateral al cóndilo lateral de la tibia y próxima a la inserción del ligamento colateral lateral de la articulación femorotibial. La región se relaciona con los tejidos blandos craniolaterales y caudolaterales de la rodilla y con el origen reducido del cuerpo fibular. No se deben trasladar al caballo las relaciones de una fíbula completa de carnívoros.",
+        "accidentes": "Cabeza de la fíbula (capitulum fibulae); superficie o faceta articular fibular de la tibia, situada en la región lateral del cóndilo tibial lateral; superficie articular correspondiente en la cabeza fibular; cápsula articular. El cuerpo de la fíbula es reducido y se afina distalmente.",
+        "articulaciones": "La cabeza de la fíbula articula con la faceta fibular del cóndilo lateral de la tibia. Es una articulación sinovial proximal de escasa movilidad. Su cavidad sinovial comunica con la articulación femorotibial lateral en el caballo, dato relevante para interpretar derrames y procedimientos intraarticulares. No existe una articulación tibioperonea distal móvil independiente en el adulto equino: el extremo distal fibular se fusiona con la tibia y contribuye al maléolo lateral.",
+        "inserciones": "La cabeza de la fíbula proporciona fijación al ligamento colateral lateral de la articulación femorotibial, que se dirige desde el epicóndilo lateral del fémur hacia la cabeza fibular. La cápsula se fija alrededor de los márgenes articulares. No se atribuyen ligamentos tibiofibulares accesorios específicos sin confirmación anatómica equina directa.",
+        "irrigacion": "La irrigación de la cápsula y de los tejidos periarticulares procede de ramas regionales de la red genicular y de vasos recurrentes/craneales de la pierna, con contribuciones variables de los territorios poplíteo y tibial craneal. Las fuentes equinas consultadas no permiten asignar una arteria nutricia exclusiva a esta pequeña articulación; por ello, la distribución se expresa como aporte periarticular regional y no como un patrón vascular único demostrado.",
+        "inervacion": "La sensibilidad de la cápsula y de los tejidos periarticulares depende de ramas articulares regionales de los nervios que rodean la rodilla y la región crural proximal. La bibliografía consultada no establece de forma suficiente una rama nerviosa exclusiva para esta articulación en el caballo; no se atribuye una inervación específica no demostrada.",
+        "funcion": "Mantiene la relación proximal entre la cabeza fibular y el cóndilo lateral de la tibia, contribuyendo a la continuidad y estabilidad del complejo lateral de la pierna. Su movilidad es muy limitada; no constituye una articulación de movimiento funcional amplio.",
+        "especie": "En el caballo la fíbula está muy reducida: conserva una cabeza proximal que articula con el cóndilo lateral de la tibia y un cuerpo delgado que se afina distalmente. El extremo distal se fusiona con la tibia para formar el maléolo lateral. Esta configuración difiere de la fíbula completa y móvil de carnívoros y de otras disposiciones comparadas. La cavidad proximal comunica con la articulación femorotibial lateral.",
+        "clinica": "La comunicación sinovial con el compartimento femorotibial lateral debe considerarse al interpretar distensión, derrame, infección o difusión de anestésicos intraarticulares. La evaluación de la región puede incluir palpación, radiografía y ecografía según la indicación clínica. Las variaciones de osificación y las líneas radiolúcidas de la fíbula equina pueden complicar la interpretación en animales jóvenes; no deben diagnosticarse como fractura sin correlación clínica e imagenológica.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Miembro pelviano: tibia, fíbula y articulación tibioperonea proximal.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Tibia y fíbula del equino.\nSisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Saunders; 1975. Osteología y artrología del miembro pelviano: articulación tibiofibular.\nUniversity of Minnesota. Large Animal Anatomy: Pelvic Limb. https://pressbooks.umn.edu/largeanimalanatomy/chapter/pelvic-limb/\nWikiVet. Limb Bones and Cartilages – Horse Anatomy. https://en.wikivet.net/Limb_Bones_and_Cartilages_-_Horse_Anatomy\nA Text-book of Veterinary Anatomy. The tibio-fibular articulation (equine description). Project Gutenberg. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
+      }
+    },
+    {
+      "id": "equ.ske.amp.006-d",
+      "es": "Articulación tibioperonea proximal (derecho)",
+      "la": "Articulatio tibiofibularis",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el miembro pelviano derecho, en la región proximal y lateral de la pierna, donde la cabeza de la fíbula se relaciona con la faceta articular fibular situada en el cóndilo lateral de la tibia.",
+        "descripcion": "Articulación sinovial proximal entre la cabeza de la fíbula (capitulum fibulae) y la faceta articular fibular de la tibia. En el caballo es una unión estrecha, con movilidad muy limitada. La cápsula articular es fuerte y ajustada; la cavidad sinovial comunica con la cavidad femorotibial lateral según la descripción anatómica equina clásica y los textos de anatomía del caballo.",
+        "relaciones": "La cabeza fibular se encuentra inmediatamente lateral al cóndilo lateral de la tibia y próxima a la inserción del ligamento colateral lateral de la articulación femorotibial. La región se relaciona con los tejidos blandos craniolaterales y caudolaterales de la rodilla y con el origen reducido del cuerpo fibular. No se deben trasladar al caballo las relaciones de una fíbula completa de carnívoros.",
+        "accidentes": "Cabeza de la fíbula (capitulum fibulae); superficie o faceta articular fibular de la tibia, situada en la región lateral del cóndilo tibial lateral; superficie articular correspondiente en la cabeza fibular; cápsula articular. El cuerpo de la fíbula es reducido y se afina distalmente.",
+        "articulaciones": "La cabeza de la fíbula articula con la faceta fibular del cóndilo lateral de la tibia. Es una articulación sinovial proximal de escasa movilidad. Su cavidad sinovial comunica con la articulación femorotibial lateral en el caballo, dato relevante para interpretar derrames y procedimientos intraarticulares. No existe una articulación tibioperonea distal móvil independiente en el adulto equino: el extremo distal fibular se fusiona con la tibia y contribuye al maléolo lateral.",
+        "inserciones": "La cabeza de la fíbula proporciona fijación al ligamento colateral lateral de la articulación femorotibial, que se dirige desde el epicóndilo lateral del fémur hacia la cabeza fibular. La cápsula se fija alrededor de los márgenes articulares. No se atribuyen ligamentos tibiofibulares accesorios específicos sin confirmación anatómica equina directa.",
+        "irrigacion": "La irrigación de la cápsula y de los tejidos periarticulares procede de ramas regionales de la red genicular y de vasos recurrentes/craneales de la pierna, con contribuciones variables de los territorios poplíteo y tibial craneal. Las fuentes equinas consultadas no permiten asignar una arteria nutricia exclusiva a esta pequeña articulación; por ello, la distribución se expresa como aporte periarticular regional y no como un patrón vascular único demostrado.",
+        "inervacion": "La sensibilidad de la cápsula y de los tejidos periarticulares depende de ramas articulares regionales de los nervios que rodean la rodilla y la región crural proximal. La bibliografía consultada no establece de forma suficiente una rama nerviosa exclusiva para esta articulación en el caballo; no se atribuye una inervación específica no demostrada.",
+        "funcion": "Mantiene la relación proximal entre la cabeza fibular y el cóndilo lateral de la tibia, contribuyendo a la continuidad y estabilidad del complejo lateral de la pierna. Su movilidad es muy limitada; no constituye una articulación de movimiento funcional amplio.",
+        "especie": "En el caballo la fíbula está muy reducida: conserva una cabeza proximal que articula con el cóndilo lateral de la tibia y un cuerpo delgado que se afina distalmente. El extremo distal se fusiona con la tibia para formar el maléolo lateral. Esta configuración difiere de la fíbula completa y móvil de carnívoros y de otras disposiciones comparadas. La cavidad proximal comunica con la articulación femorotibial lateral.",
+        "clinica": "La comunicación sinovial con el compartimento femorotibial lateral debe considerarse al interpretar distensión, derrame, infección o difusión de anestésicos intraarticulares. La evaluación de la región puede incluir palpación, radiografía y ecografía según la indicación clínica. Las variaciones de osificación y las líneas radiolúcidas de la fíbula equina pueden complicar la interpretación en animales jóvenes; no deben diagnosticarse como fractura sin correlación clínica e imagenológica.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Miembro pelviano: tibia, fíbula y articulación tibioperonea proximal.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Tibia y fíbula del equino.\nSisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Saunders; 1975. Osteología y artrología del miembro pelviano: articulación tibiofibular.\nUniversity of Minnesota. Large Animal Anatomy: Pelvic Limb. https://pressbooks.umn.edu/largeanimalanatomy/chapter/pelvic-limb/\nWikiVet. Limb Bones and Cartilages – Horse Anatomy. https://en.wikivet.net/Limb_Bones_and_Cartilages_-_Horse_Anatomy\nA Text-book of Veterinary Anatomy. The tibio-fibular articulation (equine description). Project Gutenberg. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
+      }
+    }
+  ],
+  "revision": {
+    "estado": "aprobado_para_repositorio_de_vista_previa",
+    "tipo": "revision_anatomica_y_bibliografica",
+    "alcance": "JSON independiente aprobado por el usuario para publicación en ProClaVet-preview",
+    "restricciones": [
+      "No modificar data/equino.json",
+      "No modificar otros archivos",
+      "No integrar las fichas en el archivo maestro"
+    ]
+  },
+  "approval": {
+    "approved_by_user": true,
+    "approval_scope": "Carga del paquete independiente en ProClaVet-preview, rama main",
+    "master_file_modified": false
+  }
+}
