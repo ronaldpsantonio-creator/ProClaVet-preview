@@ -6197,6 +6197,27 @@
       }
     },
     {
+      "id": "equ.ske.lax.012",
+      "es": "Ligamento longitudinal odontoideo",
+      "la": "Ligamentum longitudinale odontoideum",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Región occipitoatlantoaxial, en relación con el diente del axis. Los resúmenes consultados no precisan su trayecto exacto.",
+        "descripcion": "Ligamento de la región occipitoatlantoaxial del caballo, con forma de abanico en la resonancia magnética. Presenta una señal heterogénea de aspecto estriado, atribuida a su contenido fibrocartilaginoso, igual que el ligamento atlantoaxial ventral y las bandas de refuerzo de la membrana atlantooccipital dorsal.",
+        "relaciones": "El estudio de resonancia lo describe junto con la membrana tectoria, los ligamentos atlantoaxiales dorsal y ventral, la membrana atlantooccipital dorsal con sus bandas de refuerzo y los ligamentos atlantooccipitales laterales. En el caballo el ligamento transverso del atlas no se identificó (ver lax.008).",
+        "accidentes": "Diente del axis.",
+        "articulaciones": "Región occipitoatlantoaxial (articulaciones atlantooccipital y atlantoaxial).",
+        "inserciones": "No se detallan inserciones en los resúmenes consultados.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Forma parte de las estructuras ligamentosas que estabilizan la región occipitoatlantoaxial del caballo.",
+        "especie": "Los autores del estudio de resonancia lo señalan como rasgo especial de la especie, junto con la ausencia del ligamento transverso y la presencia del ligamento atlantoaxial ventral.",
+        "clinica": "En tomografía se ha descrito mineralización de este ligamento en tres caballos. Un estudio posterior la asoció con la edad y el sexo, pero no con el síndrome de sacudida de cabeza; sus autores recomiendan interpretar con cautela su significado clínico en los estudios de TC equinos.",
+        "referencias": "Gutiérrez-Crespo B, Kircher PR, Carrera I. 3 Tesla magnetic resonance imaging of the occipitoatlantoaxial region in the normal horse. Vet Radiol Ultrasound 2014;55(3):278-285. https://www.pubmed.gov/24219352/\n\nLawson AL, Carslake HB, Kane-Smyth J, Maddox TW, Talbot AM. Mineralisation of the longitudinal odontoid ligament in three horses identified on computed tomographic examination. Equine Vet Educ 2021;33(3):e44-e52. https://katalog.lib.cas.cz/KNAV/EdsRecord/edb,148517473\n\nMineralisation of the longitudinal odontoid ligament of the horse and its association with age, sex and head shaking (tomografía computarizada). Vet Radiol Ultrasound 2021;62(3):289-298. https://madbarn.com/research/computed-tomography-identified-mineralisation-of-the-longitudinal-odontoid-ligament-of-the-horse-is-associated-with-age-and-sex-but-not-with-the-clinical-sign-of-head-shaking"
+      }
+    },
+    {
       "id": "equ.ske.lmt.001-i",
       "es": "Ligamento colateral medial del codo (izquierdo)",
       "la": "Ligamentum collaterale mediale (articulationis cubiti)",
