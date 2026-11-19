@@ -4938,7 +4938,7 @@
     },
     {
       "id": "equ.ske.amt.001-i",
-      "es": "Articulación del hombro (izquierdo)",
+      "es": "Articulación del hombro (izquierda)",
       "la": "Articulatio humeri",
       "sys": "ske",
       "layer": "art",
@@ -4959,7 +4959,7 @@
     },
     {
       "id": "equ.ske.amt.001-d",
-      "es": "Articulación del hombro (derecho)",
+      "es": "Articulación del hombro (derecha)",
       "la": "Articulatio humeri",
       "sys": "ske",
       "layer": "art",
@@ -4980,7 +4980,7 @@
     },
     {
       "id": "equ.ske.amt.002-i",
-      "es": "Articulación del codo (izquierdo)",
+      "es": "Articulación del codo (izquierda)",
       "la": "Articulatio cubiti",
       "sys": "ske",
       "layer": "art",
@@ -5001,7 +5001,7 @@
     },
     {
       "id": "equ.ske.amt.002-d",
-      "es": "Articulación del codo (derecho)",
+      "es": "Articulación del codo (derecha)",
       "la": "Articulatio cubiti",
       "sys": "ske",
       "layer": "art",
@@ -5064,7 +5064,7 @@
     },
     {
       "id": "equ.ske.amt.004-i",
-      "es": "Articulación antebraquiocarpiana (izquierdo)",
+      "es": "Articulación antebraquiocarpiana (izquierda)",
       "la": "Articulatio antebrachiocarpea",
       "sys": "ske",
       "layer": "art",
@@ -5085,7 +5085,7 @@
     },
     {
       "id": "equ.ske.amt.004-d",
-      "es": "Articulación antebraquiocarpiana (derecho)",
+      "es": "Articulación antebraquiocarpiana (derecha)",
       "la": "Articulatio antebrachiocarpea",
       "sys": "ske",
       "layer": "art",
@@ -5106,7 +5106,7 @@
     },
     {
       "id": "equ.ske.amt.005-i",
-      "es": "Articulación mediocarpiana (izquierdo)",
+      "es": "Articulación mediocarpiana (izquierda)",
       "la": "Articulatio mediocarpea",
       "sys": "ske",
       "layer": "art",
@@ -5127,7 +5127,7 @@
     },
     {
       "id": "equ.ske.amt.005-d",
-      "es": "Articulación mediocarpiana (derecho)",
+      "es": "Articulación mediocarpiana (derecha)",
       "la": "Articulatio mediocarpea",
       "sys": "ske",
       "layer": "art",
@@ -5190,7 +5190,7 @@
     },
     {
       "id": "equ.ske.amt.007-i",
-      "es": "Articulación carpometacarpiana (izquierdo)",
+      "es": "Articulación carpometacarpiana (izquierda)",
       "la": "Articulatio carpometacarpea",
       "sys": "ske",
       "layer": "art",
@@ -5211,7 +5211,7 @@
     },
     {
       "id": "equ.ske.amt.007-d",
-      "es": "Articulación carpometacarpiana (derecho)",
+      "es": "Articulación carpometacarpiana (derecha)",
       "la": "Articulatio carpometacarpea",
       "sys": "ske",
       "layer": "art",
@@ -5232,7 +5232,7 @@
     },
     {
       "id": "equ.ske.amt.008-i",
-      "es": "Articulación del menudillo (metacarpofalángica) (izquierdo)",
+      "es": "Articulación del menudillo (metacarpofalángica) (izquierda)",
       "la": "Articulatio metacarpophalangea",
       "sys": "ske",
       "layer": "art",
@@ -5253,7 +5253,7 @@
     },
     {
       "id": "equ.ske.amt.008-d",
-      "es": "Articulación del menudillo (metacarpofalángica) (derecho)",
+      "es": "Articulación del menudillo (metacarpofalángica) (derecha)",
       "la": "Articulatio metacarpophalangea",
       "sys": "ske",
       "layer": "art",
@@ -5274,7 +5274,7 @@
     },
     {
       "id": "equ.ske.amt.009-i",
-      "es": "Articulación interfalángica proximal (izquierdo)",
+      "es": "Articulación interfalángica proximal (izquierda)",
       "la": "Articulatio interphalangea proximalis",
       "sys": "ske",
       "layer": "art",
@@ -5295,7 +5295,7 @@
     },
     {
       "id": "equ.ske.amt.009-d",
-      "es": "Articulación interfalángica proximal (derecho)",
+      "es": "Articulación interfalángica proximal (derecha)",
       "la": "Articulatio interphalangea proximalis",
       "sys": "ske",
       "layer": "art",
@@ -5316,7 +5316,7 @@
     },
     {
       "id": "equ.ske.amt.010-i",
-      "es": "Articulación interfalángica distal (izquierdo)",
+      "es": "Articulación interfalángica distal (izquierda)",
       "la": "Articulatio interphalangea distalis",
       "sys": "ske",
       "layer": "art",
@@ -5337,7 +5337,7 @@
     },
     {
       "id": "equ.ske.amt.010-d",
-      "es": "Articulación interfalángica distal (derecho)",
+      "es": "Articulación interfalángica distal (derecha)",
       "la": "Articulatio interphalangea distalis",
       "sys": "ske",
       "layer": "art",
@@ -5416,7 +5416,7 @@
         "funcion": "Permite el deslizamiento de la patela sobre la tróclea durante la flexión y extensión de la babilla y transmite la fuerza del cuádriceps hacia la tibia a través del aparato patelar. En el caballo, el fibrocartílago parapatelar medial y la disposición de los ligamentos patelares medial e intermedio forman un mecanismo de enganche sobre el labio de la cresta troclear medial; contribuye a mantener la babilla extendida durante la estación y reduce el esfuerzo muscular sostenido.",
         "especie": "En el caballo la cresta troclear medial es más alta y prominente que la lateral y el fibrocartílago parapatelar medial está especialmente desarrollado. Presenta tres ligamentos patelares diferenciados (medial, intermedio y lateral), conectados por expansiones fibrosas. El ligamento patelar medial incorpora tejido tendinoso de sartorio y grácil; el intermedio es la continuación principal del tendón del cuádriceps; el lateral recibe fibras de bíceps femoral y tensor de la fascia lata. Esta disposición participa en el aparato de fijación de la patela equina.",
         "clinica": "Es relevante en la fijación ascendente de la patela (upward fixation), luxaciones patelares, desmitis de los ligamentos patelares, derrame sinovial, osteocondrosis de la tróclea femoral, lesiones del cartílago y fracturas de la patela o de las crestas trocleares. La ecografía permite valorar los ligamentos patelares, recesos y superficies accesibles; la radiografía y otras técnicas de imagen complementan la evaluación osteocondral. La comunicación femoropatelar-femorotibial medial es habitual pero no universal, y la comunicación con el compartimento lateral es menos frecuente; esta variabilidad importa para artrocentesis, anestesia diagnóstica y evaluación de infecciones.",
-        "referencias": "Schöpper H, Egerbacher M. Arterial Blood Supply of the Stifle Joint in Horses. Animals (Basel). 2024;14(9):1279. doi:10.3390/ani14091279.\\nFjordbakk CT, Marques-Smith P. The equine patellar ligaments and the infrapatellar fat pad – a microanatomical study. BMC Vet Res. 2023;19:20. doi:10.1186/s12917-023-03579-3.\\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Articulaciones del miembro pelviano.\\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Miembro pelviano y articulación de la babilla.\\nUniversity of Minnesota. Large Animal Anatomy: Pelvic Limb. https://pressbooks.umn.edu/largeanimalanatomy/chapter/pelvic-limb/."
+        "referencias": "Schöpper H, Egerbacher M. Arterial Blood Supply of the Stifle Joint in Horses. Animals (Basel). 2024;14(9):1279. doi:10.3390/ani14091279.\n\nFjordbakk CT, Marques-Smith P. The equine patellar ligaments and the infrapatellar fat pad – a microanatomical study. BMC Vet Res. 2023;19:20. doi:10.1186/s12917-023-03579-3.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Articulaciones del miembro pelviano.\n\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Miembro pelviano y articulación de la babilla.\n\nUniversity of Minnesota. Large Animal Anatomy: Pelvic Limb. https://pressbooks.umn.edu/largeanimalanatomy/chapter/pelvic-limb/."
       }
     },
     {
@@ -5437,12 +5437,12 @@
         "funcion": "Permite el deslizamiento de la patela sobre la tróclea durante la flexión y extensión de la babilla y transmite la fuerza del cuádriceps hacia la tibia a través del aparato patelar. En el caballo, el fibrocartílago parapatelar medial y la disposición de los ligamentos patelares medial e intermedio forman un mecanismo de enganche sobre el labio de la cresta troclear medial; contribuye a mantener la babilla extendida durante la estación y reduce el esfuerzo muscular sostenido.",
         "especie": "En el caballo la cresta troclear medial es más alta y prominente que la lateral y el fibrocartílago parapatelar medial está especialmente desarrollado. Presenta tres ligamentos patelares diferenciados (medial, intermedio y lateral), conectados por expansiones fibrosas. El ligamento patelar medial incorpora tejido tendinoso de sartorio y grácil; el intermedio es la continuación principal del tendón del cuádriceps; el lateral recibe fibras de bíceps femoral y tensor de la fascia lata. Esta disposición participa en el aparato de fijación de la patela equina.",
         "clinica": "Es relevante en la fijación ascendente de la patela (upward fixation), luxaciones patelares, desmitis de los ligamentos patelares, derrame sinovial, osteocondrosis de la tróclea femoral, lesiones del cartílago y fracturas de la patela o de las crestas trocleares. La ecografía permite valorar los ligamentos patelares, recesos y superficies accesibles; la radiografía y otras técnicas de imagen complementan la evaluación osteocondral. La comunicación femoropatelar-femorotibial medial es habitual pero no universal, y la comunicación con el compartimento lateral es menos frecuente; esta variabilidad importa para artrocentesis, anestesia diagnóstica y evaluación de infecciones.",
-        "referencias": "Schöpper H, Egerbacher M. Arterial Blood Supply of the Stifle Joint in Horses. Animals (Basel). 2024;14(9):1279. doi:10.3390/ani14091279.\\nFjordbakk CT, Marques-Smith P. The equine patellar ligaments and the infrapatellar fat pad – a microanatomical study. BMC Vet Res. 2023;19:20. doi:10.1186/s12917-023-03579-3.\\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Articulaciones del miembro pelviano.\\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Miembro pelviano y articulación de la babilla.\\nUniversity of Minnesota. Large Animal Anatomy: Pelvic Limb. https://pressbooks.umn.edu/largeanimalanatomy/chapter/pelvic-limb/."
+        "referencias": "Schöpper H, Egerbacher M. Arterial Blood Supply of the Stifle Joint in Horses. Animals (Basel). 2024;14(9):1279. doi:10.3390/ani14091279.\n\nFjordbakk CT, Marques-Smith P. The equine patellar ligaments and the infrapatellar fat pad – a microanatomical study. BMC Vet Res. 2023;19:20. doi:10.1186/s12917-023-03579-3.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Articulaciones del miembro pelviano.\n\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Miembro pelviano y articulación de la babilla.\n\nUniversity of Minnesota. Large Animal Anatomy: Pelvic Limb. https://pressbooks.umn.edu/largeanimalanatomy/chapter/pelvic-limb/."
       }
     },
     {
       "id": "equ.ske.amp.003-i",
-      "es": "Articulación femorotibial (izquierdo)",
+      "es": "Articulación femorotibial (izquierda)",
       "la": "Articulatio femorotibialis",
       "sys": "ske",
       "layer": "art",
@@ -5463,7 +5463,7 @@
     },
     {
       "id": "equ.ske.amp.003-d",
-      "es": "Articulación femorotibial (derecho)",
+      "es": "Articulación femorotibial (derecha)",
       "la": "Articulatio femorotibialis",
       "sys": "ske",
       "layer": "art",
@@ -5568,7 +5568,7 @@
     },
     {
       "id": "equ.ske.amp.006-i",
-      "es": "Articulación tibioperonea proximal (izquierdo)",
+      "es": "Articulación tibioperonea proximal (izquierda)",
       "la": "Articulatio tibiofibularis",
       "sys": "ske",
       "layer": "art",
@@ -5589,7 +5589,7 @@
     },
     {
       "id": "equ.ske.amp.006-d",
-      "es": "Articulación tibioperonea proximal (derecho)",
+      "es": "Articulación tibioperonea proximal (derecha)",
       "la": "Articulatio tibiofibularis",
       "sys": "ske",
       "layer": "art",
@@ -5610,7 +5610,7 @@
     },
     {
       "id": "equ.ske.amp.007-i",
-      "es": "Articulación tibiotarsiana (talocrural) (izquierdo)",
+      "es": "Articulación tibiotarsiana (talocrural) (izquierda)",
       "la": "Articulatio talocruralis",
       "sys": "ske",
       "layer": "art",
@@ -5631,7 +5631,7 @@
     },
     {
       "id": "equ.ske.amp.007-d",
-      "es": "Articulación tibiotarsiana (talocrural) (derecho)",
+      "es": "Articulación tibiotarsiana (talocrural) (derecha)",
       "la": "Articulatio talocruralis",
       "sys": "ske",
       "layer": "art",
@@ -5652,7 +5652,7 @@
     },
     {
       "id": "equ.ske.amp.008-i",
-      "es": "Articulación intertarsiana proximal (izquierdo)",
+      "es": "Articulación intertarsiana proximal (izquierda)",
       "la": "Articulatio intertarsea proximalis",
       "sys": "ske",
       "layer": "art",
@@ -5673,7 +5673,7 @@
     },
     {
       "id": "equ.ske.amp.008-d",
-      "es": "Articulación intertarsiana proximal (derecho)",
+      "es": "Articulación intertarsiana proximal (derecha)",
       "la": "Articulatio intertarsea proximalis",
       "sys": "ske",
       "layer": "art",
@@ -5694,7 +5694,7 @@
     },
     {
       "id": "equ.ske.amp.009-i",
-      "es": "Articulación intertarsiana distal (izquierdo)",
+      "es": "Articulación intertarsiana distal (izquierda)",
       "la": "Articulatio intertarsea distalis",
       "sys": "ske",
       "layer": "art",
@@ -5715,7 +5715,7 @@
     },
     {
       "id": "equ.ske.amp.009-d",
-      "es": "Articulación intertarsiana distal (derecho)",
+      "es": "Articulación intertarsiana distal (derecha)",
       "la": "Articulatio intertarsea distalis",
       "sys": "ske",
       "layer": "art",
@@ -5736,7 +5736,7 @@
     },
     {
       "id": "equ.ske.amp.010-i",
-      "es": "Articulación tarsometatarsiana (izquierdo)",
+      "es": "Articulación tarsometatarsiana (izquierda)",
       "la": "Articulatio tarsometatarsea",
       "sys": "ske",
       "layer": "art",
@@ -5757,7 +5757,7 @@
     },
     {
       "id": "equ.ske.amp.010-d",
-      "es": "Articulación tarsometatarsiana (derecho)",
+      "es": "Articulación tarsometatarsiana (derecha)",
       "la": "Articulatio tarsometatarsea",
       "sys": "ske",
       "layer": "art",
@@ -5778,7 +5778,7 @@
     },
     {
       "id": "equ.ske.amp.011-i",
-      "es": "Articulación del menudillo (metatarsofalángica) (izquierdo)",
+      "es": "Articulación del menudillo (metatarsofalángica) (izquierda)",
       "la": "Articulatio metatarsophalangea",
       "sys": "ske",
       "layer": "art",
@@ -5799,7 +5799,7 @@
     },
     {
       "id": "equ.ske.amp.011-d",
-      "es": "Articulación del menudillo (metatarsofalángica) (derecho)",
+      "es": "Articulación del menudillo (metatarsofalángica) (derecha)",
       "la": "Articulatio metatarsophalangea",
       "sys": "ske",
       "layer": "art",
@@ -5820,7 +5820,7 @@
     },
     {
       "id": "equ.ske.amp.012-i",
-      "es": "Articulación interfalángica proximal (izquierdo)",
+      "es": "Articulación interfalángica proximal (izquierda)",
       "la": "Articulatio interphalangea proximalis",
       "sys": "ske",
       "layer": "art",
@@ -5841,7 +5841,7 @@
     },
     {
       "id": "equ.ske.amp.012-d",
-      "es": "Articulación interfalángica proximal (derecho)",
+      "es": "Articulación interfalángica proximal (derecha)",
       "la": "Articulatio interphalangea proximalis",
       "sys": "ske",
       "layer": "art",
@@ -5862,7 +5862,7 @@
     },
     {
       "id": "equ.ske.amp.013-i",
-      "es": "Articulación interfalángica distal (izquierdo)",
+      "es": "Articulación interfalángica distal (izquierda)",
       "la": "Articulatio interphalangea distalis",
       "sys": "ske",
       "layer": "art",
@@ -5875,15 +5875,15 @@
         "inserciones": "Los ligamentos colaterales unen la falange media con la falange distal. Los ligamentos sesamoideos distales unen el borde distal del navicular con la falange distal.",
         "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
         "inervacion": "No se localizó una descripción equina de la inervación específica de esta articulación. La inervación sensitiva del hueso navicular procede de los nervios digitales, que discurren por los ligamentos colaterales sesamoideos y por el ligamento sesamoideo distal (impar).",
-        "funcion": "Permite extensión y flexión ligera del dedo.",
-        "especie": "En un estudio con 66 pares de miembros de cadáver (miembros torácicos), la bolsa del navicular se opacificó tras inyectar la articulación solo en el 5,3 % de los miembros: la comunicación es poco frecuente e inconstante. WikiVet describe la articulación para ambos miembros, con palmar y plantar intercambiables.",
+        "funcion": "Permite extensión y flexión ligera del dedo dentro del casco. La articulación está estabilizada por los ligamentos colaterales y los ligamentos sesamoideos distales.",
+        "especie": "En un estudio con 66 pares de miembros de cadáver (miembros torácicos), la bolsa del navicular se opacificó tras inyectar la articulación solo en el 5,3 % de los miembros: la comunicación es poco frecuente e inconstante. WikiVet describe la articulación para ambos miembros, con palmar y plantar intercambiables. Los datos de comunicación con la bolsa del navicular provienen de miembros torácicos; no se localizó un estudio equivalente en miembros pelvianos.",
         "clinica": "La osteoartritis afecta con más frecuencia a los miembros anteriores. Las invaginaciones sinoviales del borde distal del navicular se asocian más a la sinovitis de esta articulación que a la enfermedad primaria del hueso navicular. La cojera se localiza con anestesia de los nervios digitales o intraarticular.",
         "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Phalanges - Horse Anatomy. https://en.wikivet.net/Phalanges_-_Horse_Anatomy\n\nMoorman VJ. Osteoarthritis of the Distal Interphalangeal (Coffin) Joint in Horses. MSD Veterinary Manual, rev. 2024. https://www.msdvetmanual.com/musculoskeletal-system/disorders-of-the-foot-in-horses/osteoarthritis-of-the-distal-interphalangeal-coffin-joint-in-horses\n\nCommunication between the distal interphalangeal joint and the navicular bursa in the horse at computed tomography arthrography. Anat Histol Embryol. 2019 (66 pares de miembros anteriores de cadáveres). https://read.qxmd.com/read/30609106/communication-between-the-distal-interphalangeal-joint-and-the-navicular-bursa-in-the-horse-at-computed-tomography-arthrography"
       }
     },
     {
       "id": "equ.ske.amp.013-d",
-      "es": "Articulación interfalángica distal (derecho)",
+      "es": "Articulación interfalángica distal (derecha)",
       "la": "Articulatio interphalangea distalis",
       "sys": "ske",
       "layer": "art",
@@ -5896,8 +5896,8 @@
         "inserciones": "Los ligamentos colaterales unen la falange media con la falange distal. Los ligamentos sesamoideos distales unen el borde distal del navicular con la falange distal.",
         "irrigacion": "No se localizaron descripciones equinas de la irrigación de esta articulación en las fuentes consultadas.",
         "inervacion": "No se localizó una descripción equina de la inervación específica de esta articulación. La inervación sensitiva del hueso navicular procede de los nervios digitales, que discurren por los ligamentos colaterales sesamoideos y por el ligamento sesamoideo distal (impar).",
-        "funcion": "Permite extensión y flexión ligera del dedo.",
-        "especie": "En un estudio con 66 pares de miembros de cadáver (miembros torácicos), la bolsa del navicular se opacificó tras inyectar la articulación solo en el 5,3 % de los miembros: la comunicación es poco frecuente e inconstante. WikiVet describe la articulación para ambos miembros, con palmar y plantar intercambiables.",
+        "funcion": "Permite extensión y flexión ligera del dedo dentro del casco. La articulación está estabilizada por los ligamentos colaterales y los ligamentos sesamoideos distales.",
+        "especie": "En un estudio con 66 pares de miembros de cadáver (miembros torácicos), la bolsa del navicular se opacificó tras inyectar la articulación solo en el 5,3 % de los miembros: la comunicación es poco frecuente e inconstante. WikiVet describe la articulación para ambos miembros, con palmar y plantar intercambiables. Los datos de comunicación con la bolsa del navicular provienen de miembros torácicos; no se localizó un estudio equivalente en miembros pelvianos.",
         "clinica": "La osteoartritis afecta con más frecuencia a los miembros anteriores. Las invaginaciones sinoviales del borde distal del navicular se asocian más a la sinovitis de esta articulación que a la enfermedad primaria del hueso navicular. La cojera se localiza con anestesia de los nervios digitales o intraarticular.",
         "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Phalanges - Horse Anatomy. https://en.wikivet.net/Phalanges_-_Horse_Anatomy\n\nMoorman VJ. Osteoarthritis of the Distal Interphalangeal (Coffin) Joint in Horses. MSD Veterinary Manual, rev. 2024. https://www.msdvetmanual.com/musculoskeletal-system/disorders-of-the-foot-in-horses/osteoarthritis-of-the-distal-interphalangeal-coffin-joint-in-horses\n\nCommunication between the distal interphalangeal joint and the navicular bursa in the horse at computed tomography arthrography. Anat Histol Embryol. 2019 (66 pares de miembros anteriores de cadáveres). https://read.qxmd.com/read/30609106/communication-between-the-distal-interphalangeal-joint-and-the-navicular-bursa-in-the-horse-at-computed-tomography-arthrography"
       }
@@ -5907,490 +5907,1470 @@
       "es": "Funículo nucal (ligamento nucal)",
       "la": "Funiculus nuchae",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Línea media dorsal del cuello, bajo la crin, desde la protuberancia occipital externa hasta la cima de la cruz.",
+        "descripcion": "Parte en forma de cordón del ligamento nucal, de tejido elástico fuerte. Es par (cordones derecho e izquierdo, uno junto al otro) y se continúa caudalmente como ligamento supraespinoso.",
+        "relaciones": "La lámina nucal queda ventral a él. Al flexionar lateralmente la cabeza, el funículo se desliza sobre el proceso espinoso del axis (C2). En la cruz se continúa con el ligamento supraespinoso.",
+        "accidentes": "Protuberancia occipital externa; proceso espinoso del axis (C2); cima de la cruz (procesos espinosos torácicos).",
+        "articulaciones": "No pertenece a una articulación concreta: es un ligamento largo de la columna que sostiene la cabeza y el cuello.",
+        "inserciones": "Nace en la protuberancia occipital externa; la porción principal tiene inserción en el axis (C2) y llega a la cima de la cruz, donde continúa como ligamento supraespinoso.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Sostiene la cabeza y el cuello. Se tensa cuando el cuello se baja, se redondea o se extiende hacia delante.",
+        "especie": "En el caballo es un ligamento muy desarrollado y elástico; el supraespinoso, que lo continúa, es menos elástico.",
+        "clinica": "Las desmopatías de inserción del ligamento nucal tienen una etiología compleja y pueden deberse a lesiones mecánicas.",
+        "referencias": "Skeletal system of the horse (Wikipedia; fuente divulgativa). https://www.wikipedia.org/wiki/Skeletal_system_of_the_horse\n\nRevisión sobre el ligamento nucal y sus desmopatías de inserción. Veterinární Medicína, 2020, n.º 8 (cita a Budras et al., 2005). https://vetmed.agriculturejournals.cz/pdfs/vet/2020/08/01.pdf\n\nYour Dressage, All About the Neck (fuente divulgativa). https://yourdressage.org/2019/03/18/all-about-the-neck"
+      }
     },
     {
       "id": "equ.ske.lax.002",
       "es": "Lámina nucal",
       "la": "Lamina nuchae",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cuello, ventral al funículo nucal y dorsal a las vértebras cervicales; forma láminas a ambos lados desde la cruz.",
+        "descripcion": "Parte laminar, plana y en forma de abanico del ligamento nucal. Es par: láminas derecha e izquierda de tejido elástico que parten del funículo nucal y se dirigen a las vértebras cervicales.",
+        "relaciones": "Se une al funículo nucal, dorsal a ella. En la cruz, el ligamento nucal rodea dorsolateralmente la columna torácica, de modo que sus partes derecha e izquierda casi llegan a los cartílagos escapulares; caudal a la cruz se estrecha y pasa al ligamento supraespinoso.",
+        "accidentes": "Vértebras cervicales a las que se fijan sus bandas (ver inserciones); cartílagos escapulares (relación en la cruz).",
+        "articulaciones": "No pertenece a una articulación concreta: es un ligamento de la columna cervical.",
+        "inserciones": "Nace del funículo nucal. Según una descripción divulgativa basada en la anatomía clásica, sus bandas llegan a la 3.ª vértebra cervical y hasta al menos la 5.ª, cada vez más pequeñas, con inserciones menos frecuentes en la 6.ª y la 7.ª.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Sostiene las vértebras cervicales y, junto con el funículo nucal, el peso de la cabeza y el cuello.",
+        "especie": "Los textos clásicos describen la lámina nucal con inserciones de C2 a C6 o C7. Un grupo de investigadores (presentación divulgativa de May-Davis) comunica que en la mayoría de los caballos estudiados faltan las inserciones en C6 y C7, y que algunos ejemplares tienen inserciones débiles en C5. No es un estudio revisado por pares, por lo que conviene verificarlo.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "Skeletal system of the horse (Wikipedia; fuente divulgativa). https://www.wikipedia.org/wiki/Skeletal_system_of_the_horse\n\nResumen de la presentación «The Mystery of the Missing Lamellae» de May-Davis (fuente divulgativa, no revisada por pares). https://wpold.horsesandpeople.com.au/?p=55725\n\nRevisión sobre el ligamento nucal y sus desmopatías de inserción. Veterinární Medicína, 2020, n.º 8 (cita a Budras et al., 2005). https://vetmed.agriculturejournals.cz/pdfs/vet/2020/08/01.pdf"
+      }
     },
     {
       "id": "equ.ske.lax.003",
       "es": "Ligamento supraespinoso",
       "la": "Ligamentum supraspinale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Línea media dorsal del tronco: desde la cruz, donde continúa al ligamento nucal, hasta el sacro, sobre las cimas de los procesos espinosos torácicos y lumbares.",
+        "descripcion": "Ligamento largo que se inserta en las cimas de los procesos espinosos dorsales. Es la continuación caudal del ligamento nucal y es menos elástico que este.",
+        "relaciones": "Sus fibras ventrales descienden entre los procesos espinosos y se mezclan con el ligamento interespinoso. Existe una bolsa supraespinosa en la región torácica craneal (T3–T4).",
+        "accidentes": "Cimas de los procesos espinosos torácicos y lumbares; cruz.",
+        "articulaciones": "No pertenece a una articulación concreta: estabiliza la columna toracolumbar.",
+        "inserciones": "Se fija a la cima de cada proceso espinoso desde la cruz hasta el sacro. Según una revisión funcional, falta entre la última vértebra lumbar y la primera sacra, lo que da más rango de flexión y extensión en ese punto.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Limita la flexión toracolumbar y restringe el movimiento de los procesos espinosos dorsales.",
+        "especie": "En el caballo, el ligamento nucal (muy elástico) se continúa en la cruz con el supraespinoso (menos elástico).",
+        "clinica": "Los procesos espinosos dorsales superpuestos («kissing spines») son probablemente la afección más común atribuida a dolor toracolumbar. En fuentes divulgativas, la laxitud del supraespinoso y de los longitudinales se asocia a la lordosis equina.",
+        "referencias": "Revisión sobre el ligamento nucal y sus desmopatías de inserción. Veterinární Medicína, 2020, n.º 8 (cita a Budras et al., 2005). https://vetmed.agriculturejournals.cz/pdfs/vet/2020/08/01.pdf\n\nZaneb H, Peham C, Stanek C. Functional anatomy and biomechanics of the equine thoracolumbar spine: a review. Turk J Vet Anim Sci. 2013;37(4). https://aj.tubitak.gov.tr/veterinary/issues/vet-13-37-4/vet-37-4-2-1205-45.pdf\n\nISVMA, Axial Skeleton Pathology: The Neck and Back of It. https://www.isvma.org/wp-content/uploads/2021/11/AxialSkeletonPathologyTheNeckandBackofit.pdf\n\nMadbarn, Swayback horse (fuente divulgativa). https://madbarn.com/swayback-horse"
+      }
     },
     {
       "id": "equ.ske.lax.004",
       "es": "Ligamento longitudinal dorsal",
       "la": "Ligamentum longitudinale dorsale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Suelo del canal vertebral, sobre la cara dorsal de los cuerpos vertebrales y de los discos intervertebrales, desde el axis hasta el sacro.",
+        "descripcion": "Ligamento largo de la columna que recorre el suelo del canal vertebral y refuerza los discos intervertebrales desde arriba.",
+        "relaciones": "Va dentro del canal vertebral, por debajo de la médula espinal. Es opuesto al ligamento longitudinal ventral, que refuerza los discos por su cara ventral.",
+        "accidentes": "Cuerpos vertebrales y discos intervertebrales, del axis al sacro.",
+        "articulaciones": "Articulaciones intervertebrales (discos), del axis al sacro.",
+        "inserciones": "Se extiende desde el axis hasta el sacro. No se localizaron en las fuentes consultadas sus puntos exactos de inserción.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Ayuda a prevenir la hiperflexión de la columna y refuerza los discos intervertebrales por su cara dorsal.",
+        "especie": "Es uno de los ligamentos largos que dan estabilidad regional a la columna del caballo, junto con el nucal, el supraespinoso y el longitudinal ventral.",
+        "clinica": "En fuentes divulgativas, la insuficiencia de los ligamentos longitudinales se menciona entre los soportes que fallan en la lordosis equina.",
+        "referencias": "Physiopedia, Equine Spine and Head Anatomy (fuente divulgativa). https://www.physio-pedia.com/Equine_Spine_and_Head_Anatomy\n\nZaneb H, Peham C, Stanek C. Functional anatomy and biomechanics of the equine thoracolumbar spine: a review. Turk J Vet Anim Sci. 2013;37(4). https://aj.tubitak.gov.tr/veterinary/issues/vet-13-37-4/vet-37-4-2-1205-45.pdf\n\nMadbarn, Swayback horse (fuente divulgativa). https://madbarn.com/swayback-horse"
+      }
     },
     {
       "id": "equ.ske.lax.005",
       "es": "Ligamento longitudinal ventral",
       "la": "Ligamentum longitudinale ventrale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara ventral de los cuerpos vertebrales y de los discos intervertebrales, desde el axis hasta el sacro.",
+        "descripcion": "Ligamento largo de la columna que recubre ventralmente los cuerpos vertebrales. Es más fuerte y ancho caudalmente.",
+        "relaciones": "Refuerza los discos intervertebrales por su cara ventral; es opuesto al ligamento longitudinal dorsal, que los refuerza por la dorsal.",
+        "accidentes": "Cuerpos vertebrales y discos intervertebrales, del axis al sacro.",
+        "articulaciones": "Articulaciones intervertebrales (discos), del axis al sacro.",
+        "inserciones": "Recorre la cara ventral de las vértebras desde el axis hasta el sacro. No se localizaron en las fuentes consultadas sus puntos exactos de inserción.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Tiene un papel importante en prevenir la hiperextensión de la columna.",
+        "especie": "Es uno de los ligamentos largos que dan estabilidad regional a la columna del caballo, junto con el nucal, el supraespinoso y el longitudinal dorsal.",
+        "clinica": "En fuentes divulgativas, la insuficiencia de los ligamentos longitudinales se menciona entre los soportes que fallan en la lordosis equina.",
+        "referencias": "Physiopedia, Equine Spine and Head Anatomy (fuente divulgativa). https://www.physio-pedia.com/Equine_Spine_and_Head_Anatomy\n\nZaneb H, Peham C, Stanek C. Functional anatomy and biomechanics of the equine thoracolumbar spine: a review. Turk J Vet Anim Sci. 2013;37(4). https://aj.tubitak.gov.tr/veterinary/issues/vet-13-37-4/vet-37-4-2-1205-45.pdf\n\nMadbarn, Swayback horse (fuente divulgativa). https://madbarn.com/swayback-horse"
+      }
     },
     {
       "id": "equ.ske.lax.006",
       "es": "Ligamentos amarillos",
       "la": "Ligamenta flava",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Canal vertebral, entre los arcos de vértebras adyacentes.",
+        "descripcion": "Ligamentos cortos (segmentarios) que unen los arcos vertebrales de vértebras contiguas.",
+        "relaciones": "Forman parte de la pared dorsal del canal vertebral, entre los arcos neurales de vértebras contiguas.",
+        "accidentes": "Arcos neurales de vértebras adyacentes.",
+        "articulaciones": "No pertenecen a una articulación concreta: dan estabilidad segmentaria a la columna.",
+        "inserciones": "Unen los arcos neurales de vértebras adyacentes. No se localizaron en las fuentes equinas consultadas puntos de inserción detallados.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Contribuyen a sostener el peso de la musculatura epaxial.",
+        "especie": "Son uno de los ligamentos cortos de la columna del caballo, junto con los interespinosos e intertransversos: dan estabilidad segmentaria y protegen la médula espinal.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "Zaneb H, Peham C, Stanek C. Functional anatomy and biomechanics of the equine thoracolumbar spine: a review. Turk J Vet Anim Sci. 2013;37(4). https://aj.tubitak.gov.tr/veterinary/issues/vet-13-37-4/vet-37-4-2-1205-45.pdf\n\nMadbarn, Swayback horse (fuente divulgativa). https://madbarn.com/swayback-horse"
+      }
     },
     {
       "id": "equ.ske.lax.007",
       "es": "Ligamentos interespinosos",
       "la": "Ligamenta interspinalia",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Entre los procesos espinosos de vértebras adyacentes de la columna.",
+        "descripcion": "Ligamentos cortos que se fijan a los bordes craneal y caudal de procesos espinosos contiguos y se continúan dorsalmente con el ligamento supraespinoso.",
+        "relaciones": "Las fibras ventrales del supraespinoso descienden y se mezclan con ellos.",
+        "accidentes": "Procesos espinosos dorsales (bordes craneal y caudal).",
+        "articulaciones": "No pertenecen a una articulación concreta: dan estabilidad segmentaria a la columna.",
+        "inserciones": "Se fijan a los bordes craneal y caudal de procesos espinosos adyacentes. No se localizaron en las fuentes consultadas detalles de su extensión por regiones.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Impiden el deslizamiento dorsal de las vértebras y limitan la flexión ventral de la columna.",
+        "especie": "En la parte craneal de la columna del caballo, sobre todo en la primera articulación torácica, son elásticos, lo que permite allí un mayor rango de movimiento.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "Zaneb H, Peham C, Stanek C. Functional anatomy and biomechanics of the equine thoracolumbar spine: a review. Turk J Vet Anim Sci. 2013;37(4). https://aj.tubitak.gov.tr/veterinary/issues/vet-13-37-4/vet-37-4-2-1205-45.pdf\n\nISVMA, Axial Skeleton Pathology: The Neck and Back of It. https://www.isvma.org/wp-content/uploads/2021/11/AxialSkeletonPathologyTheNeckandBackofit.pdf\n\nMadbarn, Swayback horse (fuente divulgativa). https://madbarn.com/swayback-horse"
+      }
     },
     {
       "id": "equ.ske.lax.008",
       "es": "Ligamento transverso del atlas",
       "la": "Ligamentum transversum atlantis",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Región atlantoaxial. En la nomenclatura general, cruza dorsalmente el diente del axis, entre las masas laterales del atlas, y lo mantiene contra el arco ventral del atlas.",
+        "descripcion": "Ligamento incluido en la nomenclatura general. En el caballo, un estudio de resonancia magnética de 3 teslas en 10 cadáveres documentó la ausencia del ligamento transverso.",
+        "relaciones": "En la región occipitoatlantoaxial el estudio describe el ligamento longitudinal odontoideo, la membrana tectoria, los ligamentos atlantoaxiales dorsal y ventral, la membrana atlantooccipital dorsal y los ligamentos atlantooccipitales laterales.",
+        "accidentes": "Diente del axis; masas laterales y arco ventral del atlas.",
+        "articulaciones": "Articulación atlantoaxial.",
+        "inserciones": "No se describe en el caballo según el estudio de resonancia, por lo que no hay inserciones equinas que citar.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "No aplica en el caballo según ese estudio. La región la estabilizan otras estructuras ligamentosas, como el ligamento longitudinal odontoideo y el atlantoaxial ventral.",
+        "especie": "Rasgos particulares de la especie descritos en ese estudio: ligamento longitudinal odontoideo en forma de abanico, ausencia del ligamento transverso y presencia del ligamento atlantoaxial ventral. Una fuente divulgativa (Physiopedia) lo menciona de forma general; no se localizó una descripción equina por disección.",
+        "clinica": "Los hallazgos del estudio se proponen como referencia anatómica cuando se sospecha inestabilidad de la región occipitoatlantoaxial.",
+        "referencias": "3 tesla magnetic resonance imaging of the occipitoatlantoaxial region in the normal horse (10 cadáveres equinos). https://madbarn.com/research/3-tesla-magnetic-resonance-imaging-of-the-occipitoatlantoaxial-region-in-the-normal-horse\n\nPhysiopedia, Equine Spine and Head Anatomy (fuente divulgativa). https://www.physio-pedia.com/Equine_Spine_and_Head_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lax.009-i",
       "es": "Ligamento sacroilíaco dorsal (izquierdo)",
       "la": "Ligamentum sacroiliacum dorsale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Región sacroilíaca del lado izquierdo, desde el tuber sacrale del íleon hasta el sacro, dorsal a la articulación.",
+        "descripcion": "Ligamentos sacroilíacos dorsales, con dos ramas: la corta une el tuber sacrale con los procesos espinosos del sacro; la larga lo une con la cara lateral del sacro. Se describen con partes funicular y membranosa.",
+        "relaciones": "No afectan directamente a la articulación sacroilíaca, pero anclan el íleon a la columna sacra. Se evalúan por ecografía dorsal.",
+        "accidentes": "Tuber sacrale del íleon; procesos espinosos y cresta sacra del sacro.",
+        "articulaciones": "Articulación sacroilíaca.",
+        "inserciones": "Se fijan al tuber sacrale y a los procesos espinosos del sacro (rama corta) y a la cara lateral del sacro (rama larga).",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Anclan el íleon al sacro y ayudan a mantener unida la pelvis a la columna, junto con los ligamentos sacroilíacos ventral e interóseo.",
+        "especie": "En el caballo la rama corta llega a los procesos espinosos del sacro, como en los rumiantes; en carnívoros y cerdo llega a los procesos mamilares.",
+        "clinica": "En la ecografía pueden verse pérdida del patrón de fibras y engrosamiento cuando están lesionados. El dolor a la palpación del tuber sacrale sugiere fractura o afectación de estos ligamentos.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nUniversity of Florida, Large Animal Diagnostic Imaging, caso de pelvis (gelding Hanoveriano de 17 años), descripción de los ligamentos sacroilíacos; cita a Tallaj, Coudry y Denoix. https://imaging.vetmed.ufl.edu/large-animal/pelvis/17-year-old-hanoverian-gelding/case-reveal\n\nIntechOpen, capítulo sobre desmitis suspensora proximal del miembro pelviano y enfermedad sacroilíaca en el caballo (DOI 10.5772/intechopen.92353). https://www.intechopen.com/chapters/72062\n\nNewmarket Equine Hospital, Sacroiliac Disease in the Horse. https://www.newmarketequinehospital.com/horse-blogs/sacroiliac-disease-in-the-horse\n\nEquiSearch, artículo sobre el dolor sacroilíaco (fuente divulgativa). https://equisearch.com/?p=24048"
+      }
     },
     {
       "id": "equ.ske.lax.009-d",
       "es": "Ligamento sacroilíaco dorsal (derecho)",
       "la": "Ligamentum sacroiliacum dorsale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Región sacroilíaca del lado derecho, desde el tuber sacrale del íleon hasta el sacro, dorsal a la articulación.",
+        "descripcion": "Ligamentos sacroilíacos dorsales, con dos ramas: la corta une el tuber sacrale con los procesos espinosos del sacro; la larga lo une con la cara lateral del sacro. Se describen con partes funicular y membranosa.",
+        "relaciones": "No afectan directamente a la articulación sacroilíaca, pero anclan el íleon a la columna sacra. Se evalúan por ecografía dorsal.",
+        "accidentes": "Tuber sacrale del íleon; procesos espinosos y cresta sacra del sacro.",
+        "articulaciones": "Articulación sacroilíaca.",
+        "inserciones": "Se fijan al tuber sacrale y a los procesos espinosos del sacro (rama corta) y a la cara lateral del sacro (rama larga).",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Anclan el íleon al sacro y ayudan a mantener unida la pelvis a la columna, junto con los ligamentos sacroilíacos ventral e interóseo.",
+        "especie": "En el caballo la rama corta llega a los procesos espinosos del sacro, como en los rumiantes; en carnívoros y cerdo llega a los procesos mamilares.",
+        "clinica": "En la ecografía pueden verse pérdida del patrón de fibras y engrosamiento cuando están lesionados. El dolor a la palpación del tuber sacrale sugiere fractura o afectación de estos ligamentos.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nUniversity of Florida, Large Animal Diagnostic Imaging, caso de pelvis (gelding Hanoveriano de 17 años), descripción de los ligamentos sacroilíacos; cita a Tallaj, Coudry y Denoix. https://imaging.vetmed.ufl.edu/large-animal/pelvis/17-year-old-hanoverian-gelding/case-reveal\n\nIntechOpen, capítulo sobre desmitis suspensora proximal del miembro pelviano y enfermedad sacroilíaca en el caballo (DOI 10.5772/intechopen.92353). https://www.intechopen.com/chapters/72062\n\nNewmarket Equine Hospital, Sacroiliac Disease in the Horse. https://www.newmarketequinehospital.com/horse-blogs/sacroiliac-disease-in-the-horse\n\nEquiSearch, artículo sobre el dolor sacroilíaco (fuente divulgativa). https://equisearch.com/?p=24048"
+      }
     },
     {
       "id": "equ.ske.lax.010-i",
       "es": "Ligamento sacroilíaco ventral (izquierdo)",
       "la": "Ligamentum sacroiliacum ventrale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara ventral de la articulación sacroilíaca del lado izquierdo, entre el ala del sacro y el ala del íleon.",
+        "descripcion": "Ligamento que discurre en sentido mediolateral a lo largo del margen ventral de la articulación sacroilíaca y refuerza su cápsula.",
+        "relaciones": "Es más profundo que los dorsales y se examina por ecografía transrectal. El ligamento interóseo, fuerte y separado por grasa, une las alas del sacro y del íleon. Cerca de la articulación están la arteria y vena glúteas craneales, los nervios ciático y glúteos y la rama ventral del primer nervio sacro; el iliopsoas cubre lateralmente la articulación.",
+        "accidentes": "Ala del sacro; ala del íleon.",
+        "articulaciones": "Articulación sacroilíaca.",
+        "inserciones": "Une el ala del sacro con el íleon a lo largo del margen ventral. No se localizaron puntos de inserción más detallados.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Estabiliza la articulación sacroilíaca, que tiene muy poco movimiento.",
+        "especie": "En el caballo la articulación sacroilíaca depende de tres grupos de ligamentos: dorsal, ventral e interóseo.",
+        "clinica": "Su rotura puede producir luxación de la articulación y mayor separación entre el sacro y el íleon. La distensión o lesión de los ligamentos ventrales es una causa de dolor sacroilíaco.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nUniversity of Florida, Large Animal Diagnostic Imaging, caso de pelvis (gelding Hanoveriano de 17 años), descripción de los ligamentos sacroilíacos; cita a Tallaj, Coudry y Denoix. https://imaging.vetmed.ufl.edu/large-animal/pelvis/17-year-old-hanoverian-gelding/case-reveal\n\nEquiSearch, artículo sobre el dolor sacroilíaco (fuente divulgativa). https://equisearch.com/?p=24048"
+      }
     },
     {
       "id": "equ.ske.lax.010-d",
       "es": "Ligamento sacroilíaco ventral (derecho)",
       "la": "Ligamentum sacroiliacum ventrale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara ventral de la articulación sacroilíaca del lado derecho, entre el ala del sacro y el ala del íleon.",
+        "descripcion": "Ligamento que discurre en sentido mediolateral a lo largo del margen ventral de la articulación sacroilíaca y refuerza su cápsula.",
+        "relaciones": "Es más profundo que los dorsales y se examina por ecografía transrectal. El ligamento interóseo, fuerte y separado por grasa, une las alas del sacro y del íleon. Cerca de la articulación están la arteria y vena glúteas craneales, los nervios ciático y glúteos y la rama ventral del primer nervio sacro; el iliopsoas cubre lateralmente la articulación.",
+        "accidentes": "Ala del sacro; ala del íleon.",
+        "articulaciones": "Articulación sacroilíaca.",
+        "inserciones": "Une el ala del sacro con el íleon a lo largo del margen ventral. No se localizaron puntos de inserción más detallados.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Estabiliza la articulación sacroilíaca, que tiene muy poco movimiento.",
+        "especie": "En el caballo la articulación sacroilíaca depende de tres grupos de ligamentos: dorsal, ventral e interóseo.",
+        "clinica": "Su rotura puede producir luxación de la articulación y mayor separación entre el sacro y el íleon. La distensión o lesión de los ligamentos ventrales es una causa de dolor sacroilíaco.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nUniversity of Florida, Large Animal Diagnostic Imaging, caso de pelvis (gelding Hanoveriano de 17 años), descripción de los ligamentos sacroilíacos; cita a Tallaj, Coudry y Denoix. https://imaging.vetmed.ufl.edu/large-animal/pelvis/17-year-old-hanoverian-gelding/case-reveal\n\nEquiSearch, artículo sobre el dolor sacroilíaco (fuente divulgativa). https://equisearch.com/?p=24048"
+      }
     },
     {
       "id": "equ.ske.lax.011-i",
       "es": "Ligamento sacrotuberal ancho (izquierdo)",
       "la": "Ligamentum sacrotuberale latum",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Pared lateral de la pelvis del lado izquierdo, entre el sacro y las primeras vértebras caudales y el isquion.",
+        "descripcion": "Ligamento ancho en forma de lámina. Según WikiVet va de los procesos transversos de las primeras vértebras caudales al borde dorsal del isquion y del íleon; otra fuente lo describe desde el sacro y los procesos transversos de las vértebras caudales 1.ª y 2.ª hasta la espina y la tuberosidad del isquion. Contiene los forámenes isquiáticos mayor y menor, por los que pasan vasos, nervios y tendones.",
+        "relaciones": "Los forámenes isquiáticos mayor y menor se abren en el propio ligamento.",
+        "accidentes": "Procesos transversos de las vértebras caudales 1.ª y 2.ª; espina y tuberosidad del isquion; borde dorsal del isquion y del íleon; forámenes isquiáticos mayor y menor.",
+        "articulaciones": "Articulación sacroilíaca.",
+        "inserciones": "Une el sacro y los procesos transversos de las primeras vértebras caudales con el isquion y el íleon. Las dos fuentes difieren en el detalle de los puntos de fijación.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Contribuye a la estabilidad de la pelvis y de la articulación sacroilíaca: en un experimento citado, al cortarlo el movimiento de la articulación aumentó de forma marcada.",
+        "especie": "WikiVet indica que el ligamento sacrotuberal es muy variable entre especies.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nIntechOpen, capítulo sobre desmitis suspensora proximal del miembro pelviano y enfermedad sacroilíaca en el caballo (DOI 10.5772/intechopen.92353). https://www.intechopen.com/chapters/72062"
+      }
     },
     {
       "id": "equ.ske.lax.011-d",
       "es": "Ligamento sacrotuberal ancho (derecho)",
       "la": "Ligamentum sacrotuberale latum",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Pared lateral de la pelvis del lado derecho, entre el sacro y las primeras vértebras caudales y el isquion.",
+        "descripcion": "Ligamento ancho en forma de lámina. Según WikiVet va de los procesos transversos de las primeras vértebras caudales al borde dorsal del isquion y del íleon; otra fuente lo describe desde el sacro y los procesos transversos de las vértebras caudales 1.ª y 2.ª hasta la espina y la tuberosidad del isquion. Contiene los forámenes isquiáticos mayor y menor, por los que pasan vasos, nervios y tendones.",
+        "relaciones": "Los forámenes isquiáticos mayor y menor se abren en el propio ligamento.",
+        "accidentes": "Procesos transversos de las vértebras caudales 1.ª y 2.ª; espina y tuberosidad del isquion; borde dorsal del isquion y del íleon; forámenes isquiáticos mayor y menor.",
+        "articulaciones": "Articulación sacroilíaca.",
+        "inserciones": "Une el sacro y los procesos transversos de las primeras vértebras caudales con el isquion y el íleon. Las dos fuentes difieren en el detalle de los puntos de fijación.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Contribuye a la estabilidad de la pelvis y de la articulación sacroilíaca: en un experimento citado, al cortarlo el movimiento de la articulación aumentó de forma marcada.",
+        "especie": "WikiVet indica que el ligamento sacrotuberal es muy variable entre especies.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nIntechOpen, capítulo sobre desmitis suspensora proximal del miembro pelviano y enfermedad sacroilíaca en el caballo (DOI 10.5772/intechopen.92353). https://www.intechopen.com/chapters/72062"
+      }
     },
     {
       "id": "equ.ske.lmt.001-i",
       "es": "Ligamento colateral medial del codo (izquierdo)",
       "la": "Ligamentum collaterale mediale (articulationis cubiti)",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara medial del codo del lado izquierdo, entre el epicóndilo medial del húmero y el radio y la ulna.",
+        "descripcion": "Ligamento colateral medial (ulnar) de la articulación del codo. Se origina en el epicóndilo medial del húmero y se inserta en la ulna y el radio. Su parte craneal es el remanente del músculo pronador redondo en el caballo.",
+        "relaciones": "Cubre medialmente la articulación del codo, entre el húmero, el radio y la ulna.",
+        "accidentes": "Epicóndilo medial del húmero; ulna y radio.",
+        "articulaciones": "Articulación del codo (húmero, radio y ulna).",
+        "inserciones": "Origen en el epicóndilo medial del húmero; inserción en la ulna y en el radio.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza la articulación del codo por su lado medial.",
+        "especie": "En el caballo la parte craneal del ligamento es el remanente del músculo pronador redondo.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmt.001-d",
       "es": "Ligamento colateral medial del codo (derecho)",
       "la": "Ligamentum collaterale mediale (articulationis cubiti)",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara medial del codo del lado derecho, entre el epicóndilo medial del húmero y el radio y la ulna.",
+        "descripcion": "Ligamento colateral medial (ulnar) de la articulación del codo. Se origina en el epicóndilo medial del húmero y se inserta en la ulna y el radio. Su parte craneal es el remanente del músculo pronador redondo en el caballo.",
+        "relaciones": "Cubre medialmente la articulación del codo, entre el húmero, el radio y la ulna.",
+        "accidentes": "Epicóndilo medial del húmero; ulna y radio.",
+        "articulaciones": "Articulación del codo (húmero, radio y ulna).",
+        "inserciones": "Origen en el epicóndilo medial del húmero; inserción en la ulna y en el radio.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza la articulación del codo por su lado medial.",
+        "especie": "En el caballo la parte craneal del ligamento es el remanente del músculo pronador redondo.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmt.002-i",
       "es": "Ligamento colateral lateral del codo (izquierdo)",
       "la": "Ligamentum collaterale laterale (articulationis cubiti)",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara lateral del codo del lado izquierdo, entre el epicóndilo lateral del húmero y el radio.",
+        "descripcion": "Ligamento colateral lateral (radial) de la articulación del codo. Se origina en el epicóndilo lateral del húmero. La rama caudal (ulnar) no existe en el caballo.",
+        "relaciones": "Cubre lateralmente la articulación del codo.",
+        "accidentes": "Epicóndilo lateral del húmero; radio.",
+        "articulaciones": "Articulación del codo (húmero, radio y ulna).",
+        "inserciones": "Origen en el epicóndilo lateral del húmero. Su nombre alternativo, radial, indica que termina en el radio; no se localizó el punto exacto de inserción en las fuentes consultadas.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza la articulación del codo por su lado lateral.",
+        "especie": "En el caballo falta la rama caudal (ulnar) de este ligamento.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmt.002-d",
       "es": "Ligamento colateral lateral del codo (derecho)",
       "la": "Ligamentum collaterale laterale (articulationis cubiti)",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara lateral del codo del lado derecho, entre el epicóndilo lateral del húmero y el radio.",
+        "descripcion": "Ligamento colateral lateral (radial) de la articulación del codo. Se origina en el epicóndilo lateral del húmero. La rama caudal (ulnar) no existe en el caballo.",
+        "relaciones": "Cubre lateralmente la articulación del codo.",
+        "accidentes": "Epicóndilo lateral del húmero; radio.",
+        "articulaciones": "Articulación del codo (húmero, radio y ulna).",
+        "inserciones": "Origen en el epicóndilo lateral del húmero. Su nombre alternativo, radial, indica que termina en el radio; no se localizó el punto exacto de inserción en las fuentes consultadas.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza la articulación del codo por su lado lateral.",
+        "especie": "En el caballo falta la rama caudal (ulnar) de este ligamento.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmt.003-i",
       "es": "Ligamento colateral medial del carpo (izquierdo)",
       "la": "Ligamentum collaterale carpi mediale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara medial del carpo del lado izquierdo, desde el radio hasta el segundo metacarpiano.",
+        "descripcion": "Ligamento colateral medial largo del carpo. Se origina en el proceso estiloides medial del radio y termina en el segundo metacarpiano (hueso accesorio medial). Una rama profunda se inserta en el segundo carpiano.",
+        "relaciones": "Cubre medialmente las tres articulaciones del carpo. Los ligamentos cortos unen carpianos vecinos de una misma fila o de la fila adyacente.",
+        "accidentes": "Proceso estiloides medial del radio; segundo metacarpiano; segundo carpiano.",
+        "articulaciones": "Articulaciones antebraquiocarpiana, mediocarpiana y carpometacarpiana (carpo).",
+        "inserciones": "Origen en el proceso estiloides medial del radio; inserción en el segundo metacarpiano, con una rama profunda en el segundo carpiano.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza el carpo por su lado medial.",
+        "especie": "En el caballo el ligamento llega hasta el segundo metacarpiano, un hueso accesorio.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmt.003-d",
       "es": "Ligamento colateral medial del carpo (derecho)",
       "la": "Ligamentum collaterale carpi mediale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara medial del carpo del lado derecho, desde el radio hasta el segundo metacarpiano.",
+        "descripcion": "Ligamento colateral medial largo del carpo. Se origina en el proceso estiloides medial del radio y termina en el segundo metacarpiano (hueso accesorio medial). Una rama profunda se inserta en el segundo carpiano.",
+        "relaciones": "Cubre medialmente las tres articulaciones del carpo. Los ligamentos cortos unen carpianos vecinos de una misma fila o de la fila adyacente.",
+        "accidentes": "Proceso estiloides medial del radio; segundo metacarpiano; segundo carpiano.",
+        "articulaciones": "Articulaciones antebraquiocarpiana, mediocarpiana y carpometacarpiana (carpo).",
+        "inserciones": "Origen en el proceso estiloides medial del radio; inserción en el segundo metacarpiano, con una rama profunda en el segundo carpiano.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza el carpo por su lado medial.",
+        "especie": "En el caballo el ligamento llega hasta el segundo metacarpiano, un hueso accesorio.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmt.004-i",
       "es": "Ligamento colateral lateral del carpo (izquierdo)",
       "la": "Ligamentum collaterale carpi laterale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara lateral del carpo del lado izquierdo, desde el radio hasta el cuarto metacarpiano.",
+        "descripcion": "Ligamento colateral lateral largo del carpo. Se origina en el proceso estiloides lateral del radio y se divide en una rama superficial, que termina en el cuarto metacarpiano (hueso accesorio lateral), y dos ramas profundas, que se insertan en el carpiano ulnar y en el cuarto carpiano.",
+        "relaciones": "Cubre lateralmente las tres articulaciones del carpo. Los ligamentos cortos unen carpianos vecinos.",
+        "accidentes": "Proceso estiloides lateral del radio; cuarto metacarpiano; carpiano ulnar; cuarto carpiano.",
+        "articulaciones": "Articulaciones antebraquiocarpiana, mediocarpiana y carpometacarpiana (carpo).",
+        "inserciones": "Origen en el proceso estiloides lateral del radio; rama superficial al cuarto metacarpiano y ramas profundas al carpiano ulnar y al cuarto carpiano.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza el carpo por su lado lateral.",
+        "especie": "En el caballo la rama superficial llega hasta el cuarto metacarpiano, un hueso accesorio.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmt.004-d",
       "es": "Ligamento colateral lateral del carpo (derecho)",
       "la": "Ligamentum collaterale carpi laterale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara lateral del carpo del lado derecho, desde el radio hasta el cuarto metacarpiano.",
+        "descripcion": "Ligamento colateral lateral largo del carpo. Se origina en el proceso estiloides lateral del radio y se divide en una rama superficial, que termina en el cuarto metacarpiano (hueso accesorio lateral), y dos ramas profundas, que se insertan en el carpiano ulnar y en el cuarto carpiano.",
+        "relaciones": "Cubre lateralmente las tres articulaciones del carpo. Los ligamentos cortos unen carpianos vecinos.",
+        "accidentes": "Proceso estiloides lateral del radio; cuarto metacarpiano; carpiano ulnar; cuarto carpiano.",
+        "articulaciones": "Articulaciones antebraquiocarpiana, mediocarpiana y carpometacarpiana (carpo).",
+        "inserciones": "Origen en el proceso estiloides lateral del radio; rama superficial al cuarto metacarpiano y ramas profundas al carpiano ulnar y al cuarto carpiano.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza el carpo por su lado lateral.",
+        "especie": "En el caballo la rama superficial llega hasta el cuarto metacarpiano, un hueso accesorio.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmt.005-i",
       "es": "Ligamento suspensorio del menudillo (izquierdo)",
       "la": "Musculus interosseus medius",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara palmar del tercer metacarpiano del lado izquierdo, desde el carpo hasta el menudillo.",
+        "descripcion": "Músculo interóseo medio (tercer interóseo) convertido en una estructura totalmente tendinosa. Nace en la parte proximal del tercer metacarpiano y en los huesos del carpo distal. Distalmente se divide en ramas medial y lateral, que pasan a cada lado del menudillo para unirse al tendón extensor digital común.",
+        "relaciones": "El receso palmar de la cápsula del menudillo queda entre el tercer metacarpiano y el ligamento suspensorio. Los sesamoideos proximales quedan incluidos en él.",
+        "accidentes": "Parte proximal del tercer metacarpiano; huesos del carpo distal; sesamoideos proximales.",
+        "articulaciones": "Articulación del menudillo (metacarpofalángica).",
+        "inserciones": "Origen proximal en el tercer metacarpiano y en el carpo distal. Distalmente se continúa con los ligamentos sesamoideos distales, que conectan los sesamoideos con la falange proximal y la media, y sus ramas se unen al tendón extensor digital común.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Forma parte del aparato suspensor: sostiene el menudillo, evita su hiperextensión y limita la flexión palmar.",
+        "especie": "En el caballo es totalmente tendinoso. Junto con los ligamentos sesamoideos distales, resiste la extensión del menudillo sin acción muscular.",
+        "clinica": "Las lesiones de sus inserciones proximal y distal se observan con frecuencia en la práctica veterinaria.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy\n\nRevisión sobre el ligamento nucal y sus desmopatías de inserción. Veterinární Medicína, 2020, n.º 8 (cita a Budras et al., 2005). https://vetmed.agriculturejournals.cz/pdfs/vet/2020/08/01.pdf"
+      }
     },
     {
       "id": "equ.ske.lmt.005-d",
       "es": "Ligamento suspensorio del menudillo (derecho)",
       "la": "Musculus interosseus medius",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara palmar del tercer metacarpiano del lado derecho, desde el carpo hasta el menudillo.",
+        "descripcion": "Músculo interóseo medio (tercer interóseo) convertido en una estructura totalmente tendinosa. Nace en la parte proximal del tercer metacarpiano y en los huesos del carpo distal. Distalmente se divide en ramas medial y lateral, que pasan a cada lado del menudillo para unirse al tendón extensor digital común.",
+        "relaciones": "El receso palmar de la cápsula del menudillo queda entre el tercer metacarpiano y el ligamento suspensorio. Los sesamoideos proximales quedan incluidos en él.",
+        "accidentes": "Parte proximal del tercer metacarpiano; huesos del carpo distal; sesamoideos proximales.",
+        "articulaciones": "Articulación del menudillo (metacarpofalángica).",
+        "inserciones": "Origen proximal en el tercer metacarpiano y en el carpo distal. Distalmente se continúa con los ligamentos sesamoideos distales, que conectan los sesamoideos con la falange proximal y la media, y sus ramas se unen al tendón extensor digital común.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Forma parte del aparato suspensor: sostiene el menudillo, evita su hiperextensión y limita la flexión palmar.",
+        "especie": "En el caballo es totalmente tendinoso. Junto con los ligamentos sesamoideos distales, resiste la extensión del menudillo sin acción muscular.",
+        "clinica": "Las lesiones de sus inserciones proximal y distal se observan con frecuencia en la práctica veterinaria.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy\n\nRevisión sobre el ligamento nucal y sus desmopatías de inserción. Veterinární Medicína, 2020, n.º 8 (cita a Budras et al., 2005). https://vetmed.agriculturejournals.cz/pdfs/vet/2020/08/01.pdf"
+      }
     },
     {
       "id": "equ.ske.lmt.006-i",
       "es": "Ligamento accesorio inferior (check inferior) (izquierdo)",
       "la": "Ligamentum accessorium (m. flexoris digitalis profundi)",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara palmar del metacarpo del lado izquierdo, desde el carpo hasta la mitad del metacarpo, donde se une al tendón flexor digital profundo.",
+        "descripcion": "Ligamento accesorio del músculo flexor digital profundo (ligamento de retención inferior, «check inferior»). Se une al tendón flexor digital profundo hacia la mitad del metacarpo y lo refuerza.",
+        "relaciones": "Se une al tendón flexor digital profundo, que forma un tendón grueso poco antes del carpo.",
+        "accidentes": "Región palmar del metacarpo; tendón flexor digital profundo.",
+        "articulaciones": "Región del carpo y del metacarpo (aparato de retención).",
+        "inserciones": "Termina en el tendón flexor digital profundo, a la altura de la mitad del metacarpo. No se localizó en las fuentes consultadas el detalle de su origen.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Forma parte del aparato de retención del miembro torácico, que sostiene el miembro con poco esfuerzo muscular.",
+        "especie": "En el miembro pelviano el aparato de retención del flexor digital profundo es muy parecido al del torácico.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmt.006-d",
       "es": "Ligamento accesorio inferior (check inferior) (derecho)",
       "la": "Ligamentum accessorium (m. flexoris digitalis profundi)",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara palmar del metacarpo del lado derecho, desde el carpo hasta la mitad del metacarpo, donde se une al tendón flexor digital profundo.",
+        "descripcion": "Ligamento accesorio del músculo flexor digital profundo (ligamento de retención inferior, «check inferior»). Se une al tendón flexor digital profundo hacia la mitad del metacarpo y lo refuerza.",
+        "relaciones": "Se une al tendón flexor digital profundo, que forma un tendón grueso poco antes del carpo.",
+        "accidentes": "Región palmar del metacarpo; tendón flexor digital profundo.",
+        "articulaciones": "Región del carpo y del metacarpo (aparato de retención).",
+        "inserciones": "Termina en el tendón flexor digital profundo, a la altura de la mitad del metacarpo. No se localizó en las fuentes consultadas el detalle de su origen.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Forma parte del aparato de retención del miembro torácico, que sostiene el miembro con poco esfuerzo muscular.",
+        "especie": "En el miembro pelviano el aparato de retención del flexor digital profundo es muy parecido al del torácico.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmt.007-i",
       "es": "Ligamento accesorio superior (check superior) (izquierdo)",
       "la": "Ligamentum accessorium (m. flexoris digitalis superficialis)",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara palmar del antebrazo distal del lado izquierdo, a la altura del carpo.",
+        "descripcion": "Ligamento accesorio del músculo flexor digital superficial (ligamento de retención superior, «check superior»). Es la cabeza radial tendinosa del músculo, que se une a él a la altura del carpo.",
+        "relaciones": "Se une al flexor digital superficial, que sigue más allá del carpo como un tendón grueso.",
+        "accidentes": "Región palmar del antebrazo distal y del carpo; tendón flexor digital superficial.",
+        "articulaciones": "Región del carpo (aparato de retención).",
+        "inserciones": "Se une al músculo flexor digital superficial a la altura del carpo. No se localizó en las fuentes consultadas el detalle de su origen en el radio.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Forma parte del aparato de retención del miembro torácico.",
+        "especie": "El flexor digital superficial del miembro pelviano es totalmente tendinoso, por lo que no tiene un ligamento de retención equivalente.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmt.007-d",
       "es": "Ligamento accesorio superior (check superior) (derecho)",
       "la": "Ligamentum accessorium (m. flexoris digitalis superficialis)",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara palmar del antebrazo distal del lado derecho, a la altura del carpo.",
+        "descripcion": "Ligamento accesorio del músculo flexor digital superficial (ligamento de retención superior, «check superior»). Es la cabeza radial tendinosa del músculo, que se une a él a la altura del carpo.",
+        "relaciones": "Se une al flexor digital superficial, que sigue más allá del carpo como un tendón grueso.",
+        "accidentes": "Región palmar del antebrazo distal y del carpo; tendón flexor digital superficial.",
+        "articulaciones": "Región del carpo (aparato de retención).",
+        "inserciones": "Se une al músculo flexor digital superficial a la altura del carpo. No se localizó en las fuentes consultadas el detalle de su origen en el radio.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Forma parte del aparato de retención del miembro torácico.",
+        "especie": "El flexor digital superficial del miembro pelviano es totalmente tendinoso, por lo que no tiene un ligamento de retención equivalente.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmt.008-i",
       "es": "Ligamento colateral medial del menudillo (izquierdo)",
       "la": "Ligamentum collaterale mediale (articulationis metacarpophalangeae)",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara medial del menudillo del lado izquierdo, entre el tercer metacarpiano y la falange proximal.",
+        "descripcion": "Ligamento colateral medial de la articulación del menudillo. Une el tercer metacarpiano con la falange proximal; una rama profunda se fija al hueso sesamoideo. Los ligamentos colaterales sesamoideos conectan la cara externa de los sesamoideos con la falange proximal, con una rama propia hacia el tercer metacarpiano.",
+        "relaciones": "La cápsula del menudillo se divide en un receso dorsal y otro palmar.",
+        "accidentes": "Tercer metacarpiano; falange proximal; hueso sesamoideo proximal.",
+        "articulaciones": "Articulación del menudillo (metacarpofalángica).",
+        "inserciones": "Une el tercer metacarpiano con la falange proximal, con una rama profunda hacia el sesamoideo.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza el menudillo por su lado medial.",
+        "especie": "WikiVet describe un par de ligamentos colaterales con una rama profunda al sesamoideo; los ligamentos sesamoideos colaterales son distintos.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmt.008-d",
       "es": "Ligamento colateral medial del menudillo (derecho)",
       "la": "Ligamentum collaterale mediale (articulationis metacarpophalangeae)",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara medial del menudillo del lado derecho, entre el tercer metacarpiano y la falange proximal.",
+        "descripcion": "Ligamento colateral medial de la articulación del menudillo. Une el tercer metacarpiano con la falange proximal; una rama profunda se fija al hueso sesamoideo. Los ligamentos colaterales sesamoideos conectan la cara externa de los sesamoideos con la falange proximal, con una rama propia hacia el tercer metacarpiano.",
+        "relaciones": "La cápsula del menudillo se divide en un receso dorsal y otro palmar.",
+        "accidentes": "Tercer metacarpiano; falange proximal; hueso sesamoideo proximal.",
+        "articulaciones": "Articulación del menudillo (metacarpofalángica).",
+        "inserciones": "Une el tercer metacarpiano con la falange proximal, con una rama profunda hacia el sesamoideo.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza el menudillo por su lado medial.",
+        "especie": "WikiVet describe un par de ligamentos colaterales con una rama profunda al sesamoideo; los ligamentos sesamoideos colaterales son distintos.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmt.009-i",
       "es": "Ligamento colateral lateral del menudillo (izquierdo)",
       "la": "Ligamentum collaterale laterale (articulationis metacarpophalangeae)",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara lateral del menudillo del lado izquierdo, entre el tercer metacarpiano y la falange proximal.",
+        "descripcion": "Ligamento colateral lateral de la articulación del menudillo. Une el tercer metacarpiano con la falange proximal; una rama profunda se fija al hueso sesamoideo. Los ligamentos colaterales sesamoideos conectan la cara externa de los sesamoideos con la falange proximal, con una rama propia hacia el tercer metacarpiano.",
+        "relaciones": "La cápsula del menudillo se divide en un receso dorsal y otro palmar.",
+        "accidentes": "Tercer metacarpiano; falange proximal; hueso sesamoideo proximal.",
+        "articulaciones": "Articulación del menudillo (metacarpofalángica).",
+        "inserciones": "Une el tercer metacarpiano con la falange proximal, con una rama profunda hacia el sesamoideo.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza el menudillo por su lado lateral.",
+        "especie": "WikiVet describe un par de ligamentos colaterales con una rama profunda al sesamoideo; los ligamentos sesamoideos colaterales son distintos.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmt.009-d",
       "es": "Ligamento colateral lateral del menudillo (derecho)",
       "la": "Ligamentum collaterale laterale (articulationis metacarpophalangeae)",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara lateral del menudillo del lado derecho, entre el tercer metacarpiano y la falange proximal.",
+        "descripcion": "Ligamento colateral lateral de la articulación del menudillo. Une el tercer metacarpiano con la falange proximal; una rama profunda se fija al hueso sesamoideo. Los ligamentos colaterales sesamoideos conectan la cara externa de los sesamoideos con la falange proximal, con una rama propia hacia el tercer metacarpiano.",
+        "relaciones": "La cápsula del menudillo se divide en un receso dorsal y otro palmar.",
+        "accidentes": "Tercer metacarpiano; falange proximal; hueso sesamoideo proximal.",
+        "articulaciones": "Articulación del menudillo (metacarpofalángica).",
+        "inserciones": "Une el tercer metacarpiano con la falange proximal, con una rama profunda hacia el sesamoideo.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza el menudillo por su lado lateral.",
+        "especie": "WikiVet describe un par de ligamentos colaterales con una rama profunda al sesamoideo; los ligamentos sesamoideos colaterales son distintos.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmt.010-i",
       "es": "Ligamento anular palmar (izquierdo)",
       "la": "Ligamentum annulare palmare",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara palmar del menudillo del lado izquierdo, alrededor de los sesamoideos y los tendones flexores.",
+        "descripcion": "Ligamento anular palmar del menudillo: rodea los sesamoideos, los tendones flexores y sus vainas sinoviales.",
+        "relaciones": "Mantiene en posición los tendones flexores, que discurren en el surco del ligamento intersesamoideo.",
+        "accidentes": "Sesamoideos proximales; tendones flexores y vainas sinoviales.",
+        "articulaciones": "Articulación del menudillo (metacarpofalángica).",
+        "inserciones": "Rodea la cara palmar del menudillo. No se localizaron en las fuentes consultadas sus puntos de fijación.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Mantiene los tendones flexores contra los sesamoideos durante el movimiento del menudillo.",
+        "especie": "WikiVet lo incluye entre los ligamentos de soporte del menudillo, junto con los ligamentos sesamoideos distales.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmt.010-d",
       "es": "Ligamento anular palmar (derecho)",
       "la": "Ligamentum annulare palmare",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara palmar del menudillo del lado derecho, alrededor de los sesamoideos y los tendones flexores.",
+        "descripcion": "Ligamento anular palmar del menudillo: rodea los sesamoideos, los tendones flexores y sus vainas sinoviales.",
+        "relaciones": "Mantiene en posición los tendones flexores, que discurren en el surco del ligamento intersesamoideo.",
+        "accidentes": "Sesamoideos proximales; tendones flexores y vainas sinoviales.",
+        "articulaciones": "Articulación del menudillo (metacarpofalángica).",
+        "inserciones": "Rodea la cara palmar del menudillo. No se localizaron en las fuentes consultadas sus puntos de fijación.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Mantiene los tendones flexores contra los sesamoideos durante el movimiento del menudillo.",
+        "especie": "WikiVet lo incluye entre los ligamentos de soporte del menudillo, junto con los ligamentos sesamoideos distales.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmt.011-i",
       "es": "Ligamentos sesamoideos distales (recto, oblicuos, cruzados) (izquierdo)",
       "la": "Ligamenta sesamoidea distalia",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara palmar del menudillo y de la cuartilla del lado izquierdo, entre los sesamoideos proximales y las falanges.",
+        "descripcion": "Conjunto de ligamentos muy marcados en el caballo que conectan la cara distal de los sesamoideos con la cara palmar de las falanges. Incluyen los ligamentos cortos (los más profundos), los cruzados, el oblicuo y el recto.",
+        "relaciones": "Los cruzados son pares y quedan superficiales a los cortos; el oblicuo es triangular y queda superficial a los cruzados. El recto llega al borde del fibrocartílago complementario de la falange media.",
+        "accidentes": "Sesamoideos proximales; falange proximal; falange media.",
+        "articulaciones": "Articulaciones del menudillo y interfalángica proximal.",
+        "inserciones": "Los cortos unen la base axial de los sesamoideos con el borde palmar de la falange proximal; los cruzados cruzan en diagonal hasta la falange proximal; el oblicuo se fija a la cara palmar rugosa de la falange proximal; el recto se fija en el borde del fibrocartílago complementario de la falange media.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Se consideran la continuación funcional del ligamento suspensorio e intervienen en el aparato suspensor.",
+        "especie": "Son muy marcados en el caballo y se ven como una continuación directa del músculo interóseo, con los sesamoideos incluidos.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy\n\nSkeletal system of the horse (Wikipedia; fuente divulgativa). https://www.wikipedia.org/wiki/Skeletal_system_of_the_horse"
+      }
     },
     {
       "id": "equ.ske.lmt.011-d",
       "es": "Ligamentos sesamoideos distales (recto, oblicuos, cruzados) (derecho)",
       "la": "Ligamenta sesamoidea distalia",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara palmar del menudillo y de la cuartilla del lado derecho, entre los sesamoideos proximales y las falanges.",
+        "descripcion": "Conjunto de ligamentos muy marcados en el caballo que conectan la cara distal de los sesamoideos con la cara palmar de las falanges. Incluyen los ligamentos cortos (los más profundos), los cruzados, el oblicuo y el recto.",
+        "relaciones": "Los cruzados son pares y quedan superficiales a los cortos; el oblicuo es triangular y queda superficial a los cruzados. El recto llega al borde del fibrocartílago complementario de la falange media.",
+        "accidentes": "Sesamoideos proximales; falange proximal; falange media.",
+        "articulaciones": "Articulaciones del menudillo y interfalángica proximal.",
+        "inserciones": "Los cortos unen la base axial de los sesamoideos con el borde palmar de la falange proximal; los cruzados cruzan en diagonal hasta la falange proximal; el oblicuo se fija a la cara palmar rugosa de la falange proximal; el recto se fija en el borde del fibrocartílago complementario de la falange media.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Se consideran la continuación funcional del ligamento suspensorio e intervienen en el aparato suspensor.",
+        "especie": "Son muy marcados en el caballo y se ven como una continuación directa del músculo interóseo, con los sesamoideos incluidos.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy\n\nSkeletal system of the horse (Wikipedia; fuente divulgativa). https://www.wikipedia.org/wiki/Skeletal_system_of_the_horse"
+      }
     },
     {
       "id": "equ.ske.lmt.012-i",
       "es": "Ligamento sesamoideo distal impar (izquierdo)",
       "la": "Ligamentum sesamoideum distale impar",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara palmar del casco del lado izquierdo, entre el hueso navicular y la falange distal.",
+        "descripcion": "Ligamento sesamoideo distal impar: conecta el borde distal del hueso navicular con la cara flexora de la falange distal.",
+        "relaciones": "Se relaciona con el hueso navicular (sesamoideo distal) y con la falange distal; la bolsa del navicular queda entre el navicular y el tendón flexor digital profundo.",
+        "accidentes": "Hueso navicular; falange distal.",
+        "articulaciones": "Articulación interfalángica distal.",
+        "inserciones": "Une el borde distal del hueso navicular con la cara flexora de la falange distal.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Fija el hueso navicular a la falange distal.",
+        "especie": "En el caballo se describe como ligamento impar, entre el hueso navicular y la tercera falange.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nSkeletal system of the horse (Wikipedia; fuente divulgativa). https://www.wikipedia.org/wiki/Skeletal_system_of_the_horse"
+      }
     },
     {
       "id": "equ.ske.lmt.012-d",
       "es": "Ligamento sesamoideo distal impar (derecho)",
       "la": "Ligamentum sesamoideum distale impar",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara palmar del casco del lado derecho, entre el hueso navicular y la falange distal.",
+        "descripcion": "Ligamento sesamoideo distal impar: conecta el borde distal del hueso navicular con la cara flexora de la falange distal.",
+        "relaciones": "Se relaciona con el hueso navicular (sesamoideo distal) y con la falange distal; la bolsa del navicular queda entre el navicular y el tendón flexor digital profundo.",
+        "accidentes": "Hueso navicular; falange distal.",
+        "articulaciones": "Articulación interfalángica distal.",
+        "inserciones": "Une el borde distal del hueso navicular con la cara flexora de la falange distal.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Fija el hueso navicular a la falange distal.",
+        "especie": "En el caballo se describe como ligamento impar, entre el hueso navicular y la tercera falange.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nSkeletal system of the horse (Wikipedia; fuente divulgativa). https://www.wikipedia.org/wiki/Skeletal_system_of_the_horse"
+      }
     },
     {
       "id": "equ.ske.lmp.001-i",
       "es": "Ligamento de la cabeza del fémur (izquierdo)",
       "la": "Ligamentum capitis ossis femoris",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Dentro de la articulación coxofemoral del lado izquierdo, entre el acetábulo y la cabeza del fémur.",
+        "descripcion": "Ligamento intraarticular que va del acetábulo a la fóvea de la cabeza del fémur. Pasa por la escotadura acetabular.",
+        "relaciones": "Atraviesa la escotadura acetabular junto con el ligamento accesorio del fémur.",
+        "accidentes": "Acetábulo; escotadura acetabular; fóvea de la cabeza del fémur.",
+        "articulaciones": "Articulación coxofemoral.",
+        "inserciones": "Del acetábulo a la fóvea de la cabeza del fémur.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Junto con el ligamento accesorio, la forma de la cabeza femoral y la gran masa muscular, restringe el movimiento de la cadera, que en el caballo es sobre todo flexión y extensión.",
+        "especie": "El caballo tiene una cadera con menos rango de movimiento que el perro.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmp.001-d",
       "es": "Ligamento de la cabeza del fémur (derecho)",
       "la": "Ligamentum capitis ossis femoris",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Dentro de la articulación coxofemoral del lado derecho, entre el acetábulo y la cabeza del fémur.",
+        "descripcion": "Ligamento intraarticular que va del acetábulo a la fóvea de la cabeza del fémur. Pasa por la escotadura acetabular.",
+        "relaciones": "Atraviesa la escotadura acetabular junto con el ligamento accesorio del fémur.",
+        "accidentes": "Acetábulo; escotadura acetabular; fóvea de la cabeza del fémur.",
+        "articulaciones": "Articulación coxofemoral.",
+        "inserciones": "Del acetábulo a la fóvea de la cabeza del fémur.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Junto con el ligamento accesorio, la forma de la cabeza femoral y la gran masa muscular, restringe el movimiento de la cadera, que en el caballo es sobre todo flexión y extensión.",
+        "especie": "El caballo tiene una cadera con menos rango de movimiento que el perro.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmp.002-i",
       "es": "Ligamento accesorio del fémur (izquierdo)",
       "la": "Ligamentum accessorium ossis femoris",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Dentro de la articulación coxofemoral del lado izquierdo: viene del tendón prepúbico, pasa por la escotadura acetabular y llega a la cabeza del fémur.",
+        "descripcion": "Ligamento adicional de la cadera del caballo. Nace del tendón de inserción del músculo recto del abdomen y, en menor medida, del oblicuo externo, como parte del tendón prepúbico. Se inserta en la fóvea de la cabeza del fémur.",
+        "relaciones": "Atraviesa la escotadura acetabular junto con el ligamento de la cabeza del fémur.",
+        "accidentes": "Tendón prepúbico; escotadura acetabular; fóvea de la cabeza del fémur.",
+        "articulaciones": "Articulación coxofemoral.",
+        "inserciones": "Origen en el tendón de inserción del recto del abdomen (y en parte del oblicuo externo, en el tendón prepúbico); inserción en la fóvea de la cabeza del fémur.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Junto con el ligamento de la cabeza del fémur, restringe el movimiento de la cadera.",
+        "especie": "Según WikiVet, a diferencia de otras especies el caballo tiene este ligamento adicional en la cadera.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmp.002-d",
       "es": "Ligamento accesorio del fémur (derecho)",
       "la": "Ligamentum accessorium ossis femoris",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Dentro de la articulación coxofemoral del lado derecho: viene del tendón prepúbico, pasa por la escotadura acetabular y llega a la cabeza del fémur.",
+        "descripcion": "Ligamento adicional de la cadera del caballo. Nace del tendón de inserción del músculo recto del abdomen y, en menor medida, del oblicuo externo, como parte del tendón prepúbico. Se inserta en la fóvea de la cabeza del fémur.",
+        "relaciones": "Atraviesa la escotadura acetabular junto con el ligamento de la cabeza del fémur.",
+        "accidentes": "Tendón prepúbico; escotadura acetabular; fóvea de la cabeza del fémur.",
+        "articulaciones": "Articulación coxofemoral.",
+        "inserciones": "Origen en el tendón de inserción del recto del abdomen (y en parte del oblicuo externo, en el tendón prepúbico); inserción en la fóvea de la cabeza del fémur.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Junto con el ligamento de la cabeza del fémur, restringe el movimiento de la cadera.",
+        "especie": "Según WikiVet, a diferencia de otras especies el caballo tiene este ligamento adicional en la cadera.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmp.003-i",
       "es": "Ligamento patelar medial (izquierdo)",
       "la": "Ligamentum patellae mediale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara craneomedial de la babilla del lado izquierdo, entre la rótula y la tibia.",
+        "descripcion": "Ligamento patelar medial. Une el fibrocartílago parapatelar con la cara medial de la tuberosidad de la tibia. Contiene elementos tendinosos de los músculos sartorio y grácil.",
+        "relaciones": "Con la rótula y el ligamento patelar medio forma el lazo que permite enganchar la rótula sobre la tróclea del fémur.",
+        "accidentes": "Fibrocartílago parapatelar medial; tuberosidad de la tibia.",
+        "articulaciones": "Articulación femoropatelar.",
+        "inserciones": "Del fibrocartílago parapatelar a la cara medial de la tuberosidad de la tibia.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Participa en el bloqueo de la rótula del aparato de sostén del miembro pelviano.",
+        "especie": "El caballo tiene tres ligamentos patelares (medial, medio y lateral).",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmp.003-d",
       "es": "Ligamento patelar medial (derecho)",
       "la": "Ligamentum patellae mediale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara craneomedial de la babilla del lado derecho, entre la rótula y la tibia.",
+        "descripcion": "Ligamento patelar medial. Une el fibrocartílago parapatelar con la cara medial de la tuberosidad de la tibia. Contiene elementos tendinosos de los músculos sartorio y grácil.",
+        "relaciones": "Con la rótula y el ligamento patelar medio forma el lazo que permite enganchar la rótula sobre la tróclea del fémur.",
+        "accidentes": "Fibrocartílago parapatelar medial; tuberosidad de la tibia.",
+        "articulaciones": "Articulación femoropatelar.",
+        "inserciones": "Del fibrocartílago parapatelar a la cara medial de la tuberosidad de la tibia.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Participa en el bloqueo de la rótula del aparato de sostén del miembro pelviano.",
+        "especie": "El caballo tiene tres ligamentos patelares (medial, medio y lateral).",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmp.004-i",
       "es": "Ligamento patelar intermedio (izquierdo)",
       "la": "Ligamentum patellae intermedium",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara craneal de la babilla del lado izquierdo, entre el ápice de la rótula y la tuberosidad de la tibia.",
+        "descripcion": "Ligamento patelar intermedio (medio). Conecta el ápice de la rótula con la tuberosidad de la tibia.",
+        "relaciones": "Tiene dos bolsas: una entre el ligamento y el surco de la tuberosidad de la tibia, y otra entre su parte proximal y el ápice de la rótula. Se palpa justo proximal a la meseta tibial.",
+        "accidentes": "Ápice de la rótula; tuberosidad de la tibia.",
+        "articulaciones": "Articulación femoropatelar.",
+        "inserciones": "Del ápice de la rótula a la tuberosidad de la tibia.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Con la rótula y el ligamento patelar medial forma el lazo que permite enganchar la rótula sobre la tróclea femoral.",
+        "especie": "El caballo tiene tres ligamentos patelares (medial, medio y lateral).",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmp.004-d",
       "es": "Ligamento patelar intermedio (derecho)",
       "la": "Ligamentum patellae intermedium",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara craneal de la babilla del lado derecho, entre el ápice de la rótula y la tuberosidad de la tibia.",
+        "descripcion": "Ligamento patelar intermedio (medio). Conecta el ápice de la rótula con la tuberosidad de la tibia.",
+        "relaciones": "Tiene dos bolsas: una entre el ligamento y el surco de la tuberosidad de la tibia, y otra entre su parte proximal y el ápice de la rótula. Se palpa justo proximal a la meseta tibial.",
+        "accidentes": "Ápice de la rótula; tuberosidad de la tibia.",
+        "articulaciones": "Articulación femoropatelar.",
+        "inserciones": "Del ápice de la rótula a la tuberosidad de la tibia.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Con la rótula y el ligamento patelar medial forma el lazo que permite enganchar la rótula sobre la tróclea femoral.",
+        "especie": "El caballo tiene tres ligamentos patelares (medial, medio y lateral).",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmp.005-i",
       "es": "Ligamento patelar lateral (izquierdo)",
       "la": "Ligamentum patellae laterale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara craneolateral de la babilla del lado izquierdo, entre la rótula y la tibia.",
+        "descripcion": "Ligamento patelar lateral. Se fija en la cara craneolateral de la rótula y en la cara lateral de la tuberosidad de la tibia. Contiene tejido tendinoso de los músculos bíceps femoral y tensor de la fascia lata.",
+        "relaciones": "Se relaciona con la rótula, la tuberosidad de la tibia y los músculos bíceps femoral y tensor de la fascia lata.",
+        "accidentes": "Cara craneolateral de la rótula; cara lateral de la tuberosidad de la tibia.",
+        "articulaciones": "Articulación femoropatelar.",
+        "inserciones": "De la cara craneolateral de la rótula a la cara lateral de la tuberosidad de la tibia.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Es clave en el aparato de sostén del miembro pelviano y proporciona la capacidad de bloqueo.",
+        "especie": "El caballo tiene tres ligamentos patelares (medial, medio y lateral); este contiene tejido de bíceps femoral y tensor de la fascia lata.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmp.005-d",
       "es": "Ligamento patelar lateral (derecho)",
       "la": "Ligamentum patellae laterale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara craneolateral de la babilla del lado derecho, entre la rótula y la tibia.",
+        "descripcion": "Ligamento patelar lateral. Se fija en la cara craneolateral de la rótula y en la cara lateral de la tuberosidad de la tibia. Contiene tejido tendinoso de los músculos bíceps femoral y tensor de la fascia lata.",
+        "relaciones": "Se relaciona con la rótula, la tuberosidad de la tibia y los músculos bíceps femoral y tensor de la fascia lata.",
+        "accidentes": "Cara craneolateral de la rótula; cara lateral de la tuberosidad de la tibia.",
+        "articulaciones": "Articulación femoropatelar.",
+        "inserciones": "De la cara craneolateral de la rótula a la cara lateral de la tuberosidad de la tibia.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Es clave en el aparato de sostén del miembro pelviano y proporciona la capacidad de bloqueo.",
+        "especie": "El caballo tiene tres ligamentos patelares (medial, medio y lateral); este contiene tejido de bíceps femoral y tensor de la fascia lata.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nWikiVet, Stay Apparatus - Horse Anatomy. https://en.wikivet.net/Stay_Apparatus_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmp.006-i",
       "es": "Ligamento femoropatelar medial (izquierdo)",
       "la": "Ligamentum femoropatellare mediale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara medial de la babilla del lado izquierdo, entre la rótula y el fémur.",
+        "descripcion": "Ligamento femoropatelar medial. Ancla la rótula al fémur.",
+        "relaciones": "Se relaciona con la cápsula de la articulación femoropatelar, que a veces comunica con la cavidad femorotibial lateral y normalmente con la medial.",
+        "accidentes": "Rótula; fémur.",
+        "articulaciones": "Articulación femoropatelar.",
+        "inserciones": "Une la rótula con el fémur. No se localizaron en las fuentes consultadas los puntos exactos de origen e inserción.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Ancla la rótula al fémur y contribuye a estabilizar la babilla.",
+        "especie": "Los ligamentos femoropatelares medial y lateral, junto con los patelares, estabilizan la babilla del caballo.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nEstudio sobre la vascularización de las articulaciones femoropatelar y femorotibial equinas (PMC11083670). https://pmc.ncbi.nlm.nih.gov/articles/PMC11083670\n\nComputed tomographic anatomy of the equine stifle joint. Am J Vet Res. 2011;72(4):512-521. https://madbarn.com/research/computed-tomographic-anatomy-of-the-equine-stifle-joint"
+      }
     },
     {
       "id": "equ.ske.lmp.006-d",
       "es": "Ligamento femoropatelar medial (derecho)",
       "la": "Ligamentum femoropatellare mediale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara medial de la babilla del lado derecho, entre la rótula y el fémur.",
+        "descripcion": "Ligamento femoropatelar medial. Ancla la rótula al fémur.",
+        "relaciones": "Se relaciona con la cápsula de la articulación femoropatelar, que a veces comunica con la cavidad femorotibial lateral y normalmente con la medial.",
+        "accidentes": "Rótula; fémur.",
+        "articulaciones": "Articulación femoropatelar.",
+        "inserciones": "Une la rótula con el fémur. No se localizaron en las fuentes consultadas los puntos exactos de origen e inserción.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Ancla la rótula al fémur y contribuye a estabilizar la babilla.",
+        "especie": "Los ligamentos femoropatelares medial y lateral, junto con los patelares, estabilizan la babilla del caballo.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nEstudio sobre la vascularización de las articulaciones femoropatelar y femorotibial equinas (PMC11083670). https://pmc.ncbi.nlm.nih.gov/articles/PMC11083670\n\nComputed tomographic anatomy of the equine stifle joint. Am J Vet Res. 2011;72(4):512-521. https://madbarn.com/research/computed-tomographic-anatomy-of-the-equine-stifle-joint"
+      }
     },
     {
       "id": "equ.ske.lmp.007-i",
       "es": "Ligamento femoropatelar lateral (izquierdo)",
       "la": "Ligamentum femoropatellare laterale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara lateral de la babilla del lado izquierdo, entre la rótula y el fémur.",
+        "descripcion": "Ligamento femoropatelar lateral. Ancla la rótula al fémur.",
+        "relaciones": "Se relaciona con la cápsula de la articulación femoropatelar, que a veces comunica con la cavidad femorotibial lateral y normalmente con la medial.",
+        "accidentes": "Rótula; fémur.",
+        "articulaciones": "Articulación femoropatelar.",
+        "inserciones": "Une la rótula con el fémur. No se localizaron en las fuentes consultadas los puntos exactos de origen e inserción.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Ancla la rótula al fémur y contribuye a estabilizar la babilla.",
+        "especie": "Los ligamentos femoropatelares medial y lateral, junto con los patelares, estabilizan la babilla del caballo.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nEstudio sobre la vascularización de las articulaciones femoropatelar y femorotibial equinas (PMC11083670). https://pmc.ncbi.nlm.nih.gov/articles/PMC11083670\n\nComputed tomographic anatomy of the equine stifle joint. Am J Vet Res. 2011;72(4):512-521. https://madbarn.com/research/computed-tomographic-anatomy-of-the-equine-stifle-joint"
+      }
     },
     {
       "id": "equ.ske.lmp.007-d",
       "es": "Ligamento femoropatelar lateral (derecho)",
       "la": "Ligamentum femoropatellare laterale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara lateral de la babilla del lado derecho, entre la rótula y el fémur.",
+        "descripcion": "Ligamento femoropatelar lateral. Ancla la rótula al fémur.",
+        "relaciones": "Se relaciona con la cápsula de la articulación femoropatelar, que a veces comunica con la cavidad femorotibial lateral y normalmente con la medial.",
+        "accidentes": "Rótula; fémur.",
+        "articulaciones": "Articulación femoropatelar.",
+        "inserciones": "Une la rótula con el fémur. No se localizaron en las fuentes consultadas los puntos exactos de origen e inserción.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Ancla la rótula al fémur y contribuye a estabilizar la babilla.",
+        "especie": "Los ligamentos femoropatelares medial y lateral, junto con los patelares, estabilizan la babilla del caballo.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nEstudio sobre la vascularización de las articulaciones femoropatelar y femorotibial equinas (PMC11083670). https://pmc.ncbi.nlm.nih.gov/articles/PMC11083670\n\nComputed tomographic anatomy of the equine stifle joint. Am J Vet Res. 2011;72(4):512-521. https://madbarn.com/research/computed-tomographic-anatomy-of-the-equine-stifle-joint"
+      }
     },
     {
       "id": "equ.ske.lmp.008-i",
       "es": "Ligamento cruzado craneal (izquierdo)",
       "la": "Ligamentum cruciatum craniale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Centro de la articulación femorotibial del lado izquierdo, en la región intercondílea, entre los cóndilos femorales medial y lateral.",
+        "descripcion": "Ligamento cruzado craneal. Ligamento intraarticular que se inserta cranealmente en la tibia (entre los cartílagos meniscales).",
+        "relaciones": "Los ligamentos cruzados y los vasos poplíteos están en la región intercondílea mediana, donde una vaina fascial separa los compartimentos medial y lateral de la articulación femorotibial.",
+        "accidentes": "Región intercondílea del fémur; área intercondílea de la tibia.",
+        "articulaciones": "Articulación femorotibial.",
+        "inserciones": "Entre la región intercondílea del fémur y la tibia; se inserta cranealmente en la tibia. No se localizaron en las fuentes consultadas más detalles de su origen.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Importante para la estabilidad de la babilla.",
+        "especie": "La articulación femorotibial del caballo se estabiliza con dos ligamentos cruzados, seis meniscales y dos colaterales.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nUniversity of Minnesota, Ungulate Anatomy Lab Guide, Part 3: Distal Pelvic Limb. https://pressbooks.umn.edu/ungulateanatomylabguide/chapter/part-3-distal-pelvic-limb/\n\nEstudio sobre la vascularización de las articulaciones femoropatelar y femorotibial equinas (PMC11083670). https://pmc.ncbi.nlm.nih.gov/articles/PMC11083670"
+      }
     },
     {
       "id": "equ.ske.lmp.008-d",
       "es": "Ligamento cruzado craneal (derecho)",
       "la": "Ligamentum cruciatum craniale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Centro de la articulación femorotibial del lado derecho, en la región intercondílea, entre los cóndilos femorales medial y lateral.",
+        "descripcion": "Ligamento cruzado craneal. Ligamento intraarticular que se inserta cranealmente en la tibia (entre los cartílagos meniscales).",
+        "relaciones": "Los ligamentos cruzados y los vasos poplíteos están en la región intercondílea mediana, donde una vaina fascial separa los compartimentos medial y lateral de la articulación femorotibial.",
+        "accidentes": "Región intercondílea del fémur; área intercondílea de la tibia.",
+        "articulaciones": "Articulación femorotibial.",
+        "inserciones": "Entre la región intercondílea del fémur y la tibia; se inserta cranealmente en la tibia. No se localizaron en las fuentes consultadas más detalles de su origen.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Importante para la estabilidad de la babilla.",
+        "especie": "La articulación femorotibial del caballo se estabiliza con dos ligamentos cruzados, seis meniscales y dos colaterales.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nUniversity of Minnesota, Ungulate Anatomy Lab Guide, Part 3: Distal Pelvic Limb. https://pressbooks.umn.edu/ungulateanatomylabguide/chapter/part-3-distal-pelvic-limb/\n\nEstudio sobre la vascularización de las articulaciones femoropatelar y femorotibial equinas (PMC11083670). https://pmc.ncbi.nlm.nih.gov/articles/PMC11083670"
+      }
     },
     {
       "id": "equ.ske.lmp.009-i",
       "es": "Ligamento cruzado caudal (izquierdo)",
       "la": "Ligamentum cruciatum caudale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Centro de la articulación femorotibial del lado izquierdo, en la región intercondílea, entre los cóndilos femorales medial y lateral.",
+        "descripcion": "Ligamento cruzado caudal. Ligamento intraarticular que se inserta caudalmente en la tibia.",
+        "relaciones": "Los ligamentos cruzados y los vasos poplíteos están en la región intercondílea mediana, donde una vaina fascial separa los compartimentos medial y lateral de la articulación femorotibial.",
+        "accidentes": "Región intercondílea del fémur; área intercondílea de la tibia.",
+        "articulaciones": "Articulación femorotibial.",
+        "inserciones": "Entre la región intercondílea del fémur y la tibia; se inserta caudalmente en la tibia. No se localizaron en las fuentes consultadas más detalles de su origen.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Importante para la estabilidad de la babilla.",
+        "especie": "La articulación femorotibial del caballo se estabiliza con dos ligamentos cruzados, seis meniscales y dos colaterales.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nUniversity of Minnesota, Ungulate Anatomy Lab Guide, Part 3: Distal Pelvic Limb. https://pressbooks.umn.edu/ungulateanatomylabguide/chapter/part-3-distal-pelvic-limb/\n\nEstudio sobre la vascularización de las articulaciones femoropatelar y femorotibial equinas (PMC11083670). https://pmc.ncbi.nlm.nih.gov/articles/PMC11083670"
+      }
     },
     {
       "id": "equ.ske.lmp.009-d",
       "es": "Ligamento cruzado caudal (derecho)",
       "la": "Ligamentum cruciatum caudale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Centro de la articulación femorotibial del lado derecho, en la región intercondílea, entre los cóndilos femorales medial y lateral.",
+        "descripcion": "Ligamento cruzado caudal. Ligamento intraarticular que se inserta caudalmente en la tibia.",
+        "relaciones": "Los ligamentos cruzados y los vasos poplíteos están en la región intercondílea mediana, donde una vaina fascial separa los compartimentos medial y lateral de la articulación femorotibial.",
+        "accidentes": "Región intercondílea del fémur; área intercondílea de la tibia.",
+        "articulaciones": "Articulación femorotibial.",
+        "inserciones": "Entre la región intercondílea del fémur y la tibia; se inserta caudalmente en la tibia. No se localizaron en las fuentes consultadas más detalles de su origen.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Importante para la estabilidad de la babilla.",
+        "especie": "La articulación femorotibial del caballo se estabiliza con dos ligamentos cruzados, seis meniscales y dos colaterales.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nUniversity of Minnesota, Ungulate Anatomy Lab Guide, Part 3: Distal Pelvic Limb. https://pressbooks.umn.edu/ungulateanatomylabguide/chapter/part-3-distal-pelvic-limb/\n\nEstudio sobre la vascularización de las articulaciones femoropatelar y femorotibial equinas (PMC11083670). https://pmc.ncbi.nlm.nih.gov/articles/PMC11083670"
+      }
     },
     {
       "id": "equ.ske.lmp.010-i",
       "es": "Ligamento colateral medial de la rodilla (izquierdo)",
       "la": "Ligamentum collaterale mediale (articulationis genus)",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara medial de la babilla del lado izquierdo, entre el fémur y la tibia.",
+        "descripcion": "Ligamento colateral medial de la articulación femorotibial. Se palpa en el lado medial de la babilla y une el fémur con la tibia.",
+        "relaciones": "Cubre medialmente la articulación femorotibial.",
+        "accidentes": "Fémur; tibia.",
+        "articulaciones": "Articulación femorotibial.",
+        "inserciones": "Une el fémur con la tibia. No se localizaron en las fuentes consultadas los puntos exactos de origen e inserción.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza la babilla por su lado medial.",
+        "especie": "La articulación femorotibial del caballo se estabiliza con dos ligamentos cruzados, seis meniscales y dos colaterales.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "University of Minnesota, Ungulate Anatomy Lab Guide, Part 3: Distal Pelvic Limb. https://pressbooks.umn.edu/ungulateanatomylabguide/chapter/part-3-distal-pelvic-limb/\n\nEstudio sobre la vascularización de las articulaciones femoropatelar y femorotibial equinas (PMC11083670). https://pmc.ncbi.nlm.nih.gov/articles/PMC11083670\n\nComputed tomographic anatomy of the equine stifle joint. Am J Vet Res. 2011;72(4):512-521. https://madbarn.com/research/computed-tomographic-anatomy-of-the-equine-stifle-joint"
+      }
     },
     {
       "id": "equ.ske.lmp.010-d",
       "es": "Ligamento colateral medial de la rodilla (derecho)",
       "la": "Ligamentum collaterale mediale (articulationis genus)",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara medial de la babilla del lado derecho, entre el fémur y la tibia.",
+        "descripcion": "Ligamento colateral medial de la articulación femorotibial. Se palpa en el lado medial de la babilla y une el fémur con la tibia.",
+        "relaciones": "Cubre medialmente la articulación femorotibial.",
+        "accidentes": "Fémur; tibia.",
+        "articulaciones": "Articulación femorotibial.",
+        "inserciones": "Une el fémur con la tibia. No se localizaron en las fuentes consultadas los puntos exactos de origen e inserción.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza la babilla por su lado medial.",
+        "especie": "La articulación femorotibial del caballo se estabiliza con dos ligamentos cruzados, seis meniscales y dos colaterales.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "University of Minnesota, Ungulate Anatomy Lab Guide, Part 3: Distal Pelvic Limb. https://pressbooks.umn.edu/ungulateanatomylabguide/chapter/part-3-distal-pelvic-limb/\n\nEstudio sobre la vascularización de las articulaciones femoropatelar y femorotibial equinas (PMC11083670). https://pmc.ncbi.nlm.nih.gov/articles/PMC11083670\n\nComputed tomographic anatomy of the equine stifle joint. Am J Vet Res. 2011;72(4):512-521. https://madbarn.com/research/computed-tomographic-anatomy-of-the-equine-stifle-joint"
+      }
     },
     {
       "id": "equ.ske.lmp.011-i",
       "es": "Ligamento colateral lateral de la rodilla (izquierdo)",
       "la": "Ligamentum collaterale laterale (articulationis genus)",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara lateral de la babilla del lado izquierdo, entre el fémur y la tibia.",
+        "descripcion": "Ligamento colateral lateral de la articulación femorotibial. Se palpa en el lado lateral de la babilla y une el fémur con la tibia.",
+        "relaciones": "Cubre lateralmente la articulación femorotibial. El tendón de origen del poplíteo se relaciona con este ligamento y se une de forma constante al menisco lateral; su inserción proximal respecto al ligamento colateral lateral varía entre caballos (craneal, por debajo o caudal).",
+        "accidentes": "Fémur; tibia.",
+        "articulaciones": "Articulación femorotibial.",
+        "inserciones": "Une el fémur con la tibia. No se localizaron en las fuentes consultadas los puntos exactos de origen e inserción.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza la babilla por su lado lateral.",
+        "especie": "La articulación femorotibial del caballo se estabiliza con dos ligamentos cruzados, seis meniscales y dos colaterales.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "University of Minnesota, Ungulate Anatomy Lab Guide, Part 3: Distal Pelvic Limb. https://pressbooks.umn.edu/ungulateanatomylabguide/chapter/part-3-distal-pelvic-limb/\n\nEstudio sobre la vascularización de las articulaciones femoropatelar y femorotibial equinas (PMC11083670). https://pmc.ncbi.nlm.nih.gov/articles/PMC11083670\n\nComputed tomographic anatomy of the equine stifle joint. Am J Vet Res. 2011;72(4):512-521. https://madbarn.com/research/computed-tomographic-anatomy-of-the-equine-stifle-joint\n\nEstudio equino sobre la inserción del tendón del poplíteo y su relación con el ligamento colateral lateral. https://synapse.koreamed.org/articles/1130025"
+      }
     },
     {
       "id": "equ.ske.lmp.011-d",
       "es": "Ligamento colateral lateral de la rodilla (derecho)",
       "la": "Ligamentum collaterale laterale (articulationis genus)",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara lateral de la babilla del lado derecho, entre el fémur y la tibia.",
+        "descripcion": "Ligamento colateral lateral de la articulación femorotibial. Se palpa en el lado lateral de la babilla y une el fémur con la tibia.",
+        "relaciones": "Cubre lateralmente la articulación femorotibial. El tendón de origen del poplíteo se relaciona con este ligamento y se une de forma constante al menisco lateral; su inserción proximal respecto al ligamento colateral lateral varía entre caballos (craneal, por debajo o caudal).",
+        "accidentes": "Fémur; tibia.",
+        "articulaciones": "Articulación femorotibial.",
+        "inserciones": "Une el fémur con la tibia. No se localizaron en las fuentes consultadas los puntos exactos de origen e inserción.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza la babilla por su lado lateral.",
+        "especie": "La articulación femorotibial del caballo se estabiliza con dos ligamentos cruzados, seis meniscales y dos colaterales.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "University of Minnesota, Ungulate Anatomy Lab Guide, Part 3: Distal Pelvic Limb. https://pressbooks.umn.edu/ungulateanatomylabguide/chapter/part-3-distal-pelvic-limb/\n\nEstudio sobre la vascularización de las articulaciones femoropatelar y femorotibial equinas (PMC11083670). https://pmc.ncbi.nlm.nih.gov/articles/PMC11083670\n\nComputed tomographic anatomy of the equine stifle joint. Am J Vet Res. 2011;72(4):512-521. https://madbarn.com/research/computed-tomographic-anatomy-of-the-equine-stifle-joint\n\nEstudio equino sobre la inserción del tendón del poplíteo y su relación con el ligamento colateral lateral. https://synapse.koreamed.org/articles/1130025"
+      }
     },
     {
       "id": "equ.ske.lmp.012-i",
       "es": "Ligamento colateral medial del tarso (izquierdo)",
       "la": "Ligamentum collaterale tarsi mediale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara medial del corvejón del lado izquierdo, desde el maléolo medial de la tibia hasta los metatarsianos.",
+        "descripcion": "Ligamento colateral medial del tarso, con una parte larga y otra corta. El largo nace en el maléolo medial de la tibia y termina en el extremo proximal del segundo metatarsiano (hueso accesorio medial); entre ambos puntos se fija a los huesos del tarso medial. El corto queda profundo al largo, nace en el mismo maléolo y se fija por dos ramas, una en el calcáneo y otra en el talus.",
+        "relaciones": "Cubre el corvejón por el lado medial. Es parte de los ligamentos del tarso junto con el ligamento plantar largo.",
+        "accidentes": "Maléolo medial de la tibia; calcáneo; talus; huesos del tarso medial; extremo proximal del segundo metatarsiano (hueso accesorio medial).",
+        "articulaciones": "Articulaciones tarsocrural, intertarsiana proximal, intertarsiana distal y tarsometatarsiana (corvejón).",
+        "inserciones": "Parte larga: del maléolo medial de la tibia al segundo metatarsiano (hueso accesorio medial), con fijaciones en los huesos del tarso. Parte corta: del mismo maléolo al calcáneo y al talus.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza el corvejón por su lado medial.",
+        "especie": "En el caballo el extremo distal de la fíbula está fusionado con la tibia y forma el maléolo lateral. Las tres articulaciones distales del corvejón casi no tienen movimiento.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmp.012-d",
       "es": "Ligamento colateral medial del tarso (derecho)",
       "la": "Ligamentum collaterale tarsi mediale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara medial del corvejón del lado derecho, desde el maléolo medial de la tibia hasta los metatarsianos.",
+        "descripcion": "Ligamento colateral medial del tarso, con una parte larga y otra corta. El largo nace en el maléolo medial de la tibia y termina en el extremo proximal del segundo metatarsiano (hueso accesorio medial); entre ambos puntos se fija a los huesos del tarso medial. El corto queda profundo al largo, nace en el mismo maléolo y se fija por dos ramas, una en el calcáneo y otra en el talus.",
+        "relaciones": "Cubre el corvejón por el lado medial. Es parte de los ligamentos del tarso junto con el ligamento plantar largo.",
+        "accidentes": "Maléolo medial de la tibia; calcáneo; talus; huesos del tarso medial; extremo proximal del segundo metatarsiano (hueso accesorio medial).",
+        "articulaciones": "Articulaciones tarsocrural, intertarsiana proximal, intertarsiana distal y tarsometatarsiana (corvejón).",
+        "inserciones": "Parte larga: del maléolo medial de la tibia al segundo metatarsiano (hueso accesorio medial), con fijaciones en los huesos del tarso. Parte corta: del mismo maléolo al calcáneo y al talus.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza el corvejón por su lado medial.",
+        "especie": "En el caballo el extremo distal de la fíbula está fusionado con la tibia y forma el maléolo lateral. Las tres articulaciones distales del corvejón casi no tienen movimiento.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmp.013-i",
       "es": "Ligamento colateral lateral del tarso (izquierdo)",
       "la": "Ligamentum collaterale tarsi laterale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara lateral del corvejón del lado izquierdo, desde el maléolo lateral de la tibia hasta los metatarsianos.",
+        "descripcion": "Ligamento colateral lateral del tarso, con una parte larga y otra corta. El largo nace en el maléolo lateral de la tibia y termina en el extremo proximal del cuarto metatarsiano (hueso accesorio lateral); entre ambos puntos se fija a los huesos del tarso lateral. El corto queda profundo al largo, nace en el mismo maléolo y se fija por dos ramas, una en el calcáneo y otra en el talus.",
+        "relaciones": "Cubre el corvejón por el lado lateral. Es parte de los ligamentos del tarso junto con el ligamento plantar largo.",
+        "accidentes": "Maléolo lateral de la tibia; calcáneo; talus; huesos del tarso lateral; extremo proximal del cuarto metatarsiano (hueso accesorio lateral).",
+        "articulaciones": "Articulaciones tarsocrural, intertarsiana proximal, intertarsiana distal y tarsometatarsiana (corvejón).",
+        "inserciones": "Parte larga: del maléolo lateral de la tibia al cuarto metatarsiano (hueso accesorio lateral), con fijaciones en los huesos del tarso. Parte corta: del mismo maléolo al calcáneo y al talus.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza el corvejón por su lado lateral.",
+        "especie": "En el caballo el extremo distal de la fíbula está fusionado con la tibia y forma el maléolo lateral. Las tres articulaciones distales del corvejón casi no tienen movimiento.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmp.013-d",
       "es": "Ligamento colateral lateral del tarso (derecho)",
       "la": "Ligamentum collaterale tarsi laterale",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara lateral del corvejón del lado derecho, desde el maléolo lateral de la tibia hasta los metatarsianos.",
+        "descripcion": "Ligamento colateral lateral del tarso, con una parte larga y otra corta. El largo nace en el maléolo lateral de la tibia y termina en el extremo proximal del cuarto metatarsiano (hueso accesorio lateral); entre ambos puntos se fija a los huesos del tarso lateral. El corto queda profundo al largo, nace en el mismo maléolo y se fija por dos ramas, una en el calcáneo y otra en el talus.",
+        "relaciones": "Cubre el corvejón por el lado lateral. Es parte de los ligamentos del tarso junto con el ligamento plantar largo.",
+        "accidentes": "Maléolo lateral de la tibia; calcáneo; talus; huesos del tarso lateral; extremo proximal del cuarto metatarsiano (hueso accesorio lateral).",
+        "articulaciones": "Articulaciones tarsocrural, intertarsiana proximal, intertarsiana distal y tarsometatarsiana (corvejón).",
+        "inserciones": "Parte larga: del maléolo lateral de la tibia al cuarto metatarsiano (hueso accesorio lateral), con fijaciones en los huesos del tarso. Parte corta: del mismo maléolo al calcáneo y al talus.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza el corvejón por su lado lateral.",
+        "especie": "En el caballo el extremo distal de la fíbula está fusionado con la tibia y forma el maléolo lateral. Las tres articulaciones distales del corvejón casi no tienen movimiento.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmp.014-i",
       "es": "Ligamento plantar largo (izquierdo)",
       "la": "Ligamentum plantare longum",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara plantar del corvejón del lado izquierdo, desde la tuberosidad del calcáneo hasta los metatarsianos.",
+        "descripcion": "Ligamento plantar largo. Se extiende por la cara plantar del corvejón, desde la tuberosidad del calcáneo hasta el extremo proximal de los metatarsianos tercero y cuarto; también se fija en el tarsiano central y en el cuarto tarsiano.",
+        "relaciones": "Recorre la cara plantar del tarso.",
+        "accidentes": "Tuberosidad del calcáneo; tarsiano central; cuarto tarsiano; extremos proximales de los metatarsianos tercero y cuarto.",
+        "articulaciones": "Articulaciones del corvejón (intertarsianas y tarsometatarsiana).",
+        "inserciones": "Origen en la tuberosidad del calcáneo; inserción en los extremos proximales del tercer y cuarto metatarsianos, con fijaciones en el tarsiano central y en el cuarto tarsiano.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza la cara plantar del corvejón.",
+        "especie": "En el caballo el ligamento llega hasta los metatarsianos tercero y cuarto.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmp.014-d",
       "es": "Ligamento plantar largo (derecho)",
       "la": "Ligamentum plantare longum",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara plantar del corvejón del lado derecho, desde la tuberosidad del calcáneo hasta los metatarsianos.",
+        "descripcion": "Ligamento plantar largo. Se extiende por la cara plantar del corvejón, desde la tuberosidad del calcáneo hasta el extremo proximal de los metatarsianos tercero y cuarto; también se fija en el tarsiano central y en el cuarto tarsiano.",
+        "relaciones": "Recorre la cara plantar del tarso.",
+        "accidentes": "Tuberosidad del calcáneo; tarsiano central; cuarto tarsiano; extremos proximales de los metatarsianos tercero y cuarto.",
+        "articulaciones": "Articulaciones del corvejón (intertarsianas y tarsometatarsiana).",
+        "inserciones": "Origen en la tuberosidad del calcáneo; inserción en los extremos proximales del tercer y cuarto metatarsianos, con fijaciones en el tarsiano central y en el cuarto tarsiano.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Refuerza la cara plantar del corvejón.",
+        "especie": "En el caballo el ligamento llega hasta los metatarsianos tercero y cuarto.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmp.015-i",
       "es": "Ligamento suspensorio del menudillo (izquierdo)",
       "la": "Musculus interosseus medius",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara plantar del tercer metatarsiano del lado izquierdo, desde el tarso hasta el menudillo.",
+        "descripcion": "Músculo interóseo medio (ligamento suspensorio) del miembro pelviano, estructura tendinosa equivalente a la del miembro torácico. WikiVet indica que el menudillo, la cuartilla y la articulación del casco son idénticos en ambos miembros.",
+        "relaciones": "Se relaciona con el menudillo del miembro pelviano y con los sesamoideos proximales, como en el miembro torácico. También se llama ligamento interóseo.",
+        "accidentes": "Tercer metatarsiano; huesos del tarso distal; sesamoideos proximales.",
+        "articulaciones": "Articulación del menudillo (metatarsofalángica).",
+        "inserciones": "No se localizó una descripción específica de su origen en el miembro pelviano. Por equivalencia con el torácico, nace en la parte proximal del tercer metatarsiano y en el tarso distal.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Forma parte del aparato suspensor y sostiene el menudillo, como en el miembro torácico.",
+        "especie": "Por equivalencia con el miembro torácico, es totalmente tendinoso.",
+        "clinica": "La desmitis suspensora proximal del miembro pelviano y su posible relación con la enfermedad sacroilíaca han sido objeto de revisión. Los desgarros de su origen alto pueden parecerse a la artritis de las dos articulaciones inferiores del corvejón.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nIntechOpen, capítulo sobre desmitis suspensora proximal del miembro pelviano y enfermedad sacroilíaca en el caballo (DOI 10.5772/intechopen.92353). https://www.intechopen.com/chapters/72062\n\nUniversity of Minnesota, Large Animal Surgery - Supplemental Notes, capítulo Osteoarthritis (hock joint problems). https://open.lib.umn.edu/largeanimalsurgery/chapter/osteoarthritis/"
+      }
     },
     {
       "id": "equ.ske.lmp.015-d",
       "es": "Ligamento suspensorio del menudillo (derecho)",
       "la": "Musculus interosseus medius",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara plantar del tercer metatarsiano del lado derecho, desde el tarso hasta el menudillo.",
+        "descripcion": "Músculo interóseo medio (ligamento suspensorio) del miembro pelviano, estructura tendinosa equivalente a la del miembro torácico. WikiVet indica que el menudillo, la cuartilla y la articulación del casco son idénticos en ambos miembros.",
+        "relaciones": "Se relaciona con el menudillo del miembro pelviano y con los sesamoideos proximales, como en el miembro torácico. También se llama ligamento interóseo.",
+        "accidentes": "Tercer metatarsiano; huesos del tarso distal; sesamoideos proximales.",
+        "articulaciones": "Articulación del menudillo (metatarsofalángica).",
+        "inserciones": "No se localizó una descripción específica de su origen en el miembro pelviano. Por equivalencia con el torácico, nace en la parte proximal del tercer metatarsiano y en el tarso distal.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Forma parte del aparato suspensor y sostiene el menudillo, como en el miembro torácico.",
+        "especie": "Por equivalencia con el miembro torácico, es totalmente tendinoso.",
+        "clinica": "La desmitis suspensora proximal del miembro pelviano y su posible relación con la enfermedad sacroilíaca han sido objeto de revisión. Los desgarros de su origen alto pueden parecerse a la artritis de las dos articulaciones inferiores del corvejón.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nIntechOpen, capítulo sobre desmitis suspensora proximal del miembro pelviano y enfermedad sacroilíaca en el caballo (DOI 10.5772/intechopen.92353). https://www.intechopen.com/chapters/72062\n\nUniversity of Minnesota, Large Animal Surgery - Supplemental Notes, capítulo Osteoarthritis (hock joint problems). https://open.lib.umn.edu/largeanimalsurgery/chapter/osteoarthritis/"
+      }
     },
     {
       "id": "equ.ske.lmp.016-i",
       "es": "Ligamento anular plantar (izquierdo)",
       "la": "Ligamentum annulare plantare",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara plantar del menudillo del lado izquierdo, alrededor de los sesamoideos y los tendones flexores.",
+        "descripcion": "Ligamento anular plantar del menudillo: equivalente del ligamento anular palmar del miembro torácico. Rodea los sesamoideos, los tendones flexores y sus vainas sinoviales.",
+        "relaciones": "Mantiene en posición los tendones flexores contra los sesamoideos.",
+        "accidentes": "Sesamoideos proximales; tendones flexores y vainas sinoviales.",
+        "articulaciones": "Articulación del menudillo (metatarsofalángica).",
+        "inserciones": "Rodea la cara plantar del menudillo. No se localizaron en las fuentes consultadas sus puntos de fijación.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Mantiene los tendones flexores contra los sesamoideos durante el movimiento del menudillo.",
+        "especie": "WikiVet indica que el menudillo del miembro pelviano es idéntico al del torácico; este ligamento es el equivalente plantar del anular palmar.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.ske.lmp.016-d",
       "es": "Ligamento anular plantar (derecho)",
       "la": "Ligamentum annulare plantare",
       "sys": "ske",
-      "layer": "art"
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Cara plantar del menudillo del lado derecho, alrededor de los sesamoideos y los tendones flexores.",
+        "descripcion": "Ligamento anular plantar del menudillo: equivalente del ligamento anular palmar del miembro torácico. Rodea los sesamoideos, los tendones flexores y sus vainas sinoviales.",
+        "relaciones": "Mantiene en posición los tendones flexores contra los sesamoideos.",
+        "accidentes": "Sesamoideos proximales; tendones flexores y vainas sinoviales.",
+        "articulaciones": "Articulación del menudillo (metatarsofalángica).",
+        "inserciones": "Rodea la cara plantar del menudillo. No se localizaron en las fuentes consultadas sus puntos de fijación.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "funcion": "Mantiene los tendones flexores contra los sesamoideos durante el movimiento del menudillo.",
+        "especie": "WikiVet indica que el menudillo del miembro pelviano es idéntico al del torácico; este ligamento es el equivalente plantar del anular palmar.",
+        "clinica": "No se localizó información clínica específica de este ligamento en las fuentes consultadas.",
+        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy"
+      }
     },
     {
       "id": "equ.mus.cab.001-i",
@@ -6760,7 +7740,7 @@
         "funcion": "Desplaza rostralmente el aparato hioideo y la lengua. Contribuye a los movimientos coordinados de la lengua y del piso de la boca durante la prensión, manipulación del alimento y deglución.",
         "especie": "En el caballo, el origen se sitúa en la porción incisiva mandibular y la inserción en el proceso lingual del basihioides. Es un músculo par, con disposición longitudinal en la región ventral de la lengua.",
         "clinica": "Participa en la movilidad rostral del aparato hioideo y de la lengua; su función debe considerarse en la evaluación de alteraciones de movilidad lingual y deglución.",
-        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo.\n"
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo."
       }
     },
     {
@@ -6781,7 +7761,7 @@
         "funcion": "Desplaza rostralmente el aparato hioideo y la lengua. Contribuye a los movimientos coordinados de la lengua y del piso de la boca durante la prensión, manipulación del alimento y deglución.",
         "especie": "En el caballo, el origen se sitúa en la porción incisiva mandibular y la inserción en el proceso lingual del basihioides. Es un músculo par, con disposición longitudinal en la región ventral de la lengua.",
         "clinica": "Participa en la movilidad rostral del aparato hioideo y de la lengua; su función debe considerarse en la evaluación de alteraciones de movilidad lingual y deglución.",
-        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo.\n"
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo."
       }
     },
     {
@@ -12340,7 +13320,7 @@
         "funcion": "Permite una conexión móvil entre el aparato hioideo y el cartílago tiroides, coordinando los desplazamientos del aparato hioideo con los movimientos de la laringe durante la deglución y la función respiratoria.",
         "especie": "En el caballo, el proceso tirohioideo es una prolongación del basihioides y su extremo distal se articula con el cuerno rostral del cartílago tiroides mediante una pequeña articulación sinovial. La unión proximal basihioides–proceso tirohioideo es distinta y puede osificarse con la edad.",
         "clinica": "Es una conexión relevante para la movilidad coordinada del aparato hioideo y la laringe. La valoración de alteraciones debe considerar la articulación distal y distinguirla de cambios de osificación en la unión basihioidea.",
-        "referencias": "Hartl B, Egerbacher M, Kneissl SM. Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology. Front Vet Sci. 2021;8:652563. https://doi.org/10.3389/fvets.2021.652563\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo.\n"
+        "referencias": "Hartl B, Egerbacher M, Kneissl SM. Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology. Front Vet Sci. 2021;8:652563. https://doi.org/10.3389/fvets.2021.652563\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo."
       }
     },
     {
@@ -12361,7 +13341,7 @@
         "funcion": "Permite una conexión móvil entre el aparato hioideo y el cartílago tiroides, coordinando los desplazamientos del aparato hioideo con los movimientos de la laringe durante la deglución y la función respiratoria.",
         "especie": "En el caballo, el proceso tirohioideo es una prolongación del basihioides y su extremo distal se articula con el cuerno rostral del cartílago tiroides mediante una pequeña articulación sinovial. La unión proximal basihioides–proceso tirohioideo es distinta y puede osificarse con la edad.",
         "clinica": "Es una conexión relevante para la movilidad coordinada del aparato hioideo y la laringe. La valoración de alteraciones debe considerar la articulación distal y distinguirla de cambios de osificación en la unión basihioidea.",
-        "referencias": "Hartl B, Egerbacher M, Kneissl SM. Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology. Front Vet Sci. 2021;8:652563. https://doi.org/10.3389/fvets.2021.652563\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo.\n"
+        "referencias": "Hartl B, Egerbacher M, Kneissl SM. Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology. Front Vet Sci. 2021;8:652563. https://doi.org/10.3389/fvets.2021.652563\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2011. Secciones de músculos del espacio intermandibular y aparato hioideo."
       }
     },
     {
