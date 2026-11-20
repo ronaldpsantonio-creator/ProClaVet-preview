@@ -26,9 +26,10 @@ Cada ficha incluye los 12 campos del protocolo ProClaVet: ubicación, descripci�
 - La ficha textual no valida el modelo 3D.
 
 ## Integración técnica
-- Archivo: `data/fichas_costillas_9.json`.
-- El cargador incorpora las fichas suplementarias de Costillas 7, 8 y 9.
-- El service worker precarga el nuevo archivo y utiliza una versión de caché nueva.
+- Fuente de datos: `data/equino.json`, catálogo anatómico principal.
+- Las fichas de Costilla 7 a 9 se mantienen en los registros correspondientes dentro de `data/equino.json`; `js/app.js` carga ese catálogo como fuente principal.
+- No existe ni se carga un archivo independiente `data/fichas_costillas_9.json`.
+- El service worker precarga `data/equino.json`; no requiere archivos suplementarios de costillas.
 
 ## Referencias
 1. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. *Textbook of Veterinary Anatomy*, 5.ª ed., secciones sobre costillas, esternón y tórax del caballo.
