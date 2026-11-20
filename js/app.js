@@ -60,7 +60,7 @@ function makeMesh(P){
 function centerOf(P){return P.k==="seg"?V3(...P.a).add(V3(...P.b)).multiplyScalar(.5):P.k==="rib"?V3(...P.pts[2]):V3(...P.p)}
 // ---- Carga de datos y estructuras
 const loader=new THREE.GLTFLoader();
-fetch("data/equino.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("equino.json HTTP "+r.status);return r.json()}).then(d=>fetch("data/fichas_miembro_pelviano_1.json?v=2",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("fichas_miembro_pelviano_1.json HTTP "+r.status);return r.json()}).then(extra=>{
+fetch("data/equino.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("equino.json HTTP "+r.status);return r.json()}).then(d=>fetch("data/fichas_miembro_pelviano_1.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("fichas_miembro_pelviano_1.json HTTP "+r.status);return r.json()}).then(extra=>{
  const defs={
  "equ.ske.mpe.005-i":["Fíbula (izquierda)","Fibula sinistra"],
  "equ.ske.mpe.005-d":["Fíbula (derecha)","Fibula dextra"],
