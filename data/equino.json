@@ -6198,23 +6198,23 @@
     },
     {
       "id": "equ.ske.lax.012",
-      "es": "Ligamento longitudinal odontoideo",
-      "la": "Ligamentum longitudinale odontoideum",
+      "es": "Ligamento longitudinal del diente (odontoideo longitudinal)",
+      "la": "Ligamentum longitudinale dentis",
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "Región occipitoatlantoaxial, en relación con el diente del axis. Los resúmenes consultados no precisan su trayecto exacto.",
-        "descripcion": "Ligamento de la región occipitoatlantoaxial del caballo, con forma de abanico en la resonancia magnética. Presenta una señal heterogénea de aspecto estriado, atribuida a su contenido fibrocartilaginoso, igual que el ligamento atlantoaxial ventral y las bandas de refuerzo de la membrana atlantooccipital dorsal.",
+        "ubicacion": "Región atlantoaxial. Se extiende desde la superficie dorsal del diente del axis hasta la cara interna del arco ventral del atlas, craneal a la fóvea del diente.",
+        "descripcion": "Ligamento de la articulación atlantoaxial, descrito en rumiantes y en el caballo. En la resonancia magnética del caballo tiene forma de abanico y una señal heterogénea de aspecto estriado, atribuida a su contenido fibrocartilaginoso, igual que el ligamento atlantoaxial ventral y las bandas de refuerzo de la membrana atlantooccipital dorsal. La NAV indica que corresponde a los fascículos longitudinales de la nomenclatura humana y que se ven unos pocos haces transversales en el atlas.",
         "relaciones": "El estudio de resonancia lo describe junto con la membrana tectoria, los ligamentos atlantoaxiales dorsal y ventral, la membrana atlantooccipital dorsal con sus bandas de refuerzo y los ligamentos atlantooccipitales laterales. En el caballo el ligamento transverso del atlas no se identificó (ver lax.008).",
-        "accidentes": "Diente del axis.",
-        "articulaciones": "Región occipitoatlantoaxial (articulaciones atlantooccipital y atlantoaxial).",
-        "inserciones": "No se detallan inserciones en los resúmenes consultados.",
+        "accidentes": "Superficie dorsal del diente del axis, fóvea del diente y arco ventral del atlas.",
+        "articulaciones": "Articulación atlantoaxial (articulación única en los mamíferos domésticos); relacionado con la región occipitoatlantoaxial.",
+        "inserciones": "Desde la superficie dorsal del diente del axis hasta la cara interna del arco ventral del atlas, craneal a la fóvea del diente (NAV 2017, nota 7 de Arthrologia).",
         "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
         "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
         "funcion": "Forma parte de las estructuras ligamentosas que estabilizan la región occipitoatlantoaxial del caballo.",
-        "especie": "Los autores del estudio de resonancia lo señalan como rasgo especial de la especie, junto con la ausencia del ligamento transverso y la presencia del ligamento atlantoaxial ventral.",
+        "especie": "La NAV lo registra sin restricción de especie y lo describe en rumiantes y en el caballo; el ligamento transverso del atlas figura solo para otras especies (ver lax.008) y el ligamento del ápice del diente no se indica para el caballo. Los autores del estudio de resonancia lo señalan como rasgo especial de la especie, junto con la ausencia del ligamento transverso y la presencia del ligamento atlantoaxial ventral.",
         "clinica": "En tomografía se ha descrito mineralización de este ligamento en tres caballos. Un estudio posterior la asoció con la edad y el sexo, pero no con el síndrome de sacudida de cabeza; sus autores recomiendan interpretar con cautela su significado clínico en los estudios de TC equinos.",
-        "referencias": "Gutiérrez-Crespo B, Kircher PR, Carrera I. 3 Tesla magnetic resonance imaging of the occipitoatlantoaxial region in the normal horse. Vet Radiol Ultrasound 2014;55(3):278-285. https://www.pubmed.gov/24219352/\n\nLawson AL, Carslake HB, Kane-Smyth J, Maddox TW, Talbot AM. Mineralisation of the longitudinal odontoid ligament in three horses identified on computed tomographic examination. Equine Vet Educ 2021;33(3):e44-e52. https://katalog.lib.cas.cz/KNAV/EdsRecord/edb,148517473\n\nMineralisation of the longitudinal odontoid ligament of the horse and its association with age, sex and head shaking (tomografía computarizada). Vet Radiol Ultrasound 2021;62(3):289-298. https://madbarn.com/research/computed-tomography-identified-mineralisation-of-the-longitudinal-odontoid-ligament-of-the-horse-is-associated-with-age-and-sex-but-not-with-the-clinical-sign-of-head-shaking"
+        "referencias": "Gutiérrez-Crespo B, Kircher PR, Carrera I. 3 Tesla magnetic resonance imaging of the occipitoatlantoaxial region in the normal horse. Vet Radiol Ultrasound 2014;55(3):278-285. https://www.pubmed.gov/24219352/\n\nLawson AL, Carslake HB, Kane-Smyth J, Maddox TW, Talbot AM. Mineralisation of the longitudinal odontoid ligament in three horses identified on computed tomographic examination. Equine Vet Educ 2021;33(3):e44-e52. https://katalog.lib.cas.cz/KNAV/EdsRecord/edb,148517473\n\nMineralisation of the longitudinal odontoid ligament of the horse and its association with age, sex and head shaking (tomografía computarizada). Vet Radiol Ultrasound 2021;62(3):289-298. https://madbarn.com/research/computed-tomography-identified-mineralisation-of-the-longitudinal-odontoid-ligament-of-the-horse-is-associated-with-age-and-sex-but-not-with-the-clinical-sign-of-head-shaking\n\nNomina Anatomica Veterinaria, 6.ª ed. (2017), I.C.V.G.A.N. / W.A.V.A. https://www.vetmed.uni-leipzig.de/fileadmin/Fakult%C3%A4t_VMF/Institut_Veterin%C3%A4r-Anatomisches/Dokumente/NAV_6th-Edition-2017.pdf Arthrologia, Articulatio atlantoaxialis, Lig. longitudinale dentis y nota 7."
       }
     },
     {
@@ -33157,11 +33157,11 @@
     {
       "id": "equ.ske.sut.008",
       "es": "Sutura lagrimocigomática",
-      "la": "Sutura lacrimomalaris",
+      "la": "Sutura lacrimozygomatica",
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "Se localiza en la región lateral de la órbita, entre el hueso lagrimal y el hueso cigomático (malar), en la unión de la pared lateral y el margen orbitario. La denominación descriptiva debe mantenerse diferenciada de la nomenclatura latina oficial hasta su cotejo específico.",
+        "ubicacion": "Se localiza en la región lateral de la órbita, entre el hueso lagrimal y el hueso cigomático (malar), en la unión de la pared lateral y el margen orbitario.",
         "descripcion": "Articulación fibrosa del tipo sutura que une los márgenes de los huesos indicados. No presenta cavidad sinovial ni cartílago articular; el contacto se mantiene mediante tejido conectivo fibroso sutural.",
         "relaciones": "Se establece entre el lagrimal y el cigomático, en vecindad con las suturas lagrimomaxilar y cigomaticomaxilar. El término malar aparece en descripciones anatómicas clásicas para el hueso cigomático.",
         "accidentes": "La unión está formada por márgenes óseos contiguos y tejido conectivo fibroso interpuesto. No presenta cápsula sinovial, meniscos ni superficies articulares cartilaginosas.",
@@ -33170,9 +33170,9 @@
         "irrigacion": "No posee irrigación articular independiente. El aporte procede indirectamente de los vasos periostales y de los tejidos blandos vecinos; no se asigna una arteria exclusiva a la sutura.",
         "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
         "funcion": "Conecta el hueso lagrimal con el cigomático, contribuyendo a la continuidad y estabilidad del anillo óseo orbitario del caballo.",
-        "especie": "La región y la unión lagrimocigomática están descritas en el cráneo equino. La literatura clínica equina sobre exostosis sutural utiliza también la expresión lacrimozygomatic; esta forma se registra como variante descriptiva bibliográfica y no se declara aquí como término latino oficial de la NAV.",
+        "especie": "La región y la unión lagrimocigomática están descritas en el cráneo equino. El término latino Sutura lacrimozygomatica figura en la lista de suturas de la cabeza de la NAV 2017. La anatomía clásica la denomina lacrimo-malar y la literatura clínica equina sobre exostosis sutural usa la expresión lacrimozygomatic; ambas se consideran variantes descriptivas del mismo término.",
         "clinica": "Puede ser una localización de exostosis sutural facial en el caballo. La evaluación mediante radiografía y, cuando está indicado, tomografía permite determinar la extensión de la proliferación ósea y su relación con la órbita y estructuras vecinas.",
-        "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Fig. 47, cráneo del caballo en vista dorsal: identifica la sutura lacrimo-malar.\nPoore LA, le Roux M, Carstens A. Trauma-induced exostosis of multiple suture lines causing partial bilateral nasolacrimal duct obstruction in a 7-year-old Thoroughbred mare. Journal of the South African Veterinary Association. 2019; describe exostosis en la región denominada lacrimozygomatic."
+        "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Fig. 47, cráneo del caballo en vista dorsal: identifica la sutura lacrimo-malar.\nPoore LA, le Roux M, Carstens A. Trauma-induced exostosis of multiple suture lines causing partial bilateral nasolacrimal duct obstruction in a 7-year-old Thoroughbred mare. Journal of the South African Veterinary Association. 2019; describe exostosis en la región denominada lacrimozygomatic.\n\nNomina Anatomica Veterinaria, 6.ª ed. (2017), I.C.V.G.A.N. / W.A.V.A. https://www.vetmed.uni-leipzig.de/fileadmin/Fakult%C3%A4t_VMF/Institut_Veterin%C3%A4r-Anatomisches/Dokumente/NAV_6th-Edition-2017.pdf Arthrologia, Suturae capitis."
       }
     },
     {
@@ -33548,9 +33548,9 @@
         "irrigacion": "No posee irrigación independiente ni una arteria exclusiva reconocida. El aporte es indirecto a través de los vasos periostales y de los tejidos blandos regionales.",
         "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
         "funcion": "Contribuye a la continuidad de la pared dorsolateral del cráneo y a la unión estable entre el frontal y la porción escamosa del temporal.",
-        "especie": "El atlas topográfico de Popesko identifica la sutura squamosofrontalis en el caballo en las vistas lateral, dorsal y ventral del cráneo (Figs. 108, 113 y 115).",
+        "especie": "El término Sutura squamosofrontalis figura en la lista de suturas de la cabeza de la NAV 2017. El atlas topográfico de Popesko identifica la sutura squamosofrontalis en el caballo en las vistas lateral, dorsal y ventral del cráneo (Figs. 108, 113 y 115).",
         "clinica": "Es un reparo anatómico en la evaluación de traumatismos y de alteraciones óseas de la región temporal. Debe distinguirse de la sutura escamosa parietotemporal y de la temporofrontal.",
-        "referencias": "Popesko P. Atlas of Topographical Anatomy of the Domestic Animals. Volume I: Head and Neck. 6th ed. W.B. Saunders; 1990. Fig. 108 (horse skull, left lateral view), Fig. 113 (dorsal view) and Fig. 115 (ventral view), sutures identified by name. https://www.academia.edu/47875321/Atlas_of_Topographical_Anatomy_of_the_Domestic_Animals_Voulme_I_Head_and_Neck_\nSisson S. A Text-book of Veterinary Anatomy. W.B. Saunders; 1911. Skeleton of the Horse, skull and articulations. https://upload.wikimedia.org/wikipedia/commons/e/e6/A_text-book_of_veterinary_anatomy_%28IA_cu31924000008742%29.pdf"
+        "referencias": "Popesko P. Atlas of Topographical Anatomy of the Domestic Animals. Volume I: Head and Neck. 6th ed. W.B. Saunders; 1990. Fig. 108 (horse skull, left lateral view), Fig. 113 (dorsal view) and Fig. 115 (ventral view), sutures identified by name. https://www.academia.edu/47875321/Atlas_of_Topographical_Anatomy_of_the_Domestic_Animals_Voulme_I_Head_and_Neck_\nSisson S. A Text-book of Veterinary Anatomy. W.B. Saunders; 1911. Skeleton of the Horse, skull and articulations. https://upload.wikimedia.org/wikipedia/commons/e/e6/A_text-book_of_veterinary_anatomy_%28IA_cu31924000008742%29.pdf\n\nNomina Anatomica Veterinaria, 6.ª ed. (2017), I.C.V.G.A.N. / W.A.V.A. https://www.vetmed.uni-leipzig.de/fileadmin/Fakult%C3%A4t_VMF/Institut_Veterin%C3%A4r-Anatomisches/Dokumente/NAV_6th-Edition-2017.pdf Arthrologia, Suturae capitis."
       }
     },
     {
@@ -33569,9 +33569,9 @@
         "irrigacion": "No posee irrigación independiente ni una arteria exclusiva reconocida. El aporte es indirecto a través de los vasos periostales y de los tejidos blandos regionales.",
         "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
         "funcion": "Contribuye a la continuidad de la pared lateral del cráneo y a la unión estable del frontal con el temporal.",
-        "especie": "Descrita para el caballo como sutura temporofrontalis en el atlas de Popesko, Fig. 108, Fig. 113 y Fig. 115.",
+        "especie": "Descrita para el caballo como sutura temporofrontalis en el atlas de Popesko, Figs. 108, 113 y 115. Este término no figura en la lista de suturas de la cabeza de la NAV 2017, que solo recoge la sutura squamosofrontalis para la unión entre la escama del temporal y el frontal.",
         "clinica": "Es un reparo de imagenología de la región temporal. Dada su proximidad con la sutura escamosofrontal, la identificación debe basarse en la topografía de los márgenes óseos y no solo en una línea radiográfica aislada.",
-        "referencias": "Popesko P. Atlas of Topographical Anatomy of the Domestic Animals. Volume I: Head and Neck. 6th ed. W.B. Saunders; 1990. Fig. 108 (horse skull, left lateral view), Fig. 113 (dorsal view) and Fig. 115 (ventral view), sutures identified by name. https://www.academia.edu/47875321/Atlas_of_Topographical_Anatomy_of_the_Domestic_Animals_Voulme_I_Head_and_Neck_\nSisson S. A Text-book of Veterinary Anatomy. W.B. Saunders; 1911. Skeleton of the Horse, skull and articulations. https://upload.wikimedia.org/wikipedia/commons/e/e6/A_text-book_of_veterinary_anatomy_%28IA_cu31924000008742%29.pdf"
+        "referencias": "Popesko P. Atlas of Topographical Anatomy of the Domestic Animals. Volume I: Head and Neck. 6th ed. W.B. Saunders; 1990. Fig. 108 (horse skull, left lateral view), Fig. 113 (dorsal view) and Fig. 115 (ventral view), sutures identified by name. https://www.academia.edu/47875321/Atlas_of_Topographical_Anatomy_of_the_Domestic_Animals_Voulme_I_Head_and_Neck_\nSisson S. A Text-book of Veterinary Anatomy. W.B. Saunders; 1911. Skeleton of the Horse, skull and articulations. https://upload.wikimedia.org/wikipedia/commons/e/e6/A_text-book_of_veterinary_anatomy_%28IA_cu31924000008742%29.pdf\n\nNomina Anatomica Veterinaria, 6.ª ed. (2017), I.C.V.G.A.N. / W.A.V.A. https://www.vetmed.uni-leipzig.de/fileadmin/Fakult%C3%A4t_VMF/Institut_Veterin%C3%A4r-Anatomisches/Dokumente/NAV_6th-Edition-2017.pdf Arthrologia, Suturae capitis."
       }
     },
     {
@@ -33761,6 +33761,48 @@
         "especie": "El estudio de craniometría equina de Lang et al. (2017) usa expresamente el término Synchondrosis intersphenoidalis en el caballo y la identifica como uno de los dos puntos de la base del cráneo con posición relativamente estable. Las descripciones del desarrollo de ambas sincondrosis centrales proceden sobre todo de modelos murinos.",
         "clinica": "Por su posición relativamente estable, se propuso como punto de referencia en medidas craneométricas del cráneo equino, con interés para el diagnóstico por imagen y el abordaje quirúrgico de estructuras intracraneales (Lang et al., 2017).",
         "referencias": "Lang A, Brucker P, Ludwig M, Wrede T, Theunert J, Gasse H. The challenge of extra-intra craniometry: a computer-assisted three-dimensional approach on the equine skull. Folia Morphologica. 2017;76(3):458–472. doi:10.5603/FM.a2016.0082. https://journals.viamedica.pl/folia_morphologica/article/view/49137\n\nFunato N. New Insights Into Cranial Synchondrosis Development: A Mini Review. 2020 (revisión basada sobre todo en modelos murinos): describe dos sincondrosis centrales en la base craneal, la intraesfenoidal y la esfenooccipital. https://agris.fao.org/search/en/records/6759a8c90ce2cede71c96157"
+      }
+    },
+    {
+      "id": "equ.ske.sut.037",
+      "es": "Sincondrosis intraoccipital basilateral",
+      "la": "Synchondrosis intraoccipitalis basilateralis",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el hueso occipital, en la unión entre la parte basilar y las partes laterales del occipital, alrededor del agujero magno.",
+        "descripcion": "Articulación cartilaginosa (sincondrosis) entre la parte basilar y las partes laterales del occipital. El occipital del recién nacido está formado por cuatro segmentos y esta unión los va soldando durante el crecimiento hasta formar un solo hueso.",
+        "relaciones": "La parte basilar se une rostralmente con el basisfenoides por la sincondrosis esfenooccipital. Las partes laterales llevan los cóndilos occipitales y el proceso paracondilar (NAV 2017, Osteologia).",
+        "accidentes": "El reparo es la línea de unión entre las partes del occipital; con la edad se cierra por osificación.",
+        "articulaciones": "Articulación cartilaginosa del tipo sincondrosis, sin cavidad sinovial. Tras la osificación pasa a sinostosis.",
+        "inserciones": "No presenta inserciones musculares propias.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación propia de esta sincondrosis; el aporte es indirecto, por los vasos periostales de los huesos vecinos.",
+        "inervacion": "No se localizaron descripciones equinas de una inervación propia de esta sincondrosis.",
+        "funcion": "Zona de unión entre las partes del occipital durante el crecimiento; después mantiene la continuidad del hueso.",
+        "especie": "En el caballo el occipital se forma por cuatro segmentos al nacer. Las partes laterales se unen con la parte basilar a los 3-4 meses de edad. Estos datos proceden de Hillmann (1975), citado de segunda mano; no se localizó una fuente equina más reciente. La NAV 2017 recoge esta sincondrosis entre paréntesis, como variante habitual, dentro de las sincondrosis del cráneo.",
+        "clinica": "No se localizaron descripciones clínicas equinas específicas de esta sincondrosis en las fuentes consultadas.",
+        "referencias": "Hillmann DJ. Skull. En: Getty R, ed. Sisson and Grossman's The Anatomy of the Domestic Animals, 5th ed. Philadelphia: WB Saunders; 1975. Citado por Shoghy KM, Saber AS. Development of Central Skull Base of the One Humped Camel (Camelus dromedarius). J Vet Anat. 2015;8(2):1-16. https://journals.ekb.eg/article_44863_512d68bfabbdbca4b86513f29dd73463.pdf (no se consultó el original de Hillmann).\n\nNomina Anatomica Veterinaria, 6.ª ed. (2017), I.C.V.G.A.N. / W.A.V.A. https://www.vetmed.uni-leipzig.de/fileadmin/Fakult%C3%A4t_VMF/Institut_Veterin%C3%A4r-Anatomisches/Dokumente/NAV_6th-Edition-2017.pdf Arthrologia, Synchondroses cranii."
+      }
+    },
+    {
+      "id": "equ.ske.sut.038",
+      "es": "Sincondrosis intraoccipital escamolateral",
+      "la": "Synchondrosis intraoccipitalis squamolateralis",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el hueso occipital, en la unión entre la escama del occipital y las partes laterales, alrededor del agujero magno.",
+        "descripcion": "Articulación cartilaginosa (sincondrosis) entre la escama del occipital y las partes laterales. El occipital del recién nacido está formado por cuatro segmentos y esta unión los va soldando durante el crecimiento hasta formar un solo hueso.",
+        "relaciones": "La escama del occipital limita con el parietal por la sutura lambdoidea (parietooccipital). Las partes laterales llevan los cóndilos occipitales y el proceso paracondilar (NAV 2017, Osteologia).",
+        "accidentes": "El reparo es la línea de unión entre las partes del occipital; con la edad se cierra por osificación.",
+        "articulaciones": "Articulación cartilaginosa del tipo sincondrosis, sin cavidad sinovial. Tras la osificación pasa a sinostosis.",
+        "inserciones": "No presenta inserciones musculares propias.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación propia de esta sincondrosis; el aporte es indirecto, por los vasos periostales de los huesos vecinos.",
+        "inervacion": "No se localizaron descripciones equinas de una inervación propia de esta sincondrosis.",
+        "funcion": "Zona de unión entre las partes del occipital durante el crecimiento; después mantiene la continuidad del hueso.",
+        "especie": "En el caballo el occipital se forma por cuatro segmentos al nacer. Las partes laterales se unen con la escama en el segundo año de edad. Estos datos proceden de Hillmann (1975), citado de segunda mano; no se localizó una fuente equina más reciente. La NAV 2017 recoge esta sincondrosis entre paréntesis, como variante habitual, dentro de las sincondrosis del cráneo.",
+        "clinica": "No se localizaron descripciones clínicas equinas específicas de esta sincondrosis en las fuentes consultadas.",
+        "referencias": "Hillmann DJ. Skull. En: Getty R, ed. Sisson and Grossman's The Anatomy of the Domestic Animals, 5th ed. Philadelphia: WB Saunders; 1975. Citado por Shoghy KM, Saber AS. Development of Central Skull Base of the One Humped Camel (Camelus dromedarius). J Vet Anat. 2015;8(2):1-16. https://journals.ekb.eg/article_44863_512d68bfabbdbca4b86513f29dd73463.pdf (no se consultó el original de Hillmann).\n\nNomina Anatomica Veterinaria, 6.ª ed. (2017), I.C.V.G.A.N. / W.A.V.A. https://www.vetmed.uni-leipzig.de/fileadmin/Fakult%C3%A4t_VMF/Institut_Veterin%C3%A4r-Anatomisches/Dokumente/NAV_6th-Edition-2017.pdf Arthrologia, Synchondroses cranii."
       }
     }
   ]
