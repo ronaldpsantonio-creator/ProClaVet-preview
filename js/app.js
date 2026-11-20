@@ -60,32 +60,7 @@ function makeMesh(P){
 function centerOf(P){return P.k==="seg"?V3(...P.a).add(V3(...P.b)).multiplyScalar(.5):P.k==="rib"?V3(...P.pts[2]):V3(...P.p)}
 // ---- Carga de datos y estructuras
 const loader=new THREE.GLTFLoader();
-fetch("data/equino.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("equino.json HTTP "+r.status);return r.json()}).then(d=>fetch("data/fichas_miembro_pelviano_1.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("fichas_miembro_pelviano_1.json HTTP "+r.status);return r.json()}).then(extra=>{
- const defs={
- "equ.ske.mpe.005-i":["Fíbula (izquierda)","Fibula sinistra"],
- "equ.ske.mpe.005-d":["Fíbula (derecha)","Fibula dextra"],
- "equ.ske.mpe.006-i":["Talus (izquierdo)","Talus sinister"],
- "equ.ske.mpe.006-d":["Talus (derecho)","Talus dexter"],
- "equ.ske.mpe.007-i":["Calcáneo (izquierdo)","Calcaneus sinister"],
- "equ.ske.mpe.007-d":["Calcáneo (derecho)","Calcaneus dexter"],
- "equ.ske.mpe.008-i":["Tarsiano central (izquierdo)","Os tarsi centrale sinistrum"],
- "equ.ske.mpe.008-d":["Tarsiano central (derecho)","Os tarsi centrale dextrum"],
- "equ.ske.mpe.009-i":["Tarsianos I y II fusionados (izquierdos)","Ossa tarsalia I et II sinistra"],
- "equ.ske.mpe.009-d":["Tarsianos I y II fusionados (derechos)","Ossa tarsalia I et II dextra"],
- "equ.ske.mpe.010-i":["Tarsiano III (izquierdo)","Os tarsale III sinistrum"],
- "equ.ske.mpe.010-d":["Tarsiano III (derecho)","Os tarsale III dextrum"]
- };
- // equino.json es la fuente principal: el archivo suplementario solo completa fichas ausentes.
- const hasFicha=f=>!!f&&typeof f==="object"&&Object.keys(f).length>0;
- Object.entries(extra).forEach(([id,ficha])=>{
-  let s=d.structures.find(x=>x.id===id);
-  if(!s){const [es,la]=defs[id]||[id,id];s={id,es,la,sys:"ske",layer:"oss"};d.structures.push(s)}
-  if(!hasFicha(s.ficha)&&hasFicha(ficha))s.ficha=ficha;
- });
- const missing=Object.keys(extra).filter(id=>{const s=d.structures.find(x=>x.id===id);return !s||!hasFicha(s.ficha)});
- if(missing.length)throw Error("Fichas pelvianas no vinculadas: "+missing.join(", "));
- return d;
-})).then(build).catch(e=>{$("warn").textContent="Error al cargar datos anatómicos: "+e.message});
+fetch("data/equino.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("equino.json HTTP "+r.status);return r.json()}).then(build).catch(e=>{$("warn").textContent="Error al cargar datos anatómicos: "+e.message});
 function build(d){
  d.structures.filter(s=>!s.id.startsWith("equ.prv.ske.")).forEach(s=>{
   const g=new THREE.Group(),P0=s.ph,E=P0?null:schem(s),P=P0||E,ph=P0?new THREE.Mesh(new THREE.BoxGeometry(...P0.s),new THREE.MeshStandardMaterial({color:P0.c,transparent:true})):E?makeMesh(E):null;
