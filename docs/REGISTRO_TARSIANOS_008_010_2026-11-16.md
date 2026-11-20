@@ -5,7 +5,7 @@ Fecha: 2026-11-16
 El usuario confirmó que las seis fichas (izquierda y derecha de cada hueso) ya aparecen en la aplicación. Esta confirmación registra la visualización e integración; no equivale por sí sola a verificación anatómica del contenido.
 
 ## Nueva tanda incorporada
-Se añadieron seis fichas bilaterales al archivo `data/fichas_miembro_pelviano_1.json`, con los 12 apartados del protocolo ProClaVet:
+Se consolidaron seis fichas bilaterales directamente en `data/equino.json`, con los 12 apartados del protocolo ProClaVet:
 - Tarsiano central izquierdo y derecho — `equ.ske.mpe.008-i`, `equ.ske.mpe.008-d`
 - Tarsianos I y II fusionados izquierdo y derecho — `equ.ske.mpe.009-i`, `equ.ske.mpe.009-d`
 - Tarsiano III izquierdo y derecho — `equ.ske.mpe.010-i`, `equ.ske.mpe.010-d`
