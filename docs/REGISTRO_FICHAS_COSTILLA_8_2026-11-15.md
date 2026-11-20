@@ -18,9 +18,10 @@ Cada ficha contiene ubicación, descripción, relaciones, accidentes anatómicos
 - La revisión de la ficha textual no certifica el modelo 3D.
 
 ## Integración técnica
-- Archivo de datos: `data/fichas_costillas_8.json`.
-- El cargador de la aplicación combina las fichas suplementarias de Costilla 7 y Costilla 8 con el catálogo anatómico.
-- El service worker incluye el nuevo archivo en la precarga y actualiza la versión de caché.
+- Fuente de datos: `data/equino.json`, catálogo anatómico principal.
+- Las fichas de Costilla 7 a 8 se mantienen en los registros correspondientes dentro de `data/equino.json`; `js/app.js` carga ese catálogo como fuente principal.
+- No existe ni se carga un archivo independiente `data/fichas_costillas_8.json`.
+- El service worker precarga `data/equino.json`; no requiere archivos suplementarios de costillas.
 
 ## Referencias
 1. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. *Textbook of Veterinary Anatomy*, 5.ª ed., “The Ribs and Sternum” y “The Thorax of the Horse”. [Costillas y esternón](https://elsevier-elibrary.com/contents/fullcontent/58986/epubcontent_v2/OEBPS/B9781416066071000025.htm); [tórax del caballo](https://elsevier-elibrary.com/contents/fullcontent/58986/epubcontent_v2/OEBPS/B9781416066071000207.htm).
