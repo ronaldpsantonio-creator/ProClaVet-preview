@@ -1,13 +1,12 @@
-// ProClaVet - Service Worker de integración (v43)
+// ProClaVet - Service Worker de integración (v44)
 // Los recursos del atlas y axis se copian sin modificaciones desde ProClaVet/main.
-const C="vetanatomy-v43-integracion";
+const C="vetanatomy-v44-integracion";
 const CORE=[
   "./",
   "index.html",
   "css/styles.css",
   "js/app.js",
   "data/equino.json",
-  "data/fichas_miembro_pelviano_1.json",
   "manifest.webmanifest",
   "icons/icon-192.png",
   "assets/laminas/atlas-equino-c1.svg",
@@ -34,7 +33,6 @@ self.addEventListener("fetch",e=>{
 
   const fresh=[
     "/data/equino.json",
-    "/data/fichas_miembro_pelviano_1.json",
     "/js/app.js",
     "/index.html"
   ].some(path=>url.pathname.endsWith(path));
