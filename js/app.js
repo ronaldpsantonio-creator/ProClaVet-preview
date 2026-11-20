@@ -75,12 +75,14 @@ fetch("data/equino.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("equi
  "equ.ske.mpe.010-i":["Tarsiano III (izquierdo)","Os tarsale III sinistrum"],
  "equ.ske.mpe.010-d":["Tarsiano III (derecho)","Os tarsale III dextrum"]
  };
+ // equino.json es la fuente principal: el archivo suplementario solo completa fichas ausentes.
+ const hasFicha=f=>!!f&&typeof f==="object"&&Object.keys(f).length>0;
  Object.entries(extra).forEach(([id,ficha])=>{
   let s=d.structures.find(x=>x.id===id);
   if(!s){const [es,la]=defs[id]||[id,id];s={id,es,la,sys:"ske",layer:"oss"};d.structures.push(s)}
-  s.ficha=ficha;
+  if(!hasFicha(s.ficha)&&hasFicha(ficha))s.ficha=ficha;
  });
- const missing=Object.keys(extra).filter(id=>!d.structures.find(s=>s.id===id&&s.ficha));
+ const missing=Object.keys(extra).filter(id=>{const s=d.structures.find(x=>x.id===id);return !s||!hasFicha(s.ficha)});
  if(missing.length)throw Error("Fichas pelvianas no vinculadas: "+missing.join(", "));
  return d;
 })).then(build).catch(e=>{$("warn").textContent="Error al cargar datos anatómicos: "+e.message});
