@@ -4838,6 +4838,11 @@
         "especie": "La configuración típica equina comprende la articulación de la cabeza de la costilla y la costotransversa. La descripción clásica del caballo señala que el ligamento conjugado o intercapital no está presente en la primera articulación costo-central; por ello, no debe generalizarse la disposición de las costillas típicas a todos los niveles torácicos.",
         "clinica": "No se localizó una fuente clínica equina específica para esta articulación.",
         "referencias": "FIPAT / IFAA, Terminologia Anatomica: articulationes costovertebrales, articulatio capitis costae, ligamentum radiatum y ligamentum intraarticulare capitis costae (términos de la TA humana, usados como apoyo de nomenclatura). https://ifaa.unifr.ch/Public/TNAEntryPage/auto/part/LAEN/TAH53012 P3F EN.htm\n\nEquine Spine and Head Anatomy (Physiopedia): costovertebral joint del caballo y sus ligamentos. https://www.physio-pedia.com:443/Equine_Spine_and_Head_Anatomy\n\nSkeletal system of the horse (Wikipedia): ligamentos intercapitales entre las costillas 1 a 11 y número de costillas. https://www.wikipedia.org/wiki/Skeletal_system_of_the_horse\n\nIntraarticular ligament of head of rib. IMAIOS vet-Anatomy. https://www.imaios.cn/en/vet-anatomy/anatomical-structures/intraarticular-ligament-of-head-of-rib-11077954012\n\nSisson S. A Text-book of Veterinary Anatomy. 1911. Articulations of the Thorax: articulaciones costo-centrales y costo-transversas, cápsulas y ligamentos. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm\n\nIMAIOS vet-Anatomy. Joint of head of rib – Horse (Articulatio capitis costae): superficies articulares de la cabeza costal y vértebras correspondientes. https://www.imaios.cn/en/vet-anatomy/anatomical-structures/joint-of-head-of-rib-11077953908\n\nIMAIOS vet-Anatomy. Intraarticular ligament of head of rib – Horse. https://www.imaios.cn/en/vet-anatomy/anatomical-structures/intraarticular-ligament-of-head-of-rib-11077954012\n\nThe Anatomy of the Horse: A Dissection Guide. Chondro-costal and costo-vertebral articulations. https://objects.library.uu.nl/download/1874-32163/fulltext"
+      },
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-21",
+        "alcance": "Ficha anatómica de 12 apartados aprobada expresamente por el usuario. Incorporada al repositorio; validación estructural del registro y del JSON completada. La verificación textual no certifica por sí sola el modelo 3D."
       }
     },
     {
@@ -4859,6 +4864,11 @@
         "especie": "En el caballo hay 8 pares de costillas esternales y 10 asternales. Los cartílagos de las primeras costillas se articulan entre sí y con el esternón.",
         "clinica": "En animales de crecimiento rápido la unión costocondral puede estar ensanchada, según una guía docente. No se localizó una fuente clínica equina específica para esta articulación.",
         "referencias": "Vetscraft, guía docente de anatomía veterinaria: costillas del caballo (18 pares, 8 esternales y 10 asternales; uniones costocondrales). https://vetscraft.com/ribs\n\nVetscraft, guía docente de anatomía veterinaria: articulaciones torácicas (costocondrales, condroesternales y esternales). https://vetscraft.com/thoracic-articulations\n\nWikiVet, Ribs and Sternum - Anatomy & Physiology (costillas, esternebras y articulaciones costoesternales). https://en.wikivet.net/Ribs_and_Sternum_-_Anatomy_%26_Physiology\n\nNC State, LAB 5 – Thoracic wall osteology, arthrology and myology (costillas y esternebras en las especies domésticas). https://ncstate.pressbooks.pub/unit2musculoskeletal/?p=83\n\nSisson S. A Text-book of Veterinary Anatomy. 1911. Articulations of the Thorax: chondro-costal joints of the horse, described as synarthrodial. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
+      },
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-21",
+        "alcance": "Ficha anatómica de 12 apartados aprobada expresamente por el usuario. Incorporada al repositorio; validación estructural del registro y del JSON completada. La verificación textual no certifica por sí sola el modelo 3D."
       }
     },
     {
