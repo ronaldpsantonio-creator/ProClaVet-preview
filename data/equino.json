@@ -997,7 +997,8 @@
         "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
-    {      "id": "equ.ske.tor.004",
+    {
+      "id": "equ.ske.tor.004",
       "es": "Vértebra torácica 4 (T4)",
       "la": "Vertebra thoracica 4",
       "sys": "ske",
@@ -1996,7 +1997,8 @@
         "relaciones": "Se articula cranealmente con Cd12 y caudalmente con Cd14. Se integra en los tejidos blandos distales de la cola, en relación con fascículos terminales de músculos sacrocaudales, intertransversarios, fascias y tejido subcutáneo. Ventralmente mantiene relaciones topográficas con vasos caudales medianos y sus ramas, así como con ramos de nervios caudales.",
         "accidentes": "Cuerpo vertebral pequeño con superficies articulares en ambos extremos; arco y foramen vertebral muy reducidos, incompletos o difíciles de delimitar; procesos espinosos, transversos y articulares pequeños, residuales o ausentes. Los elementos hemales pueden aparecer en distintos niveles caudales, pero su presencia y morfología son variables y no deben afirmarse como rasgos constantes de Cd13 sin examen directo.",
         "articulaciones": "Articulación intervertebral craneal con Cd12 y caudal con Cd14 mediante discos intervertebrales. Las articulaciones interapofisarias pueden estar muy reducidas o no ser evidentes por la regresión de los procesos articulares. Los ligamentos longitudinales y el tejido conjuntivo regional mantienen la continuidad de la serie caudal.",
-        "inserciones": "Las superficies de fijación son limitadas. Puede recibir fascículos de músculos sacrocaudales e intertransversarios distales y fijaciones de fascias locales, sobre el cuerpo vertebral o sobre procesos residuales cuando estén presentes. Las inserciones concretas deben correlacionarse con la morfología real del espécimen, evitando asignarlas a accidentes ausentes.",        "irrigacion": "La irrigación ósea y periostal depende de pequeñas ramas segmentarias del sistema de la arteria caudal mediana y de vasos musculares regionales. El drenaje venoso acompaña a las venas caudales y a sus comunicaciones plexiformes. No se atribuye una arteria exclusiva a Cd13.",
+        "inserciones": "Las superficies de fijación son limitadas. Puede recibir fascículos de músculos sacrocaudales e intertransversarios distales y fijaciones de fascias locales, sobre el cuerpo vertebral o sobre procesos residuales cuando estén presentes. Las inserciones concretas deben correlacionarse con la morfología real del espécimen, evitando asignarlas a accidentes ausentes.",
+        "irrigacion": "La irrigación ósea y periostal depende de pequeñas ramas segmentarias del sistema de la arteria caudal mediana y de vasos musculares regionales. El drenaje venoso acompaña a las venas caudales y a sus comunicaciones plexiformes. No se atribuye una arteria exclusiva a Cd13.",
         "inervacion": "Se relaciona topográficamente con el decimotercer nervio caudal (Co13), cuando este segmento está presente en la distribución individual. Sus ramos dorsales y ventrales contribuyen a la inervación segmentaria de piel, musculatura y otros tejidos blandos de la cola, con posible solapamiento periférico entre segmentos. No debe describirse como inervación directa del tejido óseo.",
         "funcion": "Contribuye a la continuidad axial y al soporte de la región distal de la cola, transmitiendo fuerzas entre Cd12 y Cd14. Su cuerpo vertebral sirve de soporte a los tejidos blandos y los procesos residuales, cuando existen, pueden proporcionar fijación a musculatura y fascias.",
         "especie": "En el caballo, la serie caudal muestra reducción progresiva de arcos y procesos hacia el extremo de la cola. Cd13 suele encontrarse en un tramo donde la simplificación es avanzada, aunque el grado y el nivel de desaparición de cada elemento varían entre individuos. La fórmula caudal equina no es fija.",
@@ -2995,7 +2997,8 @@
         "articulaciones": "La cavidad glenoidea articula con la cabeza del húmero y forma la articulación del hombro (articulatio humeri), de tipo sinovial. La escápula no establece una articulación ósea convencional con el tronco: se mantiene aplicada a la pared torácica mediante la sinsarcosis escapulotorácica, constituida por músculos y tejido conectivo. El cartílago escapular se continúa con el borde dorsal y no constituye una articulación sinovial independiente.",
         "inserciones": "La fosa supraespinosa proporciona origen al músculo supraespinoso y la fosa infraespinosa al infraespinoso. La fosa subescapular da origen al subescapular. La facies serrata sirve de inserción al músculo serrato ventral. La espina y su tuberosidad reciben inserciones del trapecio, especialmente de su porción torácica. El tubérculo supraglenoideo es el origen del músculo bíceps braquial; el proceso coracoides se relaciona con el origen del coracobraquial. Las áreas concretas de fijación deben interpretarse junto con la anatomía muscular regional.",
         "irrigacion": "La vascularización regional procede de ramas de las arterias escapular dorsal, supraescapular y subescapular, con contribuciones de la circulación circunfleja escapular y redes periarticulares. La distribución puede variar y no debe atribuirse toda la irrigación del hueso a una única arteria. Esta descripción corresponde al aporte regional periostal y muscular; no implica que cada vaso irrigue por sí solo toda la escápula.",
-        "inervacion": "El tejido óseo no posee una inervación funcional única comparable a la de un músculo u órgano. La sensibilidad periostal depende de ramas nerviosas regionales. El nervio supraescapular discurre próximo al borde craneal de la escápula y es clínicamente importante por su relación con los músculos supraespinoso e infraespinoso; no debe describirse como la inervación exclusiva de todo el hueso.",        "funcion": "Constituye el soporte óseo proximal del miembro torácico, transmite las fuerzas desde el miembro hacia el tronco mediante la sinsarcosis escapulotorácica, ofrece amplias superficies de origen e inserción muscular y participa en la articulación del hombro con el húmero.",
+        "inervacion": "El tejido óseo no posee una inervación funcional única comparable a la de un músculo u órgano. La sensibilidad periostal depende de ramas nerviosas regionales. El nervio supraescapular discurre próximo al borde craneal de la escápula y es clínicamente importante por su relación con los músculos supraespinoso e infraespinoso; no debe describirse como la inervación exclusiva de todo el hueso.",
+        "funcion": "Constituye el soporte óseo proximal del miembro torácico, transmite las fuerzas desde el miembro hacia el tronco mediante la sinsarcosis escapulotorácica, ofrece amplias superficies de origen e inserción muscular y participa en la articulación del hombro con el húmero.",
         "especie": "En el caballo, la escápula es alargada y plana, con una fosa infraespinosa más extensa que la supraespinosa y una tuberosidad de la espina prominente. La espina se atenúa hacia el extremo distal y no forma acromion: el acromion está ausente en los équidos. El borde dorsal está prolongado por un cartílago escapular amplio. La cavidad glenoidea presenta una incisura glenoidea reconocible. La forma y el grado de osificación del cartílago escapular varían con la edad. Esta ficha corresponde al elemento izquierdo y se mantiene separada de su homólogo contralateral.",
         "clinica": "La lesión del nervio supraescapular puede causar atrofia de los músculos supraespinoso e infraespinoso, conocida como shoulder sweeney o atrofia escapular. El tubérculo supraglenoideo es un sitio relevante de fractura en caballos, especialmente por traumatismos. Las fracturas escapulares y las alteraciones de la articulación del hombro deben evaluarse mediante exploración e imagen diagnóstica, considerando la protección muscular que rodea al hueso.",
         "referencias": "König HE, Liebich HG. Veterinary Anatomy of Domestic Mammals: Textbook and Colour Atlas. 6th ed. Schattauer; 2014. Sección: Skeleton of the thoracic limb, scapula.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección: The skeleton of the forelimb. https://elsevier-elibrary.com/contents/fullcontent/58986/epubcontent_v2/OEBPS/B9781416066071000025.htm\nSisson S. The Anatomy of the Domestic Animals. Sección “The Scapula”, descripción de la escápula equina y sus accidentes. https://upload.wikimedia.org/wikipedia/commons/e/e1/The_anatomy_of_the_domestic_animals_%28IA_anatomyofdomesti01siss%29.pdf\nIMAIOS vet-Anatomy. Lateral surface of the scapula; referencias a König y Liebich. https://www.imaios.cn/en/vet-anatomy/anatomical-structures/lateral-surface-11073897656\nFürst MJ, Jackson AF, Somm F. Management of Equine Scapular and Pelvic Fractures. ECVS Annual Scientific Meeting proceedings, 2026."
@@ -3994,7 +3997,8 @@
       "la": "Fibula",
       "sys": "ske",
       "layer": "oss",
-      "ficha": {        "ubicacion": "Región crural del miembro pelviano izquierda, a lo largo del borde lateral de la tibia. Su cabeza se apoya en el cóndilo lateral de la tibia y su cuerpo delgado desciende junto a ella hasta aproximadamente la mitad de la pierna.",
+      "ficha": {
+        "ubicacion": "Región crural del miembro pelviano izquierda, a lo largo del borde lateral de la tibia. Su cabeza se apoya en el cóndilo lateral de la tibia y su cuerpo delgado desciende junto a ella hasta aproximadamente la mitad de la pierna.",
         "descripcion": "Hueso largo muy reducido, vestigial en el caballo. Conserva una cabeza proximal (caput fibulae) y un cuerpo (corpus fibulae) delgado que se afina hacia distal y termina aproximadamente hacia la mitad de la tibia. La parte distal no persiste como hueso independiente: se fusiona con la tibia y forma parte de su maléolo lateral. No debe representarse como la fíbula completa de los carnívoros.\n\nEsta ficha corresponde a la fíbula izquierda; no presupone diferencias morfológicas entre ambos lados sin evidencia específica.",
         "relaciones": "Su cabeza se relaciona con el cóndilo lateral de la tibia. El cuerpo se apoya en la cara lateral de la tibia, bajo los músculos laterales de la pierna, y se vuelve rudimentario hacia distal. Distalmente, la antigua extremidad fibular está incorporada al maléolo lateral de la tibia, que se relaciona con el talus y es el punto de origen del ligamento colateral lateral largo del tarso.",
         "accidentes": "Cabeza de la fíbula (caput fibulae), con superficie articular para el cóndilo lateral de la tibia. Cuerpo (corpus fibulae), delgado y de longitud reducida. No hay maléolo lateral propio: ese relieve pertenece a la tibia.",
@@ -4886,13 +4890,13 @@
         "especie": "El caballo tiene 8 pares de costillas esternales y un esternón de 7 esternebras, con la sexta y la séptima fusionadas en todos los esternones estudiados.",
         "clinica": "No se localizó una fuente clínica equina específica para esta articulación.",
         "referencias": "Vetscraft, guía docente de anatomía veterinaria: articulaciones torácicas (costocondrales, condroesternales y esternales). https://vetscraft.com/thoracic-articulations\n\nIMAIOS vet-Anatomy, True ribs [Sternal ribs]: en el caballo hay 8 pares de costillas esternales. https://www.imaios.cn/en/vet-anatomy/anatomical-structures/true-ribs-sternal-ribs-11073892720\n\nEydt C, Schröck C, Geburek F, Rohn K, Staszyk C, Pfarrer C. Three-dimensional anatomy of the equine sternum. Anat Histol Embryol. 2014;44(2):99–106. doi:10.1111/ahe.12114. https://madbarn.com/research/three-dimensional-anatomy-of-the-equine-sternum\n\nWikiVet, Ribs and Sternum - Anatomy & Physiology (costillas, esternebras y articulaciones costoesternales). https://en.wikivet.net/Ribs_and_Sternum_-_Anatomy_%26_Physiology\n\nThe Anatomy of the Horse: A Dissection Guide. Chondro-sternal joint: articulación de los cartílagos de las primeras ocho costillas con el esternón, cápsula y saco sinovial común de la primera pareja. https://objects.library.uu.nl/download/1874-32163/fulltext\n\nSisson S. A Text-book of Veterinary Anatomy. 1911. Articulations of the Thorax: costo-sternal articulations of the horse. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
-      }
-    ,
+      },
       "revision": {
         "estado": "aprobada_y_verificada",
         "fecha": "2026-11-21",
-        "alcance": "Ficha anatómica de 12 apartados aprobada expresamente por el usuario. Integrada en equino.json; validación estructural del registro y del JSON completada. La verificación textual no certifica por sí sola el modelo 3D."
-      }},
+        "alcance": "Ficha anatómica de 12 apartados aprobada expresamente por el usuario. Incorporada al repositorio; validación estructural del registro y del JSON completada. La verificación textual no certifica por sí sola el modelo 3D."
+      }
+    },
     {
       "id": "equ.ske.aax.009",
       "es": "Sincondrosis esternales",
@@ -4900,18 +4904,23 @@
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "En la línea media del esternón, entre esternebras adyacentes. El esternón del caballo tiene 7 esternebras.",
-        "descripcion": "Uniones cartilaginosas entre las esternebras. En animales jóvenes las esternebras están unidas por cartílago, que después se sustituye por hueso. En el caballo, la sexta y la séptima esternebras estaban fusionadas en todos los esternones estudiados.",
-        "relaciones": "Cranialmente se relacionan con el manubrio (primera esternebra), caudalmente con el cartílago xifoides, y lateralmente con las articulaciones esternocostales.",
-        "accidentes": "Esternebras, cartílago intraesternal y, caudalmente, el cartílago xifoides. Cada esternebra se distingue del esternón cartilaginoso.",
-        "articulaciones": "Sincondrosis entre esternebras. Una guía docente describe en el caballo que no hay diartrosis entre la primera y la segunda esternebras y que todas las uniones son inmóviles.",
-        "inserciones": "No presentan inserciones propias en las fuentes consultadas.",
-        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
-        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
-        "funcion": "Mantienen unidas las esternebras formando un esternón rígido para la inserción de las costillas esternales.",
-        "especie": "El caballo tiene 7 esternebras, a diferencia de los carnívoros (8) y del cerdo (6). En el caballo, las dimensiones de las esternebras se correlacionaron positivamente con la edad, no con el peso corporal.",
-        "clinica": "El esternón se usa en el caballo para obtener médula ósea con fines diagnósticos y terapéuticos, y su descripción anatómica sirve de base para ese procedimiento.",
-        "referencias": "Eydt C, Schröck C, Geburek F, Rohn K, Staszyk C, Pfarrer C. Three-dimensional anatomy of the equine sternum. Anat Histol Embryol. 2014;44(2):99–106. doi:10.1111/ahe.12114. https://madbarn.com/research/three-dimensional-anatomy-of-the-equine-sternum\n\nNC State, LAB 5 – Thoracic wall osteology, arthrology and myology (costillas y esternebras en las especies domésticas). https://ncstate.pressbooks.pub/unit2musculoskeletal/?p=83\n\nWikiVet, Ribs and Sternum - Anatomy & Physiology (costillas, esternebras y articulaciones costoesternales). https://en.wikivet.net/Ribs_and_Sternum_-_Anatomy_%26_Physiology\n\nVetscraft, guía docente de anatomía veterinaria: articulaciones torácicas (costocondrales, condroesternales y esternales). https://vetscraft.com/thoracic-articulations"
+        "ubicacion": "Entre los segmentos del esternón, en particular entre esternebras consecutivas, a lo largo de la línea media ventral del tórax. También se describen uniones cartilaginosas manubrioesternal y xifoesternal.",
+        "descripcion": "Uniones cartilaginosas constituidas por cartílago interpuesto entre segmentos esternales. En el caballo, el esternón presenta siete esternebras según el patrón descrito por Eydt y colaboradores; la sexta y la séptima aparecen fusionadas en los ejemplares estudiados. El cartílago intersegmentario puede persistir en el adulto y presentar osificación parcial con la edad.",
+        "relaciones": "Se relacionan con las esternebras, el manubrio, el proceso xifoides y los cartílagos costales que se articulan con el esternón.",
+        "accidentes": "Esternebras, cartílagos interesternales, manubrio esternal, proceso xifoides y cartílago xifoideo.",
+        "articulaciones": "Las sincondrosis interesternales son articulaciones cartilaginosas primarias, de movilidad muy limitada. Deben distinguirse de las articulaciones sinoviales esternocostales. Las uniones manubrioesternal e xifoesternal son también categorías de sincondrosis esternales.",
+        "inserciones": "No se identifican inserciones musculares propias de las superficies de unión. Los ligamentos y músculos relacionados con el esternón se describen como estructuras de soporte o fijación regional, sin atribuirles una inserción específica en la sincondrosis cuando no esté documentada.",
+        "irrigacion": "No se localizaron descripciones equinas específicas de la irrigación de estas uniones en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas específicas de la inervación de estas uniones en las fuentes consultadas.",
+        "funcion": "Mantienen la continuidad del esternón, contribuyen a su cohesión y permiten que la pared torácica conserve estabilidad estructural.",
+        "especie": "En el caballo se describe un patrón de siete esternebras, con fusión de la sexta y séptima en todos los esternones del estudio tridimensional citado. La persistencia de cartílago intersegmentario y su osificación parcial con la edad deben diferenciarse de una fusión ósea completa.",
+        "clinica": "El esternón equino es un sitio utilizado para la obtención de médula ósea con fines diagnósticos y terapéuticos. La anatomía de sus segmentos y uniones es relevante para orientar estos procedimientos.",
+        "referencias": "Eydt C, Schröck C, Geburek F, Rohn K, Staszyk C, Pfarrer C. Three-dimensional anatomy of the equine sternum. Anat Histol Embryol. 2014;44(2):99–106. doi:10.1111/ahe.12114. https://madbarn.com/research/three-dimensional-anatomy-of-the-equine-sternum\n\nSisson S. A Text-book of Veterinary Anatomy. 1911. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm\n\nNC State, LAB 5 – Thoracic wall osteology, arthrology and myology. https://ncstate.pressbooks.pub/unit2musculoskeletal/?p=83\n\nWikiVet, Ribs and Sternum - Anatomy & Physiology. https://en.wikivet.net/Ribs_and_Sternum_-_Anatomy_%26_Physiology\n\nVetscraft, guía docente de anatomía veterinaria: articulaciones torácicas. https://vetscraft.com/thoracic-articulations"
+      },
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-21",
+        "alcance": "Ficha anatómica de 12 apartados aprobada expresamente por el usuario. Incorporada al repositorio; validación estructural del registro y del JSON completada. La verificación textual no certifica por sí sola el modelo 3D."
       }
     },
     {
@@ -4998,7 +5007,8 @@
         "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nTurner TA. Disorders of the Shoulder in Horses. MSD Veterinary Manual, rev. 2025. https://www.merckvetmanual.com/veterinary/musculoskeletal-system/lameness-in-horses/disorders-of-the-shoulder-in-horses\n\nMSD Veterinary Manual, Disorders of the Shoulder and Elbow in Horses (versión para propietarios). https://www.msdvetmanual.com/horse-owners/bone,-joint,-and-muscle-disorders-in-horses/disorders-of-the-shoulder-and-elbow-in-horses\n\nWikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy"
       }
     },
-    {      "id": "equ.ske.amt.001-d",
+    {
+      "id": "equ.ske.amt.001-d",
       "es": "Articulación del hombro (derecha)",
       "la": "Articulatio humeri",
       "sys": "ske",
@@ -5997,7 +6007,8 @@
         "accidentes": "Cimas de los procesos espinosos torácicos y lumbares; cruz.",
         "articulaciones": "No pertenece a una articulación concreta: estabiliza la columna toracolumbar.",
         "inserciones": "Se fija a la cima de cada proceso espinoso desde la cruz hasta el sacro. Según una revisión funcional, falta entre la última vértebra lumbar y la primera sacra, lo que da más rango de flexión y extensión en ese punto.",
-        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
+        "irrigacion": "No se localizaron descripciones equinas de la irrigación de este ligamento en las fuentes consultadas.",
+        "inervacion": "No se localizaron descripciones equinas de la inervación de este ligamento en las fuentes consultadas.",
         "funcion": "Limita la flexión toracolumbar y restringe el movimiento de los procesos espinosos dorsales.",
         "especie": "En el caballo, el ligamento nucal (muy elástico) se continúa en la cruz con el supraespinoso (menos elástico).",
         "clinica": "Los procesos espinosos dorsales superpuestos («kissing spines») son probablemente la afección más común atribuida a dolor toracolumbar. En fuentes divulgativas, la laxitud del supraespinoso y de los longitudinales se asocia a la lordosis equina.",
@@ -6996,7 +7007,8 @@
       "es": "Ligamento femoropatelar medial (derecho)",
       "la": "Ligamentum femoropatellare mediale",
       "sys": "ske",
-      "layer": "art",      "ficha": {
+      "layer": "art",
+      "ficha": {
         "ubicacion": "Cara medial de la babilla del lado derecho, entre la rótula y el fémur.",
         "descripcion": "Ligamento femoropatelar medial. Ancla la rótula al fémur.",
         "relaciones": "Se relaciona con la cápsula de la articulación femoropatelar, que a veces comunica con la cavidad femorotibial lateral y normalmente con la medial.",
@@ -7995,7 +8007,8 @@
       "id": "equ.mus.cue.006-i",
       "es": "Esternotiroideo (izquierdo)",
       "la": "Musculus sternothyroideus",
-      "sys": "mus",      "layer": "mpr"
+      "sys": "mus",
+      "layer": "mpr"
     },
     {
       "id": "equ.mus.cue.006-d",
@@ -8994,7 +9007,8 @@
     {
       "id": "equ.mus.ant.006-d",
       "es": "Flexor radial del carpo (derecho)",
-      "la": "Musculus flexor carpi radialis",      "sys": "mus",
+      "la": "Musculus flexor carpi radialis",
+      "sys": "mus",
       "layer": "msu"
     },
     {
@@ -9993,7 +10007,8 @@
       "layer": "mpr"
     },
     {
-      "id": "equ.mus.cab.040-i",      "es": "Cigomaticoauricular (izquierdo)",
+      "id": "equ.mus.cab.040-i",
+      "es": "Cigomaticoauricular (izquierdo)",
       "la": "Musculus zygomaticoauricularis",
       "sys": "mus",
       "layer": "msu"
@@ -10992,7 +11007,8 @@
       "sys": "mus",
       "layer": "mpr"
     },
-    {      "id": "equ.mus.cue.027-d",
+    {
+      "id": "equ.mus.cue.027-d",
       "es": "Intertransverso cervical ventral (derecho)",
       "la": "Musculus intertransversarius ventralis cervicis",
       "sys": "mus",
@@ -11991,7 +12007,8 @@
       "la": "Dens praemolaris secundus, mandibularis",
       "sys": "dig",
       "layer": "org"
-    },    {
+    },
+    {
       "id": "equ.dig.den.017-d",
       "es": "Premolar 2 inferior (derecho)",
       "la": "Dens praemolaris secundus, mandibularis",
@@ -12990,7 +13007,8 @@
       "es": "Hilio del pulmón (derecho)",
       "la": "Hilus pulmonis",
       "sys": "res",
-      "layer": "org"    },
+      "layer": "org"
+    },
     {
       "id": "equ.res.pul.010-i",
       "es": "Ápice del pulmón (izquierdo)",
@@ -13989,7 +14007,8 @@
       "id": "equ.car.cor.030",
       "es": "Miocardio",
       "la": "Myocardium",
-      "sys": "car",      "layer": "org"
+      "sys": "car",
+      "layer": "org"
     },
     {
       "id": "equ.car.cor.031",
@@ -14988,7 +15007,8 @@
     {
       "id": "equ.car.acc.047-d",
       "es": "Arteria vertebral (derecha)",
-      "la": "Arteria vertebralis",      "sys": "car",
+      "la": "Arteria vertebralis",
+      "sys": "car",
       "layer": "vas"
     },
     {
@@ -15987,7 +16007,8 @@
       "sys": "car",
       "layer": "vas",
       "sex": "m"
-    },    {
+    },
+    {
       "id": "equ.car.amp.035-i",
       "es": "Arteria vaginal (izquierda)",
       "la": "Arteria vaginalis",
@@ -16986,7 +17007,8 @@
       "la": "Vena mediana cubiti",
       "sys": "car",
       "layer": "vas"
-    },    {
+    },
+    {
       "id": "equ.car.vmt.008-i",
       "es": "Vena colateral cubital (izquierda)",
       "la": "Vena collateralis ulnaris",
@@ -17985,7 +18007,8 @@
       "es": "Diencéfalo",
       "la": "Diencephalon",
       "sys": "ner",
-      "layer": "ner"    },
+      "layer": "ner"
+    },
     {
       "id": "equ.ner.enc.004",
       "es": "Mesencéfalo",
@@ -18984,7 +19007,8 @@
       "id": "equ.ner.die.029-i",
       "es": "Núcleo dorsomedial del hipotálamo (izquierdo)",
       "la": "Nucleus dorsomedialis hypothalami",
-      "sys": "ner",      "layer": "ner"
+      "sys": "ner",
+      "layer": "ner"
     },
     {
       "id": "equ.ner.die.029-d",
@@ -19983,7 +20007,8 @@
     {
       "id": "equ.ner.nuc.011-d",
       "es": "Núcleo ambiguo (derecho)",
-      "la": "Nucleus ambiguus",      "sys": "ner",
+      "la": "Nucleus ambiguus",
+      "sys": "ner",
       "layer": "ner"
     },
     {
@@ -20982,7 +21007,8 @@
     },
     {
       "id": "equ.ner.med.013-i",
-      "es": "Asta dorsal (izquierda)",      "la": "Cornu dorsale",
+      "es": "Asta dorsal (izquierda)",
+      "la": "Cornu dorsale",
       "sys": "ner",
       "layer": "ner"
     },
@@ -21981,7 +22007,8 @@
       "layer": "ner"
     },
     {
-      "id": "equ.ner.cra.054-i",      "es": "Nervio auricular caudal (izquierdo)",
+      "id": "equ.ner.cra.054-i",
+      "es": "Nervio auricular caudal (izquierdo)",
       "la": "N. auricularis caudalis",
       "sys": "ner",
       "layer": "ner"
@@ -22980,7 +23007,8 @@
       "la": "N. thoracodorsalis",
       "sys": "ner",
       "layer": "ner"
-    },    {
+    },
+    {
       "id": "equ.ner.bra.010-i",
       "es": "Nervio torácico lateral (izquierdo)",
       "la": "N. thoracicus lateralis",
@@ -23979,7 +24007,8 @@
       "es": "Ganglio mesentérico craneal (derecho)",
       "la": "Ganglion mesentericum craniale",
       "sys": "ner",
-      "layer": "ner"    },
+      "layer": "ner"
+    },
     {
       "id": "equ.ner.aut.034-i",
       "es": "Ganglio mesentérico caudal (izquierdo)",
@@ -24978,7 +25007,8 @@
       "layer": "ner"
     },
     {
-      "id": "equ.ner.esp.033-d",      "es": "Nervio sacro S1 (derecho)",
+      "id": "equ.ner.esp.033-d",
+      "es": "Nervio sacro S1 (derecho)",
       "la": "N. sacralis S1",
       "sys": "ner",
       "layer": "ner"
@@ -25977,7 +26007,8 @@
       "sys": "ner",
       "layer": "ner"
     },
-    {      "id": "equ.ner.esp.105-i",
+    {
+      "id": "equ.ner.esp.105-i",
       "es": "Rama ventral del nervio torácico T13 (izquierda)",
       "la": "Ramus ventralis n. thoracicus T13",
       "sys": "ner",
@@ -26976,7 +27007,8 @@
       "la": "N. intercostalis 8",
       "sys": "ner",
       "layer": "ner"
-    },    {
+    },
+    {
       "id": "equ.ner.tro.024-d",
       "es": "Nervio intercostal 8 (derecho)",
       "la": "N. intercostalis 8",
@@ -27975,7 +28007,8 @@
       "sys": "rep",
       "layer": "org",
       "sex": "m"
-    },    {
+    },
+    {
       "id": "equ.rep.tes.005-i",
       "es": "Margen epididimal del testículo (izquierdo)",
       "la": "Margo epididymalis testis",
@@ -28974,7 +29007,8 @@
       "sys": "rep",
       "layer": "org",
       "sex": "f"
-    },    {
+    },
+    {
       "id": "equ.rep.ova.025-i",
       "es": "Ostio abdominal del tubo uterino (izquierdo)",
       "la": "Ostium abdominale tubae uterinae",
@@ -29973,7 +30007,8 @@
     {
       "id": "equ.teg.cmt.015-d",
       "es": "Láminas epidérmicas (derechas)",
-      "la": "Lamellae epidermales",      "sys": "teg",
+      "la": "Lamellae epidermales",
+      "sys": "teg",
       "layer": "pel"
     },
     {
@@ -30972,7 +31007,8 @@
     },
     {
       "id": "equ.end.sup.007-d",
-      "es": "Cápsula de la suprarrenal (derecha)",      "la": "Capsula glandulae suprarenalis",
+      "es": "Cápsula de la suprarrenal (derecha)",
+      "la": "Capsula glandulae suprarenalis",
       "sys": "end",
       "layer": "org"
     },
@@ -31971,7 +32007,8 @@
       "layer": "org"
     },
     {
-      "id": "equ.sen.omd.008-d",      "es": "Promontorio (derecho)",
+      "id": "equ.sen.omd.008-d",
+      "es": "Promontorio (derecho)",
       "la": "Promontorium",
       "sys": "sen",
       "layer": "org"
@@ -32970,7 +33007,8 @@
     },
     {
       "id": "equ.ske.cau.020",
-      "es": "Vértebra caudal 20 (Cd20)",      "la": "Vertebra caudalis 20",
+      "es": "Vértebra caudal 20 (Cd20)",
+      "la": "Vertebra caudalis 20",
       "sys": "ske",
       "layer": "oss",
       "ficha": {
