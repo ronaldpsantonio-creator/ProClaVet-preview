@@ -4982,18 +4982,23 @@
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "En la línea media del suelo de la pelvis, entre los dos huesos coxales, en la unión de los pubis y los isquiones.",
-        "descripcion": "Unión cartilaginosa entre las dos mitades de la pelvis, formada por cartílago hialino y fibrocartílago. Con el tiempo se osifica de forma gradual hasta convertirse en una sinostosis, y mientras tanto conserva cierta flexibilidad.",
-        "relaciones": "Se continúa lateralmente con los pubis y los isquiones de cada hueso coxal. En su cara ventral se encuentra el tubérculo púbico ventral.",
-        "accidentes": "Sínfisis púbica (porción craneal) y sínfisis isquiática (porción caudal), con la línea media de unión de las dos mitades pelvianas.",
-        "articulaciones": "Sínfisis cartilaginosa que acaba osificándose (sinostosis). Las fuentes divulgativas y un resumen de congreso AAEP sitúan el proceso de osificación a lo largo de varios años.",
-        "inserciones": "No se detallan inserciones propias en las fuentes consultadas.",
-        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
-        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
-        "funcion": "Mantiene unidas las dos mitades de la pelvis, que con la edad forman un suelo pelviano sólido de hueso.",
-        "especie": "En el caballo, fuentes divulgativas dicen que la sínfisis suele estar osificada hacia los 5 a 6 años y que la porción dorsal se fusiona antes que la ventral. No se localizó un estudio anatómico equino que establezca la edad con precisión.",
-        "clinica": "Fuentes divulgativas describen la fusión incompleta o el ensanchamiento de la parte ventral de la sínfisis, asociados a inestabilidad pelviana y a daño de la articulación sacroilíaca. Esta información procede de textos divulgativos, no de estudios anatómicos revisados.",
-        "referencias": "Resumen de congreso AAEP 2019, Pelvis and Lumbosacral Junction: la sínfisis pelviana permanece parcialmente flexible y su fibrocartílago se osifica con la edad. https://pubs.aaep.org/0A4370h/65thAnnCon2019/html/350.html\n\nThe Horse's Back, A Pelvic Blow Out? The Widened Pubic Symphysis in Horses (divulgativo). https://thehorsesback.com/tag/sacroiliac-dysfunction\n\nProducer.com, Pelvic instability often undiagnosed in young horses (divulgativo). https://www.producer.com/livestock/pelvic-instability-often-undiagnosed-in-young-horses/\n\nWikiVet, Hindlimb - Anatomy & Physiology: pubis y sínfisis pelviana. https://en.wikivet.net/Hindlimb_-_Anatomy_&_Physiology"
+        "ubicacion": "En la línea media del suelo de la pelvis, donde se unen los huesos coxales derecho e izquierdo. Se extiende desde la región púbica, cranealmente, hasta la región isquiática, caudalmente.",
+        "descripcion": "Unión cartilaginosa mediana entre las dos mitades de la pelvis. Comprende una porción púbica y otra isquiática, conectadas mediante tejido cartilaginoso y estructuras fibrosas periféricas. Durante el desarrollo y la maduración del caballo experimenta osificación progresiva.",
+        "relaciones": "Se relaciona cranealmente con los cuerpos de los pubis, caudalmente con los cuerpos y ramas de los isquiones, y lateralmente con las estructuras musculares que se originan en la superficie ventral de la pelvis. Forma parte del suelo de la cavidad pelviana.",
+        "accidentes": "Sínfisis púbica, sínfisis isquiática, superficie medial de los cuerpos de los pubis, superficie medial de los isquiones y línea mediana de unión de ambos huesos coxales.",
+        "articulaciones": "Unión cartilaginosa de la pelvis, con una porción púbica y otra isquiática. Su movilidad es limitada y disminuye progresivamente con la maduración esquelética debido a la osificación de la unión, que puede culminar en una sinostosis.",
+        "inserciones": "Proporciona origen o fijación a estructuras musculares de la región medial del muslo y del suelo pélvico, entre ellas el músculo grácil y componentes del grupo aductor. La disposición y extensión de estas fijaciones varían según el músculo y la región de la sínfisis.",
+        "irrigacion": "No se identificó una descripción equina suficientemente específica de la irrigación directa del tejido sinfisario. La región recibe aporte vascular de ramas pélvicas y pudendas, pero no deben asignarse como irrigación exclusiva de la sínfisis sin evidencia anatómica específica.",
+        "inervacion": "No se identificó una descripción equina concluyente de la inervación directa del tejido sinfisario. La región mantiene relaciones con estructuras nerviosas de la pelvis y del miembro pelviano, sin que su proximidad demuestre inervación directa de la unión cartilaginosa.",
+        "funcion": "Une las dos mitades del esqueleto pelviano, contribuye a la continuidad y estabilidad del suelo de la pelvis y permite una unión firme entre ambos huesos coxales. La osificación progresiva aumenta la rigidez de esta conexión.",
+        "especie": "En el caballo, la sínfisis pelviana comprende las porciones púbica e isquiática. La osificación progresa en dirección craneocaudal. En animales maduros, la unión se encuentra firmemente fusionada y contribuye a formar un suelo pelviano sólido.",
+        "clinica": "Las alteraciones de la sínfisis pelviana deben interpretarse considerando la edad y el grado de maduración esquelética. La falta de fusión en animales jóvenes puede corresponder al desarrollo normal. Las alteraciones traumáticas o del proceso de osificación requieren correlación con la exploración clínica y los estudios de imagen. No se debe considerar por sí sola una causa demostrada de enfermedad sacroilíaca.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed. Sección de pelvis y anatomía funcional.\n\nBarone R. Anatomie comparée des mammifères domestiques. 5.ª ed. Referencia anatómica comparada sobre la sínfisis pelviana.\n\nTextbook of Veterinary Anatomy. Sección de articulaciones y ligamentos de la cintura pelviana.\n\nFunctional specialisation of pelvic limb anatomy in horses (Equus caballus). Estudio anatómico de las fijaciones musculares de la pelvis.\n\nIMAIOS, vet-Anatomy. Pelvic symphysis — Symphysis pelvina."
+      },
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-21",
+        "alcance": "Ficha anatómica de 12 apartados aprobada expresamente por el usuario, sin observaciones. Integrada en el archivo maestro y publicada en GitHub. La verificación estructural del registro y del JSON no certifica por sí sola el modelo 3D."
       }
     },
     {
