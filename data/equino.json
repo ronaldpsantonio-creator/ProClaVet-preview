@@ -5060,18 +5060,23 @@
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "En el codo del lado izquierdo, entre el cóndilo del húmero, la incisura troclear de la ulna y la cabeza del radio.",
-        "descripcion": "Articulación sinovial compuesta del lado izquierdo, formada por el cóndilo humeral, la incisura troclear de la ulna y la cabeza del radio. Una fuente general la describe como una articulación en bisagra que flexiona unos 55 a 60 grados.",
-        "relaciones": "La cápsula se inserta en la superficie articular del cóndilo, en el borde de la fosa del olécranon y en el cartílago articular de la incisura troclear de la ulna.",
-        "accidentes": "Cóndilo y epicóndilos medial y lateral del húmero, fosa del olécranon, incisura troclear de la ulna y cabeza del radio.",
-        "articulaciones": "Articulación sinovial con dos ligamentos colaterales. El colateral lateral (radial) se origina en el epicóndilo lateral del húmero. El colateral medial (ulnar) se origina en el epicóndilo medial y se inserta en la ulna y en el radio.",
-        "inserciones": "La parte craneal del ligamento colateral medial es un resto del músculo pronador redondo.",
-        "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
-        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
-        "funcion": "Permite la flexión y la extensión del antebrazo sobre el brazo.",
-        "especie": "En el caballo falta la rama caudal (ulnar) del ligamento colateral lateral. La parte craneal del colateral medial es un resto del pronador redondo.",
-        "clinica": "El manual MSD agrupa para el codo equino la enfermedad ortopédica del desarrollo, las fracturas, la osteoartritis, la lesión del ligamento colateral y la bursitis del olécranon.",
-        "referencias": "WikiVet, Joints and Ligaments - Horse Anatomy (basada en Budras K, Sack WO. Anatomy of the Horse, 6.ª ed., 2012). https://en.wikivet.net/Joints_and_Ligaments_-_Horse_Anatomy\n\nMSD Veterinary Manual, Disorders of the Shoulder and Elbow in Horses (versión para propietarios). https://www.msdvetmanual.com/horse-owners/bone,-joint,-and-muscle-disorders-in-horses/disorders-of-the-shoulder-and-elbow-in-horses\n\nWikipedia, Skeletal system of the horse (artículo con aviso de citas pendientes; solo para el dato del arco de flexión del codo). https://www.wikipedia.org/wiki/Skeletal_system_of_the_horse"
+        "ubicacion": "Región del codo del miembro torácico izquierdo, entre el extremo distal del húmero y los extremos proximales del radio y la ulna.",
+        "descripcion": "Articulación sinovial compuesta constituida por las articulaciones humeroulnar, humerorradial y radioulnar proximal. Las dos primeras presentan configuración funcional de bisagra. La articulación radioulnar proximal no permite movimientos apreciables de pronación y supinación en el caballo.",
+        "relaciones": "La cápsula articular se fija alrededor de los márgenes articulares del húmero, radio y ulna. Es más robusta cranealmente y presenta un receso caudal relacionado con la fosa del olécranon, profundo al músculo ancóneo. Se encuentra reforzada lateral y medialmente por los ligamentos colaterales.",
+        "accidentes": "Cóndilo humeral y sus superficies articulares, epicóndilos medial y lateral, fosa del olécranon, proceso ancóneo, incisura troclear de la ulna, cabeza del radio y tuberosidades radial medial y lateral.",
+        "articulaciones": "Comprende la articulación humeroulnar, entre el cóndilo humeral y la incisura troclear de la ulna; la humerorradial, entre el cóndilo humeral y la cabeza del radio; y la radioulnar proximal, entre las superficies articulares proximales del radio y la ulna. Está estabilizada por un ligamento colateral lateral único y un ligamento colateral medial con componentes largo y corto.",
+        "inserciones": "El ligamento colateral lateral se extiende desde la región epicondilar lateral del húmero hasta la tuberosidad lateral del radio. El colateral medial se origina en el epicóndilo medial y presenta componentes largos y cortos con fijaciones en el radio proximal. El componente largo craneal corresponde a una estructura vestigial relacionada con el pronador redondo de otras especies.",
+        "irrigacion": "La irrigación regional procede de ramas de la red arterial periarticular del brazo y antebrazo, con participación de ramas colaterales de las arterias braquial, braquial profunda y recurrentes regionales. No se atribuye una rama exclusiva a la cápsula sin respaldo anatómico específico.",
+        "inervacion": "La sensibilidad de la región articular depende de ramas articulares procedentes de los nervios que recorren la región del codo, principalmente radial, musculocutáneo y mediano. La distribución exacta de las ramas capsulares requiere confirmación anatómica específica en el caballo.",
+        "funcion": "Permite principalmente la flexión y extensión del antebrazo respecto al brazo. Los ligamentos colaterales y la congruencia de las superficies articulares contribuyen a limitar los desplazamientos laterales y estabilizar el miembro durante el apoyo.",
+        "especie": "En el caballo, el codo presenta un ligamento colateral lateral único y un ligamento colateral medial con componentes largo y corto. La articulación radioulnar proximal carece de movilidad funcional significativa, por lo que no existe pronación y supinación comparables a las de especies con radio y ulna móviles.",
+        "clinica": "Entre las afecciones descritas se encuentran fracturas del olécranon, lesiones de los ligamentos colaterales, enfermedad ortopédica del desarrollo con lesiones quísticas subcondrales y osteoartritis. La bursitis del olécranon es una alteración regional extraarticular y debe distinguirse de la efusión sinovial del codo.",
+        "referencias": "Budras K, Sack WO, Röck S. Anatomy of the Horse. 6.ª ed., 2012.\n\nTnibar MA et al. Ultrasonography of the equine elbow: technique and normal appearance, 2001.\n\nTurner TA. Disorders of the Elbow in Horses. Merck Veterinary Manual, revisión febrero de 2025.\n\nCollateral damage: Current perspectives of equine ligament injuries. Equine Veterinary Education."
+      },
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-21",
+        "alcance": "Ficha anatómica de 12 apartados aprobada expresamente por el usuario e integrada en el archivo maestro. Validación estructural del registro y del JSON completada; la verificación textual no certifica por sí sola el modelo 3D."
       }
     },
     {
