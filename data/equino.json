@@ -4828,14 +4828,14 @@
       "ficha": {
         "ubicacion": "Entre las costillas y las vértebras torácicas, a cada lado de la columna. El caballo tiene habitualmente 18 pares de costillas y 18 vértebras torácicas.",
         "descripcion": "Conjunto de dos articulaciones sinoviales por costilla en la mayoría de los casos: la articulación de la cabeza de la costilla, entre la cabeza costal y los cuerpos de dos vértebras adyacentes y su disco, y la articulación costotransversa, entre el tubérculo de la costilla y el proceso transverso de la vértebra.",
-        "relaciones": "El ligamento intercapital une las cabezas de las costillas opuestas por encima de la cara dorsal del disco intervertebral y por debajo del ligamento longitudinal dorsal. Una fuente general lo describe entre las costillas 1 a 11 del caballo.",
+        "relaciones": "El ligamento intercapital une las cabezas de costillas opuestas, pasando dorsal al disco intervertebral y ventral al ligamento longitudinal dorsal. En el caballo se describe habitualmente desde la segunda hasta aproximadamente la décima u undécima costilla; su presencia y disposición deben precisarse por nivel y no extrapolarse a todas las articulaciones costovertebrales.",
         "accidentes": "Cabeza y tubérculo de la costilla; carillas costales de los cuerpos vertebrales y proceso transverso de las vértebras torácicas.",
         "articulaciones": "Articulaciones sinoviales con cápsula articular. Los ligamentos descritos son el radiado de la cabeza de la costilla, el intraarticular o intercapital, el costotransverso y el ligamento del cuello.",
         "inserciones": "No se describen inserciones musculares propias en las fuentes consultadas. Los ligamentos radiado e intercapital se fijan entre la cabeza costal, los cuerpos vertebrales y el disco.",
         "irrigacion": "Las fuentes equinas consultadas no describen su irrigación.",
         "inervacion": "Las fuentes equinas consultadas no describen su inervación.",
         "funcion": "Unen las costillas a la columna y permiten la rotación de cada costilla, que es mayor hacia caudal.",
-        "especie": "La configuración típica equina comprende la articulación de la cabeza de la costilla y la costotransversa. La descripción clásica del caballo señala que el ligamento conjugado o intercapital no está presente en la primera articulación costo-central; por ello, no debe generalizarse la disposición de las costillas típicas a todos los niveles torácicos.",
+        "especie": "La configuración típica equina comprende la articulación de la cabeza de la costilla y la costotransversa. El ligamento conjugado o intercapital presenta una distribución limitada por niveles: se describe habitualmente desde la segunda hasta aproximadamente la décima u undécima costilla y no debe generalizarse a todos los niveles torácicos. La primera articulación costo-central presenta una disposición particular.",
         "clinica": "No se localizó una fuente clínica equina específica para esta articulación.",
         "referencias": "FIPAT / IFAA, Terminologia Anatomica: articulationes costovertebrales, articulatio capitis costae, ligamentum radiatum y ligamentum intraarticulare capitis costae (términos de la TA humana, usados como apoyo de nomenclatura). https://ifaa.unifr.ch/Public/TNAEntryPage/auto/part/LAEN/TAH53012 P3F EN.htm\n\nEquine Spine and Head Anatomy (Physiopedia): costovertebral joint del caballo y sus ligamentos. https://www.physio-pedia.com:443/Equine_Spine_and_Head_Anatomy\n\nSkeletal system of the horse (Wikipedia): ligamentos intercapitales entre las costillas 1 a 11 y número de costillas. https://www.wikipedia.org/wiki/Skeletal_system_of_the_horse\n\nIntraarticular ligament of head of rib. IMAIOS vet-Anatomy. https://www.imaios.cn/en/vet-anatomy/anatomical-structures/intraarticular-ligament-of-head-of-rib-11077954012\n\nSisson S. A Text-book of Veterinary Anatomy. 1911. Articulations of the Thorax: articulaciones costo-centrales y costo-transversas, cápsulas y ligamentos. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm\n\nIMAIOS vet-Anatomy. Joint of head of rib – Horse (Articulatio capitis costae): superficies articulares de la cabeza costal y vértebras correspondientes. https://www.imaios.cn/en/vet-anatomy/anatomical-structures/joint-of-head-of-rib-11077953908\n\nIMAIOS vet-Anatomy. Intraarticular ligament of head of rib – Horse. https://www.imaios.cn/en/vet-anatomy/anatomical-structures/intraarticular-ligament-of-head-of-rib-11077954012\n\nThe Anatomy of the Horse: A Dissection Guide. Chondro-costal and costo-vertebral articulations. https://objects.library.uu.nl/download/1874-32163/fulltext"
       },
@@ -4880,9 +4880,9 @@
       "ficha": {
         "ubicacion": "Entre los cartílagos costales de las costillas esternales y el esternón, a cada lado de la línea media ventral del tórax. En el caballo son 8 pares de costillas esternales.",
         "descripcion": "Articulaciones entre los extremos esternales de los cartílagos costales de las ocho costillas esternales y las superficies articulares del esternón. En el caballo, los cartílagos de la primera pareja también se articulan entre sí en la línea media y comparten una disposición sinovial común.",
-        "relaciones": "Se relacionan con las esternebras y con los cartílagos costales. Una guía docente describe, en el caballo, fibras del ligamento esternocostal radiado que se mezclan hacia la línea media con el ligamento esternal interno.",
+        "relaciones": "Se relacionan con las esternebras y con los cartílagos costales. Los ligamentos esternocostales radiados refuerzan las uniones y presentan componentes dorsales y ventrales; hacia la línea media, sus fibras se relacionan con el ligamento esternal interno.",
         "accidentes": "Cartílagos costales de las costillas esternales, fosas de las esternebras donde se articulan, y ligamentos esternocostales.",
-        "articulaciones": "Las articulaciones condroesternales equinas son sinoviales. La descripción anatómica clásica señala que las articulaciones de la primera pareja costal se continúan en una cavidad sinovial común que incluye la unión entre ambos cartílagos; las articulaciones restantes presentan sus propias membranas sinoviales. La cápsula se refuerza mediante ligamentos costosternales superior e inferior.",
+        "articulaciones": "Las articulaciones condroesternales equinas son sinoviales. La descripción anatómica clásica señala que las articulaciones de la primera pareja costal se continúan en una cavidad sinovial común que incluye la unión entre ambos cartílagos; las articulaciones restantes presentan sus propias membranas sinoviales. Las cápsulas se refuerzan mediante ligamentos esternocostales radiados, con componentes dorsal y ventral.",
         "inserciones": "El músculo transverso del tórax cubre la cara dorsal del esternón y se inserta en las costillas esternales.",
         "irrigacion": "No se localizaron descripciones equinas de la irrigación en las fuentes consultadas.",
         "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
@@ -4921,58 +4921,6 @@
         "estado": "aprobada_y_verificada",
         "fecha": "2026-11-21",
         "alcance": "Ficha anatómica de 12 apartados aprobada expresamente por el usuario. Incorporada al repositorio; validación estructural del registro y del JSON completada. La verificación textual no certifica por sí sola el modelo 3D."
-      }
-    },
-    {
-      "id": "equ.ske.aax.010-i",
-      "es": "Articulación sacroilíaca (izquierda)",
-      "la": "Articulatio sacroiliaca",
-      "sys": "ske",
-      "layer": "art",
-      "ficha": {
-        "ubicacion": "En el lado izquierdo de la pelvis, entre la superficie auricular del ala del ilion y la superficie auricular del ala del sacro. Se localiza profundamente, ventral al ala del ilion y cubierta regionalmente por musculatura glútea.",
-        "descripcion": "Articulación sinovial atípica, de superficies articulares aproximadamente planas e irregulares, con una cápsula estrecha y ajustada. La descripción clásica diferencia fibrocartílago en el ilion y cartílago hialino en el sacro; estudios histológicos recientes describen una distribución más compleja, con variaciones regionales y presencia de ambos tipos de cartílago.",
-        "relaciones": "Se relaciona con el ala del ilion y el ala del sacro. Dorsalmente se encuentra el ligamento sacroilíaco dorsal, con porciones dorsal y lateral; entre ambas alas se dispone el ligamento interóseo, y ventralmente el ligamento sacroilíaco ventral. El ligamento sacrociático se continúa regionalmente con la porción lateral del complejo ligamentoso dorsal.",
-        "accidentes": "Superficies auriculares del ilion y del sacro, ala del ilion, ala del sacro, tuber sacrale, cresta sacra lateral y cápsula articular. Se relaciona con los ligamentos sacroilíacos dorsal, interóseo y ventral, además del ligamento sacrociático.",
-        "articulaciones": "Articulación sinovial atípica, de movilidad reducida. La cápsula se fija cerca de los márgenes articulares. La estabilidad depende principalmente de los ligamentos sacroilíacos dorsal, interóseo y ventral. El ligamento sacrociático contribuye al soporte de la región pélvica, pero no constituye un refuerzo capsular directo ni atraviesa la cavidad articular.",
-        "inserciones": "El ligamento sacroilíaco dorsal presenta una porción dorsal que une el tuber sacrale con los vértices de los procesos espinosos sacros, y una porción lateral que se extiende hacia la cresta sacra lateral. El ligamento interóseo conecta las superficies enfrentadas de las alas del ilion y del sacro. El ligamento sacroilíaco ventral une las superficies ventrales de ambas alas y se mezcla con la cápsula. El ligamento sacrociático se extiende desde la cresta lateral del sacro y los procesos transversos de las primeras vértebras caudales hasta la espina y la tuberosidad isquiáticas.",
-        "irrigacion": "No se identificó una descripción equina suficientemente específica de la irrigación capsular. La arteria y la vena glúteas craneales mantienen relaciones regionales próximas a la articulación, pero no deben presentarse como su aporte vascular exclusivo.",
-        "inervacion": "No se identificó una descripción equina concluyente de la inervación directa de la cápsula articular. En la región se encuentran estructuras nerviosas próximas, entre ellas los nervios glúteos craneales y el nervio ciático; su proximidad no demuestra que sean la inervación capsular directa.",
-        "funcion": "Une la pelvis con el esqueleto axial, transmite el peso del tronco y las fuerzas propulsoras del miembro pelviano hacia la columna vertebral. Sus ligamentos proporcionan estabilidad y limitan la movilidad.",
-        "especie": "En el caballo, las superficies auriculares presentan una configuración irregular, descrita habitualmente como aproximadamente en forma de L. La articulación tiene una cápsula estrecha y tres componentes ligamentarios sacroilíacos principales. El grado de movilidad es reducido, aunque no inexistente.",
-        "clinica": "Puede presentar osteoartrosis, alteraciones de los ligamentos sacroilíacos, fracturas del sacro o del ilion y dolor de la región sacroilíaca. La ecografía permite examinar estructuras dorsales y, mediante abordaje transrectal, la región ventral. Los cambios ecográficos deben interpretarse junto con la exploración clínica, ya que no todos los hallazgos indican enfermedad sintomática.",
-        "referencias": "Haussler KK. Anatomy of the sacroiliac joint and adjacent structures. En: Proceedings/Equine Vet J; 2008. https://doi.org/10.1111/j.2042-3306.2008.tb04118.x\n\nTallaj A, Coudry V, Denoix JM. Transrectal ultrasonographic examination of the sacroiliac joints of the horse: technique and normal images. Equine Vet Educ. 2019;31(12):666–671.\n\nTallaj A, Coudry V, Denoix JM. Transrectal ultrasonographic examination of the sacroiliac joints of the horse: abnormal findings and lesions. Equine Vet Educ. 2020;32(1):33–38.\n\nComparative CT, transrectal ultrasonography and histology study of the equine sacroiliac joint. 2025.\n\nUniversity of Florida, College of Veterinary Medicine. Veterinary Diagnostic Imaging: 17-year-old Hanoverian gelding, case reveal. https://imaging.vetmed.ufl.edu/large-animal/pelvis/17-year-old-hanoverian-gelding/case-reveal/\n\nMerck Veterinary Manual. Sacroiliac Disorders in Horses. June 2025."
-      },
-      "revision": {
-        "estado": "aprobada_y_verificada",
-        "fecha": "2026-11-21",
-        "alcance": "Ficha anatómica de 12 apartados aprobada expresamente por el usuario. Incorporada al archivo maestro; validación estructural del registro y del JSON completada. La verificación textual no certifica por sí sola el modelo 3D."
-      }
-    },
-    {
-      "id": "equ.ske.aax.010-d",
-      "es": "Articulación sacroilíaca (derecha)",
-      "la": "Articulatio sacroiliaca",
-      "sys": "ske",
-      "layer": "art",
-      "ficha": {
-        "ubicacion": "En el lado derecho de la pelvis, entre la superficie auricular del ala del ilion y la superficie auricular del ala del sacro. Se localiza profundamente, ventral al ala del ilion y cubierta regionalmente por musculatura glútea.",
-        "descripcion": "Articulación sinovial atípica, de superficies articulares aproximadamente planas e irregulares, con una cápsula estrecha y ajustada. La descripción clásica diferencia fibrocartílago en el ilion y cartílago hialino en el sacro; estudios histológicos recientes describen una distribución más compleja, con variaciones regionales y presencia de ambos tipos de cartílago.",
-        "relaciones": "Se relaciona con el ala del ilion y el ala del sacro. Dorsalmente se encuentra el ligamento sacroilíaco dorsal, con porciones dorsal y lateral; entre ambas alas se dispone el ligamento interóseo, y ventralmente el ligamento sacroilíaco ventral. El ligamento sacrociático se continúa regionalmente con la porción lateral del complejo ligamentoso dorsal.",
-        "accidentes": "Superficies auriculares del ilion y del sacro, ala del ilion, ala del sacro, tuber sacrale, cresta sacra lateral y cápsula articular. Se relaciona con los ligamentos sacroilíacos dorsal, interóseo y ventral, además del ligamento sacrociático.",
-        "articulaciones": "Articulación sinovial atípica, de movilidad reducida. La cápsula se fija cerca de los márgenes articulares. La estabilidad depende principalmente de los ligamentos sacroilíacos dorsal, interóseo y ventral. El ligamento sacrociático contribuye al soporte de la región pélvica, pero no constituye un refuerzo capsular directo ni atraviesa la cavidad articular.",
-        "inserciones": "El ligamento sacroilíaco dorsal presenta una porción dorsal que une el tuber sacrale con los vértices de los procesos espinosos sacros, y una porción lateral que se extiende hacia la cresta sacra lateral. El ligamento interóseo conecta las superficies enfrentadas de las alas del ilion y del sacro. El ligamento sacroilíaco ventral une las superficies ventrales de ambas alas y se mezcla con la cápsula. El ligamento sacrociático se extiende desde la cresta lateral del sacro y los procesos transversos de las primeras vértebras caudales hasta la espina y la tuberosidad isquiáticas.",
-        "irrigacion": "No se identificó una descripción equina suficientemente específica de la irrigación capsular. La arteria y la vena glúteas craneales mantienen relaciones regionales próximas a la articulación, pero no deben presentarse como su aporte vascular exclusivo.",
-        "inervacion": "No se identificó una descripción equina concluyente de la inervación directa de la cápsula articular. En la región se encuentran estructuras nerviosas próximas, entre ellas los nervios glúteos craneales y el nervio ciático; su proximidad no demuestra que sean la inervación capsular directa.",
-        "funcion": "Une la pelvis con el esqueleto axial, transmite el peso del tronco y las fuerzas propulsoras del miembro pelviano hacia la columna vertebral. Sus ligamentos proporcionan estabilidad y limitan la movilidad.",
-        "especie": "En el caballo, las superficies auriculares presentan una configuración irregular, descrita habitualmente como aproximadamente en forma de L. La articulación tiene una cápsula estrecha y tres componentes ligamentarios sacroilíacos principales. El grado de movilidad es reducido, aunque no inexistente.",
-        "clinica": "Puede presentar osteoartrosis, alteraciones de los ligamentos sacroilíacos, fracturas del sacro o del ilion y dolor de la región sacroilíaca. La ecografía permite examinar estructuras dorsales y, mediante abordaje transrectal, la región ventral. Los cambios ecográficos deben interpretarse junto con la exploración clínica, ya que no todos los hallazgos indican enfermedad sintomática.",
-        "referencias": "Haussler KK. Anatomy of the sacroiliac joint and adjacent structures. Equine Vet J. 2008. https://doi.org/10.1111/j.2042-3306.2008.tb04118.x\n\nTallaj A, Coudry V, Denoix JM. Transrectal ultrasonographic examination of the sacroiliac joints of the horse: technique and normal images. Equine Vet Educ. 2019;31(12):666–671.\n\nTallaj A, Coudry V, Denoix JM. Transrectal ultrasonographic examination of the sacroiliac joints of the horse: abnormal findings and lesions. Equine Vet Educ. 2020;32(1):33–38.\n\nMulti-Detector Helical Computed Tomography, Transrectal Ultrasonography, and Histology of the Sacroiliac Joint: A Comparative Study in Adult Warmblood Horse Cadavers. 2025. https://pmc.ncbi.nlm.nih.gov/articles/PMC12248472/\n\nUniversity of Florida, College of Veterinary Medicine. Veterinary Diagnostic Imaging: 17-year-old Hanoverian gelding, case reveal. https://imaging.vetmed.ufl.edu/large-animal/pelvis/17-year-old-hanoverian-gelding/case-reveal/\n\nMerck Veterinary Manual. Sacroiliac Disorders in Horses. June 2025."
-      },
-      "revision": {
-        "estado": "aprobada_y_verificada",
-        "fecha": "2026-11-21",
-        "alcance": "Ficha anatómica de 12 apartados aprobada expresamente por el usuario, sin observaciones. Integrada en el archivo maestro y publicada en GitHub. La verificación estructural del registro y del JSON no certifica por sí sola el modelo 3D."
       }
     },
     {
@@ -33893,6 +33841,101 @@
         "especie": "En el caballo el occipital se forma por cuatro segmentos al nacer. Las partes laterales se unen con la escama en el segundo año de edad. Estos datos proceden de Hillmann (1975), citado de segunda mano; no se localizó una fuente equina más reciente. La NAV 2017 recoge esta sincondrosis entre paréntesis, como variante habitual, dentro de las sincondrosis del cráneo.",
         "clinica": "No se localizaron descripciones clínicas equinas específicas de esta sincondrosis en las fuentes consultadas.",
         "referencias": "Hillmann DJ. Skull. En: Getty R, ed. Sisson and Grossman's The Anatomy of the Domestic Animals, 5th ed. Philadelphia: WB Saunders; 1975. Citado por Shoghy KM, Saber AS. Development of Central Skull Base of the One Humped Camel (Camelus dromedarius). J Vet Anat. 2015;8(2):1-16. https://journals.ekb.eg/article_44863_512d68bfabbdbca4b86513f29dd73463.pdf (no se consultó el original de Hillmann).\n\nNomina Anatomica Veterinaria, 6.ª ed. (2017), I.C.V.G.A.N. / W.A.V.A. https://www.vetmed.uni-leipzig.de/fileadmin/Fakult%C3%A4t_VMF/Institut_Veterin%C3%A4r-Anatomisches/Dokumente/NAV_6th-Edition-2017.pdf Arthrologia, Synchondroses cranii."
+      }
+    },
+    {
+      "id": "equ.ske.aax.010",
+      "es": "Articulación sacroilíaca (bilateral)",
+      "la": "Articulatio sacroiliaca",
+      "sys": "ske",
+      "layer": "art",
+      "lateralidad": "bilateral",
+      "trazabilidad_ids": [
+        "equ.ske.aax.010-i",
+        "equ.ske.aax.010-d"
+      ],
+      "ficha": {
+        "ubicacion": "A ambos lados de la pelvis, entre las superficies auriculares de las alas del ilion y del sacro. Son articulaciones profundas, ventrales a las alas del ilion y cubiertas regionalmente por musculatura glútea.",
+        "descripcion": "Articulación sinovial atípica, de superficies articulares aproximadamente planas e irregulares, con una cápsula estrecha y ajustada. La descripción clásica diferencia fibrocartílago en el ilion y cartílago hialino en el sacro; estudios histológicos recientes describen una distribución más compleja, con variaciones regionales y presencia de ambos tipos de cartílago.",
+        "relaciones": "Cada articulación se relaciona con el ala del ilion y el ala del sacro de su lado. Dorsalmente se encuentra el ligamento sacroilíaco dorsal, con porciones dorsal y lateral; entre ambas alas se dispone el ligamento interóseo, y ventralmente el ligamento sacroilíaco ventral. El ligamento sacrociático se continúa regionalmente con la porción lateral del complejo ligamentoso dorsal.",
+        "accidentes": "Superficies auriculares del ilion y del sacro, alas del ilion y del sacro, tubera sacrale, crestas sacras laterales y cápsulas articulares. Se relacionan con los ligamentos sacroilíacos dorsales, interóseos y ventrales, además de los ligamentos sacrociáticos.",
+        "articulaciones": "Articulación sinovial atípica, de movilidad reducida. La cápsula se fija cerca de los márgenes articulares. La estabilidad depende principalmente de los ligamentos sacroilíacos dorsal, interóseo y ventral. El ligamento sacrociático contribuye al soporte de la región pélvica, pero no constituye un refuerzo capsular directo ni atraviesa la cavidad articular.",
+        "inserciones": "En cada lado, el ligamento sacroilíaco dorsal presenta una porción dorsal que une el tuber sacrale con los vértices de los procesos espinosos sacros, y una porción lateral que se extiende hacia la cresta sacra lateral. El ligamento interóseo conecta las superficies enfrentadas de las alas del ilion y del sacro. El ligamento sacroilíaco ventral une las superficies ventrales de ambas alas y se mezcla con la cápsula. Los ligamentos sacrociáticos se extienden desde la cresta lateral del sacro y los procesos transversos de las primeras vértebras caudales hasta la espina y la tuberosidad isquiáticas.",
+        "irrigacion": "No se identificó una descripción equina suficientemente específica de la irrigación capsular. La arteria y la vena glúteas craneales mantienen relaciones regionales próximas a las articulaciones, pero no deben presentarse como su aporte vascular exclusivo.",
+        "inervacion": "No se identificó una descripción equina concluyente de la inervación directa de las cápsulas articulares. En la región se encuentran estructuras nerviosas próximas, entre ellas los nervios glúteos craneales y el nervio ciático; su proximidad no demuestra que sean la inervación capsular directa.",
+        "funcion": "Unen la pelvis con el esqueleto axial, transmiten el peso del tronco y las fuerzas propulsoras de ambos miembros pelvianos hacia la columna vertebral. Sus ligamentos proporcionan estabilidad y limitan la movilidad.",
+        "especie": "En el caballo, ambas superficies auriculares presentan una configuración irregular, descrita habitualmente como aproximadamente en forma de L. Cada articulación tiene una cápsula estrecha y tres componentes ligamentarios sacroilíacos principales. El grado de movilidad es reducido, aunque no inexistente.",
+        "clinica": "Puede presentar osteoartrosis, alteraciones de los ligamentos sacroilíacos, fracturas del sacro o del ilion y dolor de la región sacroilíaca. La ecografía permite examinar estructuras dorsales y, mediante abordaje transrectal, la región ventral. Los cambios ecográficos deben interpretarse junto con la exploración clínica, ya que no todos los hallazgos indican enfermedad sintomática.",
+        "referencias": "Haussler KK. Anatomy of the sacroiliac joint and adjacent structures. En: Proceedings/Equine Vet J; 2008. https://doi.org/10.1111/j.2042-3306.2008.tb04118.x\n\nTallaj A, Coudry V, Denoix JM. Transrectal ultrasonographic examination of the sacroiliac joints of the horse: technique and normal images. Equine Vet Educ. 2019;31(12):666–671.\n\nTallaj A, Coudry V, Denoix JM. Transrectal ultrasonographic examination of the sacroiliac joints of the horse: abnormal findings and lesions. Equine Vet Educ. 2020;32(1):33–38.\n\nComparative CT, transrectal ultrasonography and histology study of the equine sacroiliac joint. 2025.\n\nUniversity of Florida, College of Veterinary Medicine. Veterinary Diagnostic Imaging: 17-year-old Hanoverian gelding, case reveal. https://imaging.vetmed.ufl.edu/large-animal/pelvis/17-year-old-hanoverian-gelding/case-reveal/\n\nMerck Veterinary Manual. Sacroiliac Disorders in Horses. June 2025."
+      },
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-21",
+        "alcance": "Ficha bilateral consolidada a partir de las fichas aprobadas izquierda y derecha, con autorización expresa del usuario. Los registros de origen se conservan en el historial para trazabilidad. Validación estructural del registro y del JSON completada; la verificación textual no certifica por sí sola el modelo 3D."
+      }
+    }
+  ],
+  "history": [
+    {
+      "id": "equ.ske.aax.010-i",
+      "es": "Articulación sacroilíaca (izquierda)",
+      "la": "Articulatio sacroiliaca",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el lado izquierdo de la pelvis, entre la superficie auricular del ala del ilion y la superficie auricular del ala del sacro. Se localiza profundamente, ventral al ala del ilion y cubierta regionalmente por musculatura glútea.",
+        "descripcion": "Articulación sinovial atípica, de superficies articulares aproximadamente planas e irregulares, con una cápsula estrecha y ajustada. La descripción clásica diferencia fibrocartílago en el ilion y cartílago hialino en el sacro; estudios histológicos recientes describen una distribución más compleja, con variaciones regionales y presencia de ambos tipos de cartílago.",
+        "relaciones": "Se relaciona con el ala del ilion y el ala del sacro. Dorsalmente se encuentra el ligamento sacroilíaco dorsal, con porciones dorsal y lateral; entre ambas alas se dispone el ligamento interóseo, y ventralmente el ligamento sacroilíaco ventral. El ligamento sacrociático se continúa regionalmente con la porción lateral del complejo ligamentoso dorsal.",
+        "accidentes": "Superficies auriculares del ilion y del sacro, ala del ilion, ala del sacro, tuber sacrale, cresta sacra lateral y cápsula articular. Se relaciona con los ligamentos sacroilíacos dorsal, interóseo y ventral, además del ligamento sacrociático.",
+        "articulaciones": "Articulación sinovial atípica, de movilidad reducida. La cápsula se fija cerca de los márgenes articulares. La estabilidad depende principalmente de los ligamentos sacroilíacos dorsal, interóseo y ventral. El ligamento sacrociático contribuye al soporte de la región pélvica, pero no constituye un refuerzo capsular directo ni atraviesa la cavidad articular.",
+        "inserciones": "El ligamento sacroilíaco dorsal presenta una porción dorsal que une el tuber sacrale con los vértices de los procesos espinosos sacros, y una porción lateral que se extiende hacia la cresta sacra lateral. El ligamento interóseo conecta las superficies enfrentadas de las alas del ilion y del sacro. El ligamento sacroilíaco ventral une las superficies ventrales de ambas alas y se mezcla con la cápsula. El ligamento sacrociático se extiende desde la cresta lateral del sacro y los procesos transversos de las primeras vértebras caudales hasta la espina y la tuberosidad isquiáticas.",
+        "irrigacion": "No se identificó una descripción equina suficientemente específica de la irrigación capsular. La arteria y la vena glúteas craneales mantienen relaciones regionales próximas a la articulación, pero no deben presentarse como su aporte vascular exclusivo.",
+        "inervacion": "No se identificó una descripción equina concluyente de la inervación directa de la cápsula articular. En la región se encuentran estructuras nerviosas próximas, entre ellas los nervios glúteos craneales y el nervio ciático; su proximidad no demuestra que sean la inervación capsular directa.",
+        "funcion": "Une la pelvis con el esqueleto axial, transmite el peso del tronco y las fuerzas propulsoras del miembro pelviano hacia la columna vertebral. Sus ligamentos proporcionan estabilidad y limitan la movilidad.",
+        "especie": "En el caballo, las superficies auriculares presentan una configuración irregular, descrita habitualmente como aproximadamente en forma de L. La articulación tiene una cápsula estrecha y tres componentes ligamentarios sacroilíacos principales. El grado de movilidad es reducido, aunque no inexistente.",
+        "clinica": "Puede presentar osteoartrosis, alteraciones de los ligamentos sacroilíacos, fracturas del sacro o del ilion y dolor de la región sacroilíaca. La ecografía permite examinar estructuras dorsales y, mediante abordaje transrectal, la región ventral. Los cambios ecográficos deben interpretarse junto con la exploración clínica, ya que no todos los hallazgos indican enfermedad sintomática.",
+        "referencias": "Haussler KK. Anatomy of the sacroiliac joint and adjacent structures. En: Proceedings/Equine Vet J; 2008. https://doi.org/10.1111/j.2042-3306.2008.tb04118.x\n\nTallaj A, Coudry V, Denoix JM. Transrectal ultrasonographic examination of the sacroiliac joints of the horse: technique and normal images. Equine Vet Educ. 2019;31(12):666–671.\n\nTallaj A, Coudry V, Denoix JM. Transrectal ultrasonographic examination of the sacroiliac joints of the horse: abnormal findings and lesions. Equine Vet Educ. 2020;32(1):33–38.\n\nComparative CT, transrectal ultrasonography and histology study of the equine sacroiliac joint. 2025.\n\nUniversity of Florida, College of Veterinary Medicine. Veterinary Diagnostic Imaging: 17-year-old Hanoverian gelding, case reveal. https://imaging.vetmed.ufl.edu/large-animal/pelvis/17-year-old-hanoverian-gelding/case-reveal/\n\nMerck Veterinary Manual. Sacroiliac Disorders in Horses. June 2025."
+      },
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-21",
+        "alcance": "Ficha anatómica de 12 apartados aprobada expresamente por el usuario. Incorporada al archivo maestro; validación estructural del registro y del JSON completada. La verificación textual no certifica por sí sola el modelo 3D."
+      },
+      "historial": {
+        "estado": "consolidada_en_ficha_bilateral",
+        "reemplazado_por": "equ.ske.aax.010",
+        "fecha": "2026-11-21"
+      }
+    },
+    {
+      "id": "equ.ske.aax.010-d",
+      "es": "Articulación sacroilíaca (derecha)",
+      "la": "Articulatio sacroiliaca",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el lado derecho de la pelvis, entre la superficie auricular del ala del ilion y la superficie auricular del ala del sacro. Se localiza profundamente, ventral al ala del ilion y cubierta regionalmente por musculatura glútea.",
+        "descripcion": "Articulación sinovial atípica, de superficies articulares aproximadamente planas e irregulares, con una cápsula estrecha y ajustada. La descripción clásica diferencia fibrocartílago en el ilion y cartílago hialino en el sacro; estudios histológicos recientes describen una distribución más compleja, con variaciones regionales y presencia de ambos tipos de cartílago.",
+        "relaciones": "Se relaciona con el ala del ilion y el ala del sacro. Dorsalmente se encuentra el ligamento sacroilíaco dorsal, con porciones dorsal y lateral; entre ambas alas se dispone el ligamento interóseo, y ventralmente el ligamento sacroilíaco ventral. El ligamento sacrociático se continúa regionalmente con la porción lateral del complejo ligamentoso dorsal.",
+        "accidentes": "Superficies auriculares del ilion y del sacro, ala del ilion, ala del sacro, tuber sacrale, cresta sacra lateral y cápsula articular. Se relaciona con los ligamentos sacroilíacos dorsal, interóseo y ventral, además del ligamento sacrociático.",
+        "articulaciones": "Articulación sinovial atípica, de movilidad reducida. La cápsula se fija cerca de los márgenes articulares. La estabilidad depende principalmente de los ligamentos sacroilíacos dorsal, interóseo y ventral. El ligamento sacrociático contribuye al soporte de la región pélvica, pero no constituye un refuerzo capsular directo ni atraviesa la cavidad articular.",
+        "inserciones": "El ligamento sacroilíaco dorsal presenta una porción dorsal que une el tuber sacrale con los vértices de los procesos espinosos sacros, y una porción lateral que se extiende hacia la cresta sacra lateral. El ligamento interóseo conecta las superficies enfrentadas de las alas del ilion y del sacro. El ligamento sacroilíaco ventral une las superficies ventrales de ambas alas y se mezcla con la cápsula. El ligamento sacrociático se extiende desde la cresta lateral del sacro y los procesos transversos de las primeras vértebras caudales hasta la espina y la tuberosidad isquiáticas.",
+        "irrigacion": "No se identificó una descripción equina suficientemente específica de la irrigación capsular. La arteria y la vena glúteas craneales mantienen relaciones regionales próximas a la articulación, pero no deben presentarse como su aporte vascular exclusivo.",
+        "inervacion": "No se identificó una descripción equina concluyente de la inervación directa de la cápsula articular. En la región se encuentran estructuras nerviosas próximas, entre ellas los nervios glúteos craneales y el nervio ciático; su proximidad no demuestra que sean la inervación capsular directa.",
+        "funcion": "Une la pelvis con el esqueleto axial, transmite el peso del tronco y las fuerzas propulsoras del miembro pelviano hacia la columna vertebral. Sus ligamentos proporcionan estabilidad y limitan la movilidad.",
+        "especie": "En el caballo, las superficies auriculares presentan una configuración irregular, descrita habitualmente como aproximadamente en forma de L. La articulación tiene una cápsula estrecha y tres componentes ligamentarios sacroilíacos principales. El grado de movilidad es reducido, aunque no inexistente.",
+        "clinica": "Puede presentar osteoartrosis, alteraciones de los ligamentos sacroilíacos, fracturas del sacro o del ilion y dolor de la región sacroilíaca. La ecografía permite examinar estructuras dorsales y, mediante abordaje transrectal, la región ventral. Los cambios ecográficos deben interpretarse junto con la exploración clínica, ya que no todos los hallazgos indican enfermedad sintomática.",
+        "referencias": "Haussler KK. Anatomy of the sacroiliac joint and adjacent structures. Equine Vet J. 2008. https://doi.org/10.1111/j.2042-3306.2008.tb04118.x\n\nTallaj A, Coudry V, Denoix JM. Transrectal ultrasonographic examination of the sacroiliac joints of the horse: technique and normal images. Equine Vet Educ. 2019;31(12):666–671.\n\nTallaj A, Coudry V, Denoix JM. Transrectal ultrasonographic examination of the sacroiliac joints of the horse: abnormal findings and lesions. Equine Vet Educ. 2020;32(1):33–38.\n\nMulti-Detector Helical Computed Tomography, Transrectal Ultrasonography, and Histology of the Sacroiliac Joint: A Comparative Study in Adult Warmblood Horse Cadavers. 2025. https://pmc.ncbi.nlm.nih.gov/articles/PMC12248472/\n\nUniversity of Florida, College of Veterinary Medicine. Veterinary Diagnostic Imaging: 17-year-old Hanoverian gelding, case reveal. https://imaging.vetmed.ufl.edu/large-animal/pelvis/17-year-old-hanoverian-gelding/case-reveal/\n\nMerck Veterinary Manual. Sacroiliac Disorders in Horses. June 2025."
+      },
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-21",
+        "alcance": "Ficha anatómica de 12 apartados aprobada expresamente por el usuario, sin observaciones. Integrada en el archivo maestro y publicada en GitHub. La verificación estructural del registro y del JSON no certifica por sí sola el modelo 3D."
+      },
+      "historial": {
+        "estado": "consolidada_en_ficha_bilateral",
+        "reemplazado_por": "equ.ske.aax.010",
+        "fecha": "2026-11-21"
       }
     }
   ]
