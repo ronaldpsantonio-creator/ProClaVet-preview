@@ -5107,23 +5107,28 @@
     },
     {
       "id": "equ.ske.amt.003-i",
-      "es": "Sindesmosis radiocubital (izquierdo)",
+      "es": "Sindesmosis radiocubital (izquierda)",
       "la": "Syndesmosis radioulnaris",
       "sys": "ske",
       "layer": "art",
       "ficha": {
-        "ubicacion": "En el antebrazo del lado izquierdo, entre el radio y la ulna, sobre todo en su cuarto proximal.",
-        "descripcion": "Unión del radio y la ulna del lado izquierdo. En el cuarto proximal del radio los huesos se unen por ligamentos, con un espacio interóseo por el que pasan vasos, y más distalmente están fusionados. La ulna se adelgaza hacia la mitad del antebrazo.",
-        "relaciones": "El espacio interóseo proximal permite el paso de vasos sanguíneos hacia los músculos del antebrazo. El proceso estiloides lateral del radio es el extremo distal de la ulna.",
-        "accidentes": "Espacio interóseo proximal del antebrazo y proceso estiloides lateral del radio, que corresponde a la ulna distal fusionada.",
-        "articulaciones": "Sindesmosis ligamentosa en el cuarto proximal, donde los huesos se unen por ligamentos. Hacia distal pasa a una unión ósea (sinostosis).",
-        "inserciones": "No se detallan inserciones propias en las fuentes consultadas.",
-        "irrigacion": "Una guía docente indica que la arteria interósea común atraviesa el espacio interóseo para llegar a los músculos antebraquiales. No describe un aporte propio de la unión.",
-        "inervacion": "No se localizaron descripciones equinas de la inervación en las fuentes consultadas.",
-        "funcion": "La fusión de ambos huesos limita el movimiento al plano sagital, con muy poca pronación y supinación.",
-        "especie": "En el caballo adulto la ulna está fusionada al radio y muy reducida. El proceso estiloides lateral aparece como un centro de osificación aparte en el potro y se fusiona hacia el año de edad.",
-        "clinica": "La separación del proceso estiloides lateral, que no es una fractura, se ve como variación normal en algunos caballos.",
-        "referencias": "WikiVet, Bones and Cartilages - Horse Anatomy. https://en.wikivet.net/Bones_and_Cartilages_-_Horse_Anatomy\n\nLarge Animal Anatomy, capítulo Thoracic Limb (Forelimb), University of Minnesota Pressbooks. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb"
+        "ubicacion": "En el antebrazo izquierdo, entre el radio y la ulna, principalmente en la región proximal del espacio interóseo antebraquial.",
+        "descripcion": "Unión fibrosa entre el radio y la ulna del miembro torácico izquierdo. En el caballo, ambos huesos permanecen unidos por tejido ligamentoso en la región proximal, donde existe un espacio interóseo que permite el paso de estructuras vasculares. Distalmente a este espacio, los huesos se fusionan progresivamente durante el desarrollo.",
+        "relaciones": "El espacio interóseo proximal se relaciona con la musculatura antebraquial y permite el paso de la arteria interósea común. La ulna se dispone caudalmente al radio y se reduce progresivamente hacia distal. El extremo distal de la ulna está representado por el proceso estiloides lateral del radio.",
+        "accidentes": "Espacio interóseo proximal del antebrazo, superficies de unión entre radio y ulna, cuerpo reducido de la ulna y proceso estiloides lateral del radio, de origen ulnar.",
+        "articulaciones": "La unión radioulnar comprende una región proximal de fijación ligamentosa, relacionada con la articulación radioulnar proximal incluida en la cápsula del codo, y una región distal de fusión ósea. El movimiento entre ambos huesos es prácticamente inapreciable en el caballo.",
+        "inserciones": "El ligamento interóseo radioulnar se fija entre las superficies enfrentadas del radio y la ulna en la región proximal al espacio interóseo. Distalmente, la unión se transforma en continuidad ósea durante la maduración.",
+        "irrigacion": "La arteria interósea común, rama de la arteria mediana, atraviesa el espacio interóseo proximal y alcanza la musculatura del antebrazo. No se atribuye una irrigación exclusiva a la sindesmosis sin documentación específica.",
+        "inervacion": "La región recibe ramas nerviosas procedentes de los nervios que recorren el antebrazo, con participación del nervio interóseo. No se establece una rama sensitiva exclusiva para la unión radioulnar por falta de descripción equina suficientemente específica.",
+        "funcion": "Mantiene la unión entre el radio y la ulna, contribuye a la estabilidad del antebrazo y limita los movimientos de rotación. La disposición anatómica de ambos huesos permite principalmente movimientos del miembro en el plano sagital.",
+        "especie": "En el caballo adulto, la ulna es un hueso reducido y parcialmente fusionado al radio. Persiste un espacio interóseo proximal y la unión distal se osifica durante el desarrollo. El proceso estiloides lateral deriva de la ulna y se fusiona con el radio, habitualmente durante el primer año de vida.",
+        "clinica": "La separación del proceso estiloides lateral puede observarse como variación anatómica y debe diferenciarse de una fractura. La evaluación radiográfica debe considerar la edad del animal, el desarrollo de los centros de osificación y el grado de fusión radioulnar.",
+        "referencias": "University of Minnesota. Large Animal Anatomy: Thoracic Limb. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thoracic-limb-forelimb/\n\nA Text-book of Veterinary Anatomy. Sección de articulaciones radioulnares. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm\n\nButler JA et al. Clinical Radiology of the Horse. Sección de radio y ulna."
+      },
+      "revision": {
+        "estado": "aprobada_y_verificada",
+        "fecha": "2026-11-21",
+        "alcance": "Ficha anatómica de 12 apartados aprobada expresamente por el usuario e integrada en el archivo maestro. Validación estructural del registro y del JSON completada; la verificación textual no certifica por sí sola el modelo 3D."
       }
     },
     {
