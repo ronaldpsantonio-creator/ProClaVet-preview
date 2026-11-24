@@ -1,0 +1,361 @@
+"use strict";
+const $=i=>document.getElementById(i);
+const SYSTEMS=[["ske","Esquelético"],["mus","Muscular"],["dig","Digestivo"],["res","Respiratorio"],["car","Cardiovascular"],["lin","Linfático"],["ner","Nervioso"],["uri","Urinario"],["rep","Reproductor"],["teg","Tegumentario"],["end","Endocrino"],["sen","Sentidos"]];
+// Linfático = regiones linfáticas dentro de car (ganglios, conductos y órganos linfoides); no requiere cambiar el JSON
+const LYM=new Set(["lin","lco","lor"]);const skey=s=>s.sys==="car"&&LYM.has(s.id.split(".")[2])?"lin":s.sys;
+const LAYERS=[["pel","Piel y tejido subcutáneo"],["fas","Fascias"],["msu","Músculos superficiales"],["mpr","Músculos profundos"],["oss","Sistema óseo"],["art","Articulaciones y ligamentos"],["vas","Sistema vascular"],["ner","Sistema nervioso"],["org","Órganos internos"],["cav","Cavidades y estructuras profundas"]];
+const FIELDS=[["ubicacion","Ubicación anatómica"],["descripcion","Descripción morfológica"],["relaciones","Relaciones anatómicas"],["accidentes","Accidentes anatómicos"],["articulaciones","Articulaciones"],["inserciones","Inserciones musculares"],["irrigacion","Irrigación"],["inervacion","Inervación"],["funcion","Función"],["especie","Particularidades de la especie"],["clinica","Importancia clínica"],["referencias","Referencias bibliográficas"]];
+const ANATOMY_PLATES={
+ "equ.ske.cer.001":{src:"assets/laminas/atlas-equino-c1.svg",alt:"Atlas equino C1: vistas dorsales y ventrales esquemáticas con arcos, masas laterales, alas y forámenes.",caption:"Lámina original del atlas equino (C1). Esquema didáctico 2D, no a escala ni diagnóstico."},
+ "equ.ske.cer.002":{src:"assets/laminas/axis-equino-c2.svg",alt:"Axis equino C2: vistas dorsal y lateral esquemáticas con dens, cuerpo, cresta ventral y proceso espinoso.",caption:"Lámina original del axis equino (C2). Esquema didáctico 2D, no a escala ni diagnóstico."}
+};
+const S={items:{},sel:null,q:"",L:{},sys:{},fav:{},notes:{},sex:"all",verified:{}};
+// Sexo: "all" muestra todo; "m" caballo (macho); "f" yegua (hembra). Las estructuras sin campo "sex" se ven siempre.
+const sexOk=s=>!s.sex||S.sex==="all"||s.sex===S.sex;
+LAYERS.forEach(([k])=>S.L[k]={on:true,op:100});
+try{S.fav=JSON.parse(localStorage.getItem("va_fav")||"{}");S.notes=JSON.parse(localStorage.getItem("va_notes")||"{}");S.verified=JSON.parse(localStorage.getItem("va_verified")||"{}")}catch(e){}
+const persist=()=>{try{localStorage.setItem("va_fav",JSON.stringify(S.fav));localStorage.setItem("va_notes",JSON.stringify(S.notes));localStorage.setItem("va_verified",JSON.stringify(S.verified))}catch(e){}};
+// ---- Visor
+const vw=$("vw"),sc=new THREE.Scene(),cam=new THREE.PerspectiveCamera(45,1,.1,100),ren=new THREE.WebGLRenderer({antialias:true,alpha:true});
+ren.setPixelRatio(Math.min(devicePixelRatio,2));vw.prepend(ren.domElement);
+const ctl=new THREE.OrbitControls(cam,ren.domElement);ctl.enableDamping=true;
+sc.add(new THREE.HemisphereLight(0xffffff,0x445566,.9));
+const dl=new THREE.DirectionalLight(0xffffff,.8);dl.position.set(3,5,4);sc.add(dl);
+const grid=new THREE.GridHelper(10,10,0x888888,0x888888);grid.position.y=-1.5;grid.material.transparent=true;grid.material.opacity=.25;sc.add(grid);
+const VIEWS={l:[0.5,1.2,9],d:[0,10,0.01],f:[10,1,0]};
+function view(v){cam.position.set(...v);ctl.target.set(0,0,0)}view(VIEWS.l);
+function size(){const w=vw.clientWidth,h=vw.clientHeight;ren.setSize(w,h,false);cam.aspect=w/h;cam.updateProjectionMatrix()}
+addEventListener("resize",size);size();
+// ---- Esqueleto ESQUEMÁTICO provisional: formas simplificadas generadas por código. NO son anatomía real.
+const V3=(x,y,z)=>new THREE.Vector3(x,y,z);
+function schem(s){
+ const m=s.id.match(/^equ\.ske\.(\w+)\.(\d+)(?:-([id]))?$/);if(!m||s.layer!=="oss")return null;
+ const r=m[1],n=+m[2],sd=m[3]==="d"?1:-1,z=.28*sd,K=Math.sin;
+ const seg=(a,b,w,zz)=>({k:"seg",a:[a[0],a[1],zz===undefined?z:zz],b:[b[0],b[1],zz===undefined?z:zz],w,col:r});
+ const blk=(x,y,zz,w)=>({k:"blk",p:[x,y,zz],w,col:r});
+ if(r==="cra"){const T={1:[2.28,1.78,0,.1],2:[2.42,1.5,0,.08],3:[2.52,1.5,0,.07],4:[2.65,1.62,0,.08],5:[2.33,1.88,0,.07],6:[2.4,1.84,.1,.08],7:[2.58,1.82,.1,.1],8:[2.4,1.66,.2,.1],10:[2.72,1.72,.16,.05],11:[2.62,1.58,.2,.06],12:[2.92,1.52,.13,.12],13:[3.12,1.42,.07,.07],14:[2.78,1.46,.06,.06],15:[2.55,1.44,.07,.05],16:[2.92,1.52,0,.05]};
+  if(n===9)return seg([2.7,1.86],[3.05,1.62],.05,.05*sd);if(n===17)return seg([2.4,1.32],[3.1,1.26],.08,.09*sd);
+  const t=T[n];return t&&blk(t[0],t[1],t[2]*sd,t[3])}
+ if(r==="oid")return blk(2.38+.02*n,1.66,.21*sd,.03);
+ if(r==="cer"){const P=t=>[2.28-.98*t,1.72-.5*t],t=(n-1)/6;return seg(P(t-.06),P(t+.06),.12,0)}
+ if(r==="tor"){const x=1.2-(n-1)*.11,y=1.1+.08*K(Math.PI*(n-1)/17);return seg([x+.04,y],[x-.04,y],.1,0)}
+ if(r==="lum"){const x=-.8-(n-1)*.14;return seg([x+.06,1.1],[x-.06,1.1],.1,0)}
+ if(r==="sac"){const x=-1.7-(n-1)*.09,y=1-(n-1)*.01;return seg([x+.04,y],[x-.04,y],.09,0)}
+ if(r==="cau"){const x=-2.15-(n-1)*.04,y=.95-(n-1)*.035;return seg([x,y],[x-.035,y-.03],Math.max(.025,.08-n*.003),0)}
+ if(r==="cos"){const x=1.2-(n-1)*.11,y=1.1+.08*K(Math.PI*(n-1)/17),d=.75+.25*K(Math.PI*(n-1)/17);
+  return {k:"rib",pts:[[x,y-.05,.06*sd],[x-.04,y-.2*d,.3*sd],[x-.08,y-.55*d,.38*sd],[x-.12,y-.85*d,.26*sd],[x-.14,y-d,.08*sd]],col:r}}
+ if(r==="ste")return seg([1.3,.1],[0,.06],.14,0);
+ const o=.045*sd,q=.04*sd;
+ if(r==="mto"){const L={1:()=>seg([1.65,1.05],[1.4,.45],.1),2:()=>seg([1.4,.45],[1,.05],.11),3:()=>seg([1,.05],[1.1,-.8],.08),4:()=>seg([.95,.12],[1.03,-.4],.04),5:()=>blk(1.1,-.83,z-o,.07),6:()=>blk(1.1,-.83,z,.07),7:()=>blk(1.1,-.83,z+o,.07),8:()=>blk(1.03,-.83,z,.06),9:()=>blk(1.1,-.91,z-o,.06),10:()=>blk(1.1,-.91,z,.07),11:()=>blk(1.1,-.91,z+o,.06),12:()=>seg([1.1,-.95],[1.1,-1.15],.06),13:()=>seg([1.1,-.97],[1.1,-1.1],.025,z-q),14:()=>seg([1.1,-.97],[1.1,-1.1],.025,z+q),15:()=>seg([1.1,-1.17],[1.15,-1.3],.06),16:()=>seg([1.15,-1.3],[1.18,-1.4],.06),17:()=>seg([1.18,-1.4],[1.3,-1.5],.1),18:()=>blk(1.07,-1.17,z-.03*sd,.035),19:()=>blk(1.07,-1.17,z+.03*sd,.035),20:()=>blk(1.19,-1.4,z,.04)};return L[n]&&L[n]()}
+ if(r==="mpe"){const L={1:()=>seg([-1.3,.95],[-2.05,.65],.15),2:()=>seg([-1.8,.55],[-1.45,-.25],.1),3:()=>blk(-1.4,-.2,z,.07),4:()=>seg([-1.45,-.25],[-1.95,-.75],.09),5:()=>seg([-1.5,-.3],[-1.9,-.7],.03,z+.03*sd),6:()=>blk(-1.92,-.82,z,.08),7:()=>seg([-2,-.65],[-1.98,-.82],.06),8:()=>blk(-1.92,-.9,z,.06),9:()=>blk(-1.92,-.95,z-q,.06),10:()=>blk(-1.92,-.95,z,.06),11:()=>blk(-1.92,-.95,z+q,.06),12:()=>seg([-1.92,-.98],[-1.9,-1.15],.06),13:()=>seg([-1.92,-1],[-1.9,-1.12],.025,z-q),14:()=>seg([-1.92,-1],[-1.9,-1.12],.025,z+q),15:()=>seg([-1.9,-1.18],[-1.85,-1.3],.06),16:()=>seg([-1.85,-1.3],[-1.83,-1.4],.06),17:()=>seg([-1.83,-1.4],[-1.72,-1.5],.1),18:()=>blk(-1.9,-1.17,z-.03*sd,.035),19:()=>blk(-1.9,-1.17,z+.03*sd,.035),20:()=>blk(-1.84,-1.4,z,.04)};return L[n]&&L[n]()}
+ return null}
+const BONE={cra:0xe6dcc0,oid:0xcfc3a0,cer:0xd9cca8,tor:0xd9cca8,lum:0xd9cca8,sac:0xd9cca8,cau:0xd9cca8,cos:0xefe7d2,ste:0xefe7d2,mto:0xe2d6b4,mpe:0xe2d6b4};
+function makeMesh(P){
+ const mat=new THREE.MeshStandardMaterial({color:BONE[P.col]||0xdddddd,transparent:true});let m;
+ if(P.k==="seg"){const a=V3(...P.a),b=V3(...P.b),d=b.clone().sub(a),L=d.length();
+  m=new THREE.Mesh(new THREE.BoxGeometry(P.w,L,P.w*.8),mat);m.position.copy(a).add(b).multiplyScalar(.5);m.quaternion.setFromUnitVectors(V3(0,1,0),d.normalize())}
+ else if(P.k==="rib")m=new THREE.Mesh(new THREE.TubeGeometry(new THREE.CatmullRomCurve3(P.pts.map(q=>V3(...q))),12,.018,5),mat);
+ else{m=new THREE.Mesh(new THREE.BoxGeometry(P.w,P.w,P.w),mat);m.position.set(...P.p)}
+ return m}
+function centerOf(P){return P.k==="seg"?V3(...P.a).add(V3(...P.b)).multiplyScalar(.5):P.k==="rib"?V3(...P.pts[2]):V3(...P.p)}
+// ---- Carga de datos y estructuras
+const loader=new THREE.GLTFLoader();
+fetch("data/equino.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("equino.json HTTP "+r.status);return r.json()}).then(build).catch(e=>{$("warn").textContent="Error al cargar datos anatómicos: "+e.message});
+// Modelos 3D integrados (ruta y licencia). Atribución exigida por CC BY 4.0.
+const MODELOS={"equ.ske.cer.001":{model:"models/equino/osteology/equ.ske.cer.001.glb",licencia:"CC BY 4.0 · Autor: ifmaker_urutai (Sketchfab, «Equine Atlas C1 — Veterinary Anatomy 3D Model»). Adaptado por ProClaVet: malla simplificada, sin textura y reorientada."}};
+function build(d){
+ d.structures.forEach(s=>{const M=MODELOS[s.id];if(M){s.model=M.model;s.licencia=M.licencia}});
+ d.structures.filter(s=>!s.id.startsWith("equ.prv.ske.")).forEach(s=>{
+  const g=new THREE.Group(),P0=s.ph,E=P0?null:schem(s),P=P0||E,ph=P0?new THREE.Mesh(new THREE.BoxGeometry(...P0.s),new THREE.MeshStandardMaterial({color:P0.c,transparent:true})):E?makeMesh(E):null;
+  if(P0)ph.position.set(...P0.p);if(ph)g.add(ph);g.userData.id=s.id;sc.add(g);
+  const c=P0?V3(...P0.p):E?centerOf(E):V3(0,0,0),lb=document.createElement("div");lb.className="lb";lb.textContent=s.es+" · "+s.la;vw.appendChild(lb);
+  S.items[s.id]={s,g,ph,c,lb,has:!!P,esq:!!E,vis:true,state:E?"esquemático":"pendiente",dir:c.clone().setY(c.y-.3).normalize()};
+ });
+ buildSystems();layerPanel();list();ficha();refresh();
+ const nFichas=Object.values(S.items).filter(i=>i.s.ficha&&Object.keys(i.s.ficha).length>0).length;
+ const tarsales=Object.values(S.items).filter(i=>/^equ\.ske\.mpe\.(?:008|009|010)-[id]$/.test(i.s.id)&&i.s.ficha).length;
+ console.info("[ProClaVet] Carga correcta:",{estructuras:Object.keys(S.items).length,fichas:nFichas,fichasTarsales:tarsales});
+ $("warn").textContent=`Diagnóstico de carga: ${Object.keys(S.items).length} estructuras · ${nFichas} fichas integradas · ${tarsales}/6 fichas tarsales. Esqueleto esquemático provisional: las formas no son anatomía real; cada hueso espera su modelo GLB verificado.`;
+ loadAll();
+}
+function mats(it){const a=[];it.g.traverse(m=>{if(m.isMesh)a.push(m.material)});return a}
+// Prototipo morfológico C1: conserva la geometría y transforma solo su representación visual.
+function applyC1Schematic(it,enabled){
+ if(it.s.id!=="equ.ske.cer.001"||!it.model)return;
+ it.model.traverse(m=>{
+  if(!m.isMesh)return;
+  if(!it.c1OriginalMaterials)it.c1OriginalMaterials=new Map();
+  if(!it.c1OriginalMaterials.has(m.uuid))it.c1OriginalMaterials.set(m.uuid,m.material);
+  const original=it.c1OriginalMaterials.get(m.uuid);
+  if(enabled){
+   const make=src=>new THREE.MeshStandardMaterial({color:0xd9cfb8,roughness:1,metalness:0,flatShading:true,side:THREE.DoubleSide,transparent:true,opacity:src&&src.opacity!==undefined?src.opacity:1});
+   m.material=Array.isArray(original)?original.map(make):make(original);
+  }else{
+   m.material=original;
+  }
+ });
+}
+// ---- Ajuste del atlas C1 de prueba: orientación (grados) y tamaño (dimensión mayor, en unidades de la escena).
+// Ejes de la escena: X = craneal(+)/caudal(-), Y = dorsal(+)/ventral(-), Z = lateral (izquierda/derecha).
+// Los valores se guardan en el teléfono (va_c1) para no recalibrar en cada sesión.
+// El GLB integrado ya viene orientado (X craneal, Y dorsal, Z lateral) y normalizado a dimensión mayor = 1.
+// rz = 27°: inclinación de la columna cervical del esquema (cae ~0,5 por cada 0,98 hacia caudal).
+// size = 0.2: ancho de las alas (~15 cm) en la escala del esquema (C1 a C7 ≈ 0,98 ≈ 75 cm).
+const C1_DEF={rx:0,ry:0,rz:27,size:0.2},C1=Object.assign({},C1_DEF);
+try{Object.assign(C1,JSON.parse(localStorage.getItem("va_c1_v2")||"{}"))}catch(e){}
+function c1Apply(it,show=true){
+ if(!it||!it.model||!it.c1Base)return;
+ const d=Math.PI/180;
+ it.model.rotation.set(C1.rx*d,C1.ry*d,C1.rz*d);
+ it.model.scale.setScalar(C1.size/it.c1Base);
+ it.model.updateMatrixWorld(true);
+ try{localStorage.setItem("va_c1_v2",JSON.stringify(C1))}catch(e){}
+ if(show)$("warn").textContent=`Atlas C1 · giro X ${C1.rx}° Y ${C1.ry}° Z ${C1.rz}° · tamaño ${C1.size.toFixed(3)}`;
+}
+function c1Focus(it){
+ if(!it)return;
+ const c=it.c.clone().add(it.g.position);
+ ctl.target.copy(c);cam.position.copy(c).add(V3(0,C1.size*.8,C1.size*3.2));
+}
+function setModel(it,root){
+ // Conserva el anclaje anatómico del esquema: el modelo real debe ocupar
+ // la posición de articulación de su estructura, no el origen global.
+ const anatomicalAnchor=it.c.clone();
+ if(it.ph&&it.ph.parent){it.g.remove(it.ph);it.ph.geometry.dispose()}it.has=true;it.esq=false;
+ if(it.model)it.g.remove(it.model);
+ root.traverse(m=>{if(m.isMesh){m.material=Array.isArray(m.material)?m.material.map(x=>x.clone()):m.material.clone();if(Array.isArray(m.material))m.material.forEach(x=>x.transparent=true);else m.material.transparent=true}});
+ const isC1=it.s.id==="equ.ske.cer.001";
+ if(isC1){
+  // Pivote: el modelo se centra en su propio centro y el pivote gira/escala alrededor de ese punto.
+  const pivot=new THREE.Group();pivot.add(root);pivot.updateMatrixWorld(true);
+  const bb=new THREE.Box3().setFromObject(root),sz=bb.getSize(V3(0,0,0)),ct=bb.getCenter(V3(0,0,0));
+  root.position.sub(ct);
+  it.c1Base=Math.max(sz.x,sz.y,sz.z)||1;
+  it.model=pivot;it.g.add(pivot);
+ }else{
+  it.model=root;it.g.add(root);
+ }
+ it.g.position.set(0,0,0);it.g.updateMatrixWorld(true);
+ if(isC1){
+  it.basePosition=anatomicalAnchor;
+  it.c.copy(anatomicalAnchor);
+ }else{
+  new THREE.Box3().setFromObject(root).getCenter(it.c);
+ }
+ if(isC1){applyC1Schematic(it,$("c1Morph").checked);c1Apply(it,false)}
+ it.dir=it.c.clone().setY(it.c.y-.3).normalize();it.state="cargado";refresh();list();ficha();
+}
+async function loadAll(){ // carga progresiva: 2 modelos en paralelo, sin bloquear el visor
+ const q=Object.values(S.items).filter(i=>i.s.model),total=q.length;let done=0;
+ const worker=async()=>{while(q.length){const it=q.shift();
+  await new Promise(r=>loader.load(it.s.model,g=>{setModel(it,g.scene);r()},null,()=>r()));
+  done++;$("bi").style.width=(done/total*100)+"%";}};
+ await Promise.all([worker(),worker()]);
+ const n=Object.values(S.items).filter(i=>i.state==="cargado").length;
+ if(!n)$("warn").textContent+=" Aún no hay modelos GLB en la carpeta models/.";
+ setTimeout(()=>$("bar").classList.add("hid"),800);list();
+}
+// ---- Estado visual
+function refresh(){
+ const ex=$("ex").value/100,li=k=>LAYERS.findIndex(l=>l[0]===k);
+ Object.values(S.items).forEach(it=>{
+  const L=S.L[it.s.layer],o=L.op/100;
+  it.g.visible=L.on&&it.vis&&S.sys[skey(it.s)]!==false&&sexOk(it.s);
+  it.g.position.copy(it.basePosition||V3(0,0,0)).add(it.dir.clone().multiplyScalar(ex*1.2));it.g.position.z+=(li(it.s.layer)-4.5)*ex*.25;
+  mats(it).forEach(m=>{m.opacity=o;if(m.emissive){m.emissive.setHex(S.sel===it.s.id?0x2dd4bf:0);m.emissiveIntensity=.55}});
+ });
+}
+// Etiquetas inteligentes: el hueso seleccionado siempre muestra su nombre;
+// al acercar el zoom aparecen los nombres de las 4 estructuras más cercanas al centro y no tapadas.
+const rayO=new THREE.Raycaster();let lastOcc=0;const occ={};const ZOOM_NEAR=5.5,MAX_AUTO=4;
+function updateOcc(){
+ const vis=Object.values(S.items).filter(i=>i.g.visible&&i.has),objs=vis.map(i=>i.g);
+ vis.map(it=>[it.c.clone().add(it.g.position).project(cam),it]).map(([v,it])=>[Math.hypot(v.x,v.y),it]).sort((a,b)=>a[0]-b[0]).slice(0,12).map(a=>a[1]).forEach(it=>{const d=it.c.clone().add(it.g.position).sub(cam.position),dist=d.length();
+  rayO.set(cam.position,d.normalize());const h=rayO.intersectObjects(objs,true)[0];
+  let o=h&&h.object;while(o&&!o.userData.id)o=o.parent;
+  occ[it.s.id]=!(o&&o.userData.id!==it.s.id&&h.distance<dist-0.05)});
+}
+function loop(){requestAnimationFrame(loop);ctl.update();
+ const w=vw.clientWidth,h=vw.clientHeight,blind=$("blind").checked,auto=$("lab").checked,now=performance.now();
+ if(now-lastOcc>200){lastOcc=now;updateOcc()}
+ const zoomed=cam.position.distanceTo(ctl.target)<ZOOM_NEAR,cand=[],all=Object.values(S.items);
+ all.forEach(it=>{const v=it.c.clone().add(it.g.position).project(cam);it.pv=v;it.show=false;
+  if(blind||!it.has||!it.g.visible||v.z>=1)return;
+  if(S.sel===it.s.id)it.show=true;
+  else if(auto&&zoomed&&occ[it.s.id]!==false&&Math.abs(v.x)<1&&Math.abs(v.y)<1)cand.push([Math.hypot(v.x,v.y),it])});
+ cand.sort((a,b)=>a[0]-b[0]).slice(0,MAX_AUTO).forEach(c=>c[1].show=true);
+ all.forEach(it=>{const l=it.lb;if(!it.show){l.style.display="none";return}
+  const sel=S.sel===it.s.id;l.style.display="block";
+  l.style.left=(it.pv.x+1)/2*w+"px";l.style.top=(1-it.pv.y)/2*h+"px";
+  l.style.background=sel?"rgba(15,118,110,.95)":"rgba(0,0,0,.65)";l.style.fontWeight=sel?"600":"400";l.style.zIndex=sel?2:1});
+ ren.render(sc,cam);
+}loop();
+// ---- Selección
+const ray=new THREE.Raycaster(),pt=new THREE.Vector2();let down=null;
+ren.domElement.addEventListener("pointerdown",e=>down=[e.clientX,e.clientY]);
+ren.domElement.addEventListener("pointerup",e=>{
+ if(!down||Math.hypot(e.clientX-down[0],e.clientY-down[1])>5)return;
+ const r=ren.domElement.getBoundingClientRect();pt.set((e.clientX-r.left)/r.width*2-1,-(e.clientY-r.top)/r.height*2+1);
+ ray.setFromCamera(pt,cam);
+ const h=ray.intersectObjects(Object.values(S.items).filter(i=>i.g.visible).map(i=>i.g),true)[0];
+ if(h){let o=h.object;while(o&&!o.userData.id)o=o.parent;if(o)pick(o.userData.id)}else if(S.sel){S.sel=null;list();refresh();ficha()}
+});
+function pick(id){S.sel=id;list();refresh();ficha();tab("f")}
+// ---- Paneles
+function buildSystems(){
+ $("sp").innerHTML=[["Equino",1],["Bovino (Fase 6)",0],["Porcino (Fase 7)",0]].map(([n,a])=>`<button class="${a?"on":""}" ${a?"":"disabled"}>${n}</button>`).join("")+`<span style="display:block;flex-basis:100%;width:100%;height:0"></span>`+[["all","Todos"],["m","Caballo ♂"],["f","Yegua ♀"]].map(([k,n])=>`<button data-x="${k}" class="${S.sex===k?"on":""}">${n}</button>`).join("");
+ $("sp").onclick=e=>{const x=e.target.dataset.x;if(!x)return;S.sex=x;
+  $("sp").querySelectorAll("[data-x]").forEach(b=>b.classList.toggle("on",b.dataset.x===x));
+  if(S.sel&&S.items[S.sel]&&!sexOk(S.items[S.sel].s)){S.sel=null;ficha()}
+  list();refresh()};
+ const have=new Set(Object.values(S.items).map(i=>skey(i.s)));
+ $("sy").innerHTML=SYSTEMS.map(([k,n])=>`<button data-s="${k}" class="${have.has(k)?"on":""}" ${have.has(k)?"":"disabled title=\"Pendiente de desarrollo\""}>${n}</button>`).join("");
+ $("sy").onclick=e=>{const k=e.target.dataset.s;if(!k||e.target.disabled)return;S.sys[k]=S.sys[k]===false;e.target.classList.toggle("on",S.sys[k]);refresh()};
+}
+function layerPanel(){
+ const cnt={};Object.values(S.items).forEach(i=>cnt[i.s.layer]=(cnt[i.s.layer]||0)+1);
+ $("lyr").innerHTML=LAYERS.map(([k,n],i)=>`<div class="ly"><label><input type="checkbox" data-l="${k}" checked> <b>${i+1}. ${n}</b> <span class="mu">${cnt[k]?cnt[k]+" estr.":"pendiente"}</span></label><label class="mu">Opacidad <input type="range" data-o="${k}" min="5" max="100" value="100"></label></div>`).join("");
+ $("lyr").oninput=e=>{const l=e.target.dataset.l,o=e.target.dataset.o;if(l)S.L[l].on=e.target.checked;if(o)S.L[o].op=+e.target.value;refresh()};
+}
+function list(){
+ const q=S.q.toLowerCase(),blind=$("blind").checked;
+ const ids18=["equ.ske.cos.018-i","equ.ske.cos.018-d"];
+ const pinned=ids18.map(id=>S.items[id]).filter(i=>i&&sexOk(i.s)&&(q===""||("costilla 18 costa 18").includes(q)||("costilla 18 costa 18").includes(q.replace(/\s+/g," "))));
+ const rest=Object.values(S.items).filter(i=>sexOk(i.s)&&(i.s.es+i.s.la).toLowerCase().includes(q)&&!ids18.includes(i.s.id));
+ const render=i=>{const s=i.s;return `<div class="item ${S.sel===s.id?"sel":""}" data-id="${s.id}"><b>${blind?s.id:s.es}<br><i>${blind?"nombre oculto":s.la+" · modelo "+i.state}</i></b><button data-fav="${s.id}" title="Favorito">${S.fav[s.id]?"★":"☆"}</button><button data-vis="${s.id}" title="Mostrar u ocultar">${i.vis?"👁":"✕"}</button></div>`};
+ $("ls").innerHTML=(pinned.length?`<div style="padding:6px 8px;font-weight:700">ACCESO DIRECTO · COSTILLA 18</div>`+pinned.map(render).join("")+ (rest.length?`<div style="padding:6px 8px;font-weight:700">OTRAS ESTRUCTURAS</div>`:""):"")+rest.map(render).join("")||"<p>Sin resultados.</p>";
+}
+$("ls").onclick=e=>{const f=e.target.dataset.fav,v=e.target.dataset.vis;
+ if(f){S.fav[f]=!S.fav[f];persist()}else if(v){S.items[v].vis=!S.items[v].vis}else{const it=e.target.closest(".item");if(it)return pick(it.dataset.id)}
+ list();refresh()};
+function ficha(){
+ const it=S.items[S.sel];if(!it){$("tf").innerHTML="<p>Selecciona una estructura en el visor o en la lista.</p>";return}
+ const s=it.s,F=s.ficha||{},blind=$("blind").checked,plate=ANATOMY_PLATES[s.id];
+ $("tf").innerHTML=`<h3 style="margin:0">${blind?s.id:s.es}</h3><div class="mu">${blind?"":s.la+" (NAV) · "}${s.id}</div>
+ <p class="${it.state==="cargado"?"mu":"pend"}" style="font-size:13px">Modelo 3D: ${it.state==="cargado"?"cargado. Licencia: "+(s.licencia||"sin documentar"):(it.esq?"esquemático provisional (forma simplificada, no es anatomía real); pendiente del modelo verificado.":s.ph?"marcador provisional, pendiente de desarrollo.":"sin modelo 3D, pendiente de desarrollo.")}</p>`+
+ (!blind&&plate?`<figure class="anatomy-plate"><img src="${plate.src}" alt="${plate.alt}" loading="lazy"><figcaption>${plate.caption}</figcaption></figure>`:"")+
+ FIELDS.map(([k,n])=>`<div class="f"><span>${n}</span>${F[k]?F[k]:'<span class="pend">Pendiente: sin información verificada</span>'}</div>`).join("")+
+ `<div class="f"><span>Revisión de ficha</span><button id="vf" style="width:100%;padding:10px;border-radius:8px">${S.verified[s.id]?"Verificado ✓ · pasar a siguiente":"Marcar como verificado y pasar a siguiente"}</button><small class="mu">La confirmación registra la revisión del contenido; no certifica el modelo 3D.</small></div>`+
+ `<div class="f"><span>Notas personales</span><textarea id="nt" rows="3" style="width:100%;box-sizing:border-box">${S.notes[s.id]||""}</textarea></div>`;
+ $("nt").oninput=e=>{S.notes[s.id]=e.target.value;persist()};
+ $("vf").onclick=()=>{S.verified[s.id]=true;persist();const reg=s.id.split(".")[2];const ids=Object.keys(S.items).filter(id=>id.startsWith("equ.ske."+reg+".")&&/^equ\.ske\.(?:mto|mpe|cos)\.\d{3}-[id]$/.test(id));const at=ids.indexOf(s.id);if(at>=0&&ids[at+1])pick(ids[at+1]);else ficha()};
+}
+function tab(t){["e","c","v","f","q"].forEach(k=>{const p=$("t"+k),b=document.querySelector(`[data-t=${k}]`);if(!p||!b)return;p.classList.toggle("hid",k!==t);b.classList.toggle("on",k===t)});if(t==="q"){window.quizEnter&&window.quizEnter()}else{window.quizLeave&&window.quizLeave()}}
+document.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>tab(b.dataset.t));
+$("q").oninput=e=>{S.q=e.target.value;list()};
+["ex"].forEach(i=>$(i).oninput=refresh);
+["lab","blind"].forEach(i=>$(i).onchange=()=>{list();ficha()});
+document.querySelectorAll("[data-v]").forEach(b=>b.onclick=()=>view(VIEWS[b.dataset.v]));
+$("rs").onclick=()=>view(VIEWS.l);
+$("iso").onclick=()=>{if(!S.sel)return;Object.values(S.items).forEach(i=>i.vis=i.s.id===S.sel);list();refresh()};
+$("all").onclick=()=>{Object.values(S.items).forEach(i=>i.vis=true);LAYERS.forEach(([k])=>S.L[k].on=true);document.querySelectorAll("[data-l]").forEach(c=>c.checked=true);list();refresh()};
+$("ld").onclick=()=>{if(!S.sel)return alert("Primero selecciona una estructura.");$("fl").click()};
+$("testC1").onclick=()=>{const it=S.items["equ.ske.cer.001"];if(!it)return alert("No se encontró equ.ske.cer.001 (Atlas equino C1) en los datos cargados.");pick(it.s.id);$("fl").click()};
+$("c1Morph").onchange=()=>{const it=S.items["equ.ske.cer.001"];if(!it||!it.model)return alert("Primero carga el GLB local del Atlas C1.");applyC1Schematic(it,$("c1Morph").checked)};
+// Controles de orientación y tamaño del atlas C1 (se crean aquí para no tocar el HTML)
+(()=>{const cb=$("c1Morph");if(!cb)return;const host=cb.closest("label")||cb,box=document.createElement("div");
+ box.style.cssText="display:flex;flex-wrap:wrap;gap:6px;margin:6px 0";
+ const get=()=>S.items["equ.ske.cer.001"],need=()=>{const it=get();if(!it||!it.model){alert("Primero carga el GLB local del Atlas C1.");return null}return it};
+ const mk=(t,fn)=>{const b=document.createElement("button");b.type="button";b.textContent=t;if($("rs"))b.className=$("rs").className;b.onclick=()=>{const it=need();if(!it)return;fn(it);c1Apply(it);refresh()};box.appendChild(b)};
+ const rot=k=>it=>{C1[k]=(C1[k]+90)%360};
+ mk("Giro X 90°",rot("rx"));mk("Giro Y 90°",rot("ry"));mk("Giro Z 90°",rot("rz"));
+ mk("Tamaño +",()=>{C1.size*=1.15});mk("Tamaño −",()=>{C1.size/=1.15});
+ mk("Reiniciar C1",()=>{Object.assign(C1,C1_DEF)});
+ const f=document.createElement("button");f.type="button";f.textContent="Enfocar C1";if($("rs"))f.className=$("rs").className;f.onclick=()=>{const it=need();if(it)c1Focus(it)};box.appendChild(f);
+ host.insertAdjacentElement("afterend",box)})();
+$("fl").onchange=e=>{const f=e.target.files[0],it=S.items[S.sel];if(!f||!it)return;const u=URL.createObjectURL(f);
+ $("warn").textContent="Cargando modelo GLB local…";
+ loader.load(u,g=>{setModel(it,g.scene);URL.revokeObjectURL(u);if(it.s.id==="equ.ske.cer.001")c1Focus(it);else $("warn").textContent="Modelo cargado localmente para esta sesión.";},null,err=>{console.error(err);URL.revokeObjectURL(u);$("warn").textContent="No se pudo leer el archivo GLB.";alert("No se pudo leer el archivo GLB. Revisa que el archivo esté completo y vuelve a intentarlo.")});e.target.value=""};
+
+// ---- Fase 8: cuestionarios y progreso (pestaña "Quiz")
+// Dos modos: "Nombre (NAV)" (latín <-> español, sirve para las 3842 estructuras) e
+// "Identificar en el visor" (una estructura resaltada sin nombre; solo estructuras con forma 3D visible).
+// El progreso se guarda en el teléfono (localStorage, clave va_prog).
+(function(){
+ const esc=x=>String(x).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+ const SIDE=/ \((izquierd[oa]|derech[oa])\)$/,base=s=>s.es.replace(SIDE,""),reg=s=>s.id.split(".")[2];
+ const rnd=a=>a[Math.floor(Math.random()*a.length)];
+ const shuf=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+ const pct=(o,n)=>n?Math.round(o/n*100)+"%":"–";
+ const SN=Object.fromEntries(SYSTEMS);
+ let P={n:0,ok:0,sys:{},miss:{}};
+ try{const p=JSON.parse(localStorage.getItem("va_prog")||"null");if(p&&typeof p.n==="number")P=Object.assign(P,p)}catch(e){}
+ const save=()=>{try{localStorage.setItem("va_prog",JSON.stringify(P))}catch(e){}};
+ const Q={mode:"nombre",sys:"all",cur:null,done:false,prevBlind:null,ses:{n:0,ok:0}};
+ const host=$("tf").parentNode,pan=document.createElement("div");pan.id="tq";pan.className="hid";host.appendChild(pan);
+ const tb=document.createElement("button");tb.dataset.t="q";tb.textContent="Quiz";document.querySelector(".tabs").appendChild(tb);tb.onclick=()=>tab("q");
+ const forceBlind=()=>{if(Q.prevBlind===null)Q.prevBlind=$("blind").checked;$("blind").checked=true;list();ficha()};
+ const restoreBlind=()=>{if(Q.prevBlind!==null){$("blind").checked=Q.prevBlind;Q.prevBlind=null;list();ficha()}};
+ const pool=()=>Object.values(S.items).filter(i=>sexOk(i.s)&&i.s.es&&(Q.sys==="all"||skey(i.s)===Q.sys));
+ // Distractores: primero de la misma región y capa, luego del mismo sistema y capa, luego del mismo sistema, luego cualquiera.
+ function distract(all,it,textOf,ans){
+  const s=it.s,ok=x=>x!==it&&x.s.la!==s.la&&base(x.s)!==base(s),sy=skey(s);
+  const A=all.filter(x=>ok(x)&&skey(x.s)===sy&&x.s.layer===s.layer&&reg(x.s)===reg(s));
+  const B=all.filter(x=>ok(x)&&skey(x.s)===sy&&x.s.layer===s.layer&&reg(x.s)!==reg(s));
+  const C=all.filter(x=>ok(x)&&skey(x.s)===sy&&x.s.layer!==s.layer);
+  const D=all.filter(x=>ok(x)&&skey(x.s)!==sy);
+  const seen=new Set([ans]),out=[];
+  for(const g of [A,B,C,D]){for(const x of shuf(g)){const t=textOf(x);if(t&&!seen.has(t)){seen.add(t);out.push(t);if(out.length>=3)return out}}}
+  return out}
+ function qNombre(){
+  const all=pool().filter(i=>i.s.la);if(all.length<4)return {err:"No hay suficientes estructuras en este sistema para armar una pregunta. Elige «Todos»."};
+  const it=rnd(all),s=it.s,toEs=Math.random()<.5,ans=toEs?base(s):s.la;
+  const dist=distract(all,it,toEs?x=>base(x.s):x=>x.s.la,ans);
+  return {mode:"nombre",id:s.id,sys:skey(s),key:s.la+"|"+base(s),label:base(s)+" · "+s.la,ans,opts:shuf([ans,...dist]),
+   text:toEs?`Nombre latino (NAV): <b>${esc(s.la)}</b>.<br>¿Cuál es su nombre en español?`:`Nombre en español: <b>${esc(base(s))}</b>.<br>¿Cuál es su nombre latino (NAV)?`}}
+ function qVisor(){
+  const vis=pool().filter(i=>i.has&&i.g.visible);
+  if(!vis.length)return {err:"No hay estructuras con forma 3D visible. Activa capas o sistemas que tengan forma (por ahora, el esqueleto) o usa el modo «Nombre»."};
+  const all=pool(),it=rnd(vis),s=it.s,ans=s.es,dist=distract(all,it,x=>x.s.es,ans);
+  if(!dist.length)return {err:"No hay suficientes estructuras parecidas para armar opciones. Elige «Todos»."};
+  return {mode:"visor",id:s.id,sys:skey(s),key:s.la+"|"+base(s),label:s.es+" · "+s.la,ans,opts:shuf([ans,...dist]),
+   text:"En el visor hay una estructura resaltada en turquesa, sin nombre.<br>¿Cuál es?"}}
+ function next(){
+  restoreBlind();const q=Q.mode==="visor"?qVisor():qNombre();
+  if(q.err){Q.cur=q;Q.done=true;render();return}
+  Q.cur=q;Q.done=false;
+  if(q.mode==="visor"){S.sel=q.id;forceBlind();refresh()}
+  render()}
+ function answer(i){
+  const c=Q.cur;if(!c||c.err||Q.done||i<0||i>=c.opts.length)return;
+  Q.done=true;const right=c.opts[i]===c.ans,k=c.sys;
+  P.n++;Q.ses.n++;P.sys[k]=P.sys[k]||{n:0,ok:0};P.sys[k].n++;
+  if(right){P.ok++;Q.ses.ok++;P.sys[k].ok++;const m=P.miss[c.key];if(m){m.c--;if(m.c<=0)delete P.miss[c.key]}}
+  else{const m=P.miss[c.key]||(P.miss[c.key]={t:c.label,c:0});m.c++;m.t=c.label;
+   const ks=Object.keys(P.miss);if(ks.length>60)ks.sort((a,b)=>P.miss[a].c-P.miss[b].c).slice(0,ks.length-60).forEach(x=>delete P.miss[x])}
+  save();if(c.mode==="visor")restoreBlind();render(i)}
+ function render(ch){
+  const have=new Set(Object.values(S.items).map(i=>skey(i.s))),sysOpts=SYSTEMS.filter(([k])=>have.has(k));
+  const bs="display:block;width:100%;text-align:left;margin:6px 0;padding:10px",c=Q.cur;
+  let h=`<div class="f"><span>Modo</span><button data-m="nombre" class="${Q.mode==="nombre"?"on":""}">Nombre (NAV)</button> <button data-m="visor" class="${Q.mode==="visor"?"on":""}">Identificar en el visor</button></div>`+
+   `<div class="f"><span>Sistema</span><select id="qs" style="width:100%;box-sizing:border-box"><option value="all">Todos</option>${sysOpts.map(([k,n])=>`<option value="${k}" ${Q.sys===k?"selected":""}>${n}</option>`).join("")}</select></div>`;
+  if(!c)h+=`<p class="mu">${Q.mode==="visor"?"Se resalta una estructura del visor sin su nombre y eliges entre cuatro opciones.":"Te doy el nombre latino (NAV) y eliges el nombre en español, o al revés."}</p><button data-a="new" style="${bs}">Empezar</button>`;
+  else if(c.err)h+=`<p class="pend">${esc(c.err)}</p>`;
+  else{
+   h+=`<div class="f"><span>Pregunta ${Q.ses.n+(Q.done?0:1)}</span>${c.text}</div>`+
+    c.opts.map((o,i)=>{const good=Q.done&&o===c.ans,bad=Q.done&&i===ch&&o!==c.ans;
+     return `<button data-o="${i}" ${Q.done?"disabled":""} style="${bs}${good?";background:rgba(34,197,94,.35)":""}${bad?";background:rgba(239,68,68,.35)":""}">${esc(o)}</button>`}).join("");
+   if(c.mode==="visor"&&!Q.done)h+=`<button data-a="iso">Aislar en el visor</button> <button data-a="all">Mostrar todo</button>`;
+   if(Q.done){const right=ch!==undefined&&c.opts[ch]===c.ans;
+    h+=`<div class="f"><span>${right?"✔ Correcto":"✘ Incorrecto"}</span>Respuesta: <b>${esc(c.ans)}</b><br><span class="mu">${esc(c.label)}</span></div>`+
+     `<button data-a="new" style="${bs}">Siguiente</button>`+(c.mode==="visor"?`<button data-a="ficha">Ver ficha</button>`:"")}
+  }
+  const rows=SYSTEMS.filter(([k])=>P.sys[k]&&P.sys[k].n).map(([k,n])=>`<div class="mu">${n}: ${P.sys[k].ok}/${P.sys[k].n} (${pct(P.sys[k].ok,P.sys[k].n)})</div>`).join("");
+  const miss=Object.values(P.miss).sort((a,b)=>b.c-a.c).slice(0,5).map(m=>`<div class="mu">${esc(m.t)} (×${m.c})</div>`).join("");
+  h+=`<div class="f"><span>Progreso</span>Esta sesión: ${Q.ses.ok}/${Q.ses.n} (${pct(Q.ses.ok,Q.ses.n)})<br>Total: ${P.ok}/${P.n} (${pct(P.ok,P.n)})${rows?"<br>"+rows:""}</div>`+
+   (miss?`<div class="f"><span>Para repasar</span>${miss}</div>`:"")+
+   (P.n?`<button data-a="reset">Reiniciar progreso</button>`:"");
+  pan.innerHTML=h}
+ pan.onclick=e=>{const d=e.target.dataset;if(!d)return;
+  if(d.o!==undefined)answer(+d.o);
+  else if(d.m){if(d.m!==Q.mode){restoreBlind();Q.mode=d.m;Q.cur=null;Q.done=false;render()}}
+  else if(d.a==="new")next();
+  else if(d.a==="iso")$("iso").onclick();
+  else if(d.a==="all")$("all").onclick();
+  else if(d.a==="ficha"&&Q.cur)pick(Q.cur.id);
+  else if(d.a==="reset"&&confirm("¿Borrar todo el progreso de los cuestionarios?")){P={n:0,ok:0,sys:{},miss:{}};Q.ses={n:0,ok:0};save();render()}};
+ pan.onchange=e=>{if(e.target.id==="qs"){restoreBlind();Q.sys=e.target.value;Q.cur=null;Q.done=false;render()}};
+ window.quizEnter=()=>{if(Q.cur&&Q.cur.mode==="visor"&&!Q.done){S.sel=Q.cur.id;forceBlind();refresh()}render()};
+ window.quizLeave=()=>restoreBlind();
+ render();
+})();
