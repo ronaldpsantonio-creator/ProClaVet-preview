@@ -76,6 +76,22 @@ function build(d){
  loadAll();
 }
 function mats(it){const a=[];it.g.traverse(m=>{if(m.isMesh)a.push(m.material)});return a}
+// Prototipo morfológico C1: conserva la geometría y transforma solo su representación visual.
+function applyC1Schematic(it,enabled){
+ if(it.s.id!=="equ.ske.cer.001"||!it.model)return;
+ it.model.traverse(m=>{
+  if(!m.isMesh)return;
+  if(!it.c1OriginalMaterials)it.c1OriginalMaterials=new Map();
+  if(!it.c1OriginalMaterials.has(m.uuid))it.c1OriginalMaterials.set(m.uuid,m.material);
+  const original=it.c1OriginalMaterials.get(m.uuid);
+  if(enabled){
+   const make=src=>new THREE.MeshStandardMaterial({color:0xd9cfb8,roughness:1,metalness:0,flatShading:true,side:THREE.DoubleSide,transparent:true,opacity:src&&src.opacity!==undefined?src.opacity:1});
+   m.material=Array.isArray(original)?original.map(make):make(original);
+  }else{
+   m.material=original;
+  }
+ });
+}
 function setModel(it,root){
  // Conserva el anclaje anatómico del esquema: el modelo real debe ocupar
  // la posición de articulación de su estructura, no el origen global.
@@ -83,7 +99,7 @@ function setModel(it,root){
  if(it.ph&&it.ph.parent){it.g.remove(it.ph);it.ph.geometry.dispose()}it.has=true;it.esq=false;
  if(it.model)it.g.remove(it.model);
  it.model=root;it.g.add(root);
- root.traverse(m=>{if(m.isMesh){m.material=m.material.clone();m.material.transparent=true}});
+ root.traverse(m=>{if(m.isMesh){m.material=Array.isArray(m.material)?m.material.map(x=>x.clone()):m.material.clone();if(Array.isArray(m.material))m.material.forEach(x=>x.transparent=true);else m.material.transparent=true}});
  // Ajuste de escala y centrado exclusivo para el atlas C1 de prueba.
  if(it.s.id==="equ.ske.cer.001"){
   root.updateMatrixWorld(true);
@@ -101,6 +117,7 @@ function setModel(it,root){
  }else{
   new THREE.Box3().setFromObject(root).getCenter(it.c);
  }
+ if(it.s.id==="equ.ske.cer.001")applyC1Schematic(it,$("c1Morph").checked);
  it.dir=it.c.clone().setY(it.c.y-.3).normalize();it.state="cargado";refresh();list();ficha();
 }
 async function loadAll(){ // carga progresiva: 2 modelos en paralelo, sin bloquear el visor
@@ -209,6 +226,7 @@ $("iso").onclick=()=>{if(!S.sel)return;Object.values(S.items).forEach(i=>i.vis=i
 $("all").onclick=()=>{Object.values(S.items).forEach(i=>i.vis=true);LAYERS.forEach(([k])=>S.L[k].on=true);document.querySelectorAll("[data-l]").forEach(c=>c.checked=true);list();refresh()};
 $("ld").onclick=()=>{if(!S.sel)return alert("Primero selecciona una estructura.");$("fl").click()};
 $("testC1").onclick=()=>{const it=S.items["equ.ske.cer.001"];if(!it)return alert("No se encontró equ.ske.cer.001 (Atlas equino C1) en los datos cargados.");pick(it.s.id);$("fl").click()};
+$("c1Morph").onchange=()=>{const it=S.items["equ.ske.cer.001"];if(!it||!it.model)return alert("Primero carga el GLB local del Atlas C1.");applyC1Schematic(it,$("c1Morph").checked)};
 $("fl").onchange=e=>{const f=e.target.files[0],it=S.items[S.sel];if(!f||!it)return;const u=URL.createObjectURL(f);
  $("warn").textContent="Cargando modelo GLB local…";
  loader.load(u,g=>{setModel(it,g.scene);URL.revokeObjectURL(u);$("warn").textContent="Atlas C1 cargado localmente para esta sesión.";},null,err=>{console.error(err);URL.revokeObjectURL(u);$("warn").textContent="No se pudo leer el archivo GLB.";alert("No se pudo leer el archivo GLB. Revisa que el archivo esté completo y vuelve a intentarlo.")});e.target.value=""};
