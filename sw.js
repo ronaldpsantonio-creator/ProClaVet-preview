@@ -1,6 +1,6 @@
-// ProClaVet - Service Worker de integración (v44)
+// ProClaVet - Service Worker de integración (v45)
 // Los recursos del atlas y axis se copian sin modificaciones desde ProClaVet/main.
-const C="vetanatomy-v44-integracion";
+const C="vetanatomy-v45-atlas-c1-test";
 const CORE=[
   "./",
   "index.html",
