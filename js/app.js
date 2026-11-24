@@ -81,6 +81,16 @@ function setModel(it,root){
  if(it.model)it.g.remove(it.model);
  it.model=root;it.g.add(root);
  root.traverse(m=>{if(m.isMesh){m.material=m.material.clone();m.material.transparent=true}});
+ // Ajuste de escala y centrado exclusivo para el atlas C1 de prueba.
+ if(it.s.id==="equ.ske.cer.001"){
+  root.updateMatrixWorld(true);
+  const initialBox=new THREE.Box3().setFromObject(root),initialSize=initialBox.getSize(new THREE.Vector3());
+  const maxDim=Math.max(initialSize.x,initialSize.y,initialSize.z);
+  if(maxDim>0)root.scale.setScalar(3.6/maxDim);
+  root.updateMatrixWorld(true);
+  const fittedCenter=new THREE.Box3().setFromObject(root).getCenter(new THREE.Vector3());
+  root.position.sub(fittedCenter);
+ }
  it.g.position.set(0,0,0);it.g.updateMatrixWorld(true);
  new THREE.Box3().setFromObject(root).getCenter(it.c);
  it.dir=it.c.clone().setY(it.c.y-.3).normalize();it.state="cargado";refresh();list();ficha();
