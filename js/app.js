@@ -200,8 +200,10 @@ $("rs").onclick=()=>view(VIEWS.l);
 $("iso").onclick=()=>{if(!S.sel)return;Object.values(S.items).forEach(i=>i.vis=i.s.id===S.sel);list();refresh()};
 $("all").onclick=()=>{Object.values(S.items).forEach(i=>i.vis=true);LAYERS.forEach(([k])=>S.L[k].on=true);document.querySelectorAll("[data-l]").forEach(c=>c.checked=true);list();refresh()};
 $("ld").onclick=()=>{if(!S.sel)return alert("Primero selecciona una estructura.");$("fl").click()};
+$("testC1").onclick=()=>{const it=S.items["equ.ske.cer.001"];if(!it)return alert("No se encontró equ.ske.cer.001 (Atlas equino C1) en los datos cargados.");pick(it.s.id);$("fl").click()};
 $("fl").onchange=e=>{const f=e.target.files[0],it=S.items[S.sel];if(!f||!it)return;const u=URL.createObjectURL(f);
- loader.load(u,g=>{setModel(it,g.scene);URL.revokeObjectURL(u)},null,()=>alert("No se pudo leer el archivo GLB."));e.target.value=""};
+ $("warn").textContent="Cargando modelo GLB local…";
+ loader.load(u,g=>{setModel(it,g.scene);URL.revokeObjectURL(u);$("warn").textContent="Atlas C1 cargado localmente para esta sesión.";},null,err=>{console.error(err);URL.revokeObjectURL(u);$("warn").textContent="No se pudo leer el archivo GLB.";alert("No se pudo leer el archivo GLB. Revisa que el archivo esté completo y vuelve a intentarlo.")});e.target.value=""};
 
 // ---- Fase 8: cuestionarios y progreso (pestaña "Quiz")
 // Dos modos: "Nombre (NAV)" (latín <-> español, sirve para las 3842 estructuras) e
