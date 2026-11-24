@@ -77,6 +77,9 @@ function build(d){
 }
 function mats(it){const a=[];it.g.traverse(m=>{if(m.isMesh)a.push(m.material)});return a}
 function setModel(it,root){
+ // Conserva el anclaje anatómico del esquema: el modelo real debe ocupar
+ // la posición de articulación de su estructura, no el origen global.
+ const anatomicalAnchor=it.c.clone();
  if(it.ph&&it.ph.parent){it.g.remove(it.ph);it.ph.geometry.dispose()}it.has=true;it.esq=false;
  if(it.model)it.g.remove(it.model);
  it.model=root;it.g.add(root);
@@ -92,7 +95,12 @@ function setModel(it,root){
   root.position.sub(fittedCenter);
  }
  it.g.position.set(0,0,0);it.g.updateMatrixWorld(true);
- new THREE.Box3().setFromObject(root).getCenter(it.c);
+ if(it.s.id==="equ.ske.cer.001"){
+  it.basePosition=anatomicalAnchor;
+  it.c.copy(anatomicalAnchor);
+ }else{
+  new THREE.Box3().setFromObject(root).getCenter(it.c);
+ }
  it.dir=it.c.clone().setY(it.c.y-.3).normalize();it.state="cargado";refresh();list();ficha();
 }
 async function loadAll(){ // carga progresiva: 2 modelos en paralelo, sin bloquear el visor
@@ -111,7 +119,7 @@ function refresh(){
  Object.values(S.items).forEach(it=>{
   const L=S.L[it.s.layer],o=L.op/100;
   it.g.visible=L.on&&it.vis&&S.sys[skey(it.s)]!==false&&sexOk(it.s);
-  it.g.position.copy(it.dir).multiplyScalar(ex*1.2);it.g.position.z+=(li(it.s.layer)-4.5)*ex*.25;
+  it.g.position.copy(it.basePosition||V3(0,0,0)).add(it.dir.clone().multiplyScalar(ex*1.2));it.g.position.z+=(li(it.s.layer)-4.5)*ex*.25;
   mats(it).forEach(m=>{m.opacity=o;if(m.emissive){m.emissive.setHex(S.sel===it.s.id?0x2dd4bf:0);m.emissiveIntensity=.55}});
  });
 }
