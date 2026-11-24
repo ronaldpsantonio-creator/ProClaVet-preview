@@ -92,33 +92,53 @@ function applyC1Schematic(it,enabled){
   }
  });
 }
+// ---- Ajuste del atlas C1 de prueba: orientación (grados) y tamaño (dimensión mayor, en unidades de la escena).
+// Ejes de la escena: X = craneal(+)/caudal(-), Y = dorsal(+)/ventral(-), Z = lateral (izquierda/derecha).
+// Los valores se guardan en el teléfono (va_c1) para no recalibrar en cada sesión.
+const C1={rx:0,ry:0,rz:0,size:0.3};
+try{Object.assign(C1,JSON.parse(localStorage.getItem("va_c1")||"{}"))}catch(e){}
+function c1Apply(it){
+ if(!it||!it.model||!it.c1Base)return;
+ const d=Math.PI/180;
+ it.model.rotation.set(C1.rx*d,C1.ry*d,C1.rz*d);
+ it.model.scale.setScalar(C1.size/it.c1Base);
+ it.model.updateMatrixWorld(true);
+ try{localStorage.setItem("va_c1",JSON.stringify(C1))}catch(e){}
+ $("warn").textContent=`Atlas C1 · giro X ${C1.rx}° Y ${C1.ry}° Z ${C1.rz}° · tamaño ${C1.size.toFixed(3)}`;
+}
+function c1Focus(it){
+ if(!it)return;
+ const c=it.c.clone().add(it.g.position);
+ ctl.target.copy(c);cam.position.copy(c).add(V3(0,C1.size*.8,C1.size*3.2));
+}
 function setModel(it,root){
  // Conserva el anclaje anatómico del esquema: el modelo real debe ocupar
  // la posición de articulación de su estructura, no el origen global.
  const anatomicalAnchor=it.c.clone();
  if(it.ph&&it.ph.parent){it.g.remove(it.ph);it.ph.geometry.dispose()}it.has=true;it.esq=false;
  if(it.model)it.g.remove(it.model);
- it.model=root;it.g.add(root);
  root.traverse(m=>{if(m.isMesh){m.material=Array.isArray(m.material)?m.material.map(x=>x.clone()):m.material.clone();if(Array.isArray(m.material))m.material.forEach(x=>x.transparent=true);else m.material.transparent=true}});
- // Ajuste de escala y centrado exclusivo para el atlas C1 de prueba.
- if(it.s.id==="equ.ske.cer.001"){
-  root.updateMatrixWorld(true);
-  const initialBox=new THREE.Box3().setFromObject(root),initialSize=initialBox.getSize(new THREE.Vector3());
-  const maxDim=Math.max(initialSize.x,initialSize.y,initialSize.z);
-  if(maxDim>0)root.scale.setScalar(3.6/maxDim);
-  root.updateMatrixWorld(true);
-  const fittedCenter=new THREE.Box3().setFromObject(root).getCenter(new THREE.Vector3());
-  root.position.sub(fittedCenter);
+ const isC1=it.s.id==="equ.ske.cer.001";
+ if(isC1){
+  // Pivote: el modelo se centra en su propio centro y el pivote gira/escala alrededor de ese punto.
+  const pivot=new THREE.Group();pivot.add(root);pivot.updateMatrixWorld(true);
+  const bb=new THREE.Box3().setFromObject(root),sz=bb.getSize(V3(0,0,0)),ct=bb.getCenter(V3(0,0,0));
+  root.position.sub(ct);
+  it.c1Base=Math.max(sz.x,sz.y,sz.z)||1;
+  it.model=pivot;it.g.add(pivot);
+ }else{
+  it.model=root;it.g.add(root);
  }
  it.g.position.set(0,0,0);it.g.updateMatrixWorld(true);
- if(it.s.id==="equ.ske.cer.001"){
+ if(isC1){
   it.basePosition=anatomicalAnchor;
   it.c.copy(anatomicalAnchor);
  }else{
   new THREE.Box3().setFromObject(root).getCenter(it.c);
  }
- if(it.s.id==="equ.ske.cer.001")applyC1Schematic(it,$("c1Morph").checked);
+ if(isC1){applyC1Schematic(it,$("c1Morph").checked);c1Apply(it);c1Focus(it)}
  it.dir=it.c.clone().setY(it.c.y-.3).normalize();it.state="cargado";refresh();list();ficha();
+ if(isC1)c1Focus(it);
 }
 async function loadAll(){ // carga progresiva: 2 modelos en paralelo, sin bloquear el visor
  const q=Object.values(S.items).filter(i=>i.s.model),total=q.length;let done=0;
@@ -227,9 +247,20 @@ $("all").onclick=()=>{Object.values(S.items).forEach(i=>i.vis=true);LAYERS.forEa
 $("ld").onclick=()=>{if(!S.sel)return alert("Primero selecciona una estructura.");$("fl").click()};
 $("testC1").onclick=()=>{const it=S.items["equ.ske.cer.001"];if(!it)return alert("No se encontró equ.ske.cer.001 (Atlas equino C1) en los datos cargados.");pick(it.s.id);$("fl").click()};
 $("c1Morph").onchange=()=>{const it=S.items["equ.ske.cer.001"];if(!it||!it.model)return alert("Primero carga el GLB local del Atlas C1.");applyC1Schematic(it,$("c1Morph").checked)};
+// Controles de orientación y tamaño del atlas C1 (se crean aquí para no tocar el HTML)
+(()=>{const cb=$("c1Morph");if(!cb)return;const host=cb.closest("label")||cb,box=document.createElement("div");
+ box.style.cssText="display:flex;flex-wrap:wrap;gap:6px;margin:6px 0";
+ const get=()=>S.items["equ.ske.cer.001"],need=()=>{const it=get();if(!it||!it.model){alert("Primero carga el GLB local del Atlas C1.");return null}return it};
+ const mk=(t,fn)=>{const b=document.createElement("button");b.type="button";b.textContent=t;if($("rs"))b.className=$("rs").className;b.onclick=()=>{const it=need();if(!it)return;fn(it);c1Apply(it);refresh()};box.appendChild(b)};
+ const rot=k=>it=>{C1[k]=(C1[k]+90)%360};
+ mk("Giro X 90°",rot("rx"));mk("Giro Y 90°",rot("ry"));mk("Giro Z 90°",rot("rz"));
+ mk("Tamaño +",()=>{C1.size*=1.15});mk("Tamaño −",()=>{C1.size/=1.15});
+ mk("Reiniciar C1",()=>{C1.rx=C1.ry=C1.rz=0;C1.size=0.3});
+ const f=document.createElement("button");f.type="button";f.textContent="Enfocar C1";if($("rs"))f.className=$("rs").className;f.onclick=()=>{const it=need();if(it)c1Focus(it)};box.appendChild(f);
+ host.insertAdjacentElement("afterend",box)})();
 $("fl").onchange=e=>{const f=e.target.files[0],it=S.items[S.sel];if(!f||!it)return;const u=URL.createObjectURL(f);
  $("warn").textContent="Cargando modelo GLB local…";
- loader.load(u,g=>{setModel(it,g.scene);URL.revokeObjectURL(u);$("warn").textContent="Atlas C1 cargado localmente para esta sesión.";},null,err=>{console.error(err);URL.revokeObjectURL(u);$("warn").textContent="No se pudo leer el archivo GLB.";alert("No se pudo leer el archivo GLB. Revisa que el archivo esté completo y vuelve a intentarlo.")});e.target.value=""};
+ loader.load(u,g=>{setModel(it,g.scene);URL.revokeObjectURL(u);if(it.s.id!=="equ.ske.cer.001")$("warn").textContent="Modelo cargado localmente para esta sesión.";},null,err=>{console.error(err);URL.revokeObjectURL(u);$("warn").textContent="No se pudo leer el archivo GLB.";alert("No se pudo leer el archivo GLB. Revisa que el archivo esté completo y vuelve a intentarlo.")});e.target.value=""};
 
 // ---- Fase 8: cuestionarios y progreso (pestaña "Quiz")
 // Dos modos: "Nombre (NAV)" (latín <-> español, sirve para las 3842 estructuras) e
