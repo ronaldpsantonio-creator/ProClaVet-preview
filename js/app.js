@@ -115,8 +115,8 @@ function applyC1Schematic(it,enabled){
 // El GLB integrado ya viene orientado (X craneal, Y dorsal, Z lateral) y normalizado a dimensión mayor = 1.
 // rz = 27°: inclinación de la columna cervical del esquema (cae ~0,5 por cada 0,98 hacia caudal).
 // size = 0.2: ancho de las alas (~15 cm) en la escala del esquema (C1 a C7 ≈ 0,98 ≈ 75 cm).
-const C1_DEF={rx:0,ry:0,rz:27,size:0.08},C1=Object.assign({},C1_DEF);
-try{Object.assign(C1,JSON.parse(localStorage.getItem("va_c1_v4")||"{}"))}catch(e){}
+const C1_DEF={rx:0,ry:0,rz:27,size:0.14},C1=Object.assign({},C1_DEF);
+try{Object.assign(C1,JSON.parse(localStorage.getItem("va_c1_v5")||"{}"))}catch(e){}
 function c1Apply(it,show=true){
  if(!it||!it.model||!it.c1Base)return;
  const d=Math.PI/180;
