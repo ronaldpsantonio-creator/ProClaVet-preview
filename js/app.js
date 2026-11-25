@@ -116,14 +116,14 @@ function applyC1Schematic(it,enabled){
 // rz = 27°: inclinación de la columna cervical del esquema (cae ~0,5 por cada 0,98 hacia caudal).
 // size = 0.2: ancho de las alas (~15 cm) en la escala del esquema (C1 a C7 ≈ 0,98 ≈ 75 cm).
 const C1_DEF={rx:0,ry:0,rz:27,size:0.08},C1=Object.assign({},C1_DEF);
-try{Object.assign(C1,JSON.parse(localStorage.getItem("va_c1_v3")||"{}"))}catch(e){}
+try{Object.assign(C1,JSON.parse(localStorage.getItem("va_c1_v4")||"{}"))}catch(e){}
 function c1Apply(it,show=true){
  if(!it||!it.model||!it.c1Base)return;
  const d=Math.PI/180;
  it.model.rotation.set(C1.rx*d,C1.ry*d,C1.rz*d);
  it.model.scale.setScalar(C1.size/it.c1Base);
  it.model.updateMatrixWorld(true);
- try{localStorage.setItem("va_c1_v3",JSON.stringify(C1))}catch(e){}
+ try{localStorage.setItem("va_c1_v4",JSON.stringify(C1))}catch(e){}
  if(show)$("warn").textContent=`Atlas C1 · giro X ${C1.rx}° Y ${C1.ry}° Z ${C1.rz}° · tamaño ${C1.size.toFixed(3)}`;
 }
 function c1Focus(it){
