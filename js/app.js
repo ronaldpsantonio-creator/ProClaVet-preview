@@ -61,6 +61,20 @@ function centerOf(P){return P.k==="seg"?V3(...P.a).add(V3(...P.b)).multiplyScala
 // ---- Carga de datos y estructuras
 const loader=new THREE.GLTFLoader();
 fetch("data/equino.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("equino.json HTTP "+r.status);return r.json()}).then(build).catch(e=>{$("warn").textContent="Error al cargar datos anatómicos: "+e.message});
+// Paquete de huesos reales (Horse Skeleton, SA Anatomy, CC BY 4.0): un solo GLB con una pieza por hueso,
+// ya colocada en las coordenadas del esquema. Cada nodo se llama como el ID (con "_" en lugar de ".").
+const PACK={url:"models/equino/osteology/pack_horse_skeleton_v1.glb",licencia:"CC BY 4.0 · Autor: SA Anatomy (Sketchfab, «Horse Skeleton», https://sketchfab.com/3d-models/horse-skeleton-e31cac68387d4d8e9d4eccdbc319ceab). Adaptado por ProClaVet: malla separada por huesos y reubicada (escala uniforme y giro rígido); geometría sin simplificar."};
+function loadPack(){
+ loader.load(PACK.url,g=>{
+  let n=0;
+  [...g.scene.children].forEach(m=>{
+   const it=S.items[m.name.replace(/_/g,".")];
+   if(!it)return;
+   it.s.licencia=PACK.licencia;setModel(it,m);n++;
+  });
+  console.info("[ProClaVet] Paquete de huesos cargado:",n,"piezas");
+ },null,e=>console.warn("[ProClaVet] No se pudo cargar el paquete de huesos",e));
+}
 // Modelos 3D integrados (ruta y licencia). Atribución exigida por CC BY 4.0.
 const MODELOS={"equ.ske.cer.001":{model:"models/equino/osteology/equ.ske.cer.001.glb",licencia:"CC BY 4.0 · Autor: ifmaker_urutai (Sketchfab, «Equine Atlas C1 — Veterinary Anatomy 3D Model»). Adaptado por ProClaVet: malla simplificada, sin textura y reorientada."}};
 function build(d){
@@ -76,7 +90,7 @@ function build(d){
  const tarsales=Object.values(S.items).filter(i=>/^equ\.ske\.mpe\.(?:008|009|010)-[id]$/.test(i.s.id)&&i.s.ficha).length;
  console.info("[ProClaVet] Carga correcta:",{estructuras:Object.keys(S.items).length,fichas:nFichas,fichasTarsales:tarsales});
  $("warn").textContent=`Diagnóstico de carga: ${Object.keys(S.items).length} estructuras · ${nFichas} fichas integradas · ${tarsales}/6 fichas tarsales. Esqueleto esquemático provisional: las formas no son anatomía real; cada hueso espera su modelo GLB verificado.`;
- loadAll();
+ loadAll();loadPack();
 }
 function mats(it){const a=[];it.g.traverse(m=>{if(m.isMesh)a.push(m.material)});return a}
 // Prototipo morfológico C1: conserva la geometría y transforma solo su representación visual.
